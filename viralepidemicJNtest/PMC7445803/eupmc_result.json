@@ -1,0 +1,521 @@
+{
+  "id": [
+    "32843049"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32843049"
+  ],
+  "pmcid": [
+    "PMC7445803"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7445803"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1186/s12985-020-01405-y"
+  ],
+  "title": [
+    "A novel two-step, direct-to-PCR method for virus detection off swabs using human coronavirus 229E."
+  ],
+  "authorString": [
+    "Morehouse ZP, Proctor CM, Ryan GL, Nash RJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Morehouse ZP"
+          ],
+          "firstName": [
+            "Zachary P"
+          ],
+          "lastName": [
+            "Morehouse"
+          ],
+          "initials": [
+            "ZP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5719-0947",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Michigan State University College of Osteopathic Medicine, East Lansing, MI, USA. moreho17@msu.edu.",
+                "Omni International Inc, Kennesaw, GA, USA. moreho17@msu.edu."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Proctor CM"
+          ],
+          "firstName": [
+            "Caleb M"
+          ],
+          "lastName": [
+            "Proctor"
+          ],
+          "initials": [
+            "CM"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Omni International Inc, Kennesaw, GA, USA.",
+                "Department of Biology, Georgia State University, 100 Peidmont Ave SE, 4th Floor, Atlanta, GA, 30303, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ryan GL"
+          ],
+          "firstName": [
+            "Gabriella L"
+          ],
+          "lastName": [
+            "Ryan"
+          ],
+          "initials": [
+            "GL"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Omni International Inc, Kennesaw, GA, USA.",
+                "Department of Biology, Georgia State University, 100 Peidmont Ave SE, 4th Floor, Atlanta, GA, 30303, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Nash RJ"
+          ],
+          "firstName": [
+            "Rodney J"
+          ],
+          "lastName": [
+            "Nash"
+          ],
+          "initials": [
+            "RJ"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Omni International Inc, Kennesaw, GA, USA. rnash2@gsu.edu.",
+                "Department of Biology, Georgia State University, 100 Peidmont Ave SE, 4th Floor, Atlanta, GA, 30303, USA. rnash2@gsu.edu.",
+                "Jeevan Biosciences, Tucker, GA, USA. rnash2@gsu.edu."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5719-0947",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "17"
+      ],
+      "journalIssueId": [
+        "2989543"
+      ],
+      "dateOfPublication": [
+        "2020 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Virology journal"
+          ],
+          "ISOAbbreviation": [
+            "Virol. J."
+          ],
+          "medlineAbbreviation": [
+            "Virol J"
+          ],
+          "NLMid": [
+            "101231645"
+          ],
+          "ISSN": [
+            "1743-422X"
+          ],
+          "ESSN": [
+            "1743-422X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "129"
+  ],
+  "abstractText": [
+    "BACKGROUND:Currently, one of the most reliable methods for viral infection detection are polymerase chain reaction (PCR) based assays. This process is time and resource heavy, requiring multiple steps of lysis, extraction, purification, and amplification procedures. Herein, we have developed a method to detect virus off swabs using solely shaker-mill based mechanical lysis and the transfer of the viral lysate directly to a PCR assay for virus detection, bypassing the substantial reagent and time investments required for extraction and purification steps. METHODS:Using Human Coronavirus 229E (HCoV-229E) as a model system, we spiked swabs in vitro for proof-of-concept testing. Swabs were spiked in serial dilutions from 1.2 × 106 to 1.2 × 101 copies/mL and then placed in 2 mL tubes with viral transport media (VTM) to mimic the specimen collection procedures in the clinic prior to processing via shaker-mill homogenization. After homogenization, 1 μL of lysate was processed using RT-qPCR for amplification of the nucleocapsid (N) gene, qualifying viral detection. RESULTS:HCoV-229E in vitro spiked swabs were processed in a novel two-step, direct-to-PCR methodology for viral detection. After running 54 swabs, we confidently determined our limit of detection to be 1.2 × 103 viral copies/mL with 96.30% sensitivity. CONCLUSION:We have proven that the shaker-mill homogenization-based two-step, direct-to-PCR procedures provides sufficient viral lysis off swabs, where the resulting lysate can be used directly in PCR for the detection of HCoV-229E. This finding allows for reductions in the time and resources required for PCR based virus detection in comparison to the traditional extraction-to-PCR methodology."
+  ],
+  "affiliation": [
+    "Michigan State University College of Osteopathic Medicine, East Lansing, MI, USA. moreho17@msu.edu."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Line"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Coronavirus 229E, Human"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Coronavirus Infections"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Polymerase Chain Reaction"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "PCR",
+        "Coronavirus",
+        "Virus detection",
+        "Viral Diagnostics"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12985-020-01405-y"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7445803"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7445803?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR185183"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2020-09-15"
+  ],
+  "dateOfCreation": [
+    "2020-08-27"
+  ],
+  "firstIndexDate": [
+    "2020-08-27"
+  ],
+  "fullTextReceivedDate": [
+    "2020-08-29"
+  ],
+  "dateOfRevision": [
+    "2020-09-15"
+  ],
+  "electronicPublicationDate": [
+    "2020-08-25"
+  ],
+  "firstPublicationDate": [
+    "2020-08-25"
+  ]
+}

@@ -1,0 +1,799 @@
+{
+  "id": [
+    "32419639"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32419639"
+  ],
+  "pmcid": [
+    "PMC7450259"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7450259"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1080/22221751.2020.1771219"
+  ],
+  "title": [
+    "Viral loads in throat and anal swabs in children infected with SARS-CoV-2."
+  ],
+  "authorString": [
+    "Yuan C, Zhu H, Yang Y, Cai X, Xiang F, Wu H, Yao C, Xiang Y, Xiao H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yuan C"
+          ],
+          "firstName": [
+            "Chunhui"
+          ],
+          "lastName": [
+            "Yuan"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4382-2541",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Laboratory Medicine, Wuhan Children's Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu H"
+          ],
+          "firstName": [
+            "Hongmin"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Neurology, Wuhan Children's Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang Y"
+          ],
+          "firstName": [
+            "Yuan"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0158-244X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute of Maternal and Child Health, Wuhan Children's Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cai X"
+          ],
+          "firstName": [
+            "Xiaonan"
+          ],
+          "lastName": [
+            "Cai"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute of Maternal and Child Health, Wuhan Children's Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xiang F"
+          ],
+          "firstName": [
+            "Feiyan"
+          ],
+          "lastName": [
+            "Xiang"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute of Maternal and Child Health, Wuhan Children's Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wu H"
+          ],
+          "firstName": [
+            "Huan"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1858-7669",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Laboratory Medicine, Wuhan Children's Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yao C"
+          ],
+          "firstName": [
+            "Cong"
+          ],
+          "lastName": [
+            "Yao"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Health Care Department, Wuhan Children's Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xiang Y"
+          ],
+          "firstName": [
+            "Yun"
+          ],
+          "lastName": [
+            "Xiang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Laboratory Medicine, Wuhan Children's Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xiao H"
+          ],
+          "firstName": [
+            "Han"
+          ],
+          "lastName": [
+            "Xiao"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute of Maternal and Child Health, Wuhan Children's Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, People's Republic of China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4382-2541",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0158-244X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1858-7669",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2893331"
+      ],
+      "dateOfPublication": [
+        "2020 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Emerging microbes & infections"
+          ],
+          "ISOAbbreviation": [
+            "Emerg Microbes Infect"
+          ],
+          "medlineAbbreviation": [
+            "Emerg Microbes Infect"
+          ],
+          "NLMid": [
+            "101594885"
+          ],
+          "ISSN": [
+            "2222-1751"
+          ],
+          "ESSN": [
+            "2222-1751"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "1233-1237"
+  ],
+  "abstractText": [
+    "Real-time reverse transcriptase-polymerase chain reaction (RT-PCR) assay on anal swabs was recently reported to be persistently positive even after throat testing was negative during severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection. However, data about the consistent performance of RT-PCR assay on throat and anal swabs remain limited in paediatric patients. Here, we retrospectively reviewed RT-PCR-testing results of 212 paediatric patients with suspected SARS-CoV-2 infection at Wuhan Children's Hospital. The diagnostic potential of these two types of specimens showed significant difference (positive rate: 78.2% on throat swabs vs. 52.6% on anal swabs, McNemar Test P = 0.0091) and exhibited a weak positive consistency (Kappa value was 0.311, P < 0.0001) in paediatric patients. Furthermore, viral loads detected on both throat and anal swabs also showed no significant difference (P = 0.9511) and correlation (Pearson r = 0.0434, P = 0.8406), and exhibited an inconsistent kinetic change through the course of SARS-CoV-2 infection. Besides, viral loads in the throat and anal swabs were correlated with different types of immune states, immune-reactive phase, and the resolution phase/immunologic tolerance, respectively. These findings revealed that RT-PCR-testing on throat and anal swabs showed significant difference for monitoring SARS-CoV-2 infection and correlated with different immune state in paediatric patients."
+  ],
+  "affiliation": [
+    "Department of Laboratory Medicine, Wuhan Children's Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, People's Republic of China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pharynx"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pneumonia, Viral"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Coronavirus Infections"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Viral Load"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Retrospective Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "China"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anal Canal"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pandemics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Real-Time Polymerase Chain Reaction"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ST"
+                  ],
+                  "qualifierName": [
+                    "standards"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Betacoronavirus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "RT-PCR",
+        "Viral load",
+        "Paediatric Patients",
+        "Sars-cov-2",
+        "Diagnostic Potential"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/22221751.2020.1771219"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7450259"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7450259?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-06-12"
+  ],
+  "dateOfCreation": [
+    "2020-05-19"
+  ],
+  "firstIndexDate": [
+    "2020-05-18"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-02"
+  ],
+  "dateOfRevision": [
+    "2020-09-01"
+  ],
+  "firstPublicationDate": [
+    "2020-12-01"
+  ]
+}

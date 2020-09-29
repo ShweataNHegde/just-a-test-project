@@ -1,0 +1,1132 @@
+{
+  "id": [
+    "32529952"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32529952"
+  ],
+  "pmcid": [
+    "PMC7473193"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7473193"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1080/22221751.2020.1780953"
+  ],
+  "title": [
+    "SARS-CoV-2 nsp13, nsp14, nsp15 and orf6 function as potent interferon antagonists."
+  ],
+  "authorString": [
+    "Yuen CK, Lam JY, Wong WM, Mak LF, Wang X, Chu H, Cai JP, Jin DY, To KK, Chan JF, Yuen KY, Kok KH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yuen CK"
+          ],
+          "firstName": [
+            "Chun-Kit"
+          ],
+          "lastName": [
+            "Yuen"
+          ],
+          "initials": [
+            "CK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2646-2054",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Emerging Infectious Diseases, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China.",
+                "Department of Microbiology, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lam JY"
+          ],
+          "firstName": [
+            "Joy-Yan"
+          ],
+          "lastName": [
+            "Lam"
+          ],
+          "initials": [
+            "JY"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Emerging Infectious Diseases, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China.",
+                "Department of Microbiology, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wong WM"
+          ],
+          "firstName": [
+            "Wan-Man"
+          ],
+          "lastName": [
+            "Wong"
+          ],
+          "initials": [
+            "WM"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Emerging Infectious Diseases, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China.",
+                "Department of Microbiology, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mak LF"
+          ],
+          "firstName": [
+            "Long-Fung"
+          ],
+          "lastName": [
+            "Mak"
+          ],
+          "initials": [
+            "LF"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Emerging Infectious Diseases, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China.",
+                "Department of Microbiology, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang X"
+          ],
+          "firstName": [
+            "Xiaohui"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Emerging Infectious Diseases, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China.",
+                "Department of Microbiology, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chu H"
+          ],
+          "firstName": [
+            "Hin"
+          ],
+          "lastName": [
+            "Chu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Emerging Infectious Diseases, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China.",
+                "Department of Microbiology, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China.",
+                "Carol Yu Centre for Infection, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cai JP"
+          ],
+          "firstName": [
+            "Jian-Piao"
+          ],
+          "lastName": [
+            "Cai"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Emerging Infectious Diseases, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China.",
+                "Department of Microbiology, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China.",
+                "Carol Yu Centre for Infection, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jin DY"
+          ],
+          "firstName": [
+            "Dong-Yan"
+          ],
+          "lastName": [
+            "Jin"
+          ],
+          "initials": [
+            "DY"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2778-3530",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Biomedical Sciences, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "To KK"
+          ],
+          "firstName": [
+            "Kelvin Kai-Wang"
+          ],
+          "lastName": [
+            "To"
+          ],
+          "initials": [
+            "KK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1921-5824",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Emerging Infectious Diseases, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China.",
+                "Department of Microbiology, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China.",
+                "Carol Yu Centre for Infection, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China.",
+                "Department of Clinical Microbiology and Infection Control, The University of Hong Kong-Shenzhen Hospital, Shenzhen, People's Republic of China.",
+                "Department of Microbiology, Queen Mary Hospital, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chan JF"
+          ],
+          "firstName": [
+            "Jasper Fuk-Woo"
+          ],
+          "lastName": [
+            "Chan"
+          ],
+          "initials": [
+            "JF"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Emerging Infectious Diseases, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China.",
+                "Department of Microbiology, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China.",
+                "Carol Yu Centre for Infection, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China.",
+                "Department of Clinical Microbiology and Infection Control, The University of Hong Kong-Shenzhen Hospital, Shenzhen, People's Republic of China.",
+                "Department of Microbiology, Queen Mary Hospital, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yuen KY"
+          ],
+          "firstName": [
+            "Kwok-Yung"
+          ],
+          "lastName": [
+            "Yuen"
+          ],
+          "initials": [
+            "KY"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Emerging Infectious Diseases, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China.",
+                "Department of Microbiology, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China.",
+                "Carol Yu Centre for Infection, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China.",
+                "Department of Clinical Microbiology and Infection Control, The University of Hong Kong-Shenzhen Hospital, Shenzhen, People's Republic of China.",
+                "Department of Microbiology, Queen Mary Hospital, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kok KH"
+          ],
+          "firstName": [
+            "Kin-Hang"
+          ],
+          "lastName": [
+            "Kok"
+          ],
+          "initials": [
+            "KH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3426-332X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Emerging Infectious Diseases, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China.",
+                "Department of Microbiology, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China.",
+                "Carol Yu Centre for Infection, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2646-2054",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2778-3530",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1921-5824",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3426-332X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2893331"
+      ],
+      "dateOfPublication": [
+        "2020 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Emerging microbes & infections"
+          ],
+          "ISOAbbreviation": [
+            "Emerg Microbes Infect"
+          ],
+          "medlineAbbreviation": [
+            "Emerg Microbes Infect"
+          ],
+          "NLMid": [
+            "101594885"
+          ],
+          "ISSN": [
+            "2222-1751"
+          ],
+          "ESSN": [
+            "2222-1751"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "1418-1428"
+  ],
+  "abstractText": [
+    "The Coronavirus disease 2019 (COVID-19), which is caused by the novel SARS-CoV-2 virus, is now causing a tremendous global health concern. Since its first appearance in December 2019, the outbreak has already caused over 5.8 million infections worldwide (till 29 May 2020), with more than 0.35 million deaths. Early virus-mediated immune suppression is believed to be one of the unique characteristics of SARS-CoV-2 infection and contributes at least partially to the viral pathogenesis. In this study, we identified the key viral interferon antagonists of SARS-CoV-2 and compared them with two well-characterized SARS-CoV interferon antagonists, PLpro and orf6. Here we demonstrated that the SARS-CoV-2 nsp13, nsp14, nsp15 and orf6, but not the unique orf8, could potently suppress primary interferon production and interferon signalling. Although SARS-CoV PLpro has been well-characterized for its potent interferon-antagonizing, deubiquitinase and protease activities, SARS-CoV-2 PLpro, despite sharing high amino acid sequence similarity with SARS-CoV, loses both interferon-antagonising and deubiquitinase activities. Among the 27 viral proteins, SARS-CoV-2 orf6 demonstrated the strongest suppression on both primary interferon production and interferon signalling. Orf6-deleted SARS-CoV-2 may be considered for the development of intranasal live-but-attenuated vaccine against COVID-19."
+  ],
+  "affiliation": [
+    "State Key Laboratory of Emerging Infectious Diseases, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Line"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pneumonia, Viral"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Coronavirus Infections"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Endoribonucleases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Exoribonucleases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Methyltransferases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "RNA Helicases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Interferons"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AI"
+                  ],
+                  "qualifierName": [
+                    "antagonists & inhibitors"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Viral Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Viral Nonstructural Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Host-Pathogen Interactions"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pandemics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Betacoronavirus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Interferon Antagonist",
+        "Plpro",
+        "Orf6",
+        "Covid-19",
+        "Sars-cov-2"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Viral Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Interferons"
+          ],
+          "registryNumber": [
+            "9008-11-1"
+          ]
+        },
+        {
+          "name": [
+            "Endoribonucleases"
+          ],
+          "registryNumber": [
+            "EC 3.1.-"
+          ]
+        },
+        {
+          "name": [
+            "Exoribonucleases"
+          ],
+          "registryNumber": [
+            "EC 3.1.-"
+          ]
+        },
+        {
+          "name": [
+            "Viral Nonstructural Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Methyltransferases"
+          ],
+          "registryNumber": [
+            "EC 2.1.1.-"
+          ]
+        },
+        {
+          "name": [
+            "RNA Helicases"
+          ],
+          "registryNumber": [
+            "EC 3.6.4.13"
+          ]
+        },
+        {
+          "name": [
+            "Nsp13 protein, SARS-CoV"
+          ],
+          "registryNumber": [
+            "EC 2.1.1.-"
+          ]
+        },
+        {
+          "name": [
+            "nidoviral uridylate-specific endoribonuclease"
+          ],
+          "registryNumber": [
+            "EC 3.1.-"
+          ]
+        },
+        {
+          "name": [
+            "nsp14 protein, SARS coronavirus"
+          ],
+          "registryNumber": [
+            "EC 2.1.1.56"
+          ]
+        },
+        {
+          "name": [
+            "ORF6 protein, SARS-CoV-2"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/22221751.2020.1780953"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7473193"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7473193?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-06-24"
+  ],
+  "dateOfCreation": [
+    "2020-06-13"
+  ],
+  "firstIndexDate": [
+    "2020-06-13"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-17"
+  ],
+  "dateOfRevision": [
+    "2020-09-16"
+  ],
+  "firstPublicationDate": [
+    "2020-12-01"
+  ]
+}

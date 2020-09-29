@@ -1,0 +1,418 @@
+{
+  "id": [
+    "32853040"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32853040"
+  ],
+  "pmcid": [
+    "PMC7453155"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7453155"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1177/0145561320950491"
+  ],
+  "title": [
+    "Safety and Impact of Nasal Lavages During Viral Infections Such as SARS-CoV-2."
+  ],
+  "authorString": [
+    "Radulesco T, Lechien JR, Saussez S, Hopkins C, Michel J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Radulesco T"
+          ],
+          "firstName": [
+            "Thomas"
+          ],
+          "lastName": [
+            "Radulesco"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5939-5372",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "COVID-19 Task Force of the Young-Otolaryngologists of the International Federations of Otorhinolaryngological Societies (YO-IFOS), Marseille, France.",
+                "Department of Otorhinolaryngology-Head and Neck Surgery, Aix Marseille University, 36900APHM, IUSTI, La Conception University Hospital, Marseille, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lechien JR"
+          ],
+          "firstName": [
+            "Jerome R"
+          ],
+          "lastName": [
+            "Lechien"
+          ],
+          "initials": [
+            "JR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0845-0845",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "COVID-19 Task Force of the Young-Otolaryngologists of the International Federations of Otorhinolaryngological Societies (YO-IFOS), Marseille, France.",
+                "Department of Human Anatomy and Experimental Oncology, Faculty of Medicine, UMONS Research Institute for Health Sciences and Technology, 54521University of Mons (UMons), Mons, Belgium.",
+                "Department of Otolaryngology-Head & Neck Surgery, Foch Hospital, School of Medicine, UFR Simone Veil, Université Versailles Saint-Quentin-en-Yvelines (Paris Saclay University), Paris, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Saussez S"
+          ],
+          "firstName": [
+            "Sven"
+          ],
+          "lastName": [
+            "Saussez"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3655-1854",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Human Anatomy and Experimental Oncology, Faculty of Medicine, UMONS Research Institute for Health Sciences and Technology, 54521University of Mons (UMons), Mons, Belgium."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hopkins C"
+          ],
+          "firstName": [
+            "Claire"
+          ],
+          "lastName": [
+            "Hopkins"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "4820King's College, London."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Michel J"
+          ],
+          "firstName": [
+            "Justin"
+          ],
+          "lastName": [
+            "Michel"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "COVID-19 Task Force of the Young-Otolaryngologists of the International Federations of Otorhinolaryngological Societies (YO-IFOS), Marseille, France.",
+                "Department of Otorhinolaryngology-Head and Neck Surgery, Aix Marseille University, 36900APHM, IUSTI, La Conception University Hospital, Marseille, France."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5939-5372",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0845-0845",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3655-1854",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "2990538"
+      ],
+      "dateOfPublication": [
+        "2020 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Ear, nose, & throat journal"
+          ],
+          "ISOAbbreviation": [
+            "Ear Nose Throat J"
+          ],
+          "medlineAbbreviation": [
+            "Ear Nose Throat J"
+          ],
+          "NLMid": [
+            "7701817"
+          ],
+          "ISSN": [
+            "0145-5613"
+          ],
+          "ESSN": [
+            "1942-7522"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "145561320950491"
+  ],
+  "affiliation": [
+    "COVID-19 Task Force of the Young-Otolaryngologists of the International Federations of Otorhinolaryngological Societies (YO-IFOS), Marseille, France."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Editorial"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Viruses",
+        "Viral load",
+        "Pandemics",
+        "Coronavirus Infections",
+        "Nasal Lavages",
+        "Sars-cov-2"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1177/0145561320950491"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7453155"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7453155?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-08-28"
+  ],
+  "firstIndexDate": [
+    "2020-08-29"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-02"
+  ],
+  "dateOfRevision": [
+    "2020-09-01"
+  ],
+  "electronicPublicationDate": [
+    "2020-08-27"
+  ],
+  "firstPublicationDate": [
+    "2020-08-27"
+  ]
+}

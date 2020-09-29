@@ -1,0 +1,293 @@
+{
+  "id": [
+    "32889063"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32889063"
+  ],
+  "pmcid": [
+    "PMC7462587"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7462587"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1016/j.drudis.2020.08.007"
+  ],
+  "title": [
+    "Could PROTACs Protect Us From COVID-19?"
+  ],
+  "authorString": [
+    "Martinez-Ortiz W, Zhou MM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Martinez-Ortiz W"
+          ],
+          "firstName": [
+            "Wilnelly"
+          ],
+          "lastName": [
+            "Martinez-Ortiz"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pharmacological Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou MM"
+          ],
+          "firstName": [
+            "Ming-Ming"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "MM"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pharmacological Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA. Electronic address: Ming-Ming.Zhou@mssm.edu."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics",
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3006174"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Drug discovery today"
+          ],
+          "ISOAbbreviation": [
+            "Drug Discov. Today"
+          ],
+          "medlineAbbreviation": [
+            "Drug Discov Today"
+          ],
+          "NLMid": [
+            "9604391"
+          ],
+          "ISSN": [
+            "1359-6446"
+          ],
+          "ESSN": [
+            "1878-5832"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "affiliation": [
+    "Department of Pharmacological Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Editorial"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.drudis.2020.08.007"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7462587"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7462587?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "pdb"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-09-05"
+  ],
+  "firstIndexDate": [
+    "2020-09-06"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-04"
+  ],
+  "dateOfRevision": [
+    "2020-09-12"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-01"
+  ],
+  "firstPublicationDate": [
+    "2020-09-01"
+  ]
+}

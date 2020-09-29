@@ -1,0 +1,269 @@
+{
+  "id": [
+    "PMC7505820"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7505820"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7505820"
+      ]
+    }
+  ],
+  "title": [
+    "Reply to GASTRO-D-20-01116"
+  ],
+  "authorString": [
+    "Cheung K, Leung W."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Cheung K"
+          ],
+          "firstName": [
+            "Ka Shing"
+          ],
+          "lastName": [
+            "Cheung"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2 Department of Medicine, The University of Hong Kong-Shenzhen Hospital, Shenzhen, China"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Leung W"
+          ],
+          "firstName": [
+            "Wai K."
+          ],
+          "lastName": [
+            "Leung"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "1 Department of Medicine, The University of Hong Kong, Queen Mary Hospital, Hong Kong, China"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3008018"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Gastroenterology"
+          ],
+          "ISOAbbreviation": [
+            "Gastroenterology"
+          ],
+          "medlineAbbreviation": [
+            "Gastroenterology"
+          ],
+          "NLMid": [
+            "0374630"
+          ],
+          "ISSN": [
+            "0016-5085"
+          ],
+          "ESSN": [
+            "1528-0012"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Letter"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7505820/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7505820/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7505820"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7505820?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-28"
+  ],
+  "firstIndexDate": [
+    "2020-09-28"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-28"
+  ],
+  "dateOfRevision": [
+    "2020-09-28"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-22"
+  ],
+  "firstPublicationDate": [
+    "2020-09-22"
+  ]
+}

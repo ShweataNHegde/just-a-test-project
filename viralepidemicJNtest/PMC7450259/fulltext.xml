@@ -1,0 +1,258 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.2 20190208//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.2?><?ConverterInfo.XSLTName jpoasis-nisons2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Emerg Microbes Infect</journal-id><journal-id journal-id-type="iso-abbrev">Emerg Microbes Infect</journal-id><journal-title-group><journal-title>Emerging Microbes &#x00026; Infections</journal-title></journal-title-group><issn pub-type="epub">2222-1751</issn><publisher><publisher-name>Taylor &#x00026; Francis</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">7450259</article-id><article-id pub-id-type="pmid">32419639</article-id><article-id pub-id-type="publisher-id">1771219</article-id><article-id pub-id-type="doi">10.1080/22221751.2020.1771219</article-id><article-version vocab="JAV" vocab-identifier="http://www.niso.org/publications/rp/RP-8-2008.pdf" vocab-term="Version of Record" article-version-type="VoR">Version of
+Record</article-version><article-categories><subj-group subj-group-type="article-type"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Articles</subject></subj-group></article-categories><title-group><article-title>Viral loads in throat and anal swabs in children infected with
+SARS-CoV-2</article-title><alt-title alt-title-type="right-running-head">Emerging Microbes &#x00026;
+Infections</alt-title><alt-title alt-title-type="left-running-head">C. Yuan et al.</alt-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4382-2541</contrib-id><name><surname>Yuan</surname><given-names>Chunhui</given-names></name><xref ref-type="aff" rid="AF1">a</xref><xref ref-type="author-notes" rid="an1">*</xref></contrib><contrib contrib-type="author"><name><surname>Zhu</surname><given-names>Hongmin</given-names></name><xref ref-type="aff" rid="AF2">b</xref><xref ref-type="author-notes" rid="an1">*</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0158-244X</contrib-id><name><surname>Yang</surname><given-names>Yuan</given-names></name><xref ref-type="aff" rid="AF3">c</xref><xref ref-type="author-notes" rid="an1">*</xref></contrib><contrib contrib-type="author"><name><surname>Cai</surname><given-names>Xiaonan</given-names></name><xref ref-type="aff" rid="AF3">c</xref></contrib><contrib contrib-type="author"><name><surname>Xiang</surname><given-names>Feiyan</given-names></name><xref ref-type="aff" rid="AF3">c</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1858-7669</contrib-id><name><surname>Wu</surname><given-names>Huan</given-names></name><xref ref-type="aff" rid="AF1">a</xref></contrib><contrib contrib-type="author"><name><surname>Yao</surname><given-names>Cong</given-names></name><xref ref-type="aff" rid="AF4">d</xref><xref ref-type="corresp" rid="cor1"/></contrib><contrib contrib-type="author"><name><surname>Xiang</surname><given-names>Yun</given-names></name><xref ref-type="aff" rid="AF1">a</xref><xref ref-type="corresp" rid="cor2"/></contrib><contrib contrib-type="author"><name><surname>Xiao</surname><given-names>Han</given-names></name><xref ref-type="aff" rid="AF3">c</xref><xref ref-type="corresp" rid="cor3"/></contrib><aff id="AF1"><label>a</label><institution>Department of Laboratory Medicine, Wuhan
+Children&#x02019;s Hospital, Tongji Medical College, Huazhong University of Science and
+Technology</institution>, <city>Wuhan</city>, <country>People&#x02019;s Republic of
+China</country></aff><aff id="AF2"><label>b</label><institution>Department of Neurology, Wuhan Children&#x02019;s
+Hospital, Tongji Medical College, Huazhong University of Science and
+Technology</institution>, <city>Wuhan</city>, <country>People&#x02019;s Republic of
+China</country></aff><aff id="AF3"><label>c</label><institution>Institute of Maternal and Child Health, Wuhan
+Children&#x02019;s Hospital, Tongji Medical College, Huazhong University of Science and
+Technology</institution>, <city>Wuhan</city>, <country>People&#x02019;s Republic of
+China</country></aff><aff id="AF4"><label>d</label><institution>Health Care Department, Wuhan Children&#x02019;s
+Hospital, Tongji Medical College, Huazhong University of Science and
+Technology</institution>, <city>Wuhan</city>, <country>People&#x02019;s Republic of
+China</country></aff></contrib-group><author-notes><corresp id="cor1"><label>CONTACT</label> Cong Yao <email xlink:href="yaocsmart@163.com">yaocsmart@163.com</email></corresp><corresp id="cor2">Yun Xiang <email xlink:href="xiangyun5272008@163.com">xiangyun5272008@163.com</email></corresp><corresp id="cor3">Han Xiao <email xlink:href="tjxiaohan1980@163.com">tjxiaohan1980@163.com</email></corresp><fn id="an1"><label>*</label><p>These authors contributed equally to this work.</p></fn><fn id="fn0002-d19e149"><p>Supplemental data for this article can be accessed at <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/22221751.2020.1771219">https://doi.org/10.1080/22221751.2020.1771219</ext-link></p></fn></author-notes><pub-date date-type="pub" publication-format="electronic"><day>9</day><month>6</month><year>2020</year></pub-date><pub-date date-type="collection" publication-format="electronic"><year>2020</year></pub-date><volume>9</volume><issue>1</issue><fpage seq="143">1233</fpage><lpage>1237</lpage><permissions><copyright-statement>&#x000a9; 2020 The Author(s). Published by Informa UK Limited, trading as
+Taylor &#x00026; Francis Group, on behalf of Shanghai Shangyixun Cultural Communication Co.,
+Ltd</copyright-statement><copyright-year>2020</copyright-year><copyright-holder>The Author(s)</copyright-holder><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>), which permits unrestricted
+use, distribution, and reproduction in any medium, provided the original work is
+properly cited.</license-p><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="vor">http://creativecommons.org/licenses/by/4.0/</ali:license_ref></license></permissions><self-uri content-type="pdf" xlink:href="TEMI_9_1771219.pdf"/><abstract><title>ABSTRACT</title><p>Real-time reverse transcriptase-polymerase chain reaction (RT-PCR) assay on anal swabs
+was recently reported to be persistently positive even after throat testing was negative
+during severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection. However,
+data about the consistent performance of RT-PCR assay on throat and anal swabs remain
+limited in paediatric patients. Here, we retrospectively reviewed RT-PCR-testing results
+of 212 paediatric patients with suspected SARS-CoV-2 infection at Wuhan Children&#x02019;s
+Hospital. The diagnostic potential of these two types of specimens showed significant
+difference (positive rate: 78.2% on throat swabs vs. 52.6% on anal swabs, McNemar Test
+<italic>P</italic>&#x02009;=&#x02009;0.0091) and exhibited a weak positive consistency
+(Kappa value was 0.311, <italic>P&#x02009;</italic>&#x0003c;&#x02009;0.0001) in paediatric
+patients. Furthermore, viral loads detected on both throat and anal swabs also showed no
+significant difference (<italic>P</italic>&#x02009;=&#x02009;0.9511) and correlation (Pearson
+<italic>r</italic>&#x02009;=&#x02009;0.0434, <italic>P</italic>&#x02009;=&#x02009;0.8406), and
+exhibited an inconsistent kinetic change through the course of SARS-CoV-2 infection.
+Besides, viral loads in the throat and anal swabs were correlated with different types of
+immune states, immune-reactive phase, and the resolution phase/immunologic tolerance,
+respectively. These findings revealed that RT-PCR-testing on throat and anal swabs showed
+significant difference for monitoring SARS-CoV-2 infection and correlated with different
+immune state in paediatric patients.</p></abstract><kwd-group kwd-group-type="author"><title>KEYWORDS</title><kwd>SARS-CoV-2</kwd><kwd>paediatric patients</kwd><kwd>RT-PCR</kwd><kwd>diagnostic potential</kwd><kwd>viral load</kwd></kwd-group><counts><fig-count count="3"/><table-count count="2"/><equation-count count="0"/><ref-count count="20"/><page-count count="5"/></counts></article-meta></front><body><sec sec-type="intro" id="S001"><title>Introduction</title><p>There had been 414,179 confirmed cases and 18,440 deaths caused by the ongoing global
+outbreak of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection as of
+March 26, 2020 [<xref rid="CIT0001" ref-type="bibr">1</xref>]. Real-time reverse
+transcriptase-polymerase chain reaction (RT-PCR) assay has been widely used for clinical
+diagnosis and SARS-CoV-2 has been detected in specimens from multiple sites, including
+bronchoalveolar lavage fluid, sputum, nasal, anal, and throat swabs of patients with
+COVID-19 [<xref rid="CIT0002" ref-type="bibr">2</xref>]. Although lower respiratory tract
+samples most often testing positive (93%) for the virus, testing on nasopharyngeal or throat
+swabs (63&#x02013;72%) were typically used to confirm the diagnosis.</p><p>According to the data collected by Chinese Center for Disease Control and Prevention, 1&#x02013;2%
+of Chinese confirmed cases were paediatric patients [<xref rid="CIT0003" ref-type="bibr">3</xref>], and more than 90% of paediatric patients were mild or moderate cases [<xref rid="CIT0004" ref-type="bibr">4</xref>,<xref rid="CIT0005" ref-type="bibr">5</xref>]. The
+epidemiological and clinical features of children infected with SARS-CoV-2 infection has
+been reported in our previous study, and about 15.8% laboratory throat swab-testing
+confirmed cases did not have any symptoms of infection or radiologic features of pneumonia
+and which were admitted to hospital due to infected family members [<xref rid="CIT0006" ref-type="bibr">6</xref>]. Furthermore, several studies have recently reported that anal
+swabs-testing was persistently positive even after nasopharyngeal testing was negative and
+maybe more useful in judging the effectiveness of treatment and determining the timing of
+termination of quarantine [<xref rid="CIT0007" ref-type="bibr">7</xref>,<xref rid="CIT0008" ref-type="bibr">8</xref>]. Thus, we evaluated the consistency of RT-PCR assay on different
+types of swabs in paediatric patients through the course of SARS-CoV-2 infection.</p></sec><sec sec-type="methods" id="S002"><title>Methods</title><sec id="S002-S2001"><title>Study design and participants</title><p>We did a retrospective review of RT-PCR-testing results of 2138 paediatric patients with
+suspected SARS-CoV-2 infection in Wuhan Children&#x02019;s Hospital, Huazhong University of
+Science and Technology (Wuhan, China) from Jan. 1 to Mar. 18, 2020. Wuhan Children&#x02019;s
+Hospital is responsible for the treatments of paediatric SARS-CoV-2 infection assigned by
+the government. Diagnosis of COVID-19 was based on the New Coronavirus Pneumonia
+Prevention and Control Program (5th edition) published by the National Health Commission
+of China [<xref rid="CIT0009" ref-type="bibr">9</xref>]. All cases were performed RT-PCR
+assay on throat swabs, and 212 cases were simultaneously tested on anal swabs. 217 cases
+were tested positive for SARS-CoV-2 either on throat or anal swabs (Fig. S1). Kinetic
+changes of viral load in both throat and anal swabs were monitored in 13 patients.</p><p>This study was reviewed and approved by the Medical Ethical Committee of Wuhan Children&#x02019;s
+Hospital, Huazhong University of Science and Technology (approval number
+IEC-2020R003-E01), and written informed consent was waived because of the retrospective
+nature of the study. Anonymous clinical data were used for analysis.</p></sec><sec id="S002-S2002"><title>RT-PCR assay</title><p>Throat/anal swab samples were collected and tested for SARS-CoV-2 with the Chinese Center
+for Disease Control and Prevention (CDC) recommended Kit. All samples were processed at
+the Department of Laboratory Medicine of Wuhan Children&#x02019;s Hospital. Total RNA was
+extracted within 2&#x02005;h using the Nucleic Acid Isolation kit (DAAN Gene, Wuhan, China). The
+real-time RT-PCR assay was performed using a SARS-CoV-2 nucleic acid detection kit
+according to the manufacturer&#x02019;s protocol (BGI Biotechnology, Wuhan, China). Target gene
+open reading frame 1ab (ORF1ab) was amplified and tested during the real-time RT-PCR
+assay. A cycle threshold value (Ct-value) in FAM channel &#x02264;38 was defined as a positive
+test result and a Ct-value of &#x0003e;40 or no amplification curve was defined as a negative
+test.</p></sec><sec id="S002-S2003"><title>Statistical analysis</title><p>We presented continuous variables as median (IQR) or median SD, and categorical variables
+as number (%). Means for continuous variables were compared using unpaired or paired
+<italic>t-</italic>tests when the data were normally distributed;
+otherwise, the Mann&#x02013;Whitney U test was used. Proportions for categorical variables were
+compared using the <italic>&#x003c7;</italic><sup>2</sup> test. All statistical
+analyses were performed using SPSS (Statistical Package for the Social Sciences) version
+22.0 software (SPSS Inc). A 2-sided &#x003b1; of less than 0.05 was considered statistically
+significant.</p></sec></sec><sec id="S003"><title>Results</title><sec id="S003-S2001"><title>Diagnostic difference of RT-PCR assay on throat and anal swabs</title><p>RT-PCR assay on throat and anal swabs were simultaneously tested in 212 of 2138
+paediatric patients with suspected SARS-CoV-2 infection in Wuhan Children&#x02019;s Hospital. 78
+of 212 patients were confirmed with SARS-CoV-2 infection according to the positive results
+obtained from either throat or anal swabs (<xref rid="T0001" ref-type="table">Table
+1</xref>). Of the 78 patients, 17 were positive on anal swabs and 37 were positive on
+throat swabs, as well as 24 were double positive. The diagnostic potential of these two
+types of specimens showed significant difference (positive rate: 78.2% on throat swabs vs.
+52.6% on anal swabs, McNemar Test <italic>P&#x02009;</italic>=&#x02009;0.0091) and exhibited
+a weak positive consistency with Kappa value was 0.311 (<italic>P&#x02009;</italic>&#x0003c;&#x02009;0.0001). <table-wrap id="T0001" orientation="portrait" position="float"><label>Table 1.</label><caption><title>Diagnostic difference of RT-PCR assay on throat and anal swabs.</title></caption><!--OASIS TABLE HERE--><table frame="hsides" rules="groups"><colgroup><col width="1*"/><col width="1*"/><col width="1*"/><col width="1*"/></colgroup><thead valign="bottom"><tr><th rowspan="2" colspan="2" align="center">&#x000a0;</th><th colspan="2" align="center">Throat swabs</th></tr><tr><th align="center">+</th><th align="center">&#x02212;</th></tr></thead><tbody><tr><td rowspan="2" align="left">Anal swabs</td><td align="center">+</td><td align="char" char=".">24</td><td align="char" char=".">17</td></tr><tr><td align="center">&#x02212;</td><td align="char" char=".">37</td><td align="char" char=".">134</td></tr></tbody></table></table-wrap></p><p>One thousand nine hundreds twenty-six or 1926 of 2138 cases were only performed RT-PCR
+assay on throat swabs, and finally 217 cases were tested positive for SARS-CoV-2 either on
+throat or anal swabs. The viral loads (inversely related to Ct value) between throat swabs
+(32.05, IQR: 27.80&#x02013;34.53) and anal swabs (32.28, IQR: 28.63&#x02013;34.54) showed no difference
+(<xref rid="F0001" ref-type="fig">Figure 1</xref>(A), <italic>P&#x02009;</italic>=&#x02009;0.8715). In addition, viral loads detected on both throat and anal swabs of
+24 patients also showed no significant difference (<xref rid="F0001" ref-type="fig">Figure
+1</xref>(B), <italic>P&#x02009;</italic>=&#x02009;0.9511) and correlation (<xref rid="F0001" ref-type="fig">Figure 1</xref>(C), Pearson <italic>r</italic>&#x02009;=&#x02009;0.0434, <italic>P&#x02009;</italic>=&#x02009;0.8406). <fig id="F0001" orientation="portrait" position="float"><label>Figure 1.</label><caption><p>The difference and correlation of Ct value between throat and anal swabs-testing.
+(A) The difference between Ct value obtained by RT-PCR-testing on throat swabs (200
+cases) and anal swabs (41 cases). (B) The difference between Ct value obtained by
+RT-PCR-testing on paired throat swabs and anal swabs in 24 cases. The data were
+normally distributed and a paired <italic>t-</italic>test was used to
+compare statistical differences. (C) The pearson correlation between Ct value
+obtained by RT-PCR-testing on paired throat swabs and anal swabs in 24 cases.</p></caption><alternatives><graphic specific-use="web-only" content-type="black-white" xlink:href="TEMI_A_1771219_F0001_OB"/><graphic specific-use="print-only" content-type="black-white" xlink:href="TEMI_A_1771219_F0001_PB"/></alternatives></fig></p></sec><sec id="S003-S2002"><title>Correlation of viral loads to indexes of SARS-CoV-2 infection</title><p>The correlations between viral loads with indexes of SARS-CoV-2 infection, including sex,
+age, blood routine, blood chemistry, infection-related biomarkers (CRP, PCT, and FERR),
+immunoglobulins, complements, B cells, NK cells, and subsets of T cells were further
+evaluated. Viral loads in both throat and anal swabs were positively correlated with
+myocardial zymogram, CK-MB and LDH in paediatric patients, while negatively correlated
+with neutrophils (Neu) (<xref rid="F0002" ref-type="fig">Figure 2</xref> (A,B)). IL-10 was
+positively correlated with throat viral loads, whereas CD8<sup>+</sup> T cells and white
+blood cells (WBC) showed a negative correlation (<xref rid="F0002" ref-type="fig">Figure
+2</xref>(A)). Counts of CD4<sup>+</sup> T cells were positively correlated with anal
+loads, whereas Tregs, IgG, and IgM were negatively correlated with anal loads (<xref rid="F0002" ref-type="fig">Figure 2</xref>(B)). Inflammatory IL-6 levels showed no
+significant correlation with both throat and anal viral loads in paediatric patients.
+Also, viral loads in both throat and anal swabs showed no difference between males and
+females (<xref rid="F0002" ref-type="fig">Figure 2</xref>(C)). <fig id="F0002" orientation="portrait" position="float"><label>Figure 2.</label><caption><p>Correlation of viral loads to indexes of SARS-CoV-2 infection. (A) The correlation
+of viral loads to indexes of SARS-CoV-2 infection. Ct values were detected in throat
+swabs obtained from 200 cases and viral loads were inversely correlated to Ct value.
+(B) The correlation of viral loads in anal swabs of 41 cases to indexes of
+SARS-CoV-2 infection. (C) The difference of Ct value detected in throat and anal
+swabs between males and females.</p></caption><alternatives><graphic specific-use="web-only" content-type="color" xlink:href="TEMI_A_1771219_F0002_OC"/><graphic specific-use="print-only" content-type="black-white" xlink:href="TEMI_A_1771219_F0002_PB"/></alternatives></fig></p></sec><sec id="S003-S2003"><title>Kinetic changes of viral loads through the course of SARS-CoV-2 infection</title><p>RT-PCR-testing on specimens obtained for respiratory tract was recommended for judging
+the time of hospital discharge or discontinuation of quarantine. Thus, dynamic changes of
+viral load were only detected in both throat and anal swabs of 13 patients concerning the
+day of confirmation (<xref rid="F0003" ref-type="fig">Figure 3</xref>). In our results, we
+noticed that throat swab-testing was persistently negative in Case 1, Case 7, and Case 11,
+and anal swab-testing remain relatively higher levels 1&#x02013;4 days before discharging from
+hospital. RT-PCR-testing results of Case 12 and Case 13 were persistently negative on anal
+swabs. The difference of clinical features between with anal single positive result and
+throat single positive were further investigated, and the results revealed that clinical
+features, including signs and symptoms, CT scan, underlying diseases, comorbid conditions,
+hospital stay, and time from positive to negative for PCR assay showed no significant
+difference (<xref rid="T0002" ref-type="table">Table 2</xref>). <fig id="F0003" orientation="portrait" position="float"><label>Figure 3.</label><caption><p>Timeline of RT-PCR-testing results from throat and anal swabs through the course of
+SARS-CoV-2 infection for 13 cases, January to March 2020.</p></caption><alternatives><graphic specific-use="web-only" content-type="color" xlink:href="TEMI_A_1771219_F0003_OC"/><graphic specific-use="print-only" content-type="black-white" xlink:href="TEMI_A_1771219_F0003_PB"/></alternatives></fig>
+<table-wrap id="T0002" orientation="portrait" position="float"><label>Table 2.</label><caption><title>Difference of clinical features between patients with anal single positive
+result and throat single positive.</title></caption><!--OASIS TABLE HERE--><table frame="hsides" rules="groups"><colgroup><col width="1*"/><col width="1*"/><col width="1*"/><col width="1*"/><col width="1*"/></colgroup><thead valign="bottom"><tr><th align="left">&#x000a0;</th><th align="center">Anal single positive (<italic toggle="yes">n</italic>&#x02009;=&#x02009;17)</th><th align="center">Throat single positive (<italic toggle="yes">n</italic>&#x02009;=&#x02009;37)</th><th align="center"><italic toggle="yes">&#x003c7;</italic><sup>2</sup></th><th align="center"><italic toggle="yes">P</italic>-value</th></tr></thead><tbody><tr><td align="left"><bold>Sex (n. %)</bold></td><td align="left">&#x000a0;</td><td align="left">&#x000a0;</td><td align="char" char=".">0.17</td><td align="char" char=".">0.4089</td></tr><tr><td align="left">Male</td><td align="char" char="(">11 (64.7)</td><td align="char" char="(">26 (70.3)</td><td align="left">&#x000a0;</td><td align="left">&#x000a0;</td></tr><tr><td align="left">Female</td><td align="char" char="(">6 (35.3)</td><td align="char" char="(">11 (29.7)</td><td align="left">&#x000a0;</td><td align="left">&#x000a0;</td></tr><tr><td align="left"><bold>Age (m, IQR)</bold></td><td align="char" char="(">74 (32&#x02013;100)</td><td align="char" char="(">90 (39&#x02013;140)</td><td align="left">&#x000a0;</td><td align="char" char=".">0.4055</td></tr><tr><td align="left"><bold>Onset of symptom to Hospital
+admission (d, IQR)</bold></td><td align="char" char="(">10 (7&#x02013;12)</td><td align="char" char="(">5 (3&#x02013;10)</td><td align="left">&#x000a0;</td><td align="char" char=".">0.0184</td></tr><tr><td align="left"><bold>Signs and symptoms (n.
+%)</bold></td><td align="left">&#x000a0;</td><td align="left">&#x000a0;</td><td align="char" char=".">3.36</td><td align="char" char=".">0.0668</td></tr><tr><td align="left">None</td><td align="char" char="(">10 (58.8)</td><td align="char" char="(">12 (32.4)</td><td align="left">&#x000a0;</td><td align="left">&#x000a0;</td></tr><tr><td align="left">Yes</td><td align="char" char="(">7 (41.2)</td><td align="char" char="(">25 (67.6)</td><td align="left">&#x000a0;</td><td align="left">&#x000a0;</td></tr><tr><td align="left"><bold>Gastrointestinal symptoms (n.
+%)</bold></td><td align="left">&#x000a0;</td><td align="left">&#x000a0;</td><td align="left">&#x000a0;</td><td align="char" char=".">0.3035</td></tr><tr><td align="left">None</td><td align="char" char="(">11 (64.7)</td><td align="char" char="(">30 (81.1)</td><td align="left">&#x000a0;</td><td align="left">&#x000a0;</td></tr><tr><td align="left">Yes</td><td align="char" char="(">6 (35.3)</td><td align="char" char="(">7 (18.9)</td><td align="left">&#x000a0;</td><td align="left">&#x000a0;</td></tr><tr><td align="left"><bold>Cough (n. %)</bold></td><td align="left">&#x000a0;</td><td align="left">&#x000a0;</td><td align="char" char=".">1.19</td><td align="char" char=".">0.1635</td></tr><tr><td align="left">None</td><td align="char" char="(">13 (76.5)</td><td align="char" char="(">21 (56.8)</td><td align="left">&#x000a0;</td><td align="left">&#x000a0;</td></tr><tr><td align="left">Yes</td><td align="char" char="(">4 (23.5)</td><td align="char" char="(">16 (43.2)</td><td align="left">&#x000a0;</td><td align="left">&#x000a0;</td></tr><tr><td align="left"><bold>Fever (n. %)</bold></td><td align="left">&#x000a0;</td><td align="left">&#x000a0;</td><td align="char" char=".">2.85</td><td align="char" char=".">0.0917</td></tr><tr><td align="left">None</td><td align="char" char="(">12 (70.6)</td><td align="char" char="(">17 (45.9)</td><td align="left">&#x000a0;</td><td align="left">&#x000a0;</td></tr><tr><td align="left">Yes</td><td align="char" char="(">5 (29.4)</td><td align="char" char="(">20 (54.1)</td><td align="left">&#x000a0;</td><td align="left">&#x000a0;</td></tr><tr><td align="left"><bold>CT evidence of pneumonia (n.
+%)</bold></td><td align="left">&#x000a0;</td><td align="left">&#x000a0;</td><td align="char" char=".">1.19</td><td align="char" char=".">0.5507</td></tr><tr><td align="left">None</td><td align="char" char="(">7 (41.2)</td><td align="char" char="(">12 (32.4)</td><td align="left">&#x000a0;</td><td align="left">&#x000a0;</td></tr><tr><td align="left">Unilateral</td><td align="char" char="(">8 (47.1)</td><td align="char" char="(">16 (43.3)</td><td align="left">&#x000a0;</td><td align="left">&#x000a0;</td></tr><tr><td align="left">Bilateral</td><td align="char" char="(">2 (11.7)</td><td align="char" char="(">9 (24.3)</td><td align="left">&#x000a0;</td><td align="left">&#x000a0;</td></tr><tr><td align="left"><bold>Underlying diseases (n.
+%)</bold></td><td align="left">&#x000a0;</td><td align="left">&#x000a0;</td><td align="left">&#x000a0;</td><td align="char" char=".">0.7027</td></tr><tr><td align="left">None</td><td align="char" char="(">15 (88.2)</td><td align="char" char="(">30 (81.1)</td><td align="left">&#x000a0;</td><td align="left">&#x000a0;</td></tr><tr><td align="left">Yes</td><td align="char" char="(">2 (11.8)</td><td align="char" char="(">7 (18.9)</td><td align="left">&#x000a0;</td><td align="left">&#x000a0;</td></tr><tr><td align="left"><bold>Comorbid conditions (n.
+%)</bold></td><td align="left">&#x000a0;</td><td align="left">&#x000a0;</td><td align="left">&#x000a0;</td><td align="char" char=".">0.3653</td></tr><tr><td align="left">None</td><td align="char" char="(">14 (82.4)</td><td align="char" char="(">34 (91.9)</td><td align="left">&#x000a0;</td><td align="left">&#x000a0;</td></tr><tr><td align="left">Yes</td><td align="char" char="(">3 (17.6)</td><td align="char" char="(">3 (8.1)</td><td align="left">&#x000a0;</td><td align="left">&#x000a0;</td></tr><tr><td align="left"><bold>Hospital stay (d,
+IQR)</bold></td><td align="char" char="(">13 (11&#x02013;15)</td><td align="char" char="(">16 (10&#x02013;20)</td><td align="left">&#x000a0;</td><td align="char" char=".">0.4573</td></tr><tr><td align="left"><bold>Time from positive to negative for
+PCR assay (d, IQR)</bold></td><td align="char" char="(">6 (4&#x02013;10)</td><td align="char" char="(">7 (5&#x02013;14)</td><td align="left">&#x000a0;</td><td align="char" char=".">0.2354</td></tr></tbody></table></table-wrap></p></sec></sec><sec id="S004"><title>Discussion</title><p>As the only centre assigned by the central government for treating infected children under
+16 years of age in Wuhan, we presented the inconsistent viral presentation of RT-PCR assay
+on throat and anal swabs for monitoring paediatric SARS-CoV-2 infection in this study. This
+report, to our knowledge, is the largest case series to date for evaluating the monitoring
+performance of paediatric patients with SARS-CoV-2 infection.</p><p>According to the study conducted by Gong et al in 10 paediatric patients, they reported
+that testing on anal swabs remained detectable well even after throat testing was negative
+and suggested the possibility of faecal-oral transmission besides respiratory transmission
+[<xref rid="CIT0008" ref-type="bibr">8</xref>]. Cell entry of SARS-CoV-2 virus depends on
+the binding of the viral spike (S) proteins to cellular receptor ACE2 and S protein priming
+by host cell protease TMPRSS2 [<xref rid="CIT0010" ref-type="bibr">10</xref>]. Lung type II
+pneumocytes, nasal goblet secretory cells, and ileal absorptive enterocytes are highly
+susceptive to SARS-CoV2 infection due to simultaneously expression of ACE2 and TMPRSS2
+[<xref rid="CIT0011" ref-type="bibr">11</xref>,<xref rid="CIT0012" ref-type="bibr">12</xref>]. In contrary to the report that infectious virus could not be isolated from
+stool samples conducted by Wendter et al. [<xref rid="CIT0013" ref-type="bibr">13</xref>],
+Li et al recently isolated live SARS-CoV2 virus from faecal samples in 3 of 11 adult
+patients, and the potential reason may be the diverse mutations in S proteins of the virus
+isolated from an individual patient [<xref rid="CIT0014" ref-type="bibr">14</xref>]. In our
+study, we found that viral loads showed no difference and correlation between throat and
+anal swabs. Furthermore, the clinical features between anal single positive result and
+throat single positive showed no significant difference. Thus, similar to SARS-CoV and MERS
+coronavirus [<xref rid="CIT0015" ref-type="bibr">15</xref>], faecal-oral transmission is
+also one route for SARS-CoV-2 infection.</p><p>CD4<sup>+</sup> T helps cells limit exhaustion of memory CD8<sup>+</sup> cytotoxic T
+lymphocyte (CTL) during influenza A virus infection [<xref rid="CIT0016" ref-type="bibr">16</xref>], and Tregs were most important for calming inflammation during the resolution
+phase of viral infection [<xref rid="CIT0017" ref-type="bibr">17</xref>]. Huang et al
+reported that faecal samples from 33 (45%) of 74 patients were negative for SARS CoV-2 RNA
+whereas their respiratory swabs were positive from first symptom onset, and positive results
+obtained from faecal samples were delayed from throat swabs through the course of 41
+patients with SARS-CoV-2 infection [<xref rid="CIT0007" ref-type="bibr">7</xref>]. Although
+we did not conduct strictly paired time-course analysis, we noticed that some cases were
+persistently negative in throat swabs and others were persistently negative in anal swabs.
+Thus, we suspect that increased viral loads in throat swabs may represent an acute infection
+(immune-overreactive) phase of SARS-CoV-2 infection and predict the exhaustion of memory
+CTL, which frequently occurred in patients associated with acute respiratory distress
+syndrome [<xref rid="CIT0018" ref-type="bibr">18</xref>]. No matter what the transmission
+potential of patients with anal or faecal positive results, decreased viral loads in anal
+swabs may indicate the resolution phase of SARS-CoV-2 infection and has the potential to be
+used for monitoring the effectiveness of therapeutic responses as which negatively
+correlated with Tregs, IgM, and IgG.</p><p>In conclusion, RT-PCR-testing on throat and anal swabs showed significant difference for
+monitoring SARS-CoV-2 infection and correlated with different immune states in paediatric
+patients. Although testing on anal swabs or faecal samples was not included in guidelines
+for New Coronavirus Pneumonia Prevention and Control Program [<xref rid="CIT0019" ref-type="bibr">19</xref>], it has caused attention to the decision on when to discontinue
+precautions to prevent transmission [<xref rid="CIT0020" ref-type="bibr">20</xref>].
+Transmission potential of anal swabs-testing positive patients, especially children, which
+are more like to be asymptomatic carriers, need be urgently evaluated for the control of
+outbreak SARS-CoV-2 infection.</p></sec></body><back><sec sec-type="COI-statement" id="S005"><title>Disclosure statement</title><p>No potential conflict of interest was reported by the author(s).</p></sec><ref-list><title>References</title><ref id="CIT0001"><label>1</label><mixed-citation publication-type="other"><person-group person-group-type="author"><collab>Coronavirus disease (COVID-2019) situation report 101 (WHO,
+2020)</collab></person-group>
+<comment>Available from: <ext-link ext-link-type="uri" xlink:href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports">https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports</ext-link></comment>.</mixed-citation></ref><ref id="CIT0002"><label>2</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Wang</surname><given-names>WL</given-names></name>, <name name-style="western"><surname>Xu</surname><given-names>YL</given-names></name>, <name name-style="western"><surname>Gao</surname><given-names>RQ</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Detection of SARS-CoV-2 in different types of clinical
+specimens</article-title>. <source>Jama</source>. <year>2020</year>:
+<fpage>e203786</fpage>. doi:<pub-id pub-id-type="doi">10.1001/jama.2020.3786</pub-id>.</mixed-citation></ref><ref id="CIT0003"><label>3</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Wu</surname><given-names>ZY</given-names></name>, <name name-style="western"><surname>McGoogan</surname><given-names>JM.</given-names></name></person-group>
+<article-title>Characteristics of and important lessons from the coronavirus disease 2019
+(COVID-19) outbreak in China: summary of a report of 72&#x0202f;314 cases from the Chinese
+Center for Disease Control and Prevention</article-title>. <source>Jama</source>.
+<year>2020</year>. doi:<pub-id pub-id-type="doi">10.1001/jama.2020.2648</pub-id>.</mixed-citation></ref><ref id="CIT0004"><label>4</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Dong</surname><given-names>YY</given-names></name>, <name name-style="western"><surname>Mo</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Hu</surname><given-names>YB</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Epidemiology of COVID-19 among children in China</article-title>.
+<source>Pediatrics</source>. <year>2020</year>: <fpage>e20200702</fpage>. doi:<pub-id pub-id-type="doi">10.1542/peds.2020-0702</pub-id>.<pub-id pub-id-type="pmid">32179660</pub-id></mixed-citation></ref><ref id="CIT0005"><label>5</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Qiu</surname><given-names>HY</given-names></name>, <name name-style="western"><surname>Wu</surname><given-names>JH</given-names></name>, <name name-style="western"><surname>Hong</surname><given-names>L</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Clinical and epidemiological features of 36 children with coronavirus
+disease 2019 (COVID-19) in Zhejiang, China: an observational cohort
+study</article-title>. <source>Lancet Infect Dis</source>. <year>2020</year>.
+doi:<pub-id pub-id-type="doi">10.1016/S1473-3099(20)30198-5</pub-id>.</mixed-citation></ref><ref id="CIT0006"><label>6</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Lu</surname><given-names>XX</given-names></name>, <name name-style="western"><surname>Zhang</surname><given-names>LQ</given-names></name>, <name name-style="western"><surname>Du</surname><given-names>H</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>SARS-CoV-2 infection in children</article-title>. <source>N Engl J
+M</source>. <year>2020</year>. doi:<pub-id pub-id-type="doi">10.1056/NEJMc2005073</pub-id>.</mixed-citation></ref><ref id="CIT0007"><label>7</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Wu</surname><given-names>YJ</given-names></name>, <name name-style="western"><surname>Guo</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Tang</surname><given-names>LT</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Prolonged presence of SARS-CoV-2 viral RNA in faecal
+samples</article-title>. <source>Lancet Gastroenterol Hepatol</source>.
+<year>2020</year>;<volume>5</volume>(<issue>5</issue>):<fpage>434</fpage>&#x02013;<lpage>435</lpage>.
+doi:<pub-id pub-id-type="doi">10.1016/S2468-1253(20)30083-2</pub-id>.<pub-id pub-id-type="pmid">32199469</pub-id></mixed-citation></ref><ref id="CIT0008"><label>8</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Xu</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Li</surname><given-names>XF</given-names></name>, <name name-style="western"><surname>Zhu</surname><given-names>B</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Characteristics of pediatric SARS-CoV-2 infection and potential evidence
+for persistent fecal viral shedding</article-title>. <source>Nat Med</source>.
+<year>2020</year>;<volume>26</volume>(<issue>4</issue>):<fpage>502</fpage>&#x02013;<lpage>505</lpage>.
+doi:<pub-id pub-id-type="doi">10.1038/s41591-020-0817-4</pub-id>.<pub-id pub-id-type="pmid">32284613</pub-id></mixed-citation></ref><ref id="CIT0009"><label>9</label><mixed-citation publication-type="other"><person-group person-group-type="author"><collab>National Health Commission of China</collab></person-group>
+<comment>New
+coronavirus pneumonia prevention and control program (5th Edition). 2020 Feb 4 [cited
+2020 Feb 4]. Available from: <ext-link ext-link-type="uri" xlink:href="http://www.gov.cn/zhengce/zhengceku/2022/05/5474791/files/de44557832ad4be1929091dcbcfca891.pdf">http://www.gov.cn/zhengce/zhengceku/2022/05/5474791/files/de44557832ad4be1929091dcbcfca891.pdf</ext-link>;
+in Chinese)</comment>.</mixed-citation></ref><ref id="CIT0010"><label>10</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Hoffmann</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Kleine-Weber</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Schroeder</surname><given-names>S</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>SARS-CoV-2 cell entry depends on ACE2 and TMPRSS2 and is blocked by a
+clinically proven protease inhibitor</article-title>. <source>Cell</source>.
+<year>2020</year>;<volume>181</volume>(<issue>2</issue>):<fpage>271</fpage>&#x02013;<lpage>280</lpage>.<comment>e8</comment>.
+doi: <pub-id pub-id-type="doi">10.1016/j.cell.2020.02.052</pub-id><pub-id pub-id-type="pmid">32142651</pub-id></mixed-citation></ref><ref id="CIT0011"><label>11</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ziegler</surname><given-names>CGK</given-names></name>, <name name-style="western"><surname>Allon</surname><given-names>SJ</given-names></name>, <name name-style="western"><surname>Nyquist</surname><given-names>SK</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>SARS-CoV-2 receptor ACE2 is an interferon-stimulated gene in human airway
+epithelial cells and is detected in specific cell subsets across
+tissues</article-title>. <source>Cell</source>. <year>2020</year>. doi:<pub-id pub-id-type="doi">10.1016/j.cell.2020.04.035</pub-id>.</mixed-citation></ref><ref id="CIT0012"><label>12</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Sungnak</surname><given-names>W</given-names></name>, <name name-style="western"><surname>Huang</surname><given-names>N</given-names></name>, <name name-style="western"><surname>B&#x000e9;cavin</surname><given-names>C</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>SARS-CoV-2 entry factors are highly expressed in nasal epithelial cells
+together with innate immune genes</article-title>. <source>Nat Med</source>.
+<year>2020</year>. doi:<pub-id pub-id-type="doi">10.1038/s41591-020-0868-6</pub-id>.</mixed-citation></ref><ref id="CIT0013"><label>13</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>W&#x000f6;lfel</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Corman</surname><given-names>VM</given-names></name>, <name name-style="western"><surname>Guggemos</surname><given-names>W</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Virological assessment of hospitalized patients with
+COVID-2019</article-title>. <source>Nature</source>. <year>2020</year>. doi:<pub-id pub-id-type="doi">10.1038/s41586-020-2196-x</pub-id>.</mixed-citation></ref><ref id="CIT0014"><label>14</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Yao</surname><given-names>HP</given-names></name>, <name name-style="western"><surname>Lu</surname><given-names>XY</given-names></name>, <name name-style="western"><surname>Chen</surname><given-names>Q</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Patient-derived mutations impact pathogenicity of
+SARS-CoV-2</article-title>. <source>medRxiv</source>. <year>2020</year>. doi:<pub-id pub-id-type="doi">10.1101/2020.04.14.20060160</pub-id>.</mixed-citation></ref><ref id="CIT0015"><label>15</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Yeo</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Kaushal</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Yeo</surname><given-names>D.</given-names></name></person-group>
+<article-title>Enteric involvement of coronaviruses: is faecal-oral transmission of
+SARS-CoV-2 possible?</article-title>
+<source>Lancet Gastroenterol Hepatol</source>.
+<year>2020</year>;<volume>5</volume>(<issue>4</issue>):<fpage>335</fpage>&#x02013;<lpage>337</lpage>.
+doi:<pub-id pub-id-type="doi">10.1016/S2468-1253(20)30048-0</pub-id>.<pub-id pub-id-type="pmid">32087098</pub-id></mixed-citation></ref><ref id="CIT0016"><label>16</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Cullen</surname><given-names>JG</given-names></name>, <name name-style="western"><surname>McQuilten</surname><given-names>HA</given-names></name>, <name name-style="western"><surname>Quinn</surname><given-names>KM</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>CD4<sup>+</sup> t help promotes influenza virus-specific CD8<sup>+</sup> T
+cell memory by limiting metabolic dysfunction</article-title>. <source>Proc Natl Acad
+Sci U S A</source>.
+<year>2019</year>;<volume>116</volume>(<issue>10</issue>):<fpage>4481</fpage>&#x02013;<lpage>4488</lpage>.
+doi:<pub-id pub-id-type="doi">10.1073/pnas.1808849116</pub-id>.<pub-id pub-id-type="pmid">30787194</pub-id></mixed-citation></ref><ref id="CIT0017"><label>17</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Laidlaw</surname><given-names>BJ</given-names></name>, <name name-style="western"><surname>Cui</surname><given-names>WG</given-names></name>, <name name-style="western"><surname>Amezquita</surname><given-names>RA</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Production of IL-10 by CD4<sup>+</sup> regulatory T cells during the
+resolution of infection promotes the maturation of memory CD8<sup>+</sup> T
+cells</article-title>. <source>Nat Immunol</source>.
+<year>2015</year>;<volume>16</volume>(<issue>8</issue>):<fpage>871</fpage>&#x02013;<lpage>879</lpage>.
+doi:<pub-id pub-id-type="doi">10.1038/ni.3224</pub-id>.<pub-id pub-id-type="pmid">26147684</pub-id></mixed-citation></ref><ref id="CIT0018"><label>18</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Xu</surname><given-names>Z</given-names></name>, <name name-style="western"><surname>Shi</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>YJ</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Pathological findings of COVID-19 associated with acute respiratory
+distress syndrome</article-title>. <source>Lancet Respir Med</source>.
+<year>2020</year>;<volume>8</volume>(<issue>4</issue>):<fpage>420</fpage>&#x02013;<lpage>422</lpage>.
+doi:<pub-id pub-id-type="doi">10.1016/S221600(20)30076-X</pub-id> doi: <pub-id pub-id-type="doi">10.1016/S2213-2600(20)30076-X</pub-id><pub-id pub-id-type="pmid">32085846</pub-id></mixed-citation></ref><ref id="CIT0019"><label>19</label><mixed-citation publication-type="other"><person-group person-group-type="author"><collab>National Health Commission of China</collab></person-group>
+<comment>New
+coronavirus pneumonia prevention and control program (7th edition). 2020 Mar 3 [cited
+2020 Mar 3]. Available from: <ext-link ext-link-type="uri" xlink:href="http://www.nhc.gov.cn/xcs/zhengcwj/202003/46c9294a7dfe4cef80dc7f5912eb1989/files/ce3e6945832a438eaae415350a8ce964.pdf">http://www.nhc.gov.cn/xcs/zhengcwj/202003/46c9294a7dfe4cef80dc7f5912eb1989/files/ce3e6945832a438eaae415350a8ce964.pdf</ext-link>;
+in Chinese)</comment>.</mixed-citation></ref><ref id="CIT0020"><label>20</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Munster</surname><given-names>VJ</given-names></name>, <name name-style="western"><surname>Koopmans</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Doremalen NV</surname><given-names>D</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>A novel coronavirus emerging in China &#x02013; key questions for impact
+assessment</article-title>. <source>N Engl J Med</source>.
+<year>2020</year>;<volume>382</volume>(<issue>8</issue>):<fpage>692</fpage>&#x02013;<lpage>694</lpage>.
+doi:<pub-id pub-id-type="doi">10.1056/NEJMp2000929</pub-id>.<pub-id pub-id-type="pmid">31978293</pub-id></mixed-citation></ref></ref-list></back></article>

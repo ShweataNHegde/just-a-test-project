@@ -1,0 +1,600 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.2 20190208//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.2?><?ConverterInfo.XSLTName jpoasis-nisons2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Emerg Microbes Infect</journal-id><journal-id journal-id-type="iso-abbrev">Emerg Microbes Infect</journal-id><journal-title-group><journal-title>Emerging Microbes &#x00026; Infections</journal-title></journal-title-group><issn pub-type="epub">2222-1751</issn><publisher><publisher-name>Taylor &#x00026; Francis</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">7477621</article-id><article-id pub-id-type="pmid">32525765</article-id><article-id pub-id-type="publisher-id">1773745</article-id><article-id pub-id-type="doi">10.1080/22221751.2020.1773745</article-id><article-version vocab="JAV" vocab-identifier="http://www.niso.org/publications/rp/RP-8-2008.pdf" vocab-term="Version of Record" article-version-type="VoR">Version of
+Record</article-version><article-categories><subj-group subj-group-type="article-type"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Articles</subject></subj-group></article-categories><title-group><article-title>Genetic cluster analysis of SARS-CoV-2 and the identification of those
+responsible for the major outbreaks in various countries</article-title><alt-title alt-title-type="right-running-head">Emerging Microbes &#x00026;
+Infections</alt-title><alt-title alt-title-type="left-running-head">X. Yang et al.</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Yang</surname><given-names>Xuemei</given-names></name><xref ref-type="aff" rid="AF1">a</xref><xref ref-type="author-notes" rid="an1">*</xref></contrib><contrib contrib-type="author"><name><surname>Dong</surname><given-names>Ning</given-names></name><xref ref-type="aff" rid="AF1">a</xref><xref ref-type="author-notes" rid="an1">*</xref></contrib><contrib contrib-type="author"><name><surname>Chan</surname><given-names>Edward Wai-Chi</given-names></name><xref ref-type="aff" rid="AF2">b</xref></contrib><contrib contrib-type="author"><name><surname>Chen</surname><given-names>Sheng</given-names></name><xref ref-type="aff" rid="AF1">a</xref><xref ref-type="corresp" rid="cor1"/></contrib><aff id="AF1"><label>a</label><institution>Department of Infectious Diseases and Public
+Health, Jockey Club College of Veterinary Medicine and Life Sciences, City University of
+Hong Kong</institution>, <city>Kowloon</city>, <country>Hong Kong</country></aff><aff id="AF2"><label>b</label><institution>State Key Lab of Chemical Biology and Drug
+Discovery, Department of Applied Biology and Chemical Technology, The Hong Kong
+Polytechnic University</institution>, <city>Kowloon</city>, <country>Hong
+Kong</country></aff></contrib-group><author-notes><corresp id="cor1"><label>CONTACT</label> Sheng Chen <email xlink:href="shechen@cityu.edu.hk">shechen@cityu.edu.hk</email></corresp><fn id="an1"><label>*</label><p>Contribute equally to the work.</p></fn></author-notes><pub-date date-type="pub" publication-format="electronic"><day>11</day><month>6</month><year>2020</year></pub-date><pub-date date-type="collection" publication-format="electronic"><year>2020</year></pub-date><volume>9</volume><issue>1</issue><fpage seq="151">1287</fpage><lpage>1299</lpage><permissions><copyright-statement>&#x000a9; 2020 The Author(s). Published by Informa UK Limited, trading as
+Taylor &#x00026; Francis Group, on behalf of Shanghai Shangyixun Cultural Communication Co.,
+Ltd</copyright-statement><copyright-year>2020</copyright-year><copyright-holder>The Author(s)</copyright-holder><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>), which permits unrestricted
+use, distribution, and reproduction in any medium, provided the original work is
+properly cited.</license-p><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="vor">http://creativecommons.org/licenses/by/4.0/</ali:license_ref></license></permissions><self-uri content-type="pdf" xlink:href="TEMI_9_1773745.pdf"/><abstract><title>ABSTRACT</title><p>A newly emerged coronavirus, SARS-CoV-2, caused severe pneumonia outbreaks in China in
+December 2019 and has since spread to various countries around the world. To trace the
+evolution route and probe the transmission dynamics of this virus, we performed
+phylodynamic analysis of 247 high quality genomic sequences available in the GISAID
+platform as of 5 March 2020. Among them, four genetic clusters, defined as super-spreaders
+(SSs), could be identified and were found to be responsible for the major outbreaks that
+subsequently occurred in various countries. SS1 was widely disseminated in Asia and the
+US, and mainly responsible for outbreaks in the states of Washington and California as
+well as South Korea, whereas SS4 contributed to the pandemic in Europe. Using the
+signature mutations of each SS as markers, we further analysed 1539 genome sequences
+reported after 29 February 2020 and found that 90% of these genomes belonged to SSs, with
+SS4 being the most dominant. The relative degree of contribution of each SS to the
+pandemic in different continents was also depicted. Identification of these
+super-spreaders greatly facilitates development of new strategies to control the
+transmission of SARS-CoV-2.</p></abstract><kwd-group kwd-group-type="author"><title>KEYWORDS</title><kwd>SARS-CoV-2</kwd><kwd>COVID-19</kwd><kwd>transmission</kwd><kwd>phylodynamic analysis</kwd><kwd>super-spreader</kwd></kwd-group><counts><fig-count count="3"/><table-count count="5"/><equation-count count="0"/><ref-count count="21"/><page-count count="13"/></counts></article-meta></front><body><sec sec-type="intro" id="S001"><title>Introduction</title><p>A number of newly emerged coronaviruses such as the highly pathogenic severe acute
+respiratory syndrome coronavirus (SARS-CoV) and Middle East respiratory syndrome coronavirus
+(MERS-CoV) have caused serious respiratory and intestinal infections in human within the
+past two decades [<xref rid="CIT0001" ref-type="bibr">1</xref>]. In December 2019, another
+new coronavirus, SARS-CoV-2, has emerged and caused outbreaks of lower respiratory tract
+infections, often with poor clinical outcome, in Wuhan, China. The virus, which has since
+spread to other cities in China and various countries worldwide [<xref rid="CIT0002" ref-type="bibr">2</xref>], exhibited a high potential to undergo human-to-human
+transmission [<xref rid="CIT0003" ref-type="bibr">3</xref>]. As of 7 May 2020, 3.7 million
+infections were recorded worldwide, among which a total of 3 million cases occurred in
+Northern America and Europe, and 83,000 cases were documented in China (<ext-link ext-link-type="uri" xlink:href="https://www.gisaid.org/epiflu-applications/global-cases-betacov/">https://www.gisaid.org/epiflu-applications/global-cases-betacov/</ext-link>). The WHO
+declared the risk of SARS-CoV-2 infection as &#x0201c;Very High&#x0201d; in late February (<ext-link ext-link-type="uri" xlink:href="https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200228-sitrep-39-covid-19.pdf">https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200228-sitrep-39-covid-19.pdf</ext-link>).</p><p>The genomic characteristics of SARS-CoV-2 have been elucidated by means of phylogenetic,
+structural and mutational analyses by scientists around the world [<xref rid="CIT0004" ref-type="bibr">4</xref>]. High-throughput sequencing showed that SARS-CoV-2 was a novel
+betacoronavirus which resembled SARS-CoV at around 79.5% sequence identity [<xref rid="CIT0005" ref-type="bibr">5</xref>,<xref rid="CIT0006" ref-type="bibr">6</xref>]. A
+recent study indicated that SARS-CoV-2 was 96% identical to a bat coronavirus RaTG13
+(accession: MN996532) at the genomic level, suggesting that bat might be a natural host of
+SARS-CoV-2 [<xref rid="CIT0007" ref-type="bibr">7</xref>]. GISAID is a platform for sharing
+genetic data of influenza. Currently, a rapidly increasing number of SARS-CoV-2 genomic
+sequences are being deposited into this database from laboratories around the world [<xref rid="CIT0008" ref-type="bibr">8</xref>]. On the other hand, some recent studies also
+suspected that Malayan pangolins (<italic>Manis javanica</italic>) could be the
+intermediate host of this new coronavirus, since the amino acid sequence of the S protein of
+coronaviruses derived from Malayan pangolins illegally imported to Guangdong Province of
+China, as well as coronaviruses harboured by pangolins in Guangxi province of China,
+exhibited very high homology with the S protein sequence of SARS-CoV-2, even though the
+overall homology between SARS-CoV-2 and RaTG13 is still the highest [<xref rid="CIT0009" ref-type="bibr">9</xref>]. However, due to the inability to detect or isolate SARS-CoV-2
+from pangolins in the Wuhan Huanan seafood wholesale market, the site in which the first
+batch of infected patients had commonly visited, the theory of pangolins being the culprit
+of the Wuhan pneumonia outbreak is not substantiated. The intermediate host for SARS-CoV-2
+therefore remains a mystery. In fact, it remains unclear if the Huanan Seafood Wholesale
+Market is the origin of this outbreak as some of the earliest cases were confirmed to have
+no linkage with this market. It is necessary to identify the source(s) of virus(es) that
+caused this outbreak to design more effective control measures to stop the continuous
+worldwide transmission of these highly contagious viruses. With more sequences being
+released, we can obtain a more comprehensive view on the genomic features of this virus
+through in-depth sequence analysis. One recent study has analysed over 100 available genome
+sequences and showed that sequences belonging to different genetic clusters have evolved
+[<xref rid="CIT0010" ref-type="bibr">10</xref>]. In this work, we retrieved and analysed
+the publicly shared genome sequences of SARS-CoV-2 available as of 26 March 2020 to
+investigate the genetic diversity and phylodynamics of these viruses. We identified four
+distinct viral clusters which apparently exhibit high mutation rate and have become the most
+dominant viruses that prevailed in the global pandemic that started in January, 2020.
+Results in this study should provide valuable insight into key factors that scientists and
+clinicians need to consider in the control of the SARS-CoV-2 pandemic, in particular the
+transmission fitness and differential virulence levels of different viral strains.</p></sec><sec sec-type="materials methods" id="S002"><title>Materials and methods</title><sec id="S002-S2001"><title>Sequence analysis, alignment and mutation identification</title><p>A total of 343 full-length SARS-CoV-2 genomes available in the GISAID platform (<ext-link ext-link-type="uri" xlink:href="https://platform.gisaid.org/">https://platform.gisaid.org/</ext-link>) as of 10 March 2020 with 5 March 2020 as
+cut-off date were downloaded [<xref rid="CIT0008" ref-type="bibr">8</xref>]. A total of
+247 sequences with high sequence quality as noted in the GISAID database were included for
+further analysis after removing sequences containing little temporal signal and thus are
+not unsuitable for inference using phylogenetic molecular clock models. Information
+regarding the date and country of isolation were also retrieved from the GISAID platform.
+The annotated reference genome sequence of the SARS-CoV-2 isolate Wuhan-Hu-1 (accession:
+NC_045512.2) was downloaded from the NCBI GenBank database. All genomes were annotated by
+GATU Genome Annotator [<xref rid="CIT0011" ref-type="bibr">11</xref>] using the SARS-CoV-2
+isolate Wuhan-Hu-1 (NC_045512.2) as reference [<xref rid="CIT0012" ref-type="bibr">12</xref>]. Nucleotide and amino acid mutations of all genome and separate proteins
+were analysed by blast (<ext-link ext-link-type="uri" xlink:href="https://blast.ncbi.nlm.nih.gov/">https://blast.ncbi.nlm.nih.gov/</ext-link>)
+using the sequence of strain Wuhan-Hu-1 as reference.</p></sec><sec id="S002-S2002"><title>Phylodynamic analysis</title><p>Global genomic surveillance of SARS-CoV-2 was implemented by means of the automated
+phylogenetic analysis pipeline Nextstrain, which generates an interactive visualization
+integrating a phylogeny with sample metadata such as geographic location or isolation date
+[<xref rid="CIT0013" ref-type="bibr">13</xref>]. The pipeline involved the sequence
+alignment module with MAFFT [<xref rid="CIT0014" ref-type="bibr">14</xref>], phylogenetic
+analysis with IQ-TREE [<xref rid="CIT0015" ref-type="bibr">15</xref>], maximum-likelihood
+phylodynamic analysis with Treetime [<xref rid="CIT0016" ref-type="bibr">16</xref>],
+identification of nucleotide and amino acid mutations with Augur, and result visualization
+with Auspice [<xref rid="CIT0013" ref-type="bibr">13</xref>]. The outputs were edited by
+Inkscape 0.91 [<xref rid="CIT0017" ref-type="bibr">17</xref>].</p></sec><sec id="S002-S2003"><title>Phylogenetic analysis</title><p>Alignment of the complete genome sequences of SARS-CoV-2 strains was conducted with MAFFT
+v7.310 [<xref rid="CIT0014" ref-type="bibr">14</xref>]. Phylogenetic tree of all
+SARS-CoV-2 strains was built with RAxML version 8.2.4 [<xref rid="CIT0018" ref-type="bibr">18</xref>]. The tree was edited by iTOL [<xref rid="CIT0019" ref-type="bibr">19</xref>].</p></sec><sec id="S002-S2004"><title>Quick identification of the types of SARS-CoV-2 genomes in the database</title><p>All complete genomes available as of 28 March 2020 with 26 March 2020 as cut-off date in
+the GISAID database were downloaded. Single Nucleotide Polymorphisms (SNPs) calling were
+performed by Snippy (<ext-link ext-link-type="uri" xlink:href="https://github.com/tseemann/snippy">https://github.com/tseemann/snippy</ext-link>) using Wuhan-Hu-1 as reference.
+Super-spreader clusters were classified according relative variants. A total of 1539
+qualified genomes submitted after 29 February 2020 were included.</p></sec></sec><sec id="S003"><title>Results</title><sec id="S003-S2001"><title>Phylodynamics analysis of genome sequences of SARS-CoV-2 strains collected
+worldwide</title><p>To trace the evolution process and identify the common ancestor of 247 strains of
+SARS-CoV-2 collected worldwide, root-to-tip regression scatter plots was conducted among
+all SARS-CoV-2 genomes, with <italic>R</italic><sup>2</sup> being found to be
+0.23, suggesting that these 247 viral sequences shared a common recent ancestor (Figure
+S1a). The date of the most recent common ancestor (tMRCA) of all reported SARS-CoV-2
+viruses was 12 November 2019, suggesting that this virus emerged recently (Figure S1a). A
+total of 379 nucleotide mutations were identified among these 247 sequences based on
+sequence alignment, among which G<sup>11083</sup>T (<italic>n&#x02009;</italic>=&#x02009;5),
+T<sup>3</sup>G (<italic>n&#x02009;</italic>=&#x02009;3), G<sup>29864</sup>A (<italic>n&#x02009;</italic>=&#x02009;3), C<sup>29870</sup>A (<italic>n&#x02009;</italic>=&#x02009;3),
+A<sup>1</sup>T (<italic>n&#x02009;</italic>=&#x02009;2), A<sup>4</sup>T (<italic>n&#x02009;</italic>=&#x02009;2), T<sup>4402</sup>C (<italic>n&#x02009;</italic>=&#x02009;2),
+G<sup>5062</sup>T (<italic>n&#x02009;</italic>=&#x02009;2), T<sup>18603</sup>C (<italic>n&#x02009;</italic>=&#x02009;2) and G<sup>22661</sup>T (<italic>n&#x02009;</italic>=&#x02009;2) were the most homoplasic mutations (<xref rid="F0001" ref-type="fig">Figure 1</xref>, Table S1). A total of 147 strains were found to contain single amino
+acid change, with the majority of such changes being located within ORF1ab (<italic>n&#x02009;</italic>=&#x02009;104). The L<sup>3606</sup>F change was detected in two viral
+sequences, while other mutations occurred only once. Mutations that result in amino acid
+changes include single substitution in the S protein (<italic>n&#x02009;</italic>=&#x02009;19, D<sup>614</sup>G, L<sup>752</sup>F, F<sup>32</sup>I, H<sup>655</sup>Y,
+V<sup>483</sup>A, F<sup>157</sup>L, V<sup>615</sup>L, K<sup>202</sup>N,
+S<sup>939</sup>F, F<sup>797</sup>C, A<sup>930</sup>V, R<sup>408</sup>I, V<sup>367</sup>F,
+Q<sup>409</sup>E, S<sup>254</sup>F, A<sup>435</sup>S, D<sup>1146</sup>E,
+S<sup>247</sup>R and P<sup>1143</sup>L), ORF3a (<italic>n&#x02009;</italic>=&#x02009;8,
+E<sup>191</sup>G, G<sup>76</sup>S, K<sup>61</sup>N, V<sup>259</sup>L, T<sup>176</sup>I,
+L<sup>140</sup>V, T<sup>269</sup>M and V<sup>88</sup>L), N protein (<italic>n&#x02009;</italic>=&#x02009;6, K<sup>247</sup>I, S<sup>194</sup>L, P<sup>46</sup>S, S<sup>327</sup>L,
+E<sup>378</sup>Q and D<sup>343</sup>V), ORF8 (<italic>n&#x02009;</italic>=&#x02009;4,
+T<sup>11</sup>I, L<sup>84</sup>S, S<sup>97</sup>N and S<sup>67</sup>F), ORF7a (<italic>n&#x02009;</italic>=&#x02009;3, P<sup>34</sup>S, Q62* and H<sup>73</sup>Q), ORF10 (<italic>n&#x02009;</italic>=&#x02009;2, P<sup>10</sup>S and I<sup>13</sup>M) and E protein (<italic>n&#x02009;</italic>=&#x02009;1, S<sup>6</sup>L) (Figure S1b). Identification of single
+amino acid substitutions in SARS-CoV-2 isolates consistently showed that these isolates
+shared a recent common ancestor but entered diverse evolution paths. The estimated
+substitution rate of SARS-CoV-2 was 8.90e-04 subs/site/year, which was similar to that of
+other RNA viruses including SARS-CoV, Ebola virus, Zika virus and others, which was found
+to be at &#x0223c; 1e-3 subs/site/year (<ext-link ext-link-type="uri" xlink:href="http://virological.org/t/phylodynamic-analysis-93-genomes-15-feb-2020/356">http://virological.org/t/phylodynamic-analysis-93-genomes-15-feb-2020/356</ext-link>).
+Based on this mutation rate, a genome of 29&#x02005;kb (kilobase) of SARS-CoV-2 will end up with
+&#x0223c;26 mutations per genome per year, suggesting that within the four months&#x02019; study period,
+the number of mutations in each genome should not exceed ten if all test isolates emerged
+as a result of natural evolution of a single SARS-CoV-2 strain. <fig id="F0001" orientation="portrait" position="float"><label>Figure 1.</label><caption><p>Phylogentic analysis of SARS-CoV-2 genomes. Four super-spreader clusters (SSs) were
+identified. Each SS was found to exhibit a signature mutation profile.</p></caption><alternatives><graphic specific-use="web-only" content-type="color" xlink:href="TEMI_A_1773745_F0001_OC"/><graphic specific-use="print-only" content-type="black-white" xlink:href="TEMI_A_1773745_F0001_PB"/></alternatives></fig></p></sec><sec id="S003-S2002"><title>Multiple origins of SARS-CoV-2 in Wuhan, China</title><p>To shed light on the evolution trend of SARS-CoV-2, we analysed the time-dependent
+changes in mutation profiles of the test strains in detail. A total of 16 viral genomes
+collected before 1 January 2020, were included (Table S2). All of these 16 genomes were
+obtained from Wuhan, with half being from Huanan Seafood Wholesale Market (HNSM). Six
+genomes contained identical sequences, four of which belonged to isolates obtained from
+HNSM. Compared to these six viral genomes, others displayed various mutation profiles
+which comprised 1 to 6 mutations in the genome. We therefore set these six genomes as
+reference genome for subsequent analyses. Two earliest viral genomes reported on 24 and 26
+December 2019 were found to harbour two and three mutations when compared to the reference
+viral genome, respectively. Four viral genomes from HNSM also contained two mutations with
+different profiles, suggesting that the original SARS-CoV-2 strain might have been
+circulating in HNSM for a certain period of time and underwent mutational changes in
+different intermediate hosts before infecting human (Table S1). These observations
+suggested that HNSM was not the only origin of the COVID-19 outbreak, instead the market
+might only serve as a medium in which transmission of this virus to human first occurred.
+The original virus was transmitted to various provinces in China subsequently, including
+Guangdong, Zhejiang, Anhui, Jiangsu and Chongqing, and then to other countries such as
+Japan, Taiwan, Thailand and USA in the following month (January 2020). The viral genomes
+reported initially from USA were those of viruses recovered from patients in the Princess
+Diamond Cruise, confirming that the original virus was the one that caused the outbreak in
+this cruise; such view is consistent with the finding that identical genomes were reported
+in Japan, where the cruise ship was docked. A total of 26 out of the 247 genome sequences
+tested contain one mutation. Unless isolated from the same location, most of these genomes
+exhibit unique mutational profile. Five sequences from the Princess Diamond cruise ship
+were found to exhibit unique mutation profiles, thus further suggesting that the virus
+could undergo adaptive evolution during the transmission process, generating a number of
+genetic variants. It should be noted that these genome sequences were also reported in
+Wuhan, other parts of China and various other countries, confirming that the transmission
+of the original virus to different parts of the world was accompanied by active but random
+mutational changes during the process (Table S1).</p></sec><sec id="S003-S2003"><title>Phylogenetic analysis of genome sequences of SARS-CoV-2</title><p>Phylogenetic analysis of the 247 SARS-CoV-2 genomes was also performed, with results
+showing that such viral genomes exhibited highly diverse genetic profiles and that random
+mutations occurred during the evolution process within the first two months.
+Interestingly, four distinct clusters of genome sequences could be identified among the
+247 genomes, with the rest exhibiting more diverse profiles. These results were consistent
+with the data of maximum-likelihood phylodynamic analysis shown in <xref rid="F0001" ref-type="fig">Figure 1</xref>. Comparison of the mutation profile of each cluster
+enabled us to discover that all viral genomes in the same cluster were derived from one
+parental viral strain which bears a signature mutation profile, as such profile could be
+identified in all offsprings of that parental strain (<xref rid="F0001" ref-type="fig">Figure 1</xref>). The first cluster contained two mutations, C<sup>8782</sup>T and
+T<sup>28144</sup>C; the second cluster contained the mutation G<sup>26144</sup>T; the
+third cluster contained the mutation G<sup>11083</sup>T; the fourth cluster contained
+three mutations, C<sup>241</sup>T, C<sup>3037</sup>T and A<sup>23403</sup>G. Tracing the
+changes in mutation profiles of these viral genomes over time allowed us to visualize the
+transmission and evolution dynamics of SARS-CoV-2. Since viruses of all of these four
+clusters exhibited very high potential to undergo global transmission, we define viruses
+in these four clusters as super-spreader cluster 1 (SS1), 2 (SS2), 3(SS3) and 4(SS4)
+respectively.</p></sec><sec id="S003-S2004"><title>Evolution and transmission of super-spreader cluster 1 (SS1)</title><p>SS1 carried the signature mutation profile of C<sup>8782</sup>T and T<sup>28144</sup>C.
+The C<sup>8782</sup>T change is a silent mutation, whereas T<sup>28144</sup>C is
+associated with the amino acid substitution L<sup>84</sup>S in the Orf8 protein. The SS1
+viruses were presumably transmitted very efficiently, as a total of 85 out of the 247
+(34%) genome sequences tested were found to belong to this cluster as of 3 March 2020. The
+earliest sequences in this cluster was reported in Wuhan, China on 5 January 2020; another
+seven were subsequently reported in January and February in different parts of China and
+Australia, suggesting that widespread transmission of this cluster of viruses occurred
+(<xref rid="T0001" ref-type="table">Table 1</xref>). The viruses in SS1 were mainly
+transmitted among Asian countries such as China, Vietnam, Japan, South Korea, Taiwan and
+Singapore, but were also detectable in North America, in particular the states of
+California and Washington in USA (<xref rid="T0001" ref-type="table">Table 1</xref>). The
+viruses in SS1 were also found to rapidly mutate along the transmission paths. Three
+genome sequences that were reported from Australia, Vietnam and USA on 24, 28 February and
+3 March 2020 respectively, were found to harbour a total of 11 mutations. An additional
+nine mutations were acquired by the parental virus within 50 days (from 5 January to 24
+February 2020), with a mutation rate of 2.3e-3 subs/site/year (29&#x02005;kb genome size), which
+was much higher than the predicted mutation rate of SARS-CoV-2 (4.057 e-4 subs/site/year)
+and other coronaviruses such as SARS-CoV and MERS virus. Among viral genomes in this
+cluster, 43 of the 85 genomes exhibited five or more mutations (<xref rid="T0001" ref-type="table">Table 1</xref>). <table-wrap id="T0001" orientation="portrait" position="float"><label>Table 1.</label><caption><title>Mutation analysis of genome sequences in super-spreader cluster 1.</title></caption><!--OASIS TABLE HERE--><table frame="hsides" rules="groups"><colgroup><col width="1*"/><col width="1*"/><col width="1*"/><col width="1*"/><col width="1*"/><col width="1*"/></colgroup><thead valign="bottom"><tr><th align="left">Accession ID</th><th align="center">Location</th><th align="center">Collection date</th><th align="center">Origin</th><th align="center">Number of mutations / % of sequence
+homology with reference sequence</th><th align="center">Nucleotide changes</th></tr></thead><tbody><tr><td align="left">EPI_ISL_406801</td><td align="left">Asia / China / Hubei /
+Wuhan</td><td align="left">2020-01-05</td><td align="center">NC</td><td align="center">2 / 99%</td><td align="left">&#x02606; (C<sup>8782</sup>T,
+T<sup>28144</sup>C)</td></tr><tr><td align="left">EPI_ISL_407893</td><td align="left">Oceania / Australia / New South Wales /
+Sydney</td><td align="left">2020-01-24</td><td align="center">NC</td><td align="center">2 / 99%</td><td align="left">&#x02606;</td></tr><tr><td align="left">EPI_ISL_412979</td><td align="left">China / Hubei / Wuhan</td><td align="left">2020-01-18</td><td align="center">NC</td><td align="center">2 / 99%</td><td align="left">&#x02606;</td></tr><tr><td align="left">EPI_ISL_413691</td><td align="left">China</td><td align="left">2020-01</td><td align="center">NC</td><td align="center">2 / 99%</td><td align="left">&#x02606;</td></tr><tr><td align="left">EPI_ISL_413729</td><td align="left">China</td><td align="left">2020-02</td><td align="center">NC</td><td align="center">2 / 99%</td><td align="left">&#x02606;</td></tr><tr><td align="left">EPI_ISL_413746</td><td align="left">China</td><td align="left">2020-02</td><td align="center">NC</td><td align="center">2 / 99%</td><td align="left">&#x02606;</td></tr><tr><td align="left">EPI_ISL_413748</td><td align="left">China</td><td align="left">2020-02</td><td align="center">NC</td><td align="center">2 / 99%</td><td align="left">&#x02606;</td></tr><tr><td align="left">EPI_ISL_413750</td><td align="left">China</td><td align="left">2020-02</td><td align="center">NC</td><td align="center">2 / 99%</td><td align="left">&#x02606;</td></tr><tr><td align="left">EPI_ISL_403932</td><td align="left">China / Guandong / Shenzhen</td><td align="left">2020-01-14</td><td align="center">NC</td><td align="center">3 / 99%</td><td align="left">&#x02606; &#x02563; (C<sup>8782</sup>T,
+T<sup>28144</sup>C, C<sup>29095</sup>T)</td></tr><tr><td align="left">EPI_ISL_403933</td><td align="left">China / Guandong / Shenzhen</td><td align="left">2020-01-15</td><td align="center">NC</td><td align="center">3 / 99%</td><td align="left">&#x02606; &#x02563;</td></tr><tr><td align="left">EPI_ISL_403935</td><td align="left">China / Guangdong /
+Shenzhen</td><td align="left">2020-01-15</td><td align="center">NC</td><td align="center">3 / 99%</td><td align="left">&#x02606; &#x02563;</td></tr><tr><td align="left">EPI_ISL_406030</td><td align="left">China / Guangdong /
+Shenzhen</td><td align="left">2020-01-10</td><td align="center">WH</td><td align="center">3 / 99%</td><td align="left">&#x02606; &#x02563;</td></tr><tr><td align="left">EPI_ISL_406593</td><td align="left">Asia / China / Guandong /
+Shenzhen</td><td align="left">2020-01-13</td><td align="center">NC</td><td align="center">3 / 99%</td><td align="left">&#x02606; &#x02563;</td></tr><tr><td align="left">EPI_ISL_406223</td><td align="left">USA / Arizona / Phoenix</td><td align="left">2020-01-22</td><td align="center">NC</td><td align="center">4 / 99%</td><td align="left">&#x02606; &#x02563;G<sup>11083</sup>T</td></tr><tr><td align="left">EPI_ISL_413809</td><td align="left">China</td><td align="left">2020-02</td><td align="center">NC</td><td align="center">4 / 99%</td><td align="left">&#x02606; &#x02563;G<sup>18686</sup>T</td></tr><tr><td align="left">EPI_ISL_408666</td><td align="left">Japan / Tokyo</td><td align="left">2020-01-31</td><td align="center">NC</td><td align="center">4 / 99%</td><td align="left">&#x02606; &#x02563;C<sup>2662</sup>T</td></tr><tr><td align="left">EPI_ISL_408665</td><td align="left">Japan / Tokyo</td><td align="left">2020-01-29</td><td align="center">NC</td><td align="center">5 / 99%</td><td align="left">&#x02606; &#x02563;C<sup>2662</sup>T;
+C<sup>3792</sup>T</td></tr><tr><td align="left">EPI_ISL_408667</td><td align="left">Japan / Tokyo</td><td align="left">2020-01-31</td><td align="center">NC</td><td align="center">5 / 99%</td><td align="left">&#x02606; &#x02563;C<sup>2662</sup>T,
+G<sup>29705</sup>T</td></tr><tr><td align="left">EPI_ISL_405839</td><td align="left">China / Guangdong /
+Shenzhen</td><td align="left">2020-01-11</td><td align="center">WH</td><td align="center">5 / 99%</td><td align="left">&#x02606; &#x02563;C<sup>9561</sup>T;
+T<sup>15607</sup>C</td></tr><tr><td align="left">EPI_ISL_411956</td><td align="left">North America / USA / Texas</td><td align="left">2020-02-11</td><td align="center">NC</td><td align="center">7 / 99%</td><td align="left">&#x02606; &#x02563;T<sup>18603</sup>C;
+T<sup>18975</sup>A; A<sup>19175</sup>C; C<sup>27925</sup>T</td></tr><tr><td align="left">EPI_ISL_404895</td><td align="left">USA / Washington / Snohomish
+County</td><td align="left">2020-01-19</td><td align="center">NC</td><td align="center">3 / 99%</td><td align="left">&#x02606; T<sup>28144</sup>C</td></tr><tr><td align="left">EPI_ISL_407976</td><td align="left">Europe / Belgium / Leuven</td><td align="left">2020-02-03</td><td align="center">WH</td><td align="center">3 / 99%</td><td align="left">&#x02606; A<sup>29863</sup>T</td></tr><tr><td align="left">EPI_ISL_408480</td><td align="left">China / Yunnan / Kunming</td><td align="left">2020-01-17</td><td align="center">NC</td><td align="center">3 / 99%</td><td align="left">&#x02606; G<sup>11083</sup>T</td></tr><tr><td align="left">EPI_ISL_408489</td><td align="left">Taiwan / Taipei</td><td align="left">2020-01-31</td><td align="center">WH</td><td align="center">3 / 99%</td><td align="left">&#x02606; G<sup>11528</sup>S</td></tr><tr><td align="left">EPI_ISL_410535</td><td align="left">Singapore</td><td align="left">2020-02-03</td><td align="center">NC</td><td align="center">3 / 99%</td><td align="left">&#x02606; G<sup>28878</sup>A</td></tr><tr><td align="left">EPI_ISL_411926</td><td align="left">Taiwan / Taipei</td><td align="left">2020-01-24</td><td align="center">NC</td><td align="center">3 / 99%</td><td align="left">&#x02606; A<sup>29889</sup>G</td></tr><tr><td align="left">EPI_ISL_413854</td><td align="left">China / Guangdong</td><td align="left">2020-01-30</td><td align="center">NC</td><td align="center">3 / 99%</td><td align="left">&#x02606; C<sup>6501</sup>T</td></tr><tr><td align="left">EPI_ISL_411060</td><td align="left">China / Fujian</td><td align="left">2020-01-21</td><td align="center">NC</td><td align="center">3 / 99%</td><td align="left">&#x02606; &#x02567; (C<sup>8782</sup>T,
+T<sup>28144</sup>C, C<sup>18060</sup>T)</td></tr><tr><td align="left">EPI_ISL_407214</td><td align="left">USA / Washington</td><td align="left">2020-01-25</td><td align="center">NC</td><td align="center">3 / 99%</td><td align="left">&#x02606; &#x02567;</td></tr><tr><td align="left">EPI_ISL_407215</td><td align="left">USA / Washington</td><td align="left">2020-01-25</td><td align="center">NC</td><td align="center">3 / 99%</td><td align="left">&#x02606; &#x02567;</td></tr><tr><td align="left">EPI_ISL_408478</td><td align="left">China / Chongqinq /
+Yongchuan</td><td align="left">2020-01-21</td><td align="center">NC</td><td align="center">5 / 99%</td><td align="left">&#x02606; &#x02567; C<sup>29200</sup>T,
+C<sup>1342</sup>T</td></tr><tr><td align="left">EPI_ISL_413456</td><td align="left">USA / Washington / King
+County</td><td align="left">2020-02-20</td><td align="center">NC</td><td align="center">5 / 99%</td><td align="left">&#x02606; &#x02567; &#x02564; (C<sup>8782</sup>T,
+T<sup>28144</sup>C, C<sup>18060</sup>T, C<sup>17747</sup>T,
+A<sup>17858</sup>G)</td></tr><tr><td align="left">EPI_ISL_413560</td><td align="left">USA / Washington</td><td align="left">2020-02-28</td><td align="center">NC</td><td align="center">5 / 99%</td><td align="left">&#x02606; &#x02567; &#x02564;</td></tr><tr><td align="left">EPI_ISL_412970</td><td align="left">USA / Washington / Snohomish
+County</td><td align="left">2020-02-24</td><td align="center">NC</td><td align="center">6 / 99%</td><td align="left">&#x02606; &#x02567; &#x02564;C<sup>5784</sup>T</td></tr><tr><td align="left">EPI_ISL_413457</td><td align="left">USA / Washington</td><td align="left">2020-02-29</td><td align="center">NC</td><td align="center">6 / 99%</td><td align="left">&#x02606; &#x02567; &#x02564;C<sup>20</sup>S</td></tr><tr><td align="left">EPI_ISL_413458</td><td align="left">USA / Washington</td><td align="left">2020-03-01</td><td align="center">NC</td><td align="center">6 / 99%</td><td align="left">&#x02606; &#x02567; &#x02564;T<sup>20281</sup>C</td></tr><tr><td align="left">EPI_ISL_413563</td><td align="left">USA / Washington</td><td align="left">2020-03-03</td><td align="center">NC</td><td align="center">6 / 99%</td><td align="left">&#x02606; &#x02567; &#x02564;C<sup>9430</sup>A</td></tr><tr><td align="left">EPI_ISL_413650</td><td align="left">USA / Washington</td><td align="left">2020-03-05</td><td align="center">NC</td><td align="center">6 / 99%</td><td align="left">&#x02606; &#x02567; &#x02564; T<sup>23010</sup>C</td></tr><tr><td align="left">EPI_ISL_413651</td><td align="left">USA / Washington</td><td align="left">2020-03-05</td><td align="center">NC</td><td align="center">6 / 99%</td><td align="left">&#x02606; &#x02567; &#x02564; T<sup>23010</sup>C</td></tr><tr><td align="left">EPI_ISL_413653</td><td align="left">USA / Washington</td><td align="left">2020-03-05</td><td align="center">NC</td><td align="center">6 / 99%</td><td align="left">&#x02606; &#x02567; &#x02564; A<sup>6</sup>T</td></tr><tr><td align="left">EPI_ISL_413455</td><td align="left">USA / Washington</td><td align="left">2020-02-28</td><td align="center">NC</td><td align="center">8 / 99%</td><td align="left">&#x02606; &#x02567; &#x02564; T<sup>29867</sup>A,
+G<sup>29868</sup>A, C<sup>29870</sup>A</td></tr><tr><td align="left">EPI_ISL_413486</td><td align="left">USA / Washington</td><td align="left">2020-03-01</td><td align="center">NC</td><td align="center">8 / 99%</td><td align="left">&#x02606; &#x02567; &#x02564; A<sup>3406</sup>C,
+C<sup>5784</sup>T, C<sup>23525</sup>T,</td></tr><tr><td align="left">EPI_ISL_413925</td><td align="left">USA / California / San
+Francisco</td><td align="left">2020-03-05</td><td align="center">GPCS</td><td align="center">8 / 99%</td><td align="left">&#x02606; &#x02567; &#x02564;C<sup>23185</sup>T,
+A<sup>3046</sup>G, A<sup>16467</sup>G</td></tr><tr><td align="left">EPI_ISL_413931</td><td align="left">USA / California / San
+Francisco</td><td align="left">2020-03-05</td><td align="center">NC</td><td align="center">9 / 99%</td><td align="left">&#x02606; &#x02567; &#x02564; A<sup>3046</sup>G,
+A<sup>16467</sup>G, G<sup>16975</sup>T, C<sup>23185</sup>T</td></tr><tr><td align="left">EPI_ISL_413562</td><td align="left">USA / Washington</td><td align="left">2020-03-02</td><td align="center">NC</td><td align="center">10 / 99%</td><td align="left">&#x02606; &#x02567; &#x02564; C<sup>313</sup>del,
+C<sup>9180</sup>T, G<sup>29864</sup>A, T<sup>29867</sup>A,
+G<sup>29868</sup>A</td></tr><tr><td align="left">EPI_ISL_413652</td><td align="left">USA / Washington</td><td align="left">2020-03-05</td><td align="center">NC</td><td align="center">11 / 99%</td><td align="left">&#x02606; &#x02567; &#x02564; T<sup>23010</sup>C,
+G<sup>29861</sup>A, G<sup>29864</sup>C, T<sup>29867</sup>A,
+G<sup>29868</sup>C, C<sup>29870</sup>A</td></tr><tr><td align="left">EPI_ISL_407193</td><td align="left">South Korea / Gyeonggi-do</td><td align="left">2020-01-25</td><td align="center">NC</td><td align="center">4 / 99%</td><td align="left">&#x02606; &#x0252b;(C<sup>8782</sup>T,
+T<sup>28144</sup>C, T<sup>4402</sup>C; G<sup>5062</sup>T)</td></tr><tr><td align="left">EPI_ISL_412870</td><td align="left">South Korea/ Seoul</td><td align="left">2020-01-30</td><td align="center">NC</td><td align="center">4 / 99%</td><td align="left">&#x02606; &#x0252b;</td></tr><tr><td align="left">EPI_ISL_413513</td><td align="left">South Korea</td><td align="left">2020-02-27</td><td align="center">NC</td><td align="center">4 / 99%</td><td align="left">&#x02606; &#x0252b;</td></tr><tr><td align="left">EPI_ISL_413514</td><td align="left">South Korea</td><td align="left">2020-02-27</td><td align="center">NC</td><td align="center">4 / 99%</td><td align="left">&#x02606; &#x0252b;</td></tr><tr><td align="left">EPI_ISL_413515</td><td align="left">South Korea</td><td align="left">2020-02-27</td><td align="center">NC</td><td align="center">4 / 99%</td><td align="left">&#x02606; &#x0252b;</td></tr><tr><td align="left">EPI_ISL_413516</td><td align="left">South Korea</td><td align="left">2020-02-27</td><td align="center">NC</td><td align="center">4 / 99%</td><td align="left">&#x02606; &#x0252b;</td></tr><tr><td align="left">EPI_ISL_413518</td><td align="left">China / Beijing</td><td align="left">2020-01-26</td><td align="center">NC</td><td align="center">4 / 99%</td><td align="left">&#x02606; &#x0252b;</td></tr><tr><td align="left">EPI_ISL_413519</td><td align="left">China / Beijing</td><td align="left">2020-01-28</td><td align="center">NC</td><td align="center">4 / 99%</td><td align="left">&#x02606; &#x0252b;</td></tr><tr><td align="left">EPI_ISL_413521</td><td align="left">China / Beijing</td><td align="left">2020-01-28</td><td align="center">NC</td><td align="center">4 / 99%</td><td align="left">&#x02606; &#x0252b;</td></tr><tr><td align="left">EPI_ISL_413520</td><td align="left">China / Beijing</td><td align="left">2020-01-28</td><td align="center">NC</td><td align="center">5 / 99%</td><td align="left">&#x02606; &#x0252b;A<sup>29301</sup>T</td></tr><tr><td align="left">EPI_ISL_412871</td><td align="left">South Korea / Seoul</td><td align="left">2020-01-31</td><td align="center">NC</td><td align="center">6 / 99%</td><td align="left">&#x02606; &#x0252b;C<sup>1779</sup>T,
+C<sup>15017</sup>T</td></tr><tr><td align="left">EPI_ISL_410718</td><td align="left">Queensland / Gold Coast</td><td align="left">2020-02-05</td><td align="center">NC</td><td align="center">4 / 99%</td><td align="left">&#x02606;&#x02560; (C<sup>8782</sup>T,
+T<sup>28144</sup>C, G<sup>28878</sup>A; G<sup>29742</sup>A)</td></tr><tr><td align="left">EPI_ISL_411954</td><td align="left">USA / California</td><td align="left">2020-02-06</td><td align="center">NC</td><td align="center">4 / 99%</td><td align="left">&#x02606;&#x02560;</td></tr><tr><td align="left">EPI_ISL_413853</td><td align="left">China / Guangdong</td><td align="left">2020-01-30</td><td align="center">NC</td><td align="center">4 / 99%</td><td align="left">&#x02606;&#x02560;</td></tr><tr><td align="left">EPI_ISL_410717</td><td align="left">Australia / Queensland / Gold
+Coast</td><td align="left">2020-02-05</td><td align="center">NC</td><td align="center">5 / 99%</td><td align="left">&#x02606;&#x02560; T<sup>18603</sup>C</td></tr><tr><td align="left">EPI_ISL_412978</td><td align="left">China / Hubei / Wuhan</td><td align="left">2020-01-17</td><td align="center">NC</td><td align="center">4 / 99%</td><td align="left">&#x02606; C<sup>12141</sup>A,
+C<sup>23816</sup>T</td></tr><tr><td align="left">EPI_ISL_413711</td><td align="left">China</td><td align="left">2020&#x02013;02</td><td align="center">NC</td><td align="center">4 / 99%</td><td align="left">&#x02606; C<sup>6501</sup>T,
+C<sup>16887</sup>T</td></tr><tr><td align="left">EPI_ISL_413523</td><td align="left">India / Kerala</td><td align="left">2020-01-31</td><td align="center">China</td><td align="center">6 / 99%</td><td align="left">&#x02606; A<sup>1691</sup>G, C<sup>6501</sup>T,
+C<sup>16877</sup>T, C<sup>24351</sup>T</td></tr><tr><td align="left">EPI_ISL_413749</td><td align="left">China</td><td align="left">2020-02</td><td align="center">NC</td><td align="center">4 / 99%</td><td align="left">&#x02606; C<sup>14768</sup>T,
+A<sup>17805</sup>T</td></tr><tr><td align="left">EPI_ISL_413858</td><td align="left">China / Guangdong</td><td align="left">2020-01-30</td><td align="center">NC</td><td align="center">4 / 99%</td><td align="left">&#x02606; A<sup>27749</sup>N,
+G<sup>27750</sup>N</td></tr><tr><td align="left">EPI_ISL_412980</td><td align="left">China / Hubei / Wuhan</td><td align="left">2020-01-18</td><td align="center">NC</td><td align="center">5 / 99%</td><td align="left">&#x02606; T<sup>18996</sup>C, C<sup>24370</sup>T,
+T<sup>29029</sup>C</td></tr><tr><td align="left">EPI_ISL_407071</td><td align="left">Europe / England</td><td align="left">2020-01-29</td><td align="center">NC</td><td align="center">5 / 99%</td><td align="left">&#x02606; T<sup>22586</sup>Y; T<sup>23605</sup>G;
+T<sup>28144</sup>C</td></tr><tr><td align="left">EPI_ISL_407073</td><td align="left">Europe / England</td><td align="left">2020-01-29</td><td align="center">NC</td><td align="center">5 / 99%</td><td align="left">&#x02606; T<sup>23605</sup>G; T<sup>18488</sup>C,
+A<sup>29596</sup>G</td></tr><tr><td align="left">EPI_ISL_412982</td><td align="left">China / Hubei / Wuhan</td><td align="left">2020-02-07</td><td align="center">NC</td><td align="center">5 / 99%</td><td align="left">&#x02606; G<sup>5657</sup>A, A<sup>23403</sup>G,
+A<sup>25725</sup>G,</td></tr><tr><td align="left">EPI_ISL_413697</td><td align="left">China</td><td align="left">2020-02</td><td align="center">NC</td><td align="center">5 / 99%</td><td align="left">&#x02606; C<sup>207</sup>T, T<sup>946</sup>C,
+A<sup>11430</sup>G</td></tr><tr><td align="left">EPI_ISL_413751</td><td align="left">China</td><td align="left">2020-02</td><td align="center">NC</td><td align="center">5 / 99%</td><td align="left">&#x02606;
+TTT<sup>27792-27794</sup>del</td></tr><tr><td align="left">EPI_ISL_413761</td><td align="left">China</td><td align="left">2020-02</td><td align="center">NC</td><td align="center">5 / 99%</td><td align="left">&#x02606; C<sup>207</sup>T, T<sup>946</sup>C,
+A<sup>11430</sup>G</td></tr><tr><td align="left">EPI_ISL_408484</td><td align="left">China / Sichuan / Chengdu</td><td align="left">2020-01-15</td><td align="center">NC</td><td align="center">6 / 99%</td><td align="left">&#x02606; &#x0258c;T<sup>19190</sup>A;
+C<sup>24034</sup>T</td></tr><tr><td align="left">EPI_ISL_406034</td><td align="left">USA / California / Los
+Angeles</td><td align="left">2020-01-23</td><td align="center">NC</td><td align="center">7 / 99%</td><td align="left">&#x02606; &#x0258c;G<sup>1548</sup>A; C<sup>24034</sup>T,
+A<sup>28792</sup>T</td></tr><tr><td align="left">EPI_ISL_410045</td><td align="left">USA / Illinois</td><td align="left">2020-01-28</td><td align="center">NC</td><td align="center">7 / 99%</td><td align="left">&#x02606; &#x0258c;T<sup>490</sup>A; C<sup>3177</sup>T,
+C<sup>24034</sup>T;</td></tr><tr><td align="left">EPI_ISL_412028</td><td align="left">Hong Kong</td><td align="left">2020-01-22</td><td align="center">NC</td><td align="center">7 / 99%</td><td align="left">&#x02606; &#x0258c;C<sup>1663</sup>T, G<sup>22661</sup>T,
+G<sup>29862</sup>T</td></tr><tr><td align="left">EPI_ISL_408668</td><td align="left">Vietnam / Thanh Hoa</td><td align="left">2020-01-24</td><td align="center">NC</td><td align="center">11 / 99%</td><td align="left">&#x02606; &#x0258c;A<sup>27</sup>T; C<sup>28</sup>del;
+C<sup>24034</sup>T; T<sup>29858</sup>C; G<sup>29861</sup>C;
+G<sup>29864</sup>del; T<sup>29867</sup>A</td></tr><tr><td align="left">EPI_ISL_407896</td><td align="left">Queensland / Gold Coast</td><td align="left">2020-01-30</td><td align="center">NC</td><td align="center">7 / 99%</td><td align="left">&#x02606; A<sup>21949</sup>M; C<sup>24790</sup>T;
+C<sup>25587</sup>T; G<sup>28878</sup>A; G<sup>29742</sup>A</td></tr><tr><td align="left">EPI_ISL_412873</td><td align="left">South Korea /
+Chungcheongnam-do</td><td align="left">2020-02-06</td><td align="center">NC</td><td align="center">7 / 99%</td><td align="left">&#x02606; T<sup>3086</sup>C, C<sup>6255</sup>T,
+G<sup>11083</sup>T, G<sup>17122</sup>A, A<sup>29871</sup>G</td></tr><tr><td align="left">EPI_ISL_413791</td><td align="left">China</td><td align="left">2020-02</td><td align="center">NC</td><td align="center">7 / 99%</td><td align="left">&#x02606; C<sup>207</sup>T, T<sup>946</sup>C,
+A<sup>11430</sup>G, A<sup>16474</sup>G, C<sup>25000</sup>A</td></tr><tr><td align="left">EPI_ISL_404253</td><td align="left">USA / Illinois / Chicago</td><td align="left">2020-01-21</td><td align="center">NC</td><td align="center">8 / 99%</td><td align="left">T<sup>490</sup>W; C<sup>3177</sup>Y;
+C<sup>24034</sup>Y; T<sup>26729</sup>Y; G<sup>28077</sup>Y;
+C<sup>28854</sup>Y</td></tr><tr><td align="left">EPI_ISL_412869</td><td align="left">South Korea /Seoul</td><td align="left">2020-01-30</td><td align="center">NC</td><td align="center">8 / 99%</td><td align="left">&#x02606; A<sup>1740</sup>C, T<sup>8767</sup>C,
+C<sup>17104</sup>T, G<sup>26167</sup>T, G<sup>29593</sup>A,
+A<sup>29869</sup>G</td></tr><tr><td align="left">EPI_ISL_412983</td><td align="left">China / Hubei / Tianmen</td><td align="left">2020-02-08</td><td align="center">NC</td><td align="center">9 / 99%</td><td align="left">&#x02606; A<sup>3175</sup>G, G<sup>3179</sup>A,
+C<sup>14422</sup>T, C<sup>14585</sup>T, G<sup>23405</sup>C,
+C<sup>28315</sup>T, T<sup>29680</sup>K</td></tr><tr><td align="left">EPI_ISL_413485</td><td align="left">China / Anhui / Suzhou</td><td align="left">2020-01-24</td><td align="center">NC</td><td align="center">9 / 99%</td><td align="left">&#x02606; A<sup>4</sup>T, C<sup>2189</sup>T,
+T<sup>3086</sup>C, A<sup>5094</sup>G, G<sup>11083</sup>del,
+C<sup>16049</sup>T, G<sup>17122</sup>A,</td></tr><tr><td align="left">EPI_ISL_407894</td><td align="left">Queensland / Gold Coast</td><td align="left">2020-01-28</td><td align="center">NC</td><td align="center">11 / 99%</td><td align="left">&#x02606; A<sup>6604</sup>R; C<sup>13681</sup>M;
+A<sup>13682</sup>M; C<sup>13684</sup>M; T<sup>13686</sup>K;
+G<sup>13687</sup>K; A<sup>13693</sup>W; G<sup>28878</sup>A;
+G<sup>29742</sup>A</td></tr></tbody></table><table-wrap-foot><p>&#x02606;, C<sup>8782</sup>T, T<sup>28144</sup>C; &#x02563;, C<sup>29095</sup>T; &#x02567;
+C<sup>18060</sup>T; &#x02564; C<sup>17747</sup>T, A<sup>17858</sup>G; &#x0252b;,
+T<sup>4402</sup>C; G<sup>5062</sup>T; &#x02560;, G<sup>28878</sup>A; G<sup>29742</sup>A; &#x0258c;,
+T<sup>26729</sup>C;</p><p>NC, Not confirmed;</p></table-wrap-foot></table-wrap></p><p>Detailed analysis of mutation profiles of the genome sequences in SS1 enables us to trace
+the evolution routes of these viruses in specific region. In Washington State, USA, a
+genome sequence with three mutations, C<sup>18060</sup>T, C<sup>8782</sup>T and
+T<sup>28144</sup>C, was reported on 25 January 2020. A virus carrying these three
+mutations was reported in Fujian, China on 21 January 2020, suggesting that the virus
+might have originated from Fujian, China (<xref rid="T0001" ref-type="table">Table
+1</xref>). This virus was then further transmitted in the Washington area and continued
+to acquire mutations. Twelve genome sequences reported between 1 and 5 March 2020 in the
+states of Washington and California contained 6&#x02013;11 mutations. These data represent direct
+evidence of active evolution that results in a large number of mutational changes during
+the process of transmission of a single virus within a short period of time. In addition,
+a genome sequence which has two additional mutations when compared to the original virus
+in this cluster, but were different from those in genome sequences in Washington, was
+reported in Sichuan, China, suggesting that the same parental virus was also transmitted
+across China during this period (<xref rid="T0001" ref-type="table">Table 1</xref>).</p></sec><sec id="S003-S2005"><title>Evolution and transmission of super-spreader 2 (SS2)</title><p>SS2 carried the signature mutation G<sup>26144</sup>T, which resulted in the
+G<sup>251</sup>V amino acid substitution in Orf 3 protein of SARS-CoV-2. The first viral
+genome in this cluster was reported in Australia on 25 January 2020. Among the 247
+sequences tested, a total of 28 (11.2%) were found to belong to SS2. The parental virus
+had acquired different mutations and had been disseminated to various Asian countries,
+North America (USA), Europe, South America (Brazil) and Australia. Viruses in this cluster
+seemed to be extensively transmitted by the end of January and lasted till early February.
+By the end of February, however, transmission efficiency of such viruses seemed to have
+dropped, as only 4 of 28 sequences reported during the period 26 February to 3 March 2020
+belong to this cluster. Viruses in this cluster were also found to have significantly
+mutated with a total of 12 mutations observed in one strain isolated in Washington on 27
+February 2020 (<xref rid="T0002" ref-type="table">Table 2</xref>). Our data showed that as
+many as 11 additional mutations were acquired by the parental virus within a 30 days
+period (from 25 January to 27 February 2020), representing a mutation rate of 4.6e-3
+subs/site/year (29&#x02005;kb genome size), which was much higher than the predicted mutation rate
+of SARS-CoV-2 (8.0e-4 subs/site/year). <table-wrap id="T0002" orientation="portrait" position="float"><label>Table 2.</label><caption><title>Mutation analysis of genome sequences in super-spreader cluster 2.</title></caption><!--OASIS TABLE HERE--><table frame="hsides" rules="groups"><colgroup><col width="1*"/><col width="1*"/><col width="1*"/><col width="1*"/><col width="1*"/><col width="1*"/></colgroup><thead valign="bottom"><tr><th align="left">Accession ID</th><th align="center">Location</th><th align="center">Collection date</th><th align="center">Origin</th><th align="center">Number of mutations / % of sequence
+homology with reference sequence</th><th align="center">Nucleotide changes</th></tr></thead><tbody><tr><td align="left">EPI_ISL_408977</td><td align="left">Australia / Sydney</td><td align="left">2020-01-25</td><td align="center">NC</td><td align="center">1 / 99%</td><td align="left">&#x02022; (G<sup>26144</sup>T)</td></tr><tr><td align="left">EPI_ISL_406036</td><td align="left">USA / California</td><td align="left">2020-01-22</td><td align="center">NC</td><td align="center">2 / 99%</td><td align="left">&#x02022; C<sup>17000</sup>T</td></tr><tr><td align="left">EPI_ISL_412029</td><td align="left">Hong Kong</td><td align="left">2020-01-30</td><td align="center">NC</td><td align="center">2 / 99%</td><td align="left">&#x02022; T<sup>13929</sup>C</td></tr><tr><td align="left">EPI_ISL_413863</td><td align="left">China / Guangdong</td><td align="left">2020-02-01</td><td align="center">NC</td><td align="center">2 / 99%</td><td align="left">&#x02022; C<sup>22787</sup>G</td></tr><tr><td align="left">EPI_ISL_406596</td><td align="left">France / Paris</td><td align="left">2020-01-23</td><td align="center">NC</td><td align="center">2 / 99%</td><td align="left">&#x02022; &#x025bd; (G<sup>26144</sup>T,
+G<sup>22661</sup>T)</td></tr><tr><td align="left">EPI_ISL_406597</td><td align="left">France / Paris</td><td align="left">2020-01-23</td><td align="center">WH</td><td align="center">2 / 99%</td><td align="left">&#x02022; &#x025bd;</td></tr><tr><td align="left">EPI_ISL_410720</td><td align="left">France / Paris</td><td align="left">2020-01-23</td><td align="center">NC</td><td align="center">2 / 99%</td><td align="left">&#x02022; &#x025bd;</td></tr><tr><td align="left">EPI_ISL_411219</td><td align="left">France / Paris</td><td align="left">2020-01-28</td><td align="center">NC</td><td align="center">2 / 99%</td><td align="left">&#x02022; &#x025bd;</td></tr><tr><td align="left">EPI_ISL_411220</td><td align="left">France / Paris</td><td align="left">2020-01-28</td><td align="center">NC</td><td align="center">2 / 99%</td><td align="left">&#x02022; &#x025bd;</td></tr><tr><td align="left">EPI_ISL_410713</td><td align="left">Singapore</td><td align="left">2020-01-27</td><td align="center">NC</td><td align="center">2 / 99%</td><td align="left">&#x02022; C<sup>28849</sup>T</td></tr><tr><td align="left">EPI_ISL_410714</td><td align="left">Singapore</td><td align="left">2020-02-03</td><td align="center">NC</td><td align="center">2 / 99%</td><td align="left">&#x02022; C<sup>21859</sup>T</td></tr><tr><td align="left">EPI_ISL_410536</td><td align="left">Singapore</td><td align="left">2020-02-06</td><td align="center">NC</td><td align="center">2 / 99%</td><td align="left">&#x02022; &#x025be; (G<sup>26144</sup>T,
+C<sup>21859</sup>T)</td></tr><tr><td align="left">EPI_ISL_410715</td><td align="left">Singapore</td><td align="left">2020-02-04</td><td align="center">NC</td><td align="center">2 / 99%</td><td align="left">&#x02022; &#x025be;</td></tr><tr><td align="left">EPI_ISL_410716</td><td align="left">Singapore</td><td align="left">2020-02-04</td><td align="center">NC</td><td align="center">2 / 99%</td><td align="left">&#x02022; &#x025be;</td></tr><tr><td align="left">EPI_ISL_410546</td><td align="left">Italy / Rome</td><td align="left">2020-01-31</td><td align="center">HB</td><td align="center">2 / 99%</td><td align="left">&#x02022; &#x025c7; (G<sup>26144</sup>T,
+G<sup>11083</sup>T)</td></tr><tr><td align="left">EPI_ISL_412974</td><td align="left">Italy / Rome</td><td align="left">2020-01-29</td><td align="center">NC</td><td align="center">2 / 99%</td><td align="left">&#x02022; &#x025c7;</td></tr><tr><td align="left">EPI_ISL_410545</td><td align="left">Italy / Rome</td><td align="left">2020-01-29</td><td align="center">HB</td><td align="center">3 / 99%</td><td align="left">&#x02022; A<sup>2269</sup>T;
+G<sup>11083</sup>N;</td></tr><tr><td align="left">EPI_ISL_413603</td><td align="left">Finland / Helsinki</td><td align="left">2020-03-03</td><td align="center">NC</td><td align="center">4 / 99%</td><td align="left">&#x02022; &#x025c7; C<sup>14805</sup>T,
+G<sup>29405</sup>C</td></tr><tr><td align="left">EPI_ISL_413016</td><td align="left">Brazil / Sao Paulo</td><td align="left">2020-02-28</td><td align="center">Italy</td><td align="center">5 / 99%</td><td align="left">&#x02022; &#x025c7; C<sup>2388</sup>T,
+C<sup>14805</sup>T, T<sup>17247</sup>C,</td></tr><tr><td align="left">EPI_ISL_413019</td><td align="left">Switzerland / Zurich</td><td align="left">2020-02-26</td><td align="center">NC</td><td align="center">9 / 99%</td><td align="left">&#x02022; &#x025c7;, G<sup>11084</sup>TTTin,
+C<sup>14805</sup>T, T<sup>17247</sup>C, C<sup>24378</sup>T,
+C<sup>26894</sup>T</td></tr><tr><td align="left">EPI_ISL_413025</td><td align="left">USA / Washington</td><td align="left">2020-02-27</td><td align="center">NC</td><td align="center">12 / 99%</td><td align="left">&#x02022; &#x025c7;, A<sup>35</sup>T, C<sup>36</sup>T,
+T<sup>2446</sup>C, C<sup>3411</sup>T, G<sup>5572</sup>T, C<sup>14805</sup>T,
+G<sup>29864</sup>A, T<sup>29867</sup>A, G<sup>29868</sup>A,
+C<sup>29870</sup>A</td></tr><tr><td align="left">EPI_ISL_406031</td><td align="left">Taiwan / Kaohsiung</td><td align="left">2020-01-23</td><td align="center">NC</td><td align="center">4 / 99%</td><td align="left">&#x02022; G<sup>16188</sup>T; A<sup>25964</sup>G;
+<sup>29877</sup>Tin</td></tr><tr><td align="left">EPI_ISL_413018</td><td align="left">South Korea</td><td align="left">2020-02-06</td><td align="center">NC</td><td align="center">4 / 99%</td><td align="left">&#x02022; A<sup>2707</sup>G, G<sup>26640</sup>T,
+T<sup>26677</sup>C</td></tr><tr><td align="left">EPI_ISL_412116</td><td align="left">England</td><td align="left">2020-02-09</td><td align="center">NC</td><td align="center">5 / 99%</td><td align="left">&#x02022; A<sup>2470</sup>G, C<sup>2558</sup>T,
+G<sup>11083</sup>N, C<sup>14805</sup>T,</td></tr><tr><td align="left">EPI_ISL_413017</td><td align="left">South Korea</td><td align="left">2020-02-06</td><td align="center">NC</td><td align="center">6 / 99%</td><td align="left">&#x02022; T<sup>4402</sup>C, G<sup>5062</sup>T,
+G<sup>26640</sup>T, T<sup>26677</sup>C, T<sup>28144</sup>C</td></tr><tr><td align="left">EPI_ISL_411951</td><td align="left">Sweden</td><td align="left">2020-02-07</td><td align="center">NC</td><td align="center">7 / 99%</td><td align="left">&#x02022; G<sup>2717</sup>A; A<sup>9274</sup>G;
+C<sup>13225</sup>G; T<sup>13226</sup>C; A<sup>17376</sup>G;
+T<sup>23952</sup>G;</td></tr><tr><td align="left">EPI_ISL_411929</td><td align="left">South Korea</td><td align="left">2020-01</td><td align="center">WH</td><td align="center">9 / 99%</td><td align="left">&#x02022; G<sup>2971</sup>T; C<sup>6031</sup>T;
+C<sup>12115</sup>T; T<sup>15597</sup>C; C<sup>20936</sup>T;
+C<sup>22224</sup>G; G<sup>25775</sup>T; T<sup>26354</sup>A</td></tr><tr><td align="left">EPI_ISL_406844</td><td align="left">Australia / Victoria</td><td align="left">2020-01-25</td><td align="center">NC</td><td align="center">13 / 99%</td><td align="left">&#x02022; T<sup>19065</sup>C; T<sup>22303</sup>G;
+<sup>29750-29759</sup>del</td></tr></tbody></table><table-wrap-foot><p>&#x025cb;, G<sup>26144</sup>T; &#x025bd;, G<sup>22661</sup>T; &#x025be;, C<sup>21859</sup>T; &#x025c7;,
+G<sup>11083</sup>T;</p></table-wrap-foot></table-wrap></p></sec><sec id="S003-S2006"><title>Evolution and transmission of super-spreader 3 (SS3)</title><p>SS3 carried the signature mutation G<sup>11083</sup>T, which caused the L<sup>3606</sup>F
+amino acid substitution in the Orf 1 protein of SARS-CoV-2. The first viral genome in this
+cluster was reported on 18 January 2020 in Chongqing, China. A total of 22 such genome
+sequences were reported so far, accounting for 9% of the 247 SARS-CoV-2 sequences
+documented in the GISAID database as of 5 March 2020. It has since been transmitted to
+several Asian countries including Singapore and Japan, as well as Europe, USA and
+Australia (<xref rid="T0003" ref-type="table">Table 3</xref>). Like SS1 and SS2, viruses
+in this cluster were also found to mutate efficiently, with one genome reported on Febuary
+27, 2020 from Washington, USA, carrying 12 mutations. Our data showed that a total of
+eleven mutations were acquired by the parental virus within a 40 days&#x02019; period (from 18
+January to 27 February 2020), with a mutation rate of 2.8e-3 subs/site/year (29&#x02005;kb genome
+size), which was again much higher than the predicted mutation rate of SARS-CoV-2 (8.0e-4
+subs/site/year). Curiously, there is no virus of this cluster being reported in Iran, a
+country with one of the highest incidence of SARS-CoV-2 infections. However, two genome
+sequences from Australia, which belong to viruses recovered from patients with travel
+history to Iran, were reported, suggesting that this cluster of virus might also
+contribute to the outbreaks in Iran. In addition, the first genome sequence from Brazil,
+which might have originated from Italy, also belonged to this cluster (<xref rid="T0003" ref-type="table">Table 3</xref>). <table-wrap id="T0003" orientation="portrait" position="float"><label>Table 3.</label><caption><title>Mutation analysis of genome sequences in super-spreader cluster 3.</title></caption><!--OASIS TABLE HERE--><table frame="hsides" rules="groups"><colgroup><col width="1*"/><col width="1*"/><col width="1*"/><col width="1*"/><col width="1*"/><col width="1*"/></colgroup><thead valign="bottom"><tr><th align="left">Accession ID</th><th align="center">Location</th><th align="center">Origin</th><th align="center">Collection date</th><th align="center">Number of mutations / % of sequence
+homology with reference sequence</th><th align="center">Nucleotide changes</th></tr></thead><tbody><tr><td align="left">EPI_ISL_408481</td><td align="left">China / Chongqing</td><td align="center">NC</td><td align="left">2020-01-18</td><td align="center">1 / 99%</td><td align="left">&#x02609; (G<sup>11083</sup>T)</td></tr><tr><td align="left">EPI_ISL_407988</td><td align="left">Singapore</td><td align="center">NC</td><td align="left">2020-02-01</td><td align="center">1 / 99%</td><td align="left">&#x02609;</td></tr><tr><td align="left">EPI_ISL_412968</td><td align="left">Japan</td><td align="center">NC</td><td align="left">2020-02-10</td><td align="center">1 / 99%</td><td align="left">&#x02609;</td></tr><tr><td align="left">EPI_ISL_410546</td><td align="left">Italy / Rome</td><td align="center">HB</td><td align="left">2020-01-31</td><td align="center">2 / 99%</td><td align="left">&#x02609; G<sup>26144</sup>T</td></tr><tr><td align="left">EPI_ISL_412030</td><td align="left">Hong Kong</td><td align="center">NC</td><td align="left">2020-02-01</td><td align="center">2 / 99%</td><td align="left">&#x02609; G<sup>29841</sup>A</td></tr><tr><td align="left">EPI_ISL_412969</td><td align="left">Japan</td><td align="center">NC</td><td align="left">2020-02-10</td><td align="center">2 / 99%</td><td align="left">&#x02609; C<sup>29635</sup>T</td></tr><tr><td align="left">EPI_ISL_412974</td><td align="left">Italy / Rome</td><td align="center">NC</td><td align="left">2020-01-29</td><td align="center">2 / 99%</td><td align="left">&#x02609; G<sup>26144</sup>T</td></tr><tr><td align="left">EPI_ISL_408430</td><td align="left">France / Paris</td><td align="center">NC</td><td align="left">2020-01-29</td><td align="center">3 / 99%</td><td align="left">&#x02609; &#x025ce; (G<sup>11083</sup>T,
+C<sup>1190</sup>T, C<sup>9438</sup>T)</td></tr><tr><td align="left">EPI_ISL_410984</td><td align="left">France / Paris</td><td align="center">NC</td><td align="left">2020-01-29</td><td align="center">3 / 99%</td><td align="left">&#x02609; &#x025ce;</td></tr><tr><td align="left">EPI_ISL_411218</td><td align="left">France / Paris</td><td align="center">NC</td><td align="left">2020-02-02</td><td align="center">3 / 99%</td><td align="left">&#x02609; &#x025ce;</td></tr><tr><td align="left">EPI_ISL_408480</td><td align="left">China / Yunnan / Kunming</td><td align="center">NC</td><td align="left">2020-01-17</td><td align="center">3 / 99%</td><td align="left">&#x02609; &#x02641; (G<sup>11083</sup>T,
+C<sup>8782</sup>T, T<sup>28144</sup>C)</td></tr><tr><td align="left">EPI_ISL_406223</td><td align="left">USA / Arizona / Phoenix</td><td align="center">NC</td><td align="left">2020-01-22</td><td align="center">4 / 99%</td><td align="left">&#x02609; &#x02641; C<sup>29095</sup>T</td></tr><tr><td align="left">EPI_ISL_412873</td><td align="left">South Korea</td><td align="center">NC</td><td align="left">2020-02-06</td><td align="center">7 / 99%</td><td align="left">&#x02609; &#x02641; T<sup>3086</sup>C, C<sup>6255</sup>T,
+G<sup>17122</sup>A, A<sup>29871</sup>G</td></tr><tr><td align="left">EPI_ISL_413485</td><td align="left">China / Anhui / Suzhou</td><td align="center">NC</td><td align="left">2020-01-24</td><td align="center">9 / 99%</td><td align="left">&#x02609; &#x02641; A<sup>4</sup>T, C<sup>2189</sup>T,
+T<sup>3086</sup>C, A<sup>5094</sup>G, C<sup>16049</sup>T,
+G<sup>17122</sup>A</td></tr><tr><td align="left">EPI_ISL_413603</td><td align="left">Finland / Helsinki</td><td align="center">NC</td><td align="left">2020-03-03</td><td align="center">4 / 99%</td><td align="left">&#x02609; $ G<sup>26144</sup>T,
+G<sup>29405</sup>C</td></tr><tr><td align="left">EPI_ISL_413016</td><td align="left">Brazil / Sao Paulo</td><td align="center">Italy</td><td align="left">2020-02-28</td><td align="center">5 / 99%</td><td align="left">&#x02609; $ C<sup>2388</sup>T,
+T<sup>17247</sup>C, G<sup>26144</sup>T</td></tr><tr><td align="left">EPI_ISL_413025</td><td align="left">USA / Washington</td><td align="center">NC</td><td align="left">2020-02-27</td><td align="center">12 / 99%</td><td align="left">&#x02609; $ A<sup>35</sup>T, C<sup>36</sup>T,
+T<sup>2446</sup>C, C<sup>3411</sup>T, G<sup>5572</sup>T, G<sup>26144</sup>T,
+G<sup>29864</sup>A, T<sup>29867</sup>A, G<sup>29868</sup>A,
+C<sup>29870</sup>A</td></tr><tr><td align="left">EPI_ISL_413214</td><td align="left">Australia Sydney</td><td align="center">NC</td><td align="left">2020-02-29</td><td align="center">5 / 99%</td><td align="left">&#x02609; % G<sup>29374</sup>A</td></tr><tr><td align="left">EPI_ISL_412975</td><td align="left">Australia Sydney</td><td align="center">Iran</td><td align="left">2020-02-28</td><td align="center">6 / 99%</td><td align="left">&#x02609; % G<sup>4255</sup>A,
+A<sup>20047</sup>G</td></tr><tr><td align="left">EPI_ISL_413213</td><td align="left">Australia / Sydney</td><td align="center">Iran</td><td align="left">2020-02-29</td><td align="center">7 / 99%</td><td align="left">&#x02609; % C<sup>884</sup>T, G<sup>8653</sup>T,
+C<sup>24704</sup>T</td></tr><tr><td align="left">EPI_ISL_408482</td><td align="left">Shandong / Qingdao</td><td align="center">NC</td><td align="left">2020-01-19</td><td align="center">7 / 99%</td><td align="left">&#x02609; % C<sup>7299</sup>T;
+C<sup>27612</sup>G; T<sup>28688</sup>C</td></tr><tr><td align="left">EPI_ISL_413589</td><td align="left">Netherlands / Utrecht</td><td align="center">NC</td><td align="left">2020-03-01</td><td align="center">8 / 99%</td><td align="left">&#x02609; C<sup>241</sup>T, G<sup>2527</sup>T,
+C<sup>3037</sup>T, C<sup>6428</sup>T, C<sup>14408</sup>T,
+A<sup>23403</sup>G, A<sup>25575</sup>C</td></tr></tbody></table><table-wrap-foot><p>&#x02609;, G<sup>11083</sup>T; &#x025ce;, C<sup>1190</sup>T, C<sup>9438</sup>T; &#x02641;,
+C<sup>8782</sup>T, T<sup>28144</sup>C; $, C<sup>14805</sup>T; %, G<sup>1397</sup>A,
+T<sup>28688</sup>C, G<sup>29742</sup>T.</p></table-wrap-foot></table-wrap></p></sec><sec id="S003-S2007"><title>Evolution and transmission of super-spreader 4 (SS4)</title><p>SS4 carried a signature mutation profile that consists of three mutations:
+C<sup>241</sup>T, C<sup>3037</sup>T and A<sup>23403</sup>G. The C<sup>241</sup>T and
+C<sup>3037</sup>T changes are silent mutations, whereas A<sup>23403</sup>G results in
+the D<sup>614</sup>G substitution in the spike (S) protein of SARS-CoV-2. SS4 viruses were
+found to be transmitted only in Europe, with the exception of one genome reported from
+Mexico, in which the patient had travel history from Italy. Viruses in SS4 were
+responsible for the explosive increase in incidence of COVID-19 in Europe in March (<xref rid="T0004" ref-type="table">Table 4</xref>). Compared to SS1, 2 and 3, viruses in SS4
+were reported more recently, mostly from the end of February to early March. A total of 21
+of the 247 genomes examined (8.4%) were found to belong to SS4. Among genome sequences of
+the four clusters of super-spreaders, none was found to contain only one of the three SS4
+mutations or a combination of two of the three mutations, suggesting that the parental
+viral genome of SS4 could not be identified. The first virus of this cluster, reported on
+28 January 2020 in Germany, has acquired another silent mutation, C<sup>14408</sup>T, and
+was further disseminated to other countries in Europe. This virus was also found to mutate
+efficiently with seven additional mutations were acquired by the parental virus within 30
+days (from 28 January to 27 February 2020), with a mutation rate of 2.8e-3 subs/site/year
+(29&#x02005;kb genome size), which was much higher than the predicted mutation rate of SARS-CoV-2
+(8.0e-4 subs/site/year). At a later stage, SS4 viruses became the most efficient in
+causing transmission in Europe. Among a total of 28 genomes reported between 20 February
+to 3 March 2020, 20 (71%) belonged to this spreader (<xref rid="T0004" ref-type="table">Table 4</xref>). <table-wrap id="T0004" orientation="portrait" position="float"><label>Table 4.</label><caption><title>Mutation analysis of genome sequences in super-spreader cluster 4.</title></caption><!--OASIS TABLE HERE--><table frame="hsides" rules="groups"><colgroup><col width="1*"/><col width="1*"/><col width="1*"/><col width="1*"/><col width="1*"/><col width="1*"/></colgroup><thead valign="bottom"><tr><th align="left">Accession ID</th><th align="center">Location</th><th align="center">Origin</th><th align="center">Collection date</th><th align="center">Number of mutations / % of sequence
+homology with reference sequence</th><th align="center">Nucleotide changes</th></tr></thead><tbody><tr><td align="left">EPI_ISL_406862</td><td align="left">Germany / Bavaria / Munich</td><td align="center">NC</td><td align="left">2020-01-28</td><td align="center">3 / 99%</td><td align="left">&#x025b3; (C<sup>241</sup>T, C<sup>3037</sup>T,
+A<sup>23403</sup>G)</td></tr><tr><td align="left">EPI_ISL_413555</td><td align="left">United Kingdom / Wales</td><td align="center">NC</td><td align="left">2020-02-27</td><td align="center">4 / 99%</td><td align="left">&#x025b3; # (C<sup>241</sup>T, C<sup>3037</sup>T,
+A<sup>23403</sup>G, C<sup>14408</sup>T)</td></tr><tr><td align="left">EPI_ISL_413566</td><td align="left">Netherlands / Blaricum</td><td align="center">NC</td><td align="left">2020-03-02</td><td align="center">4 / 99%</td><td align="left">&#x025b3; #</td></tr><tr><td align="left">EPI_ISL_413591</td><td align="left">Netherlands / Zeewolde</td><td align="center">NC</td><td align="left">2020-03-02</td><td align="center">4 / 99%</td><td align="left">&#x025b3; #</td></tr><tr><td align="left">EPI_ISL_413593</td><td align="left">Luxembourg</td><td align="center">NC</td><td align="left">2020-02-29</td><td align="center">5 / 99%</td><td align="left">&#x025b3; # C<sup>23575</sup>T</td></tr><tr><td align="left">EPI_ISL_413648</td><td align="left">Portugal</td><td align="center">Spain</td><td align="left">2020-03-01</td><td align="center">5 / 99%</td><td align="left">&#x025b3; # C<sup>29144</sup>T</td></tr><tr><td align="left">EPI_ISL_412973</td><td align="left">Italy</td><td align="center">NC</td><td align="left">2020-02-20</td><td align="center">6 / 99%</td><td align="left">&#x025b3; # T<sup>29867</sup>N,
+G<sup>29868</sup>N</td></tr><tr><td align="left">EPI_ISL_413489</td><td align="left">Italy / Milan</td><td align="center">NC</td><td align="left">2020-03-03</td><td align="center">8 / 99%</td><td align="left">&#x025b3; # A<sup>187</sup>G, A<sup>6956</sup>C,
+T<sup>29867</sup>N, G<sup>29868</sup>N</td></tr><tr><td align="left">EPI_ISL_413602</td><td align="left">Finland / Helsinki</td><td align="center">NC</td><td align="left">2020-03-03</td><td align="center">6 / 99%</td><td align="left">&#x025b3; # G<sup>22865</sup>T,
+C<sup>29585</sup>T</td></tr><tr><td align="left">EPI_ISL_413572</td><td align="left">Netherlands / Haarlem</td><td align="center">NC</td><td align="left">2020-03-01</td><td align="center">7 / 99%</td><td align="left">&#x025b3; # T<sup>1666</sup>C, C<sup>3037</sup>T,
+G<sup>25563</sup>T</td></tr><tr><td align="left">EPI_ISL_413589</td><td align="left">Netherlands / Utrecht</td><td align="center">NC</td><td align="left">2020-03-01</td><td align="center">8 / 99%</td><td align="left">&#x025b3; # G<sup>2527</sup>T, C<sup>6428</sup>T,
+G<sup>11083</sup>T, A<sup>25575</sup>C</td></tr><tr><td align="left">EPI_ISL_413022</td><td align="left">Switzerland / Zurich</td><td align="center">NC</td><td align="left">2020-02-29</td><td align="center">7 / 99%</td><td align="left">&#x025b3; # &#x00026; (C<sup>241</sup>T,
+C<sup>3037</sup>T, A<sup>23403</sup>G, C<sup>14408</sup>T,
+G<sup>28881</sup>A, G<sup>28882</sup>A, G<sup>28883</sup>C)</td></tr><tr><td align="left">EPI_ISL_413579</td><td align="left">Netherlands / Nootdorp</td><td align="center">NC</td><td align="left">2020-03-03</td><td align="center">7 / 99%</td><td align="left">&#x025b3; # &#x00026;</td></tr><tr><td align="left">EPI_ISL_413587</td><td align="left">Netherlands / Tilburg</td><td align="center">NC</td><td align="left">2020-03-03</td><td align="center">7 / 99%</td><td align="left">&#x025b3; # &#x00026;</td></tr><tr><td align="left">EPI_ISL_412912</td><td align="left">Germany/Baden-Wuerttemberg</td><td align="center">Italy</td><td align="left">2020-02-25</td><td align="center">8 / 99%</td><td align="left">&#x025b3; # &#x00026;
+G<sup>10265</sup>A</td></tr><tr><td align="left">EPI_ISL_413584</td><td align="left">Netherlands / Rotterdam</td><td align="center">NC</td><td align="left">2020-03-03</td><td align="center">8 / 99%</td><td align="left">&#x025b3; # &#x00026;
+C<sup>27046</sup>T</td></tr><tr><td align="left">EPI_ISL_413647</td><td align="left">Portugal</td><td align="center">Germany</td><td align="left">2020-03-01</td><td align="center">8 / 99%</td><td align="left">&#x025b3; # &#x00026;
+C<sup>27046</sup>T</td></tr><tr><td align="left">EPI_ISL_413604</td><td align="left">Finland / Helsinki</td><td align="center">NC</td><td align="left">2020-03-03</td><td align="center">9 / 99%</td><td align="left">&#x025b3; # &#x00026; C<sup>27046</sup>T,
+T<sup>29807</sup>C</td></tr><tr><td align="left">EPI_ISL_413023</td><td align="left">Switzerland / Zurich</td><td align="center">NC</td><td align="left">2020-02-29</td><td align="center">9 / 99%</td><td align="left">&#x025b3; # &#x00026;
+A<sup>22168</sup>C,</td></tr><tr><td align="left">EPI_ISL_412972</td><td align="left">Mexico / Mexico City</td><td align="center">Italy</td><td align="left">2020-02-27</td><td align="center">10 / 99%</td><td align="left">&#x025b3; # &#x00026; C<sup>13206</sup>G,
+A<sup>15807</sup>del, G<sup>24268</sup>del,</td></tr></tbody></table><table-wrap-foot><p>&#x025b3;, C<sup>241</sup>T, C<sup>3037</sup>T, A<sup>23403</sup>G; #, C<sup>14408</sup>T;
+&#x00026;, C<sup>14408</sup>T, G<sup>28881</sup>A, G<sup>28882</sup>A,
+G<sup>28883</sup>C.</p></table-wrap-foot></table-wrap></p></sec><sec id="S003-S2008"><title>Temporal and spatial distribution of super-spreaders of SARS-CoV-2</title><p>To better understand the temporal and spatial distribution of these super-transmitters,
+we plot variation in the types of genome sequences recovered from different continents
+against time. The original viruses were found to be spreading in the week before the
+emergence of these super-spreaders. SS1 was the first batch of viruses that emerged and
+dissemination continued throughout the study period. Other SSs emerged at different time
+points and transmission also peaked at different dates. Transmission of SS2 and SS3 mainly
+occurred between mid January to mid February. Transmission of SS4 viruses mainly began at
+the end of February. Viruses of the four clusters exhibited much higher mutation rate than
+those which exhibited diverse genetic profiles and could not be allocated into specific
+genetic cluster when compared to the original genome (<xref rid="F0002" ref-type="fig">Figure 2</xref>(a)). SS1 viruses were those which were disseminated extensively in
+China, in particular in the later stage of the outbreak (<xref rid="F0002" ref-type="fig">Figure 2</xref>(b)). SS1, SS2 and SS3 were prevalent in other Asian countries (<xref rid="F0002" ref-type="fig">Figure 2</xref>(c)). All the four clusters were involved in
+the outbreaks in Europe at the early stage, but SS4 was the cluster that eventually
+transformed the outbreaks in Europe into the pandemic level (<xref rid="F0002" ref-type="fig">Figure 2</xref>(d)). In Oceania, SS1 was involved mainly in the early
+stage of the outbreak, yet SS2 became dominant at a later stage (<xref rid="F0002" ref-type="fig">Figure 2</xref>(e)). SS1 and other types of viruses were the major
+transmitters in the US. SS1 was shown to be transmitted mainly in the states of Washington
+and California, whereas the other types were mainly transmitted in other states (<xref rid="F0002" ref-type="fig">Figure 2</xref>(f), Table S1). <fig id="F0002" orientation="portrait" position="float"><label>Figure 2.</label><caption><p>Changes in the distribution pattern and mutation rate of different super-spreader
+clusters in various continents over time. Distribution of different SSs and their
+mutations (a) Overall, (b) in China, (c), in Asian countries excluding China, (d) in
+Europe, (e) in Oceania, and (f) in North America. Two genomes with over 20 mutations
+were not included to facilitate easy visualization of the graphs.</p></caption><alternatives><graphic specific-use="web-only" content-type="color" xlink:href="TEMI_A_1773745_F0002_OC"/><graphic specific-use="print-only" content-type="black-white" xlink:href="TEMI_A_1773745_F0002_PB"/></alternatives></fig></p></sec><sec id="S003-S2009"><title>Distribution of different super-spreader types of most recent SARS-CoV-2 in different
+parts of the world</title><p>Upon completion of analysis of SARS-CoV-2 sequences available in the GISAID database as
+of 5 March 2020 and identification of the four &#x0201c;super-spreader&#x0201d; type strains, we
+investigated if viral strains of the four super-spreaders were responsible for the vast
+majority of subsequent infections. A total of 1539 genome sequences reported after 29
+February 2020 were included for a quick analysis to identify the type of these most recent
+genomes. As shown in Table 6, most of the genomes were reported from USA (968 / 63%) and
+Europe (441 / 29%), where the pandemic was the most severe. Genomes of the four
+super-spreaders became detectable in Africa (20 / 1%) and South America (23 / 2%). Among
+these 1539 genomes, 89% belonged to SS1-4, with SS4 being the most dominant (56%), whereas
+viruses derived from the original clone that do not belong to any of the four
+super-spreaders accounted for only 11% of the genomes, and were mainly reported in UK and
+Netherland. In Africa, SS4 (18/20, 90%) was the major type, with some cases involving
+patients who had travel history to Europe. In Asia, the major types became SS3 (17/33,
+52%) and SS4 (16/33, 48%). In Europe, all the four types were present, with SS4 remaining
+the dominant one (668/968, 69%). Likewise, all the four super-spreader types were reported
+in the US, with SS1 (282/441, 62%) and SS4 (137/441, 14%) being more prevalent. In Canada,
+all types except for SS1 were present. In Oceania, all four SSs were present, with SS3
+being more common. In South America, SS1 and SS4 were the most dominant types (<xref rid="T0005" ref-type="table">Table 5</xref>). <table-wrap id="T0005" orientation="portrait" position="float"><label>Table 5.</label><caption><title>Distribution of different types of SARS-CoV-2 worldwide after 29 February
+2020.</title></caption><!--OASIS TABLE HERE--><table frame="hsides" rules="groups"><colgroup><col width="1*"/><col width="1*"/><col width="1*"/><col width="1*"/><col width="1*"/><col width="1*"/><col width="1*"/><col width="1*"/><col width="1*"/><col width="1*"/></colgroup><thead valign="bottom"><tr><th rowspan="2" align="left">Types of
+viruses</th><th rowspan="2" align="center">Numbers of genomes
+(%)</th><th rowspan="2" align="center">Major areas</th><th colspan="7" align="center">Locations / numbers of
+genomes (%)</th></tr><tr><th align="left">Africa</th><th align="center">Asia</th><th align="center">Europe</th><th align="center">NA (USA)</th><th align="center">NA (Canada)</th><th align="center">Oceania</th><th align="center">South America</th></tr></thead><tbody><tr><td align="left">Total</td><td align="char" char=".">1539</td><td align="left">&#x000a0;</td><td align="char" char="(">20(1)</td><td align="char" char="(">33(2)</td><td align="char" char="(">968(63)</td><td align="char" char="(">441(29)</td><td align="char" char="(">11(1)</td><td align="char" char="(">27(2)</td><td align="char" char="(">23(2)</td></tr><tr><td align="left">Original derivatives</td><td align="char" char="(">173 (11)</td><td align="left">Europe (UK and Netherland)</td><td align="char" char="(">0(0)</td><td align="char" char="(">0(0)</td><td align="char" char="(">158(16)</td><td align="char" char="(">11(3)</td><td align="char" char="(">2(2)</td><td align="char" char="(">0(0)</td><td align="char" char="(">2(9)</td></tr><tr><td align="left">SS1</td><td align="char" char="(">340 (21)</td><td align="left">USA, Europe, South America</td><td align="char" char="(">1(5)</td><td align="char" char="(">1(3)</td><td align="char" char="(">30(3)</td><td align="char" char="(">282(64)</td><td align="char" char="(">0(0)</td><td align="char" char="(">5(19)</td><td align="char" char="(">8(35)</td></tr><tr><td align="left">SS2</td><td align="char" char="(">172 (11)</td><td align="left">Europe</td><td align="char" char="(">1(5)</td><td align="char" char="(">0(0)</td><td align="char" char="(">111(12)</td><td align="char" char="(">9(2)</td><td align="char" char="(">2(2)</td><td align="char" char="(">3(11)</td><td align="char" char="(">0(0)</td></tr><tr><td align="left">SS3</td><td align="char" char="(">132 (9)</td><td align="left">Asia, Europe</td><td align="char" char="(">0(0)</td><td align="char" char="(">17(52)</td><td align="char" char="(">119(12)</td><td align="char" char="(">12(3)</td><td align="char" char="(">5(5)</td><td align="char" char="(">15(56)</td><td align="char" char="(">0(0)</td></tr><tr><td align="left">SS4</td><td align="char" char="(">856 (56)</td><td align="left">Africa, Asia, Europe,
+Oceania</td><td align="char" char="(">18(90)</td><td align="char" char="(">16(48)</td><td align="char" char="(">663(69)</td><td align="char" char="(">137(14)</td><td align="char" char="(">4(4)</td><td align="char" char="(">5(19)</td><td align="char" char="(">12(52)</td></tr></tbody></table><table-wrap-foot><p>NA, North America.</p></table-wrap-foot></table-wrap></p></sec></sec><sec id="S004"><title>Discussion</title><p>We conducted detailed and comprehensive analyses of 247 high quality SARS-CoV-2 sequences
+deposited in the GISAID database during the period December 2019 to 5 March 2020 to provide
+insight into the evolution and transmission of this novel virus (<xref rid="F0003" ref-type="fig">Figure 3</xref>). Our data indicated that the ancestor strain of SARS-CoV-2
+could have emerged at a date as early as November, 2019. According to the time line of
+outbreaks, the original virus from Wuhan city and HNSM was responsible for the initial
+transmission of SARS-CoV-2 in various countries in January. The origin of the outbreak was
+not limited to HNSM, instead, those which occurred in multiple sites in Wuhan city might
+have contributed more significantly to the early transmission events and subsequent
+dissemination to different parts of China and various countries around the world. These data
+implied that wild animals sold in HNSM may not be the intermediate host of SARS-CoV-2 as
+sources other than HNSM are also considered the origin of this virus. Given the fact that
+multiple patients in Wuhan were simultaneously infected by viruses of different genetic
+composition in the initial outbreak, we hypothesize that a common wild animal would be the
+most likely intermediate host. Alternatively, a common environmental factor, such as a
+faulty sewage system, may be involved. It is necessary to investigate the possible role of a
+common animal vector or dissemination route in eliciting the initial outbreak that involved
+multiple SARS-CoV-2 strains. <fig id="F0003" orientation="portrait" position="float"><label>Figure 3.</label><caption><p>Transmission of super-spreaders and other derivatives of the original SARS-CoV-2 in
+different parts of world. Derivative strains of the original virus have been
+transmitted worldwide and contributed to the early outbreak of COVID-19. SS1 strains
+were transmitted mainly in Asia and the US but were less prevalent in other parts of
+the world. SS2 and SS3 strains were transmitted mainly in Asian countries other than
+China, as well as Europe from mid January to mid February. SS4 strains were
+transmitted mainly in Europe at the beginning of the pandemic and were then
+transmitted to all over the world.</p></caption><alternatives><graphic specific-use="web-only" content-type="color" xlink:href="TEMI_A_1773745_F0003_OC"/><graphic specific-use="print-only" content-type="black-white" xlink:href="TEMI_A_1773745_F0003_PB"/></alternatives></fig></p><p>Interestingly, as the original virus continued to transmit in China and all over the world,
+it has evolved into four major genetic clusters, namely super-spreader clusters, along with
+other non-cluster variants derived from the original virus. Each SS cluster carried one or
+more unique signature mutation(s) which enable us to trace the origin and transmission paths
+of most subsequently recovered SARS-CoV-2 strains. In the early transmission stage (December
+2019 and early January 2020), variants from the original virus were dominant, yet by the end
+of February and early March, members of four super-spreaders became dominant, with different
+SSs being prevalent in different regions of the world. SS1 was prevalent in China and other
+parts of Asia and became the major virus that caused severe outbreaks in Washington and
+California states in the US and South Korea; SS2 and SS3 were extensively transmitted in
+other parts of Asia and Europe during the end of January and early February but their
+prevalence dropped at the end of February and early March, and was replaced by SS4 which
+also contributed to the pandemic in Europe. Interestingly, SS4 was not reported in China or
+other parts of the world. The first genome of this cluster was reported in Germany and
+contributed to the rapid dissemination of SARS-CoV-2 in Europe. Mutation profile with SS4 is
+unique, with three mutations being observed in the first viral genome. Importantly, the
+mutation A<sup>23403</sup>G, which results in the D<sup>614</sup>G substitution in the S
+protein of SARS-CoV-2, was also identified as characteristic genetic change in a highly
+transmissible strain by Korber et al [<xref rid="CIT0020" ref-type="bibr">20</xref>].
+Genomes with only one or two of these three mutations were not reported elsewhere. However,
+these data do not simply imply that SS4 originated from Europe. One limitation of the study
+is that we can only make assessment using currently available genome sequences. The lack of
+genome sequence of SS4 in other continents does not necessarily mean that SS4 viruses are
+not present in other continents. In fact, viral strains carrying the D<sup>614</sup>G
+substitution have already been recovered in Canada and the USA in March 2020 in our second
+phase analysis to verify the transmission potential of strains of the four super-spreaders
+[<xref rid="CIT0020" ref-type="bibr">20</xref>]. A second limitation of this study is the
+lack of data to explain the mechanisms underlying the evolution of various genetic clusters
+into super-spreaders. Since every super-spreader cluster carries at least one amino acid
+substitution, whether such amino acid changes enabled SARS-CoV-2 to exhibit superior
+transmission potential needs to be investigated in future research studies.</p><p>Our data also unveiled the genetic features and transmission paths of major viral strains
+responsible for the current global pandemic of SARS-CoV-2 in detail. For example, in Italy,
+SS2, SS3 were prevalent in the end of January but gave way to SS4 in February and early
+March. Similar trends were observable in other countries, with exception of a consistently
+high proportion of the original viral genomes in Netherland throughout the course of the
+pandemic. In the US, the original viruses were reported in various states, whereas SS1 was
+dominant in Washington and California States. Other SS genomes were also sporadically
+reported in the US. Although data from Iran is not available, two genomes reported from
+Australia with travel history from Iran were shown to belong to SS3, suggesting that this
+cluster was responsible for the pandemic in Iran. In Australia, all genomes were reported
+except SS4.</p><p>Our data are consistent with those obtained in a recent study. Analysis of 160 complete
+genomes of SARS-CoV-2 by Forster et al. identified three central variants, namely Type A, B
+and C [<xref rid="CIT0021" ref-type="bibr">21</xref>]. Type A was the ancestral virus. Type
+B strains carried the C<sup>8782</sup>T and T<sup>28144</sup>G mutations, which was
+equivalent to our SS1. Type C, which carried the G<sup>26144</sup>T change, was equivalent
+to SS2. Forster <italic>et al</italic> found that Type A and C were mainly
+transmitted in Europe and America, whereas Type B was the most common type in East Asia. Our
+results are therefore highly consistent with theirs but our works could elucidate the
+transmission patterns in details. For example, we found that viruses in SS1, or type B
+according to the work of Forster et al, were mainly transmitted among Asian countries such
+as China, Japan, South Korea, Taiwan and Singapore, but were also common in North America,
+in particular the states of California and Washington in USA. Furthermore, we also
+identified SS3 and SS4, as more viral sequences were included in our analysis. Accuracy of
+this kind of phylodynamic analysis depends on comprehensiveness of viral genome sequences
+procured at different stages of infection. Data will inevitably be biased in if genomic
+sequences of viruses that caused infections in specific countries are under-represented.
+Nevertheless, we were able to validate the accuracy of our phylodynamic analysis by using
+the signature mutations as markers for different SSs to determine the relative prevalence of
+each SS type in 1539 genomes reported in March. The data further confirmed that four SSs
+continued to be dominant, with around 90% of the genomes belonging to these four SSs, among
+which SS4 remained the major cluster being disseminated in Europe. This second dataset
+showed that viruses of SS4 have since been transmitted to other parts of world including
+Africa, Asia, North America and Oceania. SS1 continued to be the major type in the US but
+has been transmitted to South America, in particular Brazil. These data appear to suggest
+that SS1 and SS4 have out-competed SS2 and SS3 and became super-spreader strains responsible
+for future transmission of SARS-CoV-2.</p><p>In conclusion, this study show that four major genetic clusters of viruses have evolved
+from the original SARS-CoV-2 and have transmitted extensively, each becoming dominant in
+different parts of the world, and that viruses without any signature mutation of the four
+super-spreaders appear to be transmitted much less efficiently. These super-spreaders
+exhibit not only high transmission efficiency, but also high mutation rate without
+compromising infectivity, posing enormous challenge to the control of future transmission of
+SARS-CoV-2.</p></sec><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="SM7274"><caption><title>supplementary_figure_1.docx</title></caption><media xlink:href="TEMI_A_1773745_SM7274.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="SM7273"><caption><title>supplementary_table_2.xlsx</title></caption><media xlink:href="TEMI_A_1773745_SM7273.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="SM7272"><caption><title>supplementary_table_1.xlsx</title></caption><media xlink:href="TEMI_A_1773745_SM7272.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack><title>Acknowledgments</title><p>We are grateful for the discussion and comments from Prof. Mengsu Yang from City University
+of Hong Kong. We acknowledge the use of the genome sequences in the GISAID platform.</p></ack><sec sec-type="COI-statement" id="S005"><title>Disclosure statement</title><p>No potential conflict of interest was reported by the author(s).</p></sec><ref-list><title>References</title><ref id="CIT0001"><label>1</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Cui</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Li</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Shi</surname><given-names>Z-L.</given-names></name></person-group>
+<article-title>Origin and evolution of pathogenic coronaviruses</article-title>.
+<source>Nat Rev Microbiol</source>.
+<year>2019</year>;<volume>17</volume>(<issue>3</issue>):<fpage>181</fpage>&#x02013;<lpage>192</lpage>.
+doi: <pub-id pub-id-type="doi">10.1038/s41579-018-0118-9</pub-id><pub-id pub-id-type="pmid">30531947</pub-id></mixed-citation></ref><ref id="CIT0002"><label>2</label><mixed-citation publication-type="other"><person-group person-group-type="author"><name name-style="western"><surname>Gorbalenya</surname><given-names>AE.</given-names></name></person-group>
+<comment>Severe acute respiratory syndrome-related coronavirus &#x02013; the species and its
+viruses, a statement of the Coronavirus Study Group. bioRxiv.
+2020</comment>.</mixed-citation></ref><ref id="CIT0003"><label>3</label><mixed-citation publication-type="other"><person-group person-group-type="author"><name name-style="western"><surname>Guan</surname><given-names>W-j</given-names></name>, <name name-style="western"><surname>Ni</surname><given-names>Z-y</given-names></name>, <name name-style="western"><surname>Hu</surname><given-names>Y</given-names></name>, <etal>et al.</etal></person-group>
+<comment>Clinical characteristics of 2019 novel coronavirus infection in China. medRxiv.
+2020</comment>.</mixed-citation></ref><ref id="CIT0004"><label>4</label><mixed-citation publication-type="other"><person-group person-group-type="author"><name name-style="western"><surname>Sardar</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Satish</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Birla</surname><given-names>S</given-names></name>, <etal>et al.</etal></person-group>
+<comment>Comparative analyses of SAR-CoV2 genomes from different geographical locations
+and other coronavirus family genomes reveals unique features potentially consequential
+to host-virus interaction and pathogenesis. bioRxiv. 2020</comment>.</mixed-citation></ref><ref id="CIT0005"><label>5</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Lu</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Zhao</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Li</surname><given-names>J</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Genomic characterisation and epidemiology of 2019 novel coronavirus:
+implications for virus origins and receptor binding</article-title>. <source>The
+Lancet</source>.
+<year>2020</year>;<volume>395</volume>(<issue>10224</issue>):<fpage>565</fpage>&#x02013;<lpage>574</lpage>.
+doi: <pub-id pub-id-type="doi">10.1016/S0140-6736(20)30251-8</pub-id></mixed-citation></ref><ref id="CIT0006"><label>6</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Zhu</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Zhang</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>W</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>A novel coronavirus from patients with pneumonia in China,
+2019</article-title>. <source>N Engl J Med</source>.
+<year>2020</year>;<volume>382</volume>(<issue>8</issue>):<fpage>727</fpage>&#x02013;<lpage>733</lpage>.
+doi: <pub-id pub-id-type="doi">10.1056/NEJMoa2001017</pub-id><pub-id pub-id-type="pmid">31978945</pub-id></mixed-citation></ref><ref id="CIT0007"><label>7</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Chen</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Zhou</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Dong</surname><given-names>X</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Epidemiological and clinical characteristics of 99 cases of 2019 novel
+coronavirus pneumonia in Wuhan, China: a descriptive study</article-title>.
+<source>Lancet</source>.
+<year>2020</year>;<volume>395</volume>(<issue>10223</issue>):<fpage>507</fpage>&#x02013;<lpage>513</lpage>.
+doi: <pub-id pub-id-type="doi">10.1016/S0140-6736(20)30211-7</pub-id><pub-id pub-id-type="pmid">32007143</pub-id></mixed-citation></ref><ref id="CIT0008"><label>8</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Shu</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>McCauley</surname><given-names>J.</given-names></name></person-group>
+<article-title>GISAID: global initiative on sharing all influenza data &#x02013; from vision to
+reality</article-title>. <source>Eurosurveillance</source>.
+<year>2017</year>;<volume>22</volume>(<issue>13</issue>):<fpage>30494</fpage>. doi:
+<pub-id pub-id-type="doi">10.2807/1560-7917.ES.2017.22.13.30494</pub-id><pub-id pub-id-type="pmid">28382917</pub-id></mixed-citation></ref><ref id="CIT0009"><label>9</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Zhou</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Yang</surname><given-names>XL</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>XG</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>A pneumonia outbreak associated with a new coronavirus of probable bat
+origin</article-title>. <source>Nature</source>.
+<year>2020</year>;<volume>579</volume>(<issue>7798</issue>):<fpage>270</fpage>&#x02013;<lpage>273</lpage>.
+doi: <pub-id pub-id-type="doi">10.1038/s41586-020-2012-7</pub-id><pub-id pub-id-type="pmid">32015507</pub-id></mixed-citation></ref><ref id="CIT0010"><label>10</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Tang CW</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Li</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Song</surname><given-names>Y</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>On the origin and continuing evolution of SARS-CoV-2</article-title>.
+<source>Natl Sci Rev</source>. <year>2020</year> DOI:<pub-id pub-id-type="doi">10.1093/nsr/nwaa036</pub-id>.</mixed-citation></ref><ref id="CIT0011"><label>11</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Tcherepanov</surname><given-names>V</given-names></name>, <name name-style="western"><surname>Ehlers</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Upton</surname><given-names>C.</given-names></name></person-group>
+<article-title>Genome Annotation Transfer Utility (GATU): rapid annotation of viral
+genomes using a closely related reference genome</article-title>. <source>BMC
+Genomics</source>.
+<year>2006</year>;<volume>7</volume>:<issue>150</issue>.</mixed-citation></ref><ref id="CIT0012"><label>12</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Wu</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Zhao</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Yu</surname><given-names>B</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>A new coronavirus associated with human respiratory disease in
+China</article-title>. <source>Nature</source>.
+<year>2020</year>;<volume>579</volume>(<issue>7798</issue>):<fpage>265</fpage>&#x02013;<lpage>269</lpage>.
+doi: <pub-id pub-id-type="doi">10.1038/s41586-020-2008-3</pub-id><pub-id pub-id-type="pmid">32015508</pub-id></mixed-citation></ref><ref id="CIT0013"><label>13</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Hadfield</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Megill</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Bell</surname><given-names>SM</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Nextstrain: real-time tracking of pathogen evolution</article-title>.
+<source>Bioinformatics</source>.
+<year>2018</year>;<volume>34</volume>(<issue>23</issue>):<fpage>4121</fpage>&#x02013;<lpage>4123</lpage>.
+doi: <pub-id pub-id-type="doi">10.1093/bioinformatics/bty407</pub-id><pub-id pub-id-type="pmid">29790939</pub-id></mixed-citation></ref><ref id="CIT0014"><label>14</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Katoh</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Asimenos</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Toh</surname><given-names>H.</given-names></name></person-group>
+<article-title>Multiple alignment of DNA sequences with MAFFT</article-title>.
+<source>Methods Mol Biol</source>.
+<year>2009</year>;<volume>537</volume>:<fpage>39</fpage>&#x02013;<lpage>64</lpage>.<pub-id pub-id-type="pmid">19378139</pub-id></mixed-citation></ref><ref id="CIT0015"><label>15</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Nguyen</surname><given-names>L-T</given-names></name>, <name name-style="western"><surname>Schmidt</surname><given-names>HA</given-names></name>, <name name-style="western"><surname>Von Haeseler</surname><given-names>A</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>IQ-TREE: a fast and effective stochastic algorithm for estimating
+maximum-likelihood phylogenies</article-title>. <source>Mol Biol Evol</source>.
+<year>2015</year>;<volume>32</volume>(<issue>1</issue>):<fpage>268</fpage>&#x02013;<lpage>274</lpage>.
+doi: <pub-id pub-id-type="doi">10.1093/molbev/msu300</pub-id><pub-id pub-id-type="pmid">25371430</pub-id></mixed-citation></ref><ref id="CIT0016"><label>16</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Sagulenko</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Puller</surname><given-names>V</given-names></name>, <name name-style="western"><surname>Neher</surname><given-names>RA.</given-names></name></person-group>
+<article-title>Treetime: maximum-likelihood phylodynamic analysis</article-title>.
+<source>Virus Evol</source>. <year>2018</year>;<volume>4</volume>(<issue>1</issue>).
+DOI:<pub-id pub-id-type="doi">10.1093/ve/vex042</pub-id>.</mixed-citation></ref><ref id="CIT0017"><label>17</label><mixed-citation publication-type="book"><person-group person-group-type="author"><name name-style="western"><surname>Bah</surname><given-names>T.</given-names></name></person-group>
+<source>Inkscape: guide to a vector drawing program</source>. <publisher-name>United
+States: Prentice Hall Press</publisher-name>; <year>2007</year>.</mixed-citation></ref><ref id="CIT0018"><label>18</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Stamatakis</surname><given-names>A.</given-names></name></person-group>
+<article-title>RAxML version 8: a tool for phylogenetic analysis and post-analysis of
+large phylogenies</article-title>. <source>Bioinformatics</source>.
+<year>2014</year>;<volume>30</volume>(<issue>9</issue>):<fpage>1312</fpage>&#x02013;<lpage>1313</lpage>.
+doi: <pub-id pub-id-type="doi">10.1093/bioinformatics/btu033</pub-id><pub-id pub-id-type="pmid">24451623</pub-id></mixed-citation></ref><ref id="CIT0019"><label>19</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Letunic</surname><given-names>I</given-names></name>, <name name-style="western"><surname>Bork</surname><given-names>P.</given-names></name></person-group>
+<article-title>Interactive tree of life (iTOL) v3: an online tool for the display and
+annotation of phylogenetic and other trees</article-title>. <source>Nucleic Acids
+Res</source>. <year>2016</year>;<volume>44</volume>(<issue>W1)(Web Server
+issue</issue>):<fpage>W242</fpage>&#x02013;<lpage>W245</lpage>. doi: <pub-id pub-id-type="doi">10.1093/nar/gkw290</pub-id><pub-id pub-id-type="pmid">27095192</pub-id></mixed-citation></ref><ref id="CIT0020"><label>20</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Korber</surname><given-names>B</given-names></name>, <name name-style="western"><surname>Fischer</surname><given-names>W</given-names></name>, <name name-style="western"><surname>Gnanakaran</surname><given-names>SG</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Spike mutation pipeline reveals the emergence of a more transmissible form
+of SARS-CoV-2</article-title>. <source>bioRxiv</source>. <year>2020</year>
+<pub-id pub-id-type="doi">10.1101/2020.04.29.069054</pub-id>.</mixed-citation></ref><ref id="CIT0021"><label>21</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Forster</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Forster</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Renfrew</surname><given-names>C</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Phylogenetic network analysis of SARS-CoV-2 genomes</article-title>.
+<source>Proc Natl Acad Sci U S A</source>.
+<year>2020</year>;<volume>117</volume>(<issue>17</issue>):<fpage>9241</fpage>&#x02013;<lpage>9243</lpage>.
+doi: <pub-id pub-id-type="doi">10.1073/pnas.2004999117</pub-id><pub-id pub-id-type="pmid">32269081</pub-id></mixed-citation></ref></ref-list></back></article>

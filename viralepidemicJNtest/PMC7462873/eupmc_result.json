@@ -1,0 +1,325 @@
+{
+  "id": [
+    "32890509"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32890509"
+  ],
+  "pmcid": [
+    "PMC7462873"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7462873"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1016/j.ijrobp.2020.07.001"
+  ],
+  "title": [
+    "Life Beyond COVID: Pay Attention to Viruses."
+  ],
+  "authorString": [
+    "Harari PM, Lambert PF."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Harari PM"
+          ],
+          "firstName": [
+            "Paul M"
+          ],
+          "lastName": [
+            "Harari"
+          ],
+          "initials": [
+            "PM"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Human Oncology, University of Wisconsin School of Medicine and Public Health, Madison, Wisconsin. Electronic address: harari@humonc.wisc.edu."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lambert PF"
+          ],
+          "firstName": [
+            "Paul F"
+          ],
+          "lastName": [
+            "Lambert"
+          ],
+          "initials": [
+            "PF"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Oncology, McArdle Laboratory for Cancer Research, University of Wisconsin School of Medicine and Public Health, Madison, Wisconsin."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "108"
+      ],
+      "journalIssueId": [
+        "3007695"
+      ],
+      "dateOfPublication": [
+        "2020 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of radiation oncology, biology, physics"
+          ],
+          "ISOAbbreviation": [
+            "Int. J. Radiat. Oncol. Biol. Phys."
+          ],
+          "medlineAbbreviation": [
+            "Int J Radiat Oncol Biol Phys"
+          ],
+          "NLMid": [
+            "7603616"
+          ],
+          "ISSN": [
+            "0360-3016"
+          ],
+          "ESSN": [
+            "1879-355X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "348-350"
+  ],
+  "affiliation": [
+    "Department of Human Oncology, University of Wisconsin School of Medicine and Public Health, Madison, Wisconsin. Electronic address: harari@humonc.wisc.edu."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Editorial"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "P30 CA014520"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P50 DE026787"
+          ],
+          "agency": [
+            "NIDCR NIH HHS"
+          ],
+          "acronym": [
+            "DE"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.ijrobp.2020.07.001"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7462873"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7462873?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-05"
+  ],
+  "firstIndexDate": [
+    "2020-09-06"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-04"
+  ],
+  "dateOfRevision": [
+    "2020-09-13"
+  ],
+  "firstPublicationDate": [
+    "2020-10-01"
+  ]
+}

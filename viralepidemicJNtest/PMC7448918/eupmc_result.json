@@ -1,0 +1,506 @@
+{
+  "id": [
+    "32486913"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32486913"
+  ],
+  "pmcid": [
+    "PMC7448918"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7448918"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1080/22221751.2020.1763857"
+  ],
+  "title": [
+    "CRISPR-based platform for carbapenemases and emerging viruses detection using Cas12a (Cpf1) effector nuclease."
+  ],
+  "authorString": [
+    "Curti LA, Pereyra-Bonnet F, Repizo GD, Fay JV, Salvatierra K, Blariza MJ, Ibañez-Alegre D, Rinflerch AR, Miretti M, Gimenez CA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Curti LA"
+          ],
+          "firstName": [
+            "Lucia Ana"
+          ],
+          "lastName": [
+            "Curti"
+          ],
+          "initials": [
+            "LA"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "INPA-CONICET- Universidad de Buenos Aires, Argentina."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pereyra-Bonnet F"
+          ],
+          "firstName": [
+            "Federico"
+          ],
+          "lastName": [
+            "Pereyra-Bonnet"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "INPA-CONICET- Universidad de Buenos Aires, Argentina.",
+                "CASPR Biotech, San Francisco, CA, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Repizo GD"
+          ],
+          "firstName": [
+            "Guillermo Daniel"
+          ],
+          "lastName": [
+            "Repizo"
+          ],
+          "initials": [
+            "GD"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Facultad de Ciencias Bioquímicas y Farmacéuticas, Departamento de Microbiología, Instituto de Biología Molecular y Celular de Rosario (IBR, CONICET), Universidad Nacional de Rosario, Argentina."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fay JV"
+          ],
+          "firstName": [
+            "Jessica Vannina"
+          ],
+          "lastName": [
+            "Fay"
+          ],
+          "initials": [
+            "JV"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratorio GIGA, FCEQyN, Instituto de Biología Subtropical, Universidad Nacional de Misiones - CONICET."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Salvatierra K"
+          ],
+          "firstName": [
+            "Karina"
+          ],
+          "lastName": [
+            "Salvatierra"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratorio GIGA, FCEQyN, Instituto de Biología Subtropical, Universidad Nacional de Misiones - CONICET."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Blariza MJ"
+          ],
+          "firstName": [
+            "María José"
+          ],
+          "lastName": [
+            "Blariza"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratorio GIGA, FCEQyN, Instituto de Biología Subtropical, Universidad Nacional de Misiones - CONICET."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ibañez-Alegre D"
+          ],
+          "firstName": [
+            "Daiana"
+          ],
+          "lastName": [
+            "Ibañez-Alegre"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratorio GIGA, FCEQyN, Instituto de Biología Subtropical, Universidad Nacional de Misiones - CONICET."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rinflerch AR"
+          ],
+          "firstName": [
+            "Adriana Raquel"
+          ],
+          "lastName": [
+            "Rinflerch"
+          ],
+          "initials": [
+            "AR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1840-9993",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratorio GIGA, FCEQyN, Instituto de Biología Subtropical, Universidad Nacional de Misiones - CONICET."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Miretti M"
+          ],
+          "firstName": [
+            "Marcos"
+          ],
+          "lastName": [
+            "Miretti"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratorio GIGA, FCEQyN, Instituto de Biología Subtropical, Universidad Nacional de Misiones - CONICET."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gimenez CA"
+          ],
+          "firstName": [
+            "Carla Alejandra"
+          ],
+          "lastName": [
+            "Gimenez"
+          ],
+          "initials": [
+            "CA"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "CASPR Biotech, San Francisco, CA, USA."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1840-9993",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics",
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2893331"
+      ],
+      "dateOfPublication": [
+        "2020 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Emerging microbes & infections"
+          ],
+          "ISOAbbreviation": [
+            "Emerg Microbes Infect"
+          ],
+          "medlineAbbreviation": [
+            "Emerg Microbes Infect"
+          ],
+          "NLMid": [
+            "101594885"
+          ],
+          "ISSN": [
+            "2222-1751"
+          ],
+          "ESSN": [
+            "2222-1751"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "1140-1148"
+  ],
+  "abstractText": [
+    "CRISPR-Cas12a (also called Cpf1) has been commonly used for genomic editing, based on its ability to generate precise double-stranded DNA (dsDNA) breaks. Recently, it was demonstrated that Cas12a exhibits unspecific ssDNAse activity upon target recognition. This feature allows CRISPR-Cas to be coupled with a ssDNA reporter and generate a fast, accurate and ultrasensitive molecular detection method. Here, we demonstrate that Cas12a was able to detect DNA target sequences corresponding to carbapenemases resistance genes such as KPC, NDM and OXA. Also, with the addition of a reverse-transcription step, we were able to detect viral RNA sequences from DENV, ZIKV and HANTV genomes. In all cases, assay run time was less than two hours. Additionally, we report attomolar levels of detection. This methodology was validated using clinical samples from patients infected with Dengue virus. Reactions were visualized by detection of a fluorescent signal, as well as by the use of a simple lateral flow strip. These results indicate that Cas12a is able to detect both DNA and RNA targets, making it an appropriate and convenient tool to detect all types of pathogens."
+  ],
+  "affiliation": [
+    "INPA-CONICET- Universidad de Buenos Aires, Argentina."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "RNA viruses",
+        "Infectious diseases",
+        "Antibiotic Resistance",
+        "Molecular Diagnostic",
+        "Crispr/cas12a"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/22221751.2020.1763857"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7448918"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7448918?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refseq"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-06-04"
+  ],
+  "firstIndexDate": [
+    "2020-06-04"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-12"
+  ],
+  "dateOfRevision": [
+    "2020-09-11"
+  ],
+  "firstPublicationDate": [
+    "2020-12-01"
+  ]
+}

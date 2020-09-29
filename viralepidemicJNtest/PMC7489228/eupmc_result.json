@@ -1,0 +1,579 @@
+{
+  "id": [
+    "PMC7489228"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7489228"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7489228"
+      ]
+    }
+  ],
+  "title": [
+    "Sputum versus nasopharyngeal samples for the molecular diagnosis of respiratory viral infection in cystic fibrosis: A pilot study"
+  ],
+  "authorString": [
+    "Cardot-Martin E, Guillou-Guillemette H, Berre R, Ramel S, Bihan J, Grenet D, Farfour E, Troussier F, Urban T, Billard L, Pilorgé L, Minoui-Tran A, Payan C, Munck M, Héry-Arnaud G, Vallet S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Cardot-Martin E"
+          ],
+          "firstName": [
+            "Emilie"
+          ],
+          "lastName": [
+            "Cardot-Martin"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "b Service de Biologie Clinique, Hôpital Foch, 92151 Suresnes, France"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Guillou-Guillemette H"
+          ],
+          "firstName": [
+            "Hélène Le"
+          ],
+          "lastName": [
+            "Guillou-Guillemette"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "c Laboratoire de Virologie, Centre Hospitalier Universitaire et Laboratoire HIFI, UPRES, EA 3859, Angers, France"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Berre R"
+          ],
+          "firstName": [
+            "Rozenn Le"
+          ],
+          "lastName": [
+            "Berre"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "d Département de Médecine Interne et Pneumologie, Centre Hospitalier Régional et Universitaire de Brest, France"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ramel S"
+          ],
+          "firstName": [
+            "Sophie"
+          ],
+          "lastName": [
+            "Ramel"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "e Centre de Ressources et de Compétences de la Mucoviscidose, Presqu’île de Perharidy, Ildys, 29648 Roscoff, France"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bihan J"
+          ],
+          "firstName": [
+            "Jean Le"
+          ],
+          "lastName": [
+            "Bihan"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "e Centre de Ressources et de Compétences de la Mucoviscidose, Presqu’île de Perharidy, Ildys, 29648 Roscoff, France"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Grenet D"
+          ],
+          "firstName": [
+            "Dominique"
+          ],
+          "lastName": [
+            "Grenet"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "f Service de pneumologie, hôpital Foch, 92151 Suresnes, France"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Farfour E"
+          ],
+          "firstName": [
+            "Eric"
+          ],
+          "lastName": [
+            "Farfour"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "b Service de Biologie Clinique, Hôpital Foch, 92151 Suresnes, France"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Troussier F"
+          ],
+          "firstName": [
+            "Françoise"
+          ],
+          "lastName": [
+            "Troussier"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "g Pôle femme mère, enfant, centre Robert Debré, CHU d'Angers, 4 rue Larrey, 49993 Angers cedex 09, France"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Urban T"
+          ],
+          "firstName": [
+            "Thierry"
+          ],
+          "lastName": [
+            "Urban"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "h Département de Pneumologie, CHU d'Angers, 4 rue Larrey, 49933 Angers Cedex 1, France"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Billard L"
+          ],
+          "firstName": [
+            "Lisa"
+          ],
+          "lastName": [
+            "Billard"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "a Univ Brest, Inserm, EFS, UMR 1078, GGB Génétique, Génomique Fonctionnelle et Biotechnologies, F-29200 Brest, France"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pilorgé L"
+          ],
+          "firstName": [
+            "Léa"
+          ],
+          "lastName": [
+            "Pilorgé"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "i Unité de Virologie, Département de Bactériologie-Virologie-Parasitologie-Mycologie-Hygiène, Pôle de Biologie-Pathologie, Centre Hospitalier Régional et Universitaire, 29609 Brest cedex, France"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Minoui-Tran A"
+          ],
+          "firstName": [
+            "Adissa"
+          ],
+          "lastName": [
+            "Minoui-Tran"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "i Unité de Virologie, Département de Bactériologie-Virologie-Parasitologie-Mycologie-Hygiène, Pôle de Biologie-Pathologie, Centre Hospitalier Régional et Universitaire, 29609 Brest cedex, France"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Payan C"
+          ],
+          "firstName": [
+            "Christopher"
+          ],
+          "lastName": [
+            "Payan"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "i Unité de Virologie, Département de Bactériologie-Virologie-Parasitologie-Mycologie-Hygiène, Pôle de Biologie-Pathologie, Centre Hospitalier Régional et Universitaire, 29609 Brest cedex, France"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Munck M"
+          ],
+          "firstName": [
+            "Marie-Reine"
+          ],
+          "lastName": [
+            "Munck"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "j Service de Pédiatrie générale, Centre Hospitalier Régional Universitaire, 29609 Brest cedex, France"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Héry-Arnaud G"
+          ],
+          "firstName": [
+            "Geneviève"
+          ],
+          "lastName": [
+            "Héry-Arnaud"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "k Unité de Bactériologie, Département de Bactériologie-Virologie-Hygiène-Parasitologie-Mycologie, Pôle de Biologie-Pathologie, Centre Hospitalier Régional Universitaire, 29609 Brest cedex, France"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Vallet S"
+          ],
+          "firstName": [
+            "Sophie"
+          ],
+          "lastName": [
+            "Vallet"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "i Unité de Virologie, Département de Bactériologie-Virologie-Parasitologie-Mycologie-Hygiène, Pôle de Biologie-Pathologie, Centre Hospitalier Régional et Universitaire, 29609 Brest cedex, France"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3007205"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of cystic fibrosis : official journal of the European Cystic Fibrosis Society"
+          ],
+          "ISOAbbreviation": [
+            "J. Cyst. Fibros."
+          ],
+          "medlineAbbreviation": [
+            "J Cyst Fibros"
+          ],
+          "NLMid": [
+            "101128966"
+          ],
+          "ISSN": [
+            "1569-1993"
+          ],
+          "ESSN": [
+            "1873-5010"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Highlights • First feasibility study of respiratory viral detection in Cystic Fibrosis sputum.• High concordance between sputum and nasopharyngeal samples in viral.• Multiplex-PCR performed in 30 paired samples: 83% viral congruency.• Sputum: an optimal non-invasive sample for viral diagnosis in cystic fibrosis. Viruses are important agents in lung function deterioration in Cystic Fibrosis (CF). To date, no standard operating procedures (SOPs) have been established to determine which sampling method is the most effective for an optimal virological diagnosis of respiratory viral infections in CF. Here we investigated the performances of two sampling sites, sputum samples versus nasopharyngeal (NP) swabs, for thirty participants from three CF centres presenting an acute respiratory infection. Sputum and NP samples were simultaneously collected and multiplex PCR targeting 16 to 18 viruses were performed. Viruses were detected for 18/30 patients (60%). A high concordance between the sputum and NP samples was observed in 25 (83%) paired samples of which 13 tested positive and 12 tested negative. These results highlighted the relevance of sputum sampling for diagnostic of respiratory viruses in CF, which is less invasive and better accepted by CF patients than NP, and allows accurate bacterial detection."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "brief-report",
+        "Brief Report"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Influenza Virus",
+        "Sputum",
+        "respiratory virus",
+        "Cystic Fibrosis",
+        "Nasopharyngeal",
+        "Multiplex Molecular Diagnosis"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7489228/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7489228/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7489228"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7489228?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-17"
+  ],
+  "firstIndexDate": [
+    "2020-09-23"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-17"
+  ],
+  "dateOfRevision": [
+    "2020-09-17"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-14"
+  ],
+  "firstPublicationDate": [
+    "2020-09-14"
+  ]
+}

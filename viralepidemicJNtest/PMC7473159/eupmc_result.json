@@ -1,0 +1,842 @@
+{
+  "id": [
+    "32552549"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32552549"
+  ],
+  "pmcid": [
+    "PMC7473159"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7473159"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1080/22221751.2020.1775500"
+  ],
+  "title": [
+    "Laboratory management for SARS-CoV-2 detection: a user-friendly combination of the heat treatment approach and rt-Real-time PCR testing."
+  ],
+  "authorString": [
+    "Mancini F, Barbanti F, Scaturro M, Errico G, Iacobino A, Bella A, Riccardo F, Marsili G, Stefanelli P, Pezzotti P, Rezza G, Ciervo A, on behalf ISS COVID-19 study group."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mancini F"
+          ],
+          "firstName": [
+            "Fabiola"
+          ],
+          "lastName": [
+            "Mancini"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Infectious Diseases, Istituto Superiore di Sanità, Rome, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Barbanti F"
+          ],
+          "firstName": [
+            "Fabrizio"
+          ],
+          "lastName": [
+            "Barbanti"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Infectious Diseases, Istituto Superiore di Sanità, Rome, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Scaturro M"
+          ],
+          "firstName": [
+            "Maria"
+          ],
+          "lastName": [
+            "Scaturro"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Infectious Diseases, Istituto Superiore di Sanità, Rome, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Errico G"
+          ],
+          "firstName": [
+            "Giulia"
+          ],
+          "lastName": [
+            "Errico"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Infectious Diseases, Istituto Superiore di Sanità, Rome, Italy.",
+                "European Public Health Microbiology Training Program (EUPHEM), European Centre for Disease Prevention and Control (ECDC), Stockholm, Sweden."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Iacobino A"
+          ],
+          "firstName": [
+            "Angelo"
+          ],
+          "lastName": [
+            "Iacobino"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Infectious Diseases, Istituto Superiore di Sanità, Rome, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bella A"
+          ],
+          "firstName": [
+            "Antonino"
+          ],
+          "lastName": [
+            "Bella"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Infectious Diseases, Istituto Superiore di Sanità, Rome, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Riccardo F"
+          ],
+          "firstName": [
+            "Flavia"
+          ],
+          "lastName": [
+            "Riccardo"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1582-6329",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Infectious Diseases, Istituto Superiore di Sanità, Rome, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Marsili G"
+          ],
+          "firstName": [
+            "Giulia"
+          ],
+          "lastName": [
+            "Marsili"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Infectious Diseases, Istituto Superiore di Sanità, Rome, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Stefanelli P"
+          ],
+          "firstName": [
+            "Paola"
+          ],
+          "lastName": [
+            "Stefanelli"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Infectious Diseases, Istituto Superiore di Sanità, Rome, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pezzotti P"
+          ],
+          "firstName": [
+            "Patrizio"
+          ],
+          "lastName": [
+            "Pezzotti"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Infectious Diseases, Istituto Superiore di Sanità, Rome, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rezza G"
+          ],
+          "firstName": [
+            "Giovanni"
+          ],
+          "lastName": [
+            "Rezza"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Infectious Diseases, Istituto Superiore di Sanità, Rome, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ciervo A"
+          ],
+          "firstName": [
+            "Alessandra"
+          ],
+          "lastName": [
+            "Ciervo"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0664-9375",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "collectiveName": [
+            "on behalf ISS COVID-19 study group"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Infectious Diseases, Istituto Superiore di Sanità, Rome, Italy."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1582-6329",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0664-9375",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2893331"
+      ],
+      "dateOfPublication": [
+        "2020 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Emerging microbes & infections"
+          ],
+          "ISOAbbreviation": [
+            "Emerg Microbes Infect"
+          ],
+          "medlineAbbreviation": [
+            "Emerg Microbes Infect"
+          ],
+          "NLMid": [
+            "101594885"
+          ],
+          "ISSN": [
+            "2222-1751"
+          ],
+          "ESSN": [
+            "2222-1751"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "1393-1396"
+  ],
+  "abstractText": [
+    "The RNA purification is the gold standard for the detection of SARS-CoV-2 in swab samples, but it is dependent on the availability of chemical reagents. In this study, we evaluated the heat treatment method without RNA extraction as a reliable option to nucleic acid purification."
+  ],
+  "affiliation": [
+    "Department of Infectious Diseases, Istituto Superiore di Sanità, Rome, Italy."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Letter",
+        "Evaluation Study"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pneumonia, Viral"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Coronavirus Infections"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Viral Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "RNA, Viral"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Specimen Handling"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Clinical Laboratory Techniques"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hot Temperature"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pandemics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Real-Time Polymerase Chain Reaction"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Betacoronavirus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Heat treatment",
+        "Molecular Methods",
+        "Sars-cov-2",
+        "Covid 19",
+        "Nasopharyngeal Samples",
+        "Rt-real Time Pcr"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Viral Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "RNA, Viral"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/22221751.2020.1775500"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7473159"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7473159?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-06-24"
+  ],
+  "dateOfCreation": [
+    "2020-06-20"
+  ],
+  "firstIndexDate": [
+    "2020-06-20"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-17"
+  ],
+  "dateOfRevision": [
+    "2020-09-16"
+  ],
+  "firstPublicationDate": [
+    "2020-12-01"
+  ]
+}

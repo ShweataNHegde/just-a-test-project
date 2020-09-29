@@ -1,0 +1,715 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.2 20190208//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.2?><?ConverterInfo.XSLTName jpoasis-nisons2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Emerg Microbes Infect</journal-id><journal-id journal-id-type="iso-abbrev">Emerg Microbes Infect</journal-id><journal-title-group><journal-title>Emerging Microbes &#x00026; Infections</journal-title></journal-title-group><issn pub-type="epub">2222-1751</issn><publisher><publisher-name>Taylor &#x00026; Francis</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">7473197</article-id><article-id pub-id-type="pmid">32623963</article-id><article-id pub-id-type="publisher-id">1792352</article-id><article-id pub-id-type="doi">10.1080/22221751.2020.1792352</article-id><article-version vocab="JAV" vocab-identifier="http://www.niso.org/publications/rp/RP-8-2008.pdf" vocab-term="Version of Record" article-version-type="VoR">Version of
+Record</article-version><article-categories><subj-group subj-group-type="article-type"><subject>Review</subject></subj-group><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Advances in detection of infectious agents by aptamer-based
+technologies</article-title><alt-title alt-title-type="right-running-head">EMERGING MICROBES AND INFECTIONS</alt-title><alt-title alt-title-type="left-running-head">H.-Y. LI ET AL.</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Li</surname><given-names>Hui-Yan</given-names></name><xref ref-type="aff" rid="AF1">a</xref><xref ref-type="author-notes" rid="AN1">#</xref></contrib><contrib contrib-type="author"><name><surname>Jia</surname><given-names>Wan-Nan</given-names></name><xref ref-type="aff" rid="AF1">a</xref><xref ref-type="author-notes" rid="AN1">#</xref></contrib><contrib contrib-type="author"><name><surname>Li</surname><given-names>Xin-Yi</given-names></name><xref ref-type="aff" rid="AF1">a</xref></contrib><contrib contrib-type="author"><name><surname>Zhang</surname><given-names>Li</given-names></name><xref ref-type="aff" rid="AF1">a</xref></contrib><contrib contrib-type="author"><name><surname>Liu</surname><given-names>Chang</given-names></name><xref ref-type="aff" rid="AF1">a</xref></contrib><contrib contrib-type="author"><name><surname>Wu</surname><given-names>Jian</given-names></name><xref ref-type="aff" rid="AF1">a</xref><xref ref-type="aff" rid="AF2">b</xref><xref ref-type="aff" rid="AF3">c</xref><xref ref-type="corresp" rid="cor1"/></contrib><aff id="AF1"><label>a</label><institution>Department of Medical Microbiology, MOE/NHC/CAMS
+Key Laboratory of Medical Molecular Virology, School of Basic Medical Sciences, Fudan
+University</institution>, <city>Shanghai</city>, <country>People&#x02019;s Republic of
+China</country></aff><aff id="AF2"><label>b</label><institution>Department of Gastroenterology &#x00026; Hepatology,
+Zhongshan Hospital of Fudan University</institution>, <city>Shanghai</city>,
+<country>People&#x02019;s Republic of China</country></aff><aff id="AF3"><label>c</label><institution>Shanghai Institute of Liver Diseases, Fudan
+University Shanghai Medical College</institution>, <city>Shanghai</city>,
+<country>People&#x02019;s Republic of China</country></aff></contrib-group><author-notes><corresp id="cor1"><label>CONTACT</label> Jian Wu <email xlink:href="jian.wu@fudan.edu.cn">jian.wu@fudan.edu.cn</email><institution>Department of Medical Microbiology, Key Laboratory of Medical Molecular
+Virology, School of Basic Medical Sciences, Fudan University</institution>,
+<addr-line>138 Yixue Yuan Road, P. O. Box 228</addr-line>, <city>Shanghai</city><postal-code>200032</postal-code>, <country>People&#x02019;s Republic of China</country></corresp><fn id="AN1"><label>#</label><p>These two auth29ors contribute to the work equally.</p></fn><fn id="fn0002-d19e123" fn-type="author-notes"><p><bold>Abbreviations</bold>: AIDS: acquired immunodeficiency syndrome; AST:
+antimicrobial sensitivity test; APT-FMNPs: aptamer-modified fluorescent magnetic
+multifunctional nanoprobe; AuNPs: gold nanoparticles; CTnI: cardiac troponin I; CV:
+cyclic voltammetry; DEAE: diethyl amino ethyl; DPV: differential pulse voltammetry; EIS:
+Electrochemical impedance spectroscopy; ECS: electrochemical sensor; <italic>E. coli</italic>: <italic>Escherichia coli</italic>; ESNC:
+europium sulphide nanocrystalline; GCE: glassy carbon electrode; GQD: graphene quantum
+dots; HBsAg: hepatitis B surface antigen; HBV: hepatitis B virus; HCV: hepatitis C
+virus; HCVcp: hepatitis C virus core protein; HCC: hepatocellular carcinoma; HAART:
+highly active antiretroviral therapy; HIV-TAT: human immunodeficiency virus trans
+transcriptional activator; HIV-1: human immunodeficiency virus-1; HPV: human
+papillomavirus; LDI MS: laser desorption/ionization mass spectrometry; LFIA: lateral &#x0fb02;ow
+immunoassays; LOD: limit of detection; LPS: lipopolysaccharide; MCE-LIF: microchip
+capillary electrophoresis coupled with laser-induced fluorescence; MB: molecular beacon;
+MIP-ECL: molecularly imprinted polymer electrochemiluminescence; MB-SpinChip:
+multiplexing bar graph rotation chip; M. TB: Mycobacterium tuberculosis; NC:
+nucleocapsid; NP: nucleoprotein; PFGDH: plasmodium falciparum glutamate dehydrogenase;
+PLDH: plasmodium lactate dehydrogenase; POCT: point-of-care testing; RT&#x02013;PCR: reverse
+transcriptase polymerase chain reaction; SOMAmer: slow abscission rate-modified DNA
+aptamer; SE: spectroscopic ellipsometry; SES: staphylococcal enterotoxin; <italic>S. aureus</italic>: <italic>Staphylococcus aureus</italic>;
+SPReTIRE: surface plasmon resonance-enhanced total internal reflection ellipsometry;
+SERS: surface-enhanced Raman scattering; VLP: virus-like particle.</p></fn></author-notes><pub-date date-type="pub" publication-format="electronic"><day>20</day><month>7</month><year>2020</year></pub-date><pub-date date-type="collection" publication-format="electronic"><year>2020</year></pub-date><volume>9</volume><issue>1</issue><fpage seq="195">1671</fpage><lpage>1681</lpage><permissions><copyright-statement>&#x000a9; 2020 The Author(s). Published by Informa UK Limited, trading as
+Taylor &#x00026; Francis Group, on behalf of Shanghai Shangyixun Cultural Communication Co.,
+Ltd</copyright-statement><copyright-year>2020</copyright-year><copyright-holder>The Author(s)</copyright-holder><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>), which permits unrestricted
+use, distribution, and reproduction in any medium, provided the original work is
+properly cited.</license-p><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="vor">http://creativecommons.org/licenses/by/4.0/</ali:license_ref></license></permissions><self-uri content-type="pdf" xlink:href="TEMI_9_1792352.pdf"/><abstract><title>ABSTRACT</title><p>Infectious diseases still remain one of the biggest challenges for human health. Accurate
+and early detection of infectious pathogens are crucial for transmission control, clinical
+diagnosis, and therapy. For a traditional reason, most immunological and microbiological
+laboratories are equipped with instruments designated for antibody-based assays in
+detection of infectious pathogens or clinical diagnosis. Emerging aptamer-based
+technologies have pushed a shift from antibody-based to aptamer-based assays due to equal
+specificity, even better sensitivity, lower manufacturing cost and more flexibility in
+amending for chemiluminescent, electrochemical or fluorescent detection in a multifaceted
+and high throughput fashion in comparison of aptamer-based to antibody-based assays. The
+nature of aptamer-based technologies is particularly suitable for point-of-care testing in
+remote areas at warm or hot atmosphere, and mass screening for potential infection in
+pandemic of emerging infectious agents, such as SARS-CoV or SARS-CoV-2 in an epicentre or
+other regions. This review intends to summarize currently available aptamer-based
+technologies in detection of bacterial, viral, and protozoan pathogens for research and
+clinical application. It is anticipated that potential technologies will be further
+optimized and validated for clinical translation in meeting increasing demands for prompt,
+precise, and reliable detection of specific pathogens in various atmospheric
+conditions.</p></abstract><kwd-group kwd-group-type="author"><title>KEYWORDS</title><kwd>Aptamer</kwd><kwd>HBV</kwd><kwd>HCV</kwd><kwd>HIV</kwd><kwd>tuberculosis</kwd><kwd>leishmania</kwd><kwd>amoeba</kwd></kwd-group><counts><fig-count count="1"/><table-count count="4"/><equation-count count="0"/><ref-count count="49"/><page-count count="11"/></counts></article-meta></front><body><sec sec-type="intro" id="S001"><title>Introduction</title><p>In a highly mobile, interdependent but interrelated world, infectious diseases spread so
+rapidly that they pose a serious global threat to public health [<xref rid="CIT0001" ref-type="bibr">1</xref>]. Rapid, convenient, and high-throughput testing is a key to
+control the transmission of emerging infectious agents. Antibodies have been used in
+microbial immunoassay for more than 50 years [<xref rid="CIT0002" ref-type="bibr">2</xref>].
+Their inherent ability to bind microbial preparations and their products makes them ideal to
+capture molecules for immunoassay, such as ELISA, immunochromatographic bands, column
+chromatography, and immunosensor development [<xref rid="CIT0003" ref-type="bibr">3</xref>,<xref rid="CIT0004" ref-type="bibr">4</xref>]. However, there is an increasing
+need for affordable, rapid, sensitive, and high throughput methods in identifying new or
+re-emerging infectious agents or distinguishing resistant subclones.</p><p>Nucleic acid aptamer is small single-stranded DNA (ssDNA) or RNA, identified and selected
+from a synthetic oligonucleotide library with a length of 20&#x02013;80 bases via systematic
+evolution of ligands by exponential enrichment (SELEX) or other modified SELEX strategies
+[<xref rid="CIT0005" ref-type="bibr">5</xref>]. Aptamers have been considered to be
+&#x0201c;artificial antibodies,&#x0201d; and considerable attention has been given to nucleic acid aptamers
+because of their low production cost, easy chemical modification, high chemical stability
+and binding affinity, repeatability, and reusability. It may be folded into secondary and
+tertiary spatial structure with a combination of loops, stems, hairpins, pseudoknots, bumps,
+or G-quadruplexes. This feature gives them high specificity and affinity to a variety of
+targets, ranging from ions to molecules of various properties, sizes, and complexities
+throughout a cell, including small molecules (such as amino acids, nucleotides,
+antibiotics), macromolecules (peptides, proteins, nucleic acids), or whole viruses,
+bacteria, and cells, etc. The advantages of aptamers in biological use are concisely
+highlighted in <xref rid="T0001" ref-type="table">Table 1</xref>. Aptamers are equally
+applicable in many assays where antibodies are used, and they are even more flexible and
+amendable when real-time detection is needed or for on-site detection when a refrigerator is
+unavailable. Those advantages make it possible to be a detecting probe for infectious
+agents. <table-wrap id="T0001" orientation="portrait" position="float"><label>Table 1.</label><caption><title>Bullet points for aptamer advantages.</title></caption><!--OASIS TABLE HERE--><table frame="hsides" rules="groups"><col width="1*"/><tbody><tr><td align="left"><list list-type="bullet"><list-item><p>High affinity with dissociation constant (K<sub>D</sub>) in a
+nanomolar-to-picomolar range</p></list-item><list-item><p>High binding specificity for a wide range of targets</p></list-item><list-item><p>Synthesis <italic toggle="yes">in vitro</italic> with high purity and a
+low cost</p></list-item><list-item><p>Flexible modification by a variety of chemical markers</p></list-item><list-item><p>Small molecular weight, good stability and renewability</p></list-item><list-item><p>Easily to be developed in multifaceted and high throughput assay
+format</p></list-item></list></td></tr></tbody></table></table-wrap></p><p>Because of the unique advantages in capable of diagnosis, aptamers have been used in the
+design of biosensors applicable in infectious diseases over the past 20 years. The
+technology of detecting infectious diseases based on aptamers has achieved tremendous
+progress and is becoming a promising detection strategy in recent 10 years. Since its first
+application in 1990 [<xref rid="CIT0006" ref-type="bibr">6</xref>], SELEX has undergone many
+modifications. The novel modification makes the obtained aptamer more specific, the
+selection process more efficient, cost-effective, and greatly reduces time consumption
+[<xref rid="CIT0007" ref-type="bibr">7</xref>]. Specific aptamers for infectious
+microorganisms in the event of new epidemic outbreaks can be quickly obtained through
+efficient SELEX technology, such as the recent specific aptamers of SARS-CoV-2 have been
+obtained rapidly [<xref rid="CIT0008" ref-type="bibr">8</xref>]. Once the specific aptamers
+of pathogenic microorganisms or their toxic molecules are identified, a variety of detection
+schemes can be designed based on the aptamers, including chemiluminescent, electrochemical
+or fluorescent detection according to the different detection signals [<xref rid="CIT0009" ref-type="bibr">9&#x02013;12</xref>]. In order to improve
+the sensitivity of aptamer-based detection, several research teams tried to develop signal
+amplification strategies. Three methods, catalytic molecule, cyclic enzymatic, and
+rolling-circle amplification (RCA) are used to amplify signals for better detection and a
+breakthrough has been made in the sensitivity of aptamer-based infectious agents detection
+[<xref rid="CIT0013" ref-type="bibr">13&#x02013;15</xref>]. Through the
+acquisition of specific aptamers of pathogenic microorganisms and the establishment of
+sensitive and stable aptamer-based detection methods, it is possible to diagnose infectious
+agents conveniently, quickly, and effectively in any environment.</p><p>This review intends to provide an update in the use of aptamer-based technologies in
+detection of infectious agents, and to demonstrate the flexibility and applicability of
+these technologies in precise detection of many categories of microbial agents, such as
+pathogenic bacteria, viruses, parasites or their products in a solid or liquid phase (<xref rid="F0001" ref-type="fig">Figure 1</xref>). In-depth technical overviews regarding
+emerging aptamer-based biosensors and cutting-edging technologies for the detection of
+proteins from various pathogens are available [<xref rid="CIT0016" ref-type="bibr">16</xref>,<xref rid="CIT0017" ref-type="bibr">17</xref>]. Representative aptamer-based
+methods for pathogenic targets from recent literature are briefly discussed in the text and
+the remaining is mentioned in <xref rid="T0002 T0003" ref-type="table">Tables 2&#x02013;3</xref>.
+<fig id="F0001" orientation="portrait" position="float"><label>Figure 1.</label><caption><p>Pathogens potentially detectable by aptamer-based assays. Pathogens which are
+possibly detected by aptamer-based assays are categorized into three major
+microorganisms, bacteria, viruses and protozoan parasites.</p></caption><alternatives><graphic specific-use="web-only" content-type="color" xlink:href="TEMI_A_1792352_F0001_OC"/><graphic specific-use="print-only" content-type="black-white" xlink:href="TEMI_A_1792352_F0001_PB"/></alternatives></fig>
+<table-wrap id="T0002" orientation="portrait" position="float"><label>Table 2.</label><caption><title>Aptamers used in detection of bacteria and their products.</title></caption><!--OASIS TABLE HERE--><table frame="hsides" rules="groups"><colgroup><col width="1*"/><col width="1*"/><col width="1*"/><col width="1*"/></colgroup><thead valign="bottom"><tr><th align="left">Bacterial types</th><th align="center">Aptamer</th><th align="center">Target</th><th align="center">Method</th></tr></thead><tbody><tr><td align="left">Tuberculosis [<xref rid="CIT0009" ref-type="bibr">9</xref>]</td><td align="left">H63SL2-M6</td><td align="left">HspX</td><td align="left">Aptamer linked immobilized sorbent assay
+and electrochemical sensor</td></tr><tr><td align="left">Tuberculosis [<xref rid="CIT0018" ref-type="bibr">18</xref>]</td><td align="left">Thiolated MPT64 aptamer</td><td align="left">MPT64</td><td align="left">Combination of aptamers and electrochemical
+impedance spectroscopy</td></tr><tr><td align="left">Tuberculosis [<xref rid="CIT0019" ref-type="bibr">19</xref>]</td><td align="left">MAA I and MAA II</td><td align="left">MPT64</td><td align="left">A sandwich-type electrochemical
+aptasensor</td></tr><tr><td align="left">Salmonella [<xref rid="CIT0010" ref-type="bibr">10</xref>]</td><td align="left">LA27</td><td align="left">LPS</td><td align="left">Truncated aptamer LA27 combined with
+GO-based FP assays</td></tr><tr><td align="left">Salmonella [<xref rid="CIT0020" ref-type="bibr">20</xref>]</td><td align="left">Apt-<italic toggle="yes">E. coli</italic>
+Apt-S. typ</td><td align="left"><italic toggle="yes">E. coli</italic> S.
+typ</td><td align="left">Aptamer modified by fluorescent magnetic
+multifunctional nanoprobe (APT-FMNPs)</td></tr><tr><td align="left"><italic toggle="yes">S. aureus</italic>
+[<xref rid="CIT0021" ref-type="bibr">21</xref>]</td><td align="left">Chimeric <italic toggle="yes">S.
+aureus</italic> aptamer</td><td align="left">Staphylococcal enterotoxin</td><td align="left">Fluorescent detection based on finely
+designed chimaera aptamer, MB elements and chain displacement</td></tr><tr><td align="left"><italic toggle="yes">L.
+monocytogenes</italic> [<xref rid="CIT0022" ref-type="bibr">22</xref>]</td><td align="left">LM6-116</td><td align="left">Members of Listeria genus</td><td align="left">Two-site binding sandwich
+assay</td></tr><tr><td align="left"><italic toggle="yes">E. coli</italic>
+[<xref rid="CIT0023" ref-type="bibr">23</xref>]</td><td align="left">Aptamers for <italic toggle="yes">S.
+enterica</italic>, <italic toggle="yes">E. coli</italic> and <italic toggle="yes">L. monocytogenes</italic></td><td align="left"><italic toggle="yes">S. enterica</italic>,
+<italic toggle="yes">E. coli</italic>, <italic toggle="yes">L.
+monocytogenes</italic></td><td align="left">Multiplexed bar-chart SpinChip integrated
+with PtNPs-mediated magnetic aptasensor</td></tr><tr><td align="left"><italic toggle="yes">E. coli</italic>
+[<xref rid="CIT0024" ref-type="bibr">24</xref>]</td><td align="left">E1</td><td align="left"><italic toggle="yes">E. coli</italic>
+O157:H7</td><td align="left">Aptamer binding microchip capillary
+electrophoresis coupled with laser-induced fluorescence (MCE-LIF)</td></tr></tbody></table></table-wrap>
+<table-wrap id="T0003" orientation="portrait" position="float"><label>Table 3.</label><caption><title>Targets of pathogenic viruses for development of specific aptamers.</title></caption><!--OASIS TABLE HERE--><table frame="hsides" rules="groups"><colgroup><col width="1*"/><col width="1*"/><col width="1*"/><col width="1*"/></colgroup><thead valign="bottom"><tr><th align="left">Type of viruses</th><th align="center">Aptamer</th><th align="center">Target</th><th align="center">Method</th></tr></thead><tbody><tr><td align="left">Human immunodeficiency virus (HIV) [<xref rid="CIT0011" ref-type="bibr">11</xref>]</td><td align="left">HIV ssDNA aptamer</td><td align="left">HIV-1 gene</td><td align="left">Molecularly imprinted polymer electrochemi-
+luminescence sensor</td></tr><tr><td align="left">HIV [<xref rid="CIT0028" ref-type="bibr">28</xref>]</td><td align="left">AntiTat</td><td align="left">HIV-TAT protein</td><td align="left">Spectroscopic ellipsometer</td></tr><tr><td align="left">Hepatitis B virus [<xref rid="CIT0030" ref-type="bibr">30</xref>]</td><td align="left">A thiol-modified aptamer against
+HBsAg</td><td align="left">HBsAg</td><td align="left">Chemiluminescent aptamer-sensor based on
+rapid magnetic separation</td></tr><tr><td align="left">Hepatitis C virus [<xref rid="CIT0032" ref-type="bibr">32</xref>]</td><td align="left">Core-speci&#x0fb01;c DNA aptamer</td><td align="left">HCV core antigen</td><td align="left">Electrochemical aptamer sensor based on
+graphene quantum dots</td></tr><tr><td align="left">Hepatitis C virus [<xref rid="CIT0033" ref-type="bibr">33</xref>]</td><td align="left">HCVcp ssDNA aptamer</td><td align="left">HCVcp</td><td align="left">A plasmonic nanoplatform</td></tr><tr><td align="left">Human papillomavirus [<xref rid="CIT0034" ref-type="bibr">34</xref>]</td><td align="left">HPV16 L1 ssRNA aptamer</td><td align="left">HPV16 L1 protein</td><td align="left">The laser desorption/ionization mass
+spectrometry method</td></tr><tr><td align="left">Human papillomavirus [<xref rid="CIT0035" ref-type="bibr">35</xref>]</td><td align="left">HPV-07</td><td align="left">HPV16 virus-like particle
+(VLP)</td><td align="left">Slow abscission rate-modified DNA
+aptamer</td></tr><tr><td align="left">Influenza [<xref rid="CIT0037" ref-type="bibr">37</xref>]</td><td align="left">NP-speci&#x0fb01;c aptamer, CTnI-speci&#x0fb01;c
+aptamer</td><td align="left">In&#x0fb02;uenza nucleoprotein (NP) and cardiac
+troponin I (cTnI).</td><td align="left">Paper-based transverse flow immunoassay
+(LFIA) using sandwich immunoassay</td></tr><tr><td align="left">SARS-CoV [<xref rid="CIT0043" ref-type="bibr">43</xref>]</td><td align="left">ssDNA</td><td align="left">nucleocapsid protein</td><td align="left">Aptamer-based Western blot
+analysis</td></tr><tr><td align="left">Norovirus [<xref rid="CIT0040" ref-type="bibr">40</xref>,<xref rid="CIT0041" ref-type="bibr">41</xref>]</td><td align="left">Aptamer-6-FAM, Bt-Apt-Fc</td><td align="left">norovirus capsid protein,
+VP1,</td><td align="left">Paper-based microfluidic device or
+micro&#x0fb02;uidic platform integrated with graphene-gold nano-composite
+aptasensor</td></tr><tr><td align="left">SARS-CoV-2</td><td align="left">Not available</td><td align="left">Spike protein</td><td align="left">To be developed</td></tr></tbody></table></table-wrap></p></sec><sec id="S002"><title>Bacterial infection</title><p>Aptamers against bacteria are divided into the following two categories (A) targeting
+predetermined bacterial cell surface antigens or bacterial virulence factors; (B) targeting
+whole cells with known or unknown molecular targets. So far bacterial aptamers are mainly
+designed to target Mycobacterium tuberculosis (M. TB), Salmonella, <italic>Listeria monocytogenes</italic> (<italic>L. monocytogenes</italic>), <italic>Staphylococcus aureus</italic> (<italic>S. aureus</italic>), and
+<italic>Escherichia coli</italic> (<italic>E. coli</italic>)
+(<xref rid="T0002" ref-type="table">Table 2</xref>).</p><sec id="S002-S2001"><title>Tuberculosis</title><p>Tuberculosis (TB) remains one of the leading causes of death worldwide. Traditional
+diagnostic methods, including tuberculin skin test, tuberculosis antibody detection, and
+M. TB microscopic examination, have some shortcomings, such as low sensitivity, poor
+specificity, long-term process, false positive, or negative results. There is an urgent
+demand to develop reliable, sensitive, stable, and less costive tests for early diagnosis
+of tuberculosis in resource-deficient communities. To achieve rapid and secure methods for
+early diagnosis in resource-deficient communities, two diagnostic tests based on DNA
+aptamers were developed, namely aptamer connection fixation adsorption analysis
+(AptamerAlisa) and electrochemical sensor (ECS), for tuberculosis biomarker HspX in sputum
+[<xref rid="CIT0009" ref-type="bibr">9</xref>]. A blinded clinical study in 314 sputum
+samples demonstrated that the sensitivity of AptamerAlisa (94.1%) was better than the
+anti-HspX polyclonal antibody-based ELISA (68.2%), without affecting the detection
+specificity of 100%. It was proven that aptamer-based detection was superior to smear
+microscope, antibody-based ELISA, and chest X-ray in the detection of tuberculosis. In
+addition, a 30-minute care-point ECS assay was developed to distinguish between
+tuberculous and non-tuberculous sputum with 92.3% sensitivity and 91.2% specificity in 57
+culture-negative and 13 culture-positive sputum samples. Therefore, the biosensor has
+potential usefulness in detecting active cases in high-risk groups and in screening for
+tuberculosis in suspected subjects.</p><p>Synthetic aptamers combined with co-adsorbents on a gold electrode were optimized to
+detect secretory protein MPT64, which is a highly immunogenic peptide and pathogenic
+factor of M. TB, with a detection limit of 81 pMol in serum samples, and reduce the
+detection time from a few days or hours to 30&#x02005;min [<xref rid="CIT0018" ref-type="bibr">18</xref>]. A new sandwich electrochemical body-fitted sensor was also developed for
+determination of MPT64 [<xref rid="CIT0019" ref-type="bibr">19</xref>]. Under an optimal
+condition, the proposed aptasensor showed a wide linear range for MPT64 from 1&#x02005;fg/mL to
+1&#x02005;ng/mL with a detection limit as low as 0.33&#x02005;fg/mL, which indicates a broad usage in
+clinical diagnosis of tuberculosis.</p><p>Taking together, aptamer-based innovations hold a great potential as rule-in as well as
+rule-out screening tests with high sensitivity and specificity. The maturation and
+translation of these innovations would aid in high-throughput and on-site screening of TB
+infection in communities with disparity.</p></sec><sec id="S002-S2002"><title>Salmonella</title><p>Salmonella infection caused by contaminated food has been going on for decades because
+hundreds of thousands of patients are infected worldwide each year. Therefore, the
+detection of salmonella in contaminated food is a critical preventive measure in public
+health. A broad-spectrum ssDNA aptamer containing 80 nucleotides (LA80) capable of binding
+to lipopolysaccharide (LPS) from four different sources, was truncated to a 27-nt aptamer
+(LA27) and then developed to detect LPS from <italic>salmonella
+typhimurium</italic> [<xref rid="CIT0010" ref-type="bibr">10</xref>]. The results showed
+that the aptamer LA27 retained the broad-spectrum ability and had high affinity
+(K<sub>D</sub>&#x02009;=&#x02009;46.2&#x02009;&#x000b1;&#x02009;9.5&#x02005;nM). Fluorescent polarization analysis was designed with
+6-carboxyfluorescein (FAM)-labeled LA27. The sensitivity of FAM-labeled LA27 probe was
+enhanced dramatically (5&#x02013;29-fold) with its detection limits of 38.7, 88.0, and 154&#x02005;ng/mL,
+respectively.</p><p>In order to improve the methods of bacterial isolation and collection, a magnetic and
+quantitative fluorescent strategy based on aptamer-modified magnetic multifunctional
+nanoprobe (APT-FMNPs) was developed to simultaneously separate multiple pathogens [<xref rid="CIT0020" ref-type="bibr">20</xref>]. The quantitative analysis was carried out
+within 1&#x02005;h with a detection limit of 150&#x02005;cfu/mL for <italic>S.
+typhimurium</italic> in milk, 120&#x02005;cfu/mL in human serum and urine. Thus, APT-FMNPs may
+effectively detect a variety of pathogens in different features of samples.</p></sec><sec id="S002-S2003"><title>
+<italic>Staphylococcus aureus</italic></title><p><italic>S. aureus</italic> is one of the major pathogens in humans and is
+responsible for a wide range of infection, including hospital-acquired infection and
+life-threatening newborn infection. Moreover, the bacteria may cause a foodborne illness
+due to the excretion of several enterotoxins. For a quick detection in biological
+specimens, ssDNA aptamers against staphylococcal enterotoxin (SES) have been selected for
+a fluorescence assay in quick detection of <italic>S. aureus</italic> [<xref rid="CIT0021" ref-type="bibr">21</xref>]. The chimaera sequence consists of the aptamer
+sequence against <italic>S. aureus</italic> and the complementary sequence.
+In order to improve the sensitivity, the signal was amplified by target recovery based on
+chain displacement. This method exhibited a linear correlation between the fluorescent
+intensity and the logarithm of <italic>S. aureus</italic> concentration in
+the wide concentration range from 80 to 8&#x02009;&#x000d7;&#x02009;10<sup>6&#x02005;</sup>CFU/mL. The lowest detection
+limit is 39<sup>&#x02005;</sup>CFU/mL. The method was applied to detect S. aureus in different
+water samples with satisfactory recovery and reproducibility.</p></sec><sec id="S002-S2004"><title>
+<italic>Listeria monocytogenes</italic></title><p><italic>L. monocytogenes</italic> is a foodborne Gram-positive bacterial
+pathogen that causes listeriosis, a lethal disease. The bacterium may survive and grow in
+a wide range of environmental conditions, including cooling temperatures (4&#x000b0;C). Both the
+US FDA and the European Medicines Agency have implemented a zero-tolerance policy against
+<italic>L. monocytogenes</italic> in ready-to-eat food, leading to
+extensive efforts to develop highly sensitive biosensors for the detection of foodborne
+pathogens. A double-site binding sandwich method was established to detect the pathogen by
+specific single-strand DNA aptamer [<xref rid="CIT0022" ref-type="bibr">22</xref>].
+Antibody-immobilized immunomagnetic beads are used to capture <italic>L.
+monocytogenes</italic> and then expose them to aptamer probes. The detection was
+achieved by PCR amplification combined with aptamer. The low detection limit is
+5<sup>&#x02005;</sup>CFU/mL. Applied to cooked turkey meat, this sandwich method gave rise to
+positive results when the initial inoculation level was 1&#x02013;2 log<sub>10</sub>CFU per
+25<sup>&#x02005;</sup>g. Due to a very low detection limit, the method is applicable in
+detecting <italic>L. monocytogenes</italic> in food and environmental
+samples.</p></sec><sec id="S002-S2005"><title>
+<italic>Escherichia coli</italic></title><p><italic>E. coli</italic> is a widely distributed pathogen, therefore it is
+necessary to establish a rapid, simple and accurate detection method. A portable
+multiplexing bar graph rotation chip (MB-SpinChip), which integrates nanoparticle-mediated
+magnetic sensors, was developed for the quantitative detection of a variety of pathogens
+[<xref rid="CIT0023" ref-type="bibr">23</xref>]. This multifunctional multiplexed
+SpinChip combines aptamer-specific recognition with nanoparticle-catalysed pressure
+amplification to achieve sample-to-answer output for sensitive point-of-care testing
+(POCT). This is the first report to use a volume bar chart chip for pathogen detection,
+and it is also the first to use a &#x0201c;rotation&#x0201d; mechanism for multiplex bar chart detection.
+This user-friendly MB-SpinChip allows simultaneous and quantitative detection of three
+main foodborne pathogens including <italic>S. enteritidis</italic>, <italic>E. coli</italic>, and <italic>L. monocytogenes</italic> in
+apple juice with a detection limit of about 10&#x02005;CFU/mL, without the need for any
+specialized instruments. This MB-SpinChip has the visually quantitative reading based on
+bar chart, holds the great potential to simultaneously detect all kinds of pathogens, and
+bears a wide range of applications in food safety, environmental monitoring and screening
+of infectious agents.</p><p>A specific method was developed for the detection of E. coli using bacterial-specific
+aptamer binding microchip capillary electrophoresis coupled with laser-induced
+fluorescence (MCE-LIF) [<xref rid="CIT0024" ref-type="bibr">24</xref>]. Under an optimized
+condition, the detection limit was 3.7&#x02009;&#x000d7;&#x02009;10<sup>2&#x02005;</sup>CFU/ml. The recovery rates in
+drinking water and milk samples were 94.7% and 92.8%, indicating that this strategy is
+useful for the detection of E. coli in food and the environment. As surface-enhanced Raman
+scattering (SERS) signal is significantly enhanced through its special recognition
+aptamer, bacteria are directly and visually identified by SERS spectrum with an improved
+detection limit (1.5&#x02005;CFU/mL) [<xref rid="CIT0025" ref-type="bibr">25</xref>].</p></sec></sec><sec id="S003"><title>Viral infection</title><p>Many diseases are caused by viral infection, such as influenza, hepatitis, acquired
+immunodeficient syndrome (AIDS), or emerging viral diseases, such as Ebola, viral pneumonia
+caused by MERS, SARS-CoV or SARS-CoV-2 infection, which lead to severe illness and death, as
+well as tremendous economic and social impacts. Rapid and safe diagnosis of viral infection
+is one of the critical factors in controlling broad transmission and treating infected
+individuals [<xref rid="CIT0026" ref-type="bibr">26</xref>]. Viral proteins involved in
+adherence, penetration, replication, and release in the replicative cycle are specific
+targets for aptamer selection and optimization. At present, a number of aptamers have been
+reported to hold potential applications in the diagnosis of viral infections, such as human
+immunodeficiency virus-1 (HIV-1), hepatitis B virus (HBV), hepatitis C virus (HCV), human
+papillomavirus (HPV), influenza virus, norovirus, or SARS-CoV (<xref rid="T0003" ref-type="table">Table 3</xref>). A fast and sensitive detection kit with high specificity
+is urgently desirable for global SARS-CoV-2 infection in a large population.</p><sec id="S003-S2001"><title>Human immunodeficiency virus</title><p>HIV is the main cause of AIDS, and leads to significant morbidity and mortality. As
+highly effective antiretroviral therapy (HAART) cannot completely eradicate silent
+viruses, much attention has been paid to the early detection of HIV and the
+pathophysiologic mechanisms of controlling reactivation during or after HAART therapy.
+Several crucial viral proteins such as Gp120, Gag polyprotein, Rev and enzymes like
+reverse transcriptase (RT), integrase, and proteases have been considered to be the
+targets of detection [<xref rid="CIT0027" ref-type="bibr">27</xref>]. A novel molecularly
+imprinted polymer (MIP) electrochemiluminescence (MIP-ECL) sensor was developed for the
+detection of highly sensitive and selective HIV-1 genes using europium sulphide
+nanocrystalline (ESNC) as signal generation compounds [<xref rid="CIT0011" ref-type="bibr">11</xref>]. With MIP-ECL and ESNC strong electronic chemiluminescent emission, the
+sensitive and selective detection of HIV gene was achieved in the linear range of 3.0
+fMol&#x0223c;0.3 nMol, and the detection limit was 0.3 fMol. Compared to non-complementary
+sequences and two base mismatch sequences, the current MIP-ECL biosensors demonstrate high
+specificity in HIV gene detection. The proposed ECL biosensor has been applied to the
+detection of HIV proviral DNA in human serum samples with satisfactory results. Because of
+its high sensitivity, selectivity, repeatability, and stability, ESNCs may be used as a
+new luminescent probe to develop MIP-ECL sensors for the detection of other DNA
+biomarkers.</p><p>HIV-TAT (trans transcriptional activator) protein-specific RNA aptamer (AntiTat) and
+spectral ellipsometer are preferred to improve the specificity and sensitivity of
+diagnosis [<xref rid="CIT0028" ref-type="bibr">28</xref>]. It is reported for the first
+time that anti-Tat aptamers were able to detect the protein by both spectroscopic
+ellipsometry (SE) and surface plasmon resonance-enhanced total internal reflection
+ellipsometry (SPReTIRE). The detection limit of anti-Tat aptamers was within a range of
+nMol-pMol of the protein in buffer solution.</p></sec><sec id="S003-S2002"><title>Hepatitis B and C viruses</title><p>Hepatitis B virus (HBV) is a partial double-stranded DNA virus of the Hepadnaviridae
+family, which is divided into eight genotypes from A to H. The most characteristic
+component of HBV viral protein is hepatitis B surface antigen (HBsAg) [<xref rid="CIT0029" ref-type="bibr">29</xref>]. HBsAg-specific aptamer was selected to develop a novel
+chemiluminescent aptamer-sensor based on rapid magnetic separation and bifunctional gold
+nanoparticles [<xref rid="CIT0030" ref-type="bibr">30</xref>]. The sensor recognizes rapid
+magnetic separation and attains high sensitivity for the detection of HBsAg in
+HBV-positive serum. The detection limit is 0.05&#x02005;ng/mL, which is much lower than 0.5&#x02005;ng/mL
+of the typical ELISA used in clinical services.</p><p>The hepatitis C virus (HCV) is a common cause of chronic hepatitis, cirrhosis, and
+hepatocellular carcinoma (HCC), and there is no approved vaccine. Ten viral proteins were
+produced from a 3000-amino-acid polyprotein during the maturation mediated by protease,
+and these structural or nonstructural proteins or viral enzymes are the targets of
+specific aptamers [<xref rid="CIT0031" ref-type="bibr">31</xref>]. Aptamer-based
+biosensors allow the detection of HCV infection at an early stage. By an aptamer proximity
+binding strategy, a novel electrochemical biosensor was designed for supersensitive
+detection of HCV core antigen [<xref rid="CIT0032" ref-type="bibr">32</xref>]. The
+immobilized surface was prepared by modifying glassy carbon electrode (GCE) with graphene
+quantum dots (GQD). Through &#x003c0;-&#x003c0; stacking, the richness of hydrophilic edge and hydrophobic
+surface in GQD and the hydrophobic plane in GQD enhance the adsorption of aptamer on the
+electrode surface, thus introducing a new substrate suitable for nucleic acid aptamer.
+Electrochemical impedance spectroscopy (EIS), cyclic voltammetry (CV), and differential
+pulse voltammetry (DPV) were performed at each stage of the chemical modification to
+confirm the resulting surface changes. With EIS as an effective alternative system for the
+detection of the core antigen, two linear concentration ranges are 10&#x02013;70 and 70&#x02013;400&#x02005;pg/ml
+with a detection limit of 3.3&#x02005;pg/mL. In addition, the sensor accurately detects HCV core
+antigen in human serum samples. This nucleic acid sensor represents a rapid, selective,
+and sensitive strategy for the detection of HCV core antigen in clinical diagnosis.</p><p>In a recent study, a plasma nanoplatform was constructed by using hepatitis C virus core
+protein (HCVcp), G-quadruplex/hemin DNAzyme and nanofibrous membrane as hairpin to
+assemble amplification reaction [<xref rid="CIT0033" ref-type="bibr">33</xref>]. HCVcp was
+detected in whole serum with naked eye at an ultra-low concentration of
+1.0&#x02009;&#x000d7;&#x02009;10<sup>&#x02212;4&#x02005;</sup>pg/mL. By testing serum samples from 30 donors with different
+viral loads, the plasma nanoplatform has demonstrated high specificity, excellent
+reusability, long-term stability and better detection sensitivity than a commercial ELISA
+kit. Naked eye detection based on plasma nanoplatform is expected to have potential
+application in the early diagnosis of hepatitis C and other infectious diseases.</p></sec><sec id="S003-S2003"><title>Human papillomavirus</title><p>Human papillomavirus (HPV) is a DNA virus of the papillomavirus family. Most HPV
+infection does not cause symptoms and subside themselves. However, some of them cause
+persistent infection and warts or precancerous lesions, increasing the risk of cancer in
+the cervix, vulva, vagina, penis, anus, mouth or throat [<xref rid="CIT0026" ref-type="bibr">26</xref>].</p><p>The detection of HPV-L1 protein provides information about the status of viral infection,
+reflects the viral replication in cervical cells, and determines the regression and
+progression of cervical lesions. A new laser desorption/ionization mass spectrometry (LDI
+MS) method was reported for sensitive detection of HPV-16-L1 protein based on non-covalent
+competition between HPV-16-L1 aptamers and melamine adsorbed on gold nanoparticles (AuNPs)
+[<xref rid="CIT0034" ref-type="bibr">34</xref>]. The intensity of the MS signal
+corresponding to the mass tag has a linear relationship with the HPV-16-L1 concentration
+within 2&#x02013;80&#x02005;ng/mL range, and the detection limit is 58.8&#x02005;pg/mL. Using this method, the
+HPV-16-L1 protein in clinical and vaccine samples was quantitatively analysed. The method
+exhibits the advantages of simplicity, high sensitivity, and good reliability.</p><p>Several problems of antibodies like batch variability, limited stability, and long
+discovery lead time were overcome by developing slow abscission rate-modified DNA aptamer
+(SOMAmer), which targets antigens in the HPV vaccine [<xref rid="CIT0035" ref-type="bibr">35</xref>]. An HPV-07 aptamer was selected to bind to the type 16 virus-like particle
+(VLP) formed by the self-assembled capsid protein L1. The HPV-07 aptamer binds to a
+similar or closely related epitope as the neutralizing antibody H16.V5, indicating at
+least part of the recognition of clinically relevant epitopes. When used in an ELISA
+format, the aptamer exhibited both high precision (with a medium precision of 6.3%) and a
+large linear range from 25% to 200% of the typical formula. In order to make further use
+of the aptamer, a simplified hybrid assay is developed. Compared with the traditional
+ELISA, this assay provides a significant reduction in time. These results demonstrate that
+aptamers are suitable reagents for biotiter determination, and hopefully their
+implementation improves the current determination effectively.</p></sec><sec id="S003-S2004"><title>Influenza</title><p>Influenza is considered to be the most prevalent infectious disease in human beings. New
+influenza viruses caused major three pandemics in twentieth century [<xref rid="CIT0026" ref-type="bibr">26</xref>]. In fact, it is estimated that the Spanish flu virus killed
+25 million people [<xref rid="CIT0036" ref-type="bibr">36</xref>] around the world. The
+rapid detection and classification of influenza viruses are particularly important because
+these viruses have a high risk of infection and high-frequency mutations, which often lead
+to the arrival of new strains, resulting in epidemics and even pandemics. Paper-based
+lateral &#x0fb02;ow immunoassays (LFIA) using traditional sandwich immunoassay is one of the most
+commonly used hospice tests. The application of gold nanoparticles (AuNPs) in LFIA cannot
+meet the sensitivity requirements for the detection of infectious agents or biomarkers at
+low concentration in body fluids because of the number of AuNPs that bind to the target is
+limited. In order to overcome this problem, a single-stranded DNA-binding protein
+(DNA-binding domain of RPA70A, human replicative protein A70kDa A) was acquired, which
+uses capture antibodies and aptamers fixed in LFIA as probes for sandwich detection [<xref rid="CIT0037" ref-type="bibr">37</xref>]. Thus, the signal strength was enhanced by
+connecting several AuNPs to each aptamer. This method was to detect influenza
+nucleoprotein (NP) and cardiac troponin I (CTnI). The detection limits of AuNP in human
+nasal fluid and CTnI in serum were 0.26 and 0.23&#x02005;pg/mL, respectively. This technique
+demonstrates significantly higher sensitivity than conventional methods that are widely
+used in LFIA involving antibody binding to AuNPs. These results underscore that the
+proposed method is widely applicable in the detection of highly sensitive substances in
+the field of POC for early diagnosis.</p></sec><sec id="S003-S2005"><title>Norovirus for acute gastroenteritis</title><p>Human norovirus (NoV) is the leading cause of acute viral gastroenteritis worldwide, and
+often causes foodborne illness resulting in large and persisting outbreaks. It is
+pathogenic and highly contagious; however, no vaccine is currently available. The
+noroviral genome is positive single-stranded RNA enclosed in an icosahedral capsid
+consisting of capsid viral protein 1 (VP1) and VP2. The capsid is thermal-resistant,
+allowing the virus to survive in temperatures up to 55&#x000b0;C and a pH range of 3&#x02013;7. The
+current diagnostic method is nucleotide-based RT&#x02013;PCR detection of the viral RNA. However,
+one kit may not cover different genetic strains of the virus, and it is less convenient
+for point-of-care detection. To meet this need, specific aptamer against VP1 was
+identified [<xref rid="CIT0038" ref-type="bibr">38</xref>], and the SELEX screening
+stringency was enhanced by adding food matrices in the system in order to enhance the
+aptamer specificity against viral P domain containing the outermost domain of the VP1
+capsid protein [<xref rid="CIT0039" ref-type="bibr">39</xref>]. A highly sensitive
+point-of-care device for rapid determination of noroviruses was successfully developed
+with a previously characterized aptamer against NoV [<xref rid="CIT0040" ref-type="bibr">40</xref>]. An easy-to-make paper-based microfluidic platform was further developed
+using a nitrocellulose membrane and integration of 6-FAM-labeled aptamer. The noroviral
+quantitation was successfully performed with a linear range from 13&#x02005;ng/mL to 13&#x02005;&#x003bc;g/mL of
+norovirus and detection limits at 3.3&#x02005;ng/mL. The device is simple and cost-effective, and
+holds great potential of rapid <italic>in situ</italic> visual determination
+of noroviruses with desirable sensitivity and specificity. Hence, this aptasensor- and
+paper-based microfluidic device provides a new method for early identification of
+norovirus. Moreover, a micro&#x0fb02;uidic platform integrated with graphene-gold nano-composite
+aptasensor was reported [<xref rid="CIT0041" ref-type="bibr">41</xref>], and the latter
+had a detection limit of 100 pM with a detection range from 100&#x02005;pM to 3.5&#x02005;nM for
+norovirus. Therefore, the aptamer-based noroviral detection is evolving, and it is
+anticipated that a point-of-care detection, such as lateral flow assay [<xref rid="CIT0016" ref-type="bibr">16</xref>] may be developed for a broad detection of this
+or other contagious viruses.</p></sec><sec id="S003-S2006"><title>SARS-CoV and SARS-CoV-2 viruses</title><p>The pandemics of SARS-CoV in 2004 and current SARS-CoV-2 in more than 50 countries
+resulted in global infection in more than two million cases, 137,000 death so far (by
+April 16, 2020). Most detection kits used in establishing the infection are
+nucleotide-based RT&#x02013;PCR assays, however, a high false-negative rate (approximately 40%)
+has hampered the quick estimation of infected individual number and clinical diagnosis.
+Therefore, quick, simple, reliable detection methods are in urgent need to timely report
+actual infected subjects, monitor efficiency of preventive measures, and determine the
+efficacy of therapeutic strategies and eradication of viral presence. ssDNA-aptamer was
+selected for detection of SARS-CoV nucleocapsid N protein with a K<sub>D</sub> value of
+4.93&#x02009;&#x000b1;&#x02009;0.30&#x02005;nM [<xref rid="CIT0042" ref-type="bibr">42</xref>]. The aptamer-based Western
+blot analysis was verified by regular ELISA to be a rapid and sensitive method in the
+detection of SARS-CoV protein for infection validation. With an illustration of spike
+protein 3D crystal structure [<xref rid="CIT0043" ref-type="bibr">43</xref>] and being
+familiar with the aptamer-based biosensor technologies [<xref rid="CIT0017" ref-type="bibr">17</xref>], aptamer against the receptor-binding domain of the
+SARS-CoV-2 spike glycoprotein has been already identified [<xref rid="CIT0008" ref-type="bibr">8</xref>], and an aptamer-based novel detection could be developed for
+the investigation of ongoing COVID-19 pandemics and clinical service.</p></sec></sec><sec id="S004"><title>Protozoan parasites infection</title><p>Infectious diseases caused by protozoa parasites affect hundreds of millions of people in
+underdeveloped and developing countries, and remain a major health problem worldwide. These
+parasitic infections are usually transmitted through insect vectors or contaminated food and
+water, and their high prevalence is mainly related to poor sanitary conditions or an
+immunodeficient status. At present, the primary diagnostic methods include the growth and
+microscopic observation of pathogens in clinical specimens, the immune detection of parasite
+proteins with antibodies, or the identification of pathogen genomes by PCR. However, these
+technologies have several limitations because they are time-consuming, and require cryogenic
+storage conditions and specialized instruments, which are hardly available in remote areas
+where most infected people live. Therefore, a great deal of research has focused on the
+identification of new targets from the parasites. In this case, aptamer has become an
+attractive tool for developing alternative diagnostic tools (<xref rid="T0004" ref-type="table">Table 4</xref>). <table-wrap id="T0004" orientation="portrait" position="float"><label>Table 4.</label><caption><title>Targets of pathogenic parasites for development of specific aptamers.</title></caption><!--OASIS TABLE HERE--><table frame="hsides" rules="groups"><colgroup><col width="1*"/><col width="1*"/><col width="1*"/><col width="1*"/></colgroup><thead valign="bottom"><tr><th align="left">Type of parasites</th><th align="center">Aptamer</th><th align="center">Target</th><th align="center">Method</th></tr></thead><tbody><tr><td align="left">Trypanosoma cruzi [<xref rid="CIT0011" ref-type="bibr">11</xref>]</td><td align="left">Apt68</td><td align="left">Mammalian stage
+trypomastigotes</td><td align="left">Streptavidin paramagnetic beads coated with
+biotinylated Apt68</td></tr><tr><td align="left">Leishmania [<xref rid="CIT0028" ref-type="bibr">28</xref>]</td><td align="left">LmWC-25R; LmHSP 7b/11R</td><td align="left">Leishmania promastigote protein
+extracts</td><td align="left">Fluorescent enzyme-linked DNA
+aptamer-magnetic bead sandwich assay</td></tr><tr><td align="left">Plasmodium for malaria [<xref rid="CIT0030" ref-type="bibr">30</xref>]</td><td align="left">P38 or NG3</td><td align="left">Plasmodium lactate dehydrogenase and
+plasmodium falciparum glutamate dehydrogenase</td><td align="left">Dye coupled aptamer-captured enzyme
+catalysed reaction</td></tr></tbody></table></table-wrap></p><sec id="S004-S2001"><title>
+<italic>Trypanosoma evansi</italic></title><p><italic>T. evansi</italic> is a blood-borne parasite and the pathogen of
+Chagas disease, and its genome is detectable in the blood of infected individuals using
+PCR-based methods. However, shortly after a natural infection or during the chronic phase
+of the infection, number of the parasites in the blood may be so low that it is difficult
+to detect with PCR. With a whole cell SELEX strategy, serum-stable RNA aptamers were
+developed to bind to live T. cruzi trypomastigotes [<xref rid="CIT0044" ref-type="bibr">44</xref>]. Apt68-coated paramagnetic beads were used to pull down and concentrate
+parasites from samples with low levels of parasites, and facilitate subsequent detection
+by PCR. These aptamers bound to parasites with a strong affinity (8-25 nM range), and
+exhibited a high specificity to the target that is only expressed in on <italic>T. cruzi</italic> trypomastigotes. The specificity is endorsed by the fact
+that the aptamer did not interact with the epistatic parasites of epimastigotes of <italic>T. cruzi</italic>, nor with other related trypanosomal parasites, Donovanni
+and Trypanosoma brucei. Biotinylated Apt68 was fixed on the solid phase and captured
+living parasites. These captured parasites are visible under the microscope and form as
+large active aggregates when aptamers are coated with paramagnetic beads to bind to the
+surface of Trypanosoma. In addition, Apt68 was able to capture and aggregate trypanosomes
+from several isolates of the two main parasite genotypes. With magnet force, these
+parasite-bead aggregates are separated from whole blood samples with parasite spines, even
+if the concentration is as low as five parasites in 15 millilitres of whole blood. These
+results demonstrated that aptamers could be used as pathogen-specific ligands to capture
+and facilitate the detection of <italic>T. cruzi</italic> in blood.</p></sec><sec id="S004-S2002"><title>Leishmania</title><p>A fluorescent peroxidase linked DNA aptamer-magnetic bead sandwich method was invented to
+detect soluble proteins extracted from the main proflagellates of Leishmania [<xref rid="CIT0045" ref-type="bibr">45</xref>]. The protein was extracted with high molar
+concentration of chiral salt. This study employed nanoparticles and quantum dots to bind
+Amplex Ultra Red for fluorescent detection. Although all versions are highly sensitive,
+AUR-based versions show low variability between samples. This highly portable and
+rechargeable battery-operated fluorometer with an on-board computer allows a rapid
+(&#x0003c;1&#x02005;h) and sensitive detection of leishmania proflagellate protein extract
+(100&#x02005;ng/sample) in sand fly homogenate in remote areas, and is capable of mapping the
+geographical distribution of the main parasites in wild sand fly population.</p></sec><sec id="S004-S2003"><title>Plasmodium for malaria</title><p>There is a great demand for accurate diagnosis of malaria. The detection of pan-malaria
+and plasmodium falciparum was achieved by dye reaction catalysed by plasmodium lactate
+dehydrogenase (PLDH) and plasmodium falciparum glutamate dehydrogenase (PFGDH),
+respectively [<xref rid="CIT0046" ref-type="bibr">46</xref>]. The aptamer-captured
+parasite PLDH and PFGDH enzymes were detected by substrate-dependent reaction combined
+with the conversion of Resazurin (blue, <italic>&#x003bb;</italic> 605&#x02005;nm) to
+Resorufin (pink, <italic>&#x003bb;</italic> 570&#x02005;nm) dye. The reaction was monitored
+by measuring fluorescent intensity, absorbance ratio (<italic>&#x003bb;</italic>
+570/605&#x02005;nm) and colour change (blue to pink) of resorcinol at <italic>&#x003bb;</italic> 660&#x02005;nm. The detection method is customized to different spectrophotometers.
+For these two methods, biomarkers are captured from serum samples with aptamer-coated
+magnetic beads before analysis to eliminate potential interference from serum. In the
+instrument-less device, a medical syringe (5&#x02005;mL) prefabricated with a magnet is used for
+<italic>in situ</italic> separation of enzyme-captured beads from the
+reaction supernatant. Then, the converted dye in the supernatant is effectively adsorbed
+on the diethyl amino ethyl (DEAE) cellulose-treated paper core assembled in the syringe
+hose. The plasmodium biomarkers are detected in qualitative and quantitative formats
+according to the colour and pixel intensity developed on the paper surface, respectively.
+The novel techniques provide the detection of specific biomarkers in a clinically relevant
+dynamic range, and the detection limit is at a micromolar level. Flexible capability, low
+cost, non-interference, and portable (for non-instrumental equipment) are the main
+advantages of this detection.</p></sec></sec><sec id="S005"><title>Perspectives and conclusions</title><p>As an emerging molecular probe, aptamer-based technology has been used as an alternative to
+antibodies in developing aptamer-based biosensors (aptasensors) for detection of microbial
+components in a specific, quick, and sensitive fashion, and some of them are operative in
+remote areas in meeting the need for point-of-care testing. Through a SELEX screening and
+enriching process, target-specific aptamers are selected with high efficiency, and are
+flexible for conjugation of a variety of sensor molecules to facilitate chemiluminescent or
+fluorescent measurement, to link them to solid phases or nanoparticles for visualization or
+capture. Multifaceted options for modification endow aptasensors with diversely available
+con&#x0fb01;gurations, including electrochemical, fluorescent, chemiluminescent, or mass-sensitive,
+etc. Moreover, for emerging viral pathogens, such as, influenza, SARS-CoV, and SARS-CoV-2 in
+a pandemic period, a quick, simple, and reliable approach is in an urgent need for mass
+population screening of infected individuals. Aptasensor-based technologies for detecting
+biomarkers at pMol levels enable such a screening or diagnosis possible at a low cost in
+point-of-care sites. The expansion of aptasensor-based technologies in the infectiology
+field to other areas, such as food hygiene and environmental monitoring would provide a
+feasible means of distal monitoring at various sites in a simultaneous and timely mode.</p><p>Application of aptamer-based detection has not been as widely as antibodies in the
+biomedical field. The main reason for this probably lies with the complexity to select
+highly-specific aptamers for a particular target, such as bacterial or viral components on
+an individual base. In most cases, microbial pathogens, their enzymes, structural or
+nonstructural proteins are the targets for the development of specific aptamers. However,
+when bacterial or viral targets bear significant negative charges, it will enhance the
+difficulty to enrich highly-specific aptamer candidates through an SELEX process [<xref rid="CIT0047" ref-type="bibr">47</xref>], because oligonucleotide-based aptamers have
+negative charges on their backbone [<xref rid="CIT0048" ref-type="bibr">48</xref>]. To
+obtain highly-specific aptamer candidates, the stringency of a SELEX selection process is
+critical, and negative and countermeasures may be often introduced to exclude low affinity
+or non-specific aptamers [<xref rid="CIT0049" ref-type="bibr">49</xref>]. At the same time,
+an introduction of additional counter steps might have a negative impact by increasing the
+time and cost for an overall selection process [<xref rid="CIT0007" ref-type="bibr">7</xref>]. Furthermore, enriched aptamers need a rigorous validation and optimization for
+target specificity and sensitivity. The additional obstacles for aptamer-based biosensors
+are the stability of aptamers, because nucleotide aptamers will be subjected to degradation
+by ribonuclease in the serum, although special modification, for instance, phosphorothioate
+modification, may enhance the resistance to nuclease degradation. Currently, most
+immunological or microbiologic laboratories are equipped with instruments that are specially
+designed for antibody-based detection. For switching to aptamer-based detection requires
+pharmaceutical industries, clinical, and research laboratories for new investments on both
+technology development and equipment design and validation. Such a transition is happening,
+although slowly. In spite of all challenges mentioned above, compelling advantages over
+antibody-based assays, such as relatively low cost for manufacture, multiplexity, and high
+throughput in nature, have pushed the maturation of aptamer-based technologies and
+translation to clinical practice, especially in mass screening for pandemic transmission of
+emerging pathogens, such as SARS-Cov-2 in heavily affected areas. It is anticipated that
+both antibody- and aptamer-based technologies will be widely utilized in the detection of
+microbial components for research, epidemical investigation and clinical services or food
+and environmental monitoring with almost equal specificity and sensitivity. Ultimately,
+aptamer-based technologies may be more acceptable for point-of-care testing due to their
+more flexibility for modification and stability in a warm or hot atmosphere.</p><p>In conclusion, taking the advantages of high sensitivity, reproducibility, specificity, and
+time-saving, novel aptamer-based technologies are considered as the most promising methods
+to detect a wide range of pathogens and biochemical components in food safety, environment
+surveillance, and diagnosis of infectious diseases at the point-of-care and resource-poor
+settings. As emerging technologies, their maturation and translation to the clinical
+application need rigorous optimization and validation for the high quality of service
+demanded in clinical practice.</p></sec></body><back><sec sec-type="COI-statement" id="S006"><title>Disclosure statement</title><p>No potential conflict of interest was reported by the author(s).</p></sec><ref-list><title>References</title><ref id="CIT0001"><label>1</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Zhang</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Lai</surname><given-names>BS</given-names></name>, <name name-style="western"><surname>Juhas</surname><given-names>M.</given-names></name></person-group>
+<article-title>Recent advances in aptamer discovery and applications</article-title>.
+<source>Molecules</source>. <year>2019 Mar
+7</year>;<volume>24</volume>(<issue>5</issue>):941.</mixed-citation></ref><ref id="CIT0002"><label>2</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Peruski</surname><given-names>AH</given-names></name>, <name name-style="western"><surname>Peruski</surname><given-names>LF.</given-names><suffix>Jr</suffix></name></person-group>
+<article-title>Immunological methods
+for detection and identification of infectious disease and biological warfare
+agents</article-title>. <source>Clin Diagn Lab Immunol</source>. <year>2003
+Jul</year>;<volume>10</volume>(<issue>4</issue>):<fpage>506</fpage>&#x02013;<lpage>513</lpage>.
+doi: <pub-id pub-id-type="doi">10.1128/CDLI.10.4.506-513.2003</pub-id><pub-id pub-id-type="pmid">12853377</pub-id></mixed-citation></ref><ref id="CIT0003"><label>3</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Zhang</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Guo</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>X.</given-names></name></person-group>
+<article-title>Immunochromatographic lateral flow strip tests</article-title>.
+<source>Methods Mol Biol</source>.
+<year>2009</year>;<volume>504</volume>:<fpage>169</fpage>&#x02013;<lpage>183</lpage>. doi:
+<pub-id pub-id-type="doi">10.1007/978-1-60327-569-9_12</pub-id><pub-id pub-id-type="pmid">19159098</pub-id></mixed-citation></ref><ref id="CIT0004"><label>4</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Tomita</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Tsumoto</surname><given-names>K.</given-names></name></person-group>
+<article-title>Hybridoma technologies for antibody production</article-title>.
+<source>Immunotherapy</source>. <year>2011
+Mar</year>;<volume>3</volume>(<issue>3</issue>):<fpage>371</fpage>&#x02013;<lpage>380</lpage>.
+doi: <pub-id pub-id-type="doi">10.2217/imt.11.4</pub-id><pub-id pub-id-type="pmid">21395379</pub-id></mixed-citation></ref><ref id="CIT0005"><label>5</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Zhu</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Yang</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Ghulam</surname><given-names>M</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Evolution of multi-functional capillary electrophoresis for high-efficiency
+selection of aptamers</article-title>. <source>Biotechnol Adv</source>.
+<year>2019</year>;<volume>37</volume>(<issue>8</issue>):<fpage>107432</fpage>. doi:
+<pub-id pub-id-type="doi">10.1016/j.biotechadv.2019.107432</pub-id><pub-id pub-id-type="pmid">31437572</pub-id></mixed-citation></ref><ref id="CIT0006"><label>6</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Robertson</surname><given-names>DL</given-names></name>, <name name-style="western"><surname>Joyce</surname><given-names>GF.</given-names></name></person-group>
+<article-title>Selection in vitro of an RNA enzyme that specifically cleaves
+single-stranded DNA</article-title>. <source>Nature</source>.
+<year>1990</year>;<volume>344</volume>(<issue>6265</issue>):<fpage>467</fpage>&#x02013;<lpage>468</lpage>.
+doi: <pub-id pub-id-type="doi">10.1038/344467a0</pub-id><pub-id pub-id-type="pmid">1690861</pub-id></mixed-citation></ref><ref id="CIT0007"><label>7</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Darmostuk</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Rimpelova</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Gbelcova</surname><given-names>H</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Current approaches in SELEX: an update to aptamer selection
+technology</article-title>. <source>Biotechnol Adv</source>. <year>2015 Nov
+1</year>;<volume>33</volume>(<issue>6 Pt
+2</issue>):<fpage>1141</fpage>&#x02013;<lpage>1161</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.biotechadv.2015.02.008</pub-id><pub-id pub-id-type="pmid">25708387</pub-id></mixed-citation></ref><ref id="CIT0008"><label>8</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Song</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Song</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Wei</surname><given-names>X</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Discovery of aptamers targeting receptor-binding domain of the SARS-CoV-2
+spike glycoprotein</article-title>. <source>Anal Chem</source>. <year>2020</year>. doi:
+<pub-id pub-id-type="doi">10.1021/acs.analchem.0c01394</pub-id></mixed-citation></ref><ref id="CIT0009"><label>9</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Lavania</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Das</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Dhiman</surname><given-names>A</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Aptamer-based TB antigen tests for the rapid diagnosis of pulmonary
+tuberculosis: potential utility in screening for tuberculosis</article-title>.
+<source>ACS Infect Dis</source>. <year>2018 Dec
+14</year>;<volume>4</volume>(<issue>12</issue>):<fpage>1718</fpage>&#x02013;<lpage>1726</lpage>.
+doi: <pub-id pub-id-type="doi">10.1021/acsinfecdis.8b00201</pub-id><pub-id pub-id-type="pmid">30350564</pub-id></mixed-citation></ref><ref id="CIT0010"><label>10</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ye</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Duan</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Gu</surname><given-names>H</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Fluorometric determination of lipopolysaccharides via changes of the
+graphene oxide-enhanced fluorescence polarization caused by truncated
+aptamers</article-title>. <source>Mikrochim Acta</source>. <year>2019 Feb
+15</year>;<volume>186</volume>(<issue>3</issue>):<fpage>173</fpage>. doi: <pub-id pub-id-type="doi">10.1007/s00604-019-3261-8</pub-id><pub-id pub-id-type="pmid">30771102</pub-id></mixed-citation></ref><ref id="CIT0011"><label>11</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Babamiri</surname><given-names>B</given-names></name>, <name name-style="western"><surname>Salimi</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Hallaj</surname><given-names>R.</given-names></name></person-group>
+<article-title>A molecularly imprinted electrochemiluminescence sensor for ultrasensitive
+HIV-1 gene detection using EuS nanocrystals as luminophore</article-title>.
+<source>Biosens Bioelectron</source>. <year>2018 Oct
+15</year>;<volume>117</volume>:<fpage>332</fpage>&#x02013;<lpage>339</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.bios.2018.06.003</pub-id><pub-id pub-id-type="pmid">29933224</pub-id></mixed-citation></ref><ref id="CIT0012"><label>12</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Weerathunge</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Ramanathan</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Torok</surname><given-names>VA</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Ultrasensitive colorimetric detection of murine norovirus using nanozyme
+aptasensor</article-title>. <source>Anal Chem</source>.
+<year>2019</year>;<volume>91</volume>(<issue>5</issue>):<fpage>3270</fpage>&#x02013;<lpage>3276</lpage>.
+doi: <pub-id pub-id-type="doi">10.1021/acs.analchem.8b03300</pub-id><pub-id pub-id-type="pmid">30642158</pub-id></mixed-citation></ref><ref id="CIT0013"><label>13</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Karunanayake Mudiyanselage</surname><given-names>APKK</given-names></name>, <name name-style="western"><surname>Yu</surname><given-names>Q</given-names></name>, <name name-style="western"><surname>Leon-Duque</surname><given-names>MA</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Genetically encoded catalytic hairpin assembly for sensitive RNA Imaging in
+live cells</article-title>. <source>J Am Chem Soc</source>.
+<year>2018/07/18</year>;<volume>140</volume>(<issue>28</issue>):<fpage>8739</fpage>&#x02013;<lpage>8745</lpage>.
+doi: <pub-id pub-id-type="doi">10.1021/jacs.8b03956</pub-id><pub-id pub-id-type="pmid">29944357</pub-id></mixed-citation></ref><ref id="CIT0014"><label>14</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Li</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Fu</surname><given-names>H-E</given-names></name>, <name name-style="western"><surname>Wu</surname><given-names>L-J</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>General colorimetric detection of proteins and small molecules based on
+cyclic enzymatic signal amplification and hairpin aptamer probe</article-title>.
+<source>Anal Chem</source>.
+<year>2012/06/19</year>;<volume>84</volume>(<issue>12</issue>):<fpage>5309</fpage>&#x02013;<lpage>5315</lpage>.
+doi: <pub-id pub-id-type="doi">10.1021/ac3006186</pub-id><pub-id pub-id-type="pmid">22642720</pub-id></mixed-citation></ref><ref id="CIT0015"><label>15</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ma</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Wu</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Zhao</surname><given-names>H</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Fluorometric aptamer-based determination of ochratoxin A based on the use
+of graphene oxide and RNase H-aided amplification</article-title>. <source>Microchim
+Acta</source>.
+<year>2018/06/30</year>;<volume>185</volume>(<issue>7</issue>):<fpage>347</fpage>. doi:
+<pub-id pub-id-type="doi">10.1007/s00604-018-2885-4</pub-id></mixed-citation></ref><ref id="CIT0016"><label>16</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Zou</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Wu</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Gu</surname><given-names>J</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Application of aptamers in virus detection and antiviral
+therapy</article-title>. <source>Front Microbiol</source>.
+<year>2019</year>;<volume>10</volume>:<fpage>1462</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fmicb.2019.01462</pub-id><pub-id pub-id-type="pmid">31333603</pub-id></mixed-citation></ref><ref id="CIT0017"><label>17</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Cesewski</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Johnson</surname><given-names>BN.</given-names></name></person-group>
+<article-title>Electrochemical biosensors for pathogen detection</article-title>.
+<source>Biosens Bioelectron</source>. <year>2020 Jul
+1</year>;<volume>159</volume>:<fpage>112214</fpage>. doi: <pub-id pub-id-type="doi">10.1016/j.bios.2020.112214</pub-id><pub-id pub-id-type="pmid">32364936</pub-id></mixed-citation></ref><ref id="CIT0018"><label>18</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Sypabekova</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Jolly</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Estrela</surname><given-names>P</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Electrochemical aptasensor using optimized surface chemistry for the
+detection of mycobacterium tuberculosis secreted protein MPT64 in human
+serum</article-title>. <source>Biosens Bioelectron</source>. <year>2019 Jan
+1</year>;<volume>123</volume>:<fpage>141</fpage>&#x02013;<lpage>151</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.bios.2018.07.053</pub-id><pub-id pub-id-type="pmid">30078622</pub-id></mixed-citation></ref><ref id="CIT0019"><label>19</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Chen</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Liu</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Guo</surname><given-names>S</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>A sandwich-type electrochemical aptasensor for Mycobacterium tuberculosis
+MPT64 antigen detection using C60NPs decorated N-CNTs/GO nanocomposite coupled with
+conductive PEI-functionalized metal-organic framework</article-title>.
+<source>Biomaterials</source>. <year>2019
+Sep</year>;<volume>216</volume>:<fpage>119253</fpage>. doi: <pub-id pub-id-type="doi">10.1016/j.biomaterials.2019.119253</pub-id><pub-id pub-id-type="pmid">31202103</pub-id></mixed-citation></ref><ref id="CIT0020"><label>20</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Li</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Li</surname><given-names>Q</given-names></name>, <name name-style="western"><surname>Liao</surname><given-names>Z</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Magnetism-resolved separation and fluorescence quantification for
+near-simultaneous detection of multiple pathogens</article-title>. <source>Anal
+Chem</source>. <year>2018 Aug
+7</year>;<volume>90</volume>(<issue>15</issue>):<fpage>9621</fpage>&#x02013;<lpage>9628</lpage>.
+doi: <pub-id pub-id-type="doi">10.1021/acs.analchem.8b02572</pub-id><pub-id pub-id-type="pmid">30001487</pub-id></mixed-citation></ref><ref id="CIT0021"><label>21</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Cai</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Yin</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Zhang</surname><given-names>Z</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Functional chimera aptamer and molecular beacon based fluorescent detection
+of <italic>Staphylococcus aureus</italic> with strand displacement-target
+recycling amplification</article-title>. <source>Anal Chim Acta</source>. <year>2019 Oct
+10</year>;<volume>1075</volume>:<fpage>128</fpage>&#x02013;<lpage>136</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.aca.2019.05.014</pub-id><pub-id pub-id-type="pmid">31196418</pub-id></mixed-citation></ref><ref id="CIT0022"><label>22</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Suh</surname><given-names>SH</given-names></name>, <name name-style="western"><surname>Choi</surname><given-names>SJ</given-names></name>, <name name-style="western"><surname>Dwivedi</surname><given-names>HP</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Use of DNA aptamer for sandwich type detection of <italic>Listeria monocytogenes</italic></article-title>. <source>Anal Biochem</source>.
+<year>2018 Sep 15</year>;<volume>557</volume>:<fpage>27</fpage>&#x02013;<lpage>33</lpage>. doi:
+<pub-id pub-id-type="doi">10.1016/j.ab.2018.04.009</pub-id><pub-id pub-id-type="pmid">29649475</pub-id></mixed-citation></ref><ref id="CIT0023"><label>23</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Wei</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Zhou</surname><given-names>W</given-names></name>, <name name-style="western"><surname>Sanjay</surname><given-names>ST</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Multiplexed instrument-free bar-chart SpinChip integrated with
+nanoparticle-mediated magnetic aptasensors for visual quantitative detection of multiple
+pathogens</article-title>. <source>Anal Chem</source>. <year>2018 Aug
+21</year>;<volume>90</volume>(<issue>16</issue>):<fpage>9888</fpage>&#x02013;<lpage>9896</lpage>.
+doi: <pub-id pub-id-type="doi">10.1021/acs.analchem.8b02055</pub-id><pub-id pub-id-type="pmid">30028601</pub-id></mixed-citation></ref><ref id="CIT0024"><label>24</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Zhang</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Zhu</surname><given-names>L</given-names></name>, <name name-style="western"><surname>He</surname><given-names>P</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Sensitive assay of <italic>Escherichia coli</italic> in food
+samples by microchip capillary electrophoresis based on specific aptamer binding
+strategy</article-title>. <source>Talanta</source>. <year>2019 May
+15</year>;<volume>197</volume>:<fpage>284</fpage>&#x02013;<lpage>290</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.talanta.2019.01.040</pub-id><pub-id pub-id-type="pmid">30771937</pub-id></mixed-citation></ref><ref id="CIT0025"><label>25</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Gao</surname><given-names>W</given-names></name>, <name name-style="western"><surname>Li</surname><given-names>B</given-names></name>, <name name-style="western"><surname>Yao</surname><given-names>R</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Intuitive label-free SERS detection of bacteria using aptamer-based in situ
+Silver nanoparticles Synthesis</article-title>. <source>Anal Chem</source>. <year>2017
+Sep
+19</year>;<volume>89</volume>(<issue>18</issue>):<fpage>9836</fpage>&#x02013;<lpage>9842</lpage>.
+doi: <pub-id pub-id-type="doi">10.1021/acs.analchem.7b01813</pub-id><pub-id pub-id-type="pmid">28803475</pub-id></mixed-citation></ref><ref id="CIT0026"><label>26</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Gonzalez</surname><given-names>VM</given-names></name>, <name name-style="western"><surname>Martin</surname><given-names>ME</given-names></name>, <name name-style="western"><surname>Fernandez</surname><given-names>G</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Use of aptamers as diagnostics tools and antiviral agents for human
+viruses</article-title>. <source>Pharmaceuticals (Basel)</source>. <year>2016 Dec
+16</year>;<volume>9</volume>(<issue>4</issue>):<fpage>78</fpage>. doi: <pub-id pub-id-type="doi">10.3390/ph9040078</pub-id></mixed-citation></ref><ref id="CIT0027"><label>27</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Bala</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Chinnapaiyan</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Dutta</surname><given-names>RK</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Aptamers in HIV research diagnosis and therapy</article-title>. <source>RNA
+Biol</source>. <year>2018 Mar
+4</year>;<volume>15</volume>(<issue>3</issue>):<fpage>327</fpage>&#x02013;<lpage>337</lpage>.
+doi: <pub-id pub-id-type="doi">10.1080/15476286.2017.1414131</pub-id><pub-id pub-id-type="pmid">29431588</pub-id></mixed-citation></ref><ref id="CIT0028"><label>28</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Caglayan</surname><given-names>MO</given-names></name>, <name name-style="western"><surname>Ustundag</surname><given-names>Z.</given-names></name></person-group>
+<article-title>Spectrophotometric ellipsometry based tat-protein RNA-aptasensor for HIV-1
+diagnosis</article-title>. <source>Spectrochim Acta A Mol Biomol Spectrosc</source>.
+<year>2020 Feb 15</year>;<volume>117748</volume>.</mixed-citation></ref><ref id="CIT0029"><label>29</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Karayiannis</surname><given-names>P.</given-names></name></person-group>
+<article-title>Hepatitis B virus: virology, molecular biology, life cycle and intrahepatic
+spread</article-title>. <source>Hepatol Int</source>. <year>2017 Nov
+4</year>;<volume>11</volume>(<issue>6</issue>):<fpage>500</fpage>&#x02013;<lpage>508</lpage>.
+doi: <pub-id pub-id-type="doi">10.1007/s12072-017-9829-7</pub-id><pub-id pub-id-type="pmid">29098564</pub-id></mixed-citation></ref><ref id="CIT0030"><label>30</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Xi</surname><given-names>Z</given-names></name>, <name name-style="western"><surname>Gong</surname><given-names>Q</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>C</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Highly sensitive chemiluminescent aptasensor for detecting HBV infection
+based on rapid magnetic separation and double-functionalized gold
+nanoparticles</article-title>. <source>Sci Rep</source>. <year>2018 Jun
+21</year>;<volume>8</volume>(<issue>1</issue>):<fpage>9444</fpage>. doi: <pub-id pub-id-type="doi">10.1038/s41598-018-27792-5</pub-id><pub-id pub-id-type="pmid">29930331</pub-id></mixed-citation></ref><ref id="CIT0031"><label>31</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ashfaq</surname><given-names>UA</given-names></name>, <name name-style="western"><surname>Javed</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Rehman</surname><given-names>S</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>An overview of HCV molecular biology, replication and immune
+responses</article-title>. <source>Virol J</source>. <year>2011 Apr
+11</year>;<volume>8</volume>:<fpage>161</fpage>. doi: <pub-id pub-id-type="doi">10.1186/1743-422X-8-161</pub-id><pub-id pub-id-type="pmid">21477382</pub-id></mixed-citation></ref><ref id="CIT0032"><label>32</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ghanbari</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Roushani</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Azadbakht</surname><given-names>A.</given-names></name></person-group>
+<article-title>Ultra-sensitive aptasensor based on a GQD nanocomposite for detection of
+hepatitis C virus core antigen</article-title>. <source>Anal Biochem</source>.
+<year>2017 Oct 1</year>;<volume>534</volume>:<fpage>64</fpage>&#x02013;<lpage>69</lpage>. doi:
+<pub-id pub-id-type="doi">10.1016/j.ab.2017.07.016</pub-id><pub-id pub-id-type="pmid">28728900</pub-id></mixed-citation></ref><ref id="CIT0033"><label>33</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Li</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Yin</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Wu</surname><given-names>Y</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Plasmonic nanoplatform for point-of-care testing trace HCV core
+protein</article-title>. <source>Biosens Bioelectron</source>. <year>2020 Jan
+1</year>;<volume>147</volume>:<fpage>111488</fpage>. doi: <pub-id pub-id-type="doi">10.1016/j.bios.2019.111488</pub-id><pub-id pub-id-type="pmid">31350137</pub-id></mixed-citation></ref><ref id="CIT0034"><label>34</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Zhu</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Han</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>Z</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Competitive adsorption on gold nanoparticles for human papillomavirus 16 L1
+protein detection by LDI-MS</article-title>. <source>Analyst</source>. <year>2019 Nov
+21</year>;<volume>144</volume>(<issue>22</issue>):<fpage>6641</fpage>&#x02013;<lpage>6646</lpage>.
+doi: <pub-id pub-id-type="doi">10.1039/C9AN01612K</pub-id><pub-id pub-id-type="pmid">31595888</pub-id></mixed-citation></ref><ref id="CIT0035"><label>35</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Trausch</surname><given-names>JJ</given-names></name>, <name name-style="western"><surname>Shank-Retzlaff</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Verch</surname><given-names>T.</given-names></name></person-group>
+<article-title>Development and characterization of an HPV Type-16 specific modified DNA
+aptamer for the improvement of potency assays</article-title>. <source>Anal
+Chem</source>. <year>2017 Mar
+21</year>;<volume>89</volume>(<issue>6</issue>):<fpage>3554</fpage>&#x02013;<lpage>3561</lpage>.
+doi: <pub-id pub-id-type="doi">10.1021/acs.analchem.6b04852</pub-id><pub-id pub-id-type="pmid">28233502</pub-id></mixed-citation></ref><ref id="CIT0036"><label>36</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Taubenberger</surname><given-names>JK</given-names></name>, <name name-style="western"><surname>Baltimore</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Doherty</surname><given-names>PC</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Reconstruction of the 1918 influenza virus: unexpected rewards from the
+past</article-title>. <source>MBio</source>. <year>2012 Sep
+13</year>;<volume>3</volume>(<issue>5</issue>):<fpage>e00201</fpage>&#x02013;<lpage>12</lpage>.
+doi: <pub-id pub-id-type="doi">10.1128/mBio.00201-12</pub-id><pub-id pub-id-type="pmid">22967978</pub-id></mixed-citation></ref><ref id="CIT0037"><label>37</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Kang</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Yeom</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Jang</surname><given-names>H</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Development of replication protein A-conjugated gold nanoparticles for
+highly sensitive detection of disease biomarkers</article-title>. <source>Anal
+Chem</source>. <year>2019 Aug
+6</year>;<volume>91</volume>(<issue>15</issue>):<fpage>10001</fpage>&#x02013;<lpage>10007</lpage>.
+doi: <pub-id pub-id-type="doi">10.1021/acs.analchem.9b01827</pub-id><pub-id pub-id-type="pmid">31269392</pub-id></mixed-citation></ref><ref id="CIT0038"><label>38</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Beier</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Pahlke</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Quenzel</surname><given-names>P</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Selection of a DNA aptamer against norovirus capsid protein
+VP1</article-title>. <source>FEMS Microbiol Lett</source>. <year>2014 Jan
+13</year>;<volume>351</volume>(<issue>2</issue>):<fpage>162</fpage>&#x02013;<lpage>169</lpage>.
+doi: <pub-id pub-id-type="doi">10.1111/1574-6968.12366</pub-id><pub-id pub-id-type="pmid">24372686</pub-id></mixed-citation></ref><ref id="CIT0039"><label>39</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Moore</surname><given-names>MD</given-names></name>, <name name-style="western"><surname>Escudero-Abarca</surname><given-names>BI</given-names></name>, <name name-style="western"><surname>Suh</surname><given-names>SH</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Generation and characterization of nucleic acid aptamers targeting the
+capsid P domain of a human norovirus GII.4 strain</article-title>. <source>J
+Biotechnol</source>. <year>2015 Sep
+10</year>;<volume>209</volume>:<fpage>41</fpage>&#x02013;<lpage>49</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.jbiotec.2015.06.389</pub-id><pub-id pub-id-type="pmid">26080079</pub-id></mixed-citation></ref><ref id="CIT0040"><label>40</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Weng</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Neethirajan</surname><given-names>S.</given-names></name></person-group>
+<article-title>Aptamer-based fluorometric determination of norovirus using a paper-based
+microfluidic device</article-title>. <source>Microchim Acta</source>. <year>2017 Nov
+1</year>;<volume>184</volume>(<issue>11</issue>):<fpage>4545</fpage>&#x02013;<lpage>4552</lpage>.
+doi: <pub-id pub-id-type="doi">10.1007/s00604-017-2467-x</pub-id></mixed-citation></ref><ref id="CIT0041"><label>41</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Chand</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Neethirajan</surname><given-names>S.</given-names></name></person-group>
+<article-title>Microfluidic platform integrated with graphene-gold nano-composite
+aptasensor for one-step detection of norovirus</article-title>. <source>Biosens
+Bioelectron</source>. <year>2017 Dec
+15</year>;<volume>98</volume>:<fpage>47</fpage>&#x02013;<lpage>53</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.bios.2017.06.026</pub-id><pub-id pub-id-type="pmid">28649024</pub-id></mixed-citation></ref><ref id="CIT0042"><label>42</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Cho</surname><given-names>S-J</given-names></name>, <name name-style="western"><surname>Woo</surname><given-names>H-M</given-names></name>, <name name-style="western"><surname>Kim</surname><given-names>K-S</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Novel system for detecting SARS coronavirus nucleocapsid protein using an
+ssDNA aptamer</article-title>. <source>J Biosci Bioeng</source>. <year>2011 Dec
+1</year>;<volume>112</volume>(<issue>6</issue>):<fpage>535</fpage>&#x02013;<lpage>540</lpage>.
+doi: <pub-id pub-id-type="doi">10.1016/j.jbiosc.2011.08.014</pub-id><pub-id pub-id-type="pmid">21920814</pub-id></mixed-citation></ref><ref id="CIT0043"><label>43</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Zhou</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Yang</surname><given-names>X-L</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>X-G</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>A pneumonia outbreak associated with a new coronavirus of probable bat
+origin</article-title>. <source>Nature</source>. <year>2020 Feb
+3</year>;<volume>579</volume>(<issue>7798</issue>):<fpage>270</fpage>&#x02013;<lpage>273</lpage>.
+doi: <pub-id pub-id-type="doi">10.1038/s41586-020-2012-7</pub-id><pub-id pub-id-type="pmid">32015507</pub-id></mixed-citation></ref><ref id="CIT0044"><label>44</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Nagarkatti</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Bist</surname><given-names>V</given-names></name>, <name name-style="western"><surname>Sun</surname><given-names>S</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Development of an aptamer-based concentration method for the detection of
+Trypanosoma cruzi in blood</article-title>. <source>PLoS One</source>. <year>2012 Aug
+29</year>;<volume>7</volume>(<issue>8</issue>):<fpage>e43533</fpage>. doi: <pub-id pub-id-type="doi">10.1371/journal.pone.0043533</pub-id><pub-id pub-id-type="pmid">22927983</pub-id></mixed-citation></ref><ref id="CIT0045"><label>45</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Bruno</surname><given-names>JG</given-names></name>, <name name-style="western"><surname>Richarte</surname><given-names>AM</given-names></name>, <name name-style="western"><surname>Phillips</surname><given-names>T</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Development of a fluorescent enzyme-linked DNA aptamer-magnetic bead
+sandwich assay and portable fluorometer for sensitive and rapid Leishmania detection in
+sandflies</article-title>. <source>J Fluoresc</source>. <year>2014
+Jan</year>;<volume>24</volume>(<issue>1</issue>):<fpage>267</fpage>&#x02013;<lpage>277</lpage>.
+doi: <pub-id pub-id-type="doi">10.1007/s10895-013-1315-6</pub-id><pub-id pub-id-type="pmid">24222436</pub-id></mixed-citation></ref><ref id="CIT0046"><label>46</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Singh</surname><given-names>NK</given-names></name>, <name name-style="western"><surname>Jain</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Das</surname><given-names>S</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Dye coupled aptamer-captured enzyme catalyzed reaction for detection of Pan
+malaria and <italic>P. falciparum</italic> Species in laboratory settings
+and instrument-free paper-based platform</article-title>. <source>Anal Chem</source>.
+<year>2019 Mar
+19</year>;<volume>91</volume>(<issue>6</issue>):<fpage>4213</fpage>&#x02013;<lpage>4221</lpage>.
+doi: <pub-id pub-id-type="doi">10.1021/acs.analchem.9b00670</pub-id><pub-id pub-id-type="pmid">30793883</pub-id></mixed-citation></ref><ref id="CIT0047"><label>47</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Cai</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Yan</surname><given-names>J</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Investigations on the interface of nucleic acid aptamers and binding
+targets</article-title>. <source>Analyst</source>.
+<year>2018</year>;<volume>143</volume>(<issue>22</issue>):<fpage>5317</fpage>&#x02013;<lpage>5338</lpage>.
+doi: <pub-id pub-id-type="doi">10.1039/C8AN01467A</pub-id><pub-id pub-id-type="pmid">30357118</pub-id></mixed-citation></ref><ref id="CIT0048"><label>48</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Bayat</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Nosrati</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Alibolandi</surname><given-names>M</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>SELEX methods on the road to protein targeting with nucleic acid
+aptamers</article-title>. <source>Biochimie</source>.
+<year>2018</year>;<volume>154</volume>:<fpage>132</fpage>&#x02013;<lpage>155</lpage>. doi:
+<pub-id pub-id-type="doi">10.1016/j.biochi.2018.09.001</pub-id><pub-id pub-id-type="pmid">30193856</pub-id></mixed-citation></ref><ref id="CIT0049"><label>49</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Yan</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Xiong</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Cai</surname><given-names>S</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Advances in aptamer screening technologies</article-title>.
+<source>Talanta</source>. <year>2019 Aug
+1</year>;<volume>200</volume>:<fpage>124</fpage>&#x02013;<lpage>144</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.talanta.2019.03.015</pub-id><pub-id pub-id-type="pmid">31036165</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,914 @@
+{
+  "id": [
+    "32459137"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32459137"
+  ],
+  "pmcid": [
+    "PMC7448919"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7448919"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1080/22221751.2020.1775133"
+  ],
+  "title": [
+    "Evaluating the use of posterior oropharyngeal saliva in a point-of-care assay for the detection of SARS-CoV-2."
+  ],
+  "authorString": [
+    "Chen JH, Yip CC, Poon RW, Chan KH, Cheng VC, Hung IF, Chan JF, Yuen KY, To KK."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chen JH"
+          ],
+          "firstName": [
+            "Jonathan Hon-Kwan"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "JH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7510-1696",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Microbiology, Queen Mary Hospital, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yip CC"
+          ],
+          "firstName": [
+            "Cyril Chik-Yan"
+          ],
+          "lastName": [
+            "Yip"
+          ],
+          "initials": [
+            "CC"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Microbiology, Queen Mary Hospital, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Poon RW"
+          ],
+          "firstName": [
+            "Rosana Wing-Shan"
+          ],
+          "lastName": [
+            "Poon"
+          ],
+          "initials": [
+            "RW"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Microbiology, Queen Mary Hospital, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chan KH"
+          ],
+          "firstName": [
+            "Kwok-Hung"
+          ],
+          "lastName": [
+            "Chan"
+          ],
+          "initials": [
+            "KH"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory for Emerging Infectious Diseases, Department of Microbiology, Carol Yu Centre for Infection, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cheng VC"
+          ],
+          "firstName": [
+            "Vincent Chi-Chung"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "VC"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Microbiology, Queen Mary Hospital, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China.",
+                "Infection Control Team, Queen Mary Hospital, Hong Kong West Cluster, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hung IF"
+          ],
+          "firstName": [
+            "Ivan Fan-Ngai"
+          ],
+          "lastName": [
+            "Hung"
+          ],
+          "initials": [
+            "IF"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Medicine, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chan JF"
+          ],
+          "firstName": [
+            "Jasper Fuk-Woo"
+          ],
+          "lastName": [
+            "Chan"
+          ],
+          "initials": [
+            "JF"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6336-6657",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Microbiology, Queen Mary Hospital, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China.",
+                "State Key Laboratory for Emerging Infectious Diseases, Department of Microbiology, Carol Yu Centre for Infection, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China.",
+                "Department of Clinical Microbiology and Infection Control, The University of Hong Kong-Shenzhen Hospital, Shenzhen, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yuen KY"
+          ],
+          "firstName": [
+            "Kwok-Yung"
+          ],
+          "lastName": [
+            "Yuen"
+          ],
+          "initials": [
+            "KY"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Microbiology, Queen Mary Hospital, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China.",
+                "State Key Laboratory for Emerging Infectious Diseases, Department of Microbiology, Carol Yu Centre for Infection, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China.",
+                "Department of Clinical Microbiology and Infection Control, The University of Hong Kong-Shenzhen Hospital, Shenzhen, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "To KK"
+          ],
+          "firstName": [
+            "Kelvin Kai-Wang"
+          ],
+          "lastName": [
+            "To"
+          ],
+          "initials": [
+            "KK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1921-5824",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Microbiology, Queen Mary Hospital, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China.",
+                "State Key Laboratory for Emerging Infectious Diseases, Department of Microbiology, Carol Yu Centre for Infection, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China.",
+                "Department of Clinical Microbiology and Infection Control, The University of Hong Kong-Shenzhen Hospital, Shenzhen, People's Republic of China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7510-1696",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6336-6657",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1921-5824",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2893331"
+      ],
+      "dateOfPublication": [
+        "2020 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Emerging microbes & infections"
+          ],
+          "ISOAbbreviation": [
+            "Emerg Microbes Infect"
+          ],
+          "medlineAbbreviation": [
+            "Emerg Microbes Infect"
+          ],
+          "NLMid": [
+            "101594885"
+          ],
+          "ISSN": [
+            "2222-1751"
+          ],
+          "ESSN": [
+            "2222-1751"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "1356-1359"
+  ],
+  "abstractText": [
+    "During the Coronavirus disease 2019 (COVID-19) pandemic, logistic problems associated with specimen collection limited the SARS-CoV-2 testing, especially in the community. In this study, we assessed the use of posterior oropharyngeal saliva as specimens for the detection of SARS-CoV-2 in an automated point-of-care molecular assay. Archived nasopharyngeal swab (NPS) and posterior oropharyngeal saliva specimens of 58 COVID-19 patients were tested with the Xpert® Xpress SARS-CoV-2 assay. SARS-CoV-2 was detected in either NPS or saliva specimens of all patients. Among them, 84.5% (49/58) tested positive in both NPS and saliva, 10.3% (6/58) tested positive in NPS only, and 5.2% (3/58) tested positive in saliva only. No significant difference in the detection rate was observed between NPS and saliva (McNemar's test p = 0.5078). The detection rate was slightly higher for N2 (NPS 94.8% and Saliva 93.1%) than that of the E gene target (Saliva: 89.7% vs 82.8%) on both specimen types. Significantly earlier median Ct value was observed for NPS comparing to that of saliva on both E (26.8 vs 29.7, p = 0.0002) and N2 gene target (29.3 vs 32.3, p = 0.0002). The median Ct value of E gene target was significantly earlier than that of the N2 gene target for both NPS (26.8 vs 29.3, p < 0.0001) and saliva (29.7 vs 32.3, p < 0.0001). In conclusion, posterior oropharyngeal saliva and NPS were found to have similar detection rates in the point-of-care test for SARS-CoV-2 detection. Since posterior oropharyngeal saliva can be collected easily, the use of saliva as an alternative specimen type for SARS-CoV-2 detection is recommended."
+  ],
+  "affiliation": [
+    "Department of Microbiology, Queen Mary Hospital, Pokfulam, Hong Kong Special Administrative Region, People's Republic of China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oropharynx"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Saliva"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pneumonia, Viral"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Coronavirus Infections"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Viral Envelope Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Specimen Handling"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Biological Assay"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Clinical Laboratory Techniques"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IS"
+                  ],
+                  "qualifierName": [
+                    "instrumentation"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Point-of-Care Systems"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ST"
+                  ],
+                  "qualifierName": [
+                    "standards"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hong Kong"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Pandemics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Betacoronavirus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PY"
+                  ],
+                  "qualifierName": [
+                    "pathogenicity"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Saliva",
+        "Point-of-care Testing",
+        "Nasopharyngeal Swab",
+        "Covid-19",
+        "Sars-cov-2"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Viral Envelope Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "E protein, SARS coronavirus"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/22221751.2020.1775133"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7448919"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7448919?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-06-23"
+  ],
+  "dateOfCreation": [
+    "2020-05-28"
+  ],
+  "firstIndexDate": [
+    "2020-05-28"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-12"
+  ],
+  "dateOfRevision": [
+    "2020-09-11"
+  ],
+  "firstPublicationDate": [
+    "2020-12-01"
+  ]
+}

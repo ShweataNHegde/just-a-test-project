@@ -1,0 +1,607 @@
+{
+  "id": [
+    "32873316"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32873316"
+  ],
+  "pmcid": [
+    "PMC7459243"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7459243"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1186/s13054-020-03244-3"
+  ],
+  "title": [
+    "Nasopharyngeal viral load predicts hypoxemia and disease outcome in admitted COVID-19 patients."
+  ],
+  "authorString": [
+    "Shlomai A, Ben-Zvi H, Glusman Bendersky A, Shafran N, Goldberg E, Sklan EH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shlomai A"
+          ],
+          "firstName": [
+            "Amir"
+          ],
+          "lastName": [
+            "Shlomai"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Medicine D, Rabin Medical Center, Beilinson Hospital, Petah Tikva, Israel.",
+                "The Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv, Israel."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ben-Zvi H"
+          ],
+          "firstName": [
+            "Haim"
+          ],
+          "lastName": [
+            "Ben-Zvi"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Microbiology Laboratory, Rabin Medical Center, Beilinson Hospital, Petah Tikva, Israel."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Glusman Bendersky A"
+          ],
+          "firstName": [
+            "Ahinoam"
+          ],
+          "lastName": [
+            "Glusman Bendersky"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Medicine D, Rabin Medical Center, Beilinson Hospital, Petah Tikva, Israel.",
+                "The Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv, Israel."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shafran N"
+          ],
+          "firstName": [
+            "Noa"
+          ],
+          "lastName": [
+            "Shafran"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Medicine D, Rabin Medical Center, Beilinson Hospital, Petah Tikva, Israel.",
+                "The Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv, Israel."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Goldberg E"
+          ],
+          "firstName": [
+            "Elad"
+          ],
+          "lastName": [
+            "Goldberg"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "The Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv, Israel. eladgol310@yahoo.com.",
+                "Department of Medicine F, Rabin Medical Center, Beilinson Hospital, Petah Tikva, Israel. eladgol310@yahoo.com."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sklan EH"
+          ],
+          "firstName": [
+            "Ella H"
+          ],
+          "lastName": [
+            "Sklan"
+          ],
+          "initials": [
+            "EH"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Clinical Microbiology and Immunology, The Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv, Israel."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics",
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "24"
+      ],
+      "journalIssueId": [
+        "3003295"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Critical care (London, England)"
+          ],
+          "ISOAbbreviation": [
+            "Crit Care"
+          ],
+          "medlineAbbreviation": [
+            "Crit Care"
+          ],
+          "NLMid": [
+            "9801902"
+          ],
+          "ISSN": [
+            "1364-8535"
+          ],
+          "ESSN": [
+            "1466-609X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "539"
+  ],
+  "affiliation": [
+    "Department of Medicine D, Rabin Medical Center, Beilinson Hospital, Petah Tikva, Israel."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "brief-report",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Nasopharynx"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pneumonia, Viral"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Coronavirus Infections"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hospitalization"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Viral Load"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pandemics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hypoxia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Hypoxemia",
+        "Viral load",
+        "Covid-19",
+        "Sars-cov-2"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13054-020-03244-3"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7459243"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7459243?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2020-09-04"
+  ],
+  "dateOfCreation": [
+    "2020-09-03"
+  ],
+  "firstIndexDate": [
+    "2020-09-03"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-04"
+  ],
+  "dateOfRevision": [
+    "2020-09-04"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-01"
+  ],
+  "firstPublicationDate": [
+    "2020-09-01"
+  ]
+}

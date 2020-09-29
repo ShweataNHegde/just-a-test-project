@@ -1,0 +1,311 @@
+{
+  "id": [
+    "PMC7505500"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7505500"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7505500"
+      ]
+    }
+  ],
+  "title": [
+    "PDCOVIDNet: a parallel-dilated convolutional neural network architecture for detecting COVID-19 from chest X-ray images"
+  ],
+  "authorString": [
+    "Chowdhury N, Rahman M, Kabir M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chowdhury N"
+          ],
+          "firstName": [
+            "Nihad K."
+          ],
+          "lastName": [
+            "Chowdhury"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "1 Chittagong, Bangladesh"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rahman M"
+          ],
+          "firstName": [
+            "Md. Muhtadir"
+          ],
+          "lastName": [
+            "Rahman"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "1 Chittagong, Bangladesh"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kabir M"
+          ],
+          "firstName": [
+            "Muhammad Ashad"
+          ],
+          "lastName": [
+            "Kabir"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2 Bathurst, NSW Australia"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "3022072"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Health information science and systems"
+          ],
+          "ISOAbbreviation": [
+            "Health Inf Sci Syst"
+          ],
+          "medlineAbbreviation": [
+            "Health Inf Sci Syst"
+          ],
+          "NLMid": [
+            "101638060"
+          ],
+          "ISSN": [
+            "2047-2501"
+          ],
+          "ESSN": [
+            "2047-2501"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "The COVID-19 pandemic continues to severely undermine the prosperity of the global health system. To combat this pandemic, effective screening techniques for infected patients are indispensable. There is no doubt that the use of chest X-ray images for radiological assessment is one of the essential screening techniques. Some of the early studies revealed that the patient’s chest X-ray images showed abnormalities, which is natural for patients infected with COVID-19. In this paper, we proposed a parallel-dilated convolutional neural network (CNN) based COVID-19 detection system from chest X-ray images, named as Parallel-Dilated COVIDNet (PDCOVIDNet). First, the publicly available chest X-ray collection fully preloaded and enhanced, and then classified by the proposed method. Differing convolution dilation rate in a parallel form demonstrates the proof-of-principle for using PDCOVIDNet to extract radiological features for COVID-19 detection. Accordingly, we have assisted our method with two visualization methods, which are specifically designed to increase understanding of the key components associated with COVID-19 infection. Both visualization methods compute gradients for a given image category related to feature maps of the last convolutional layer to create a class-discriminative region. In our experiment, we used a total of 2905 chest X-ray images, comprising three cases (such as COVID-19, normal, and viral pneumonia), and empirical evaluations revealed that the proposed method extracted more significant features expeditiously related to suspected disease. The experimental results demonstrate that our proposed method significantly improves performance metrics: the accuracy, precision, recall and F1 scores reach"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Detection",
+        "Chest X-ray",
+        "Convolutional Neural Network",
+        "Covid-19",
+        "Parallel Dilation"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7505500/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7505500/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7505500"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7505500?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-28"
+  ],
+  "firstIndexDate": [
+    "2020-09-28"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-28"
+  ],
+  "dateOfRevision": [
+    "2020-09-28"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-21"
+  ],
+  "firstPublicationDate": [
+    "2020-09-21"
+  ]
+}

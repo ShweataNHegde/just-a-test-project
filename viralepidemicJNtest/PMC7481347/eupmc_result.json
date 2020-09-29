@@ -1,0 +1,300 @@
+{
+  "id": [
+    "PMC7481347"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7481347"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7481347"
+      ]
+    }
+  ],
+  "title": [
+    "Washing hands and the face may reduce COVID-19 infection"
+  ],
+  "authorString": [
+    "Przekwas A, Chen Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Przekwas A"
+          ],
+          "firstName": [
+            "Andrzej"
+          ],
+          "lastName": [
+            "Przekwas"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "$": {
+                    "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                    "xsi:nil": "true"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen Z"
+          ],
+          "firstName": [
+            "Zhijian"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "$": {
+                    "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                    "xsi:nil": "true"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "144"
+      ],
+      "journalIssueId": [
+        "3008236"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Medical hypotheses"
+          ],
+          "ISOAbbreviation": [
+            "Med. Hypotheses"
+          ],
+          "medlineAbbreviation": [
+            "Med Hypotheses"
+          ],
+          "NLMid": [
+            "7505668"
+          ],
+          "ISSN": [
+            "0306-9877"
+          ],
+          "ESSN": [
+            "1532-2777"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "110261-110261"
+  ],
+  "abstractText": [
+    "The contribution of various modes of transmission of SARS-CoV-2 has been the subject of recent intensive debate. The predominant route of the viral transmission is via exhaled droplets of different sizes which can be inhaled by nearby exposed individuals or deposited on peoples and surfaces. Touching contaminated surfaces followed by hand to facial transfer has been identified as a potential infection route. As humans involuntarily touch their faces over 20 times per hour a hand washing with soap and water is recommended to avoid hands to face transmission. To date however, there is no clear explanation how the viruses arrive form the face into the nose and the lung. Our hypothesis is that during the physiological nasal air inspiration the virion particles attached on the face close to the nose are resuspended in the air and then are inhaled into the nose. Our preliminary fluid dynamics simulations confirm our hypothesis. Further experimental and computational studies are warranted."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "virus transmission",
+        "Computational Fluid Dynamics",
+        "Bioaerosol",
+        "Respiratory Viral Infection",
+        "Covid-19"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7481347/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7481347/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7481347"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7481347?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-12"
+  ],
+  "firstIndexDate": [
+    "2020-09-12"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-12"
+  ],
+  "dateOfRevision": [
+    "2020-09-17"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-10"
+  ],
+  "firstPublicationDate": [
+    "2020-09-10"
+  ]
+}

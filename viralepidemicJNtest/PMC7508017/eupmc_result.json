@@ -1,0 +1,343 @@
+{
+  "id": [
+    "PMC7508017"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7508017"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7508017"
+      ]
+    }
+  ],
+  "title": [
+    "Genetic Lesions of Type I Interferon Signalling in Human Antiviral Immunity"
+  ],
+  "authorString": [
+    "Duncan C, Randall R, Hambleton S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Duncan C"
+          ],
+          "firstName": [
+            "Christopher J.A."
+          ],
+          "lastName": [
+            "Duncan"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2 Royal Victoria Infirmary, Newcastle upon Tyne Hospitals NHS Foundation Trust, Newcastle upon Tyne NE1 4LP, UK"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Randall R"
+          ],
+          "firstName": [
+            "Richard E."
+          ],
+          "lastName": [
+            "Randall"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "3 School of Biology, University of St Andrew’s, St Andrew’s KY16 9ST, UK"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hambleton S"
+          ],
+          "firstName": [
+            "Sophie"
+          ],
+          "lastName": [
+            "Hambleton"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "4 Great North Children’s Hospital, Newcastle upon Tyne Hospitals NHS Foundation Trust, Newcastle upon Tyne NE1 4LP, UK"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3008505"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Trends in genetics : TIG"
+          ],
+          "ISOAbbreviation": [
+            "Trends Genet."
+          ],
+          "medlineAbbreviation": [
+            "Trends Genet"
+          ],
+          "NLMid": [
+            "8507085"
+          ],
+          "ISSN": [
+            "0168-9525"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "The concept that type I interferons (IFN-I) are essential to antiviral immunity derives from studies on animal models and cell lines. Virtually all pathogenic viruses have evolved countermeasures to IFN-I restriction, and genetic loss of viral IFN-I antagonists leads to virus attenuation. But just how important is IFN-I to antiviral defence in humans? The recent discovery of genetic defects of IFN-I signalling illuminates this and other questions of IFN biology, including the role of the mucosa-restricted type III IFNs (IFN-III), informing our understanding of the place of the IFN system within the concerted antiviral response. Here we review monogenic lesions of IFN-I signalling pathways and summarise the organising principles which emerge. Highlights Inborn errors of immunity affecting all key molecular components of the interferon (IFN)-I signalling pathway [IFN-alpha/beta receptor (IFNAR)1, IFNAR2, Janus kinase 1 (JAK1), tyrosine kinase 2 (TYK2), signal transducer and activator of transcription (STAT)1, STAT2, and interferon regulatory factor 9 (IRF9)] have been identified in humans. Deficiency of IFNAR results in potentially fatal susceptibility to live-attenuated viral vaccines, but without general susceptibility to common childhood viral diseases. Clinically evident vulnerability to a broader spectrum of viral diseases, including respiratory viruses such as influenza as well as live-attenuated viral vaccines, often accompanies deficiency of STAT2 and IRF9. These molecules transduce signals downstream of IFN-I and IFN-III, suggesting that the latter provides compensatory antiviral defence in IFNAR-deficient patients. Children with defects in IFN-I and IFN-III signalling are not particularly susceptible to viruses such as cytomegalovirus (CMV), suggesting that this virus has successfully evolved mechanisms to overcome IFN-I/III restriction. STAT1-deficient patients, who lack signalling in response to all types of IFN (I, II, and III), show the widest viral susceptibility of all. Pathological dissemination of parenterally delivered live-viral vaccines in otherwise healthy children should signify an inborn error of IFN-I immunity until proved otherwise."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "207556/Z/17/Z"
+          ],
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "211153/Z/18/Z"
+          ],
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "101788/Z/13/Z"
+          ],
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Type I interferons",
+        "Antiviral Immunity",
+        "Interferon-stimulated Genes",
+        "Ifnar",
+        "Inborn Errors Of Immunity",
+        "Jak–stat Signalling"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7508017/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7508017/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7508017"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7508017?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-28"
+  ],
+  "firstIndexDate": [
+    "2020-09-28"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-28"
+  ],
+  "dateOfRevision": [
+    "2020-09-28"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-22"
+  ],
+  "firstPublicationDate": [
+    "2020-09-22"
+  ]
+}

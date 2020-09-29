@@ -1,0 +1,857 @@
+{
+  "id": [
+    "PMC7505093"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7505093"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7505093"
+      ]
+    }
+  ],
+  "title": [
+    "Reply"
+  ],
+  "authorString": [
+    "Yonker L, Neilan A, Bartsch Y, Patel A, Regan J, Arya P, Gootkind E, Park G, Hardcastle M, St. John A, Appleman L, Chiu M, Fialkowski A, De La Flor D, Lima R, Bordt E, Yockey L, D’Avino P, Fischinger S, Shui J, Lerou P, Bonventre J, Yu X, Ryan E, Bassett I, Irimia D, Edlow A, Alter G, Li J, Fasano A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yonker L"
+          ],
+          "firstName": [
+            "Lael M."
+          ],
+          "lastName": [
+            "Yonker"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "10 Harvard Medical School, Boston, MA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Neilan A"
+          ],
+          "firstName": [
+            "Anne M."
+          ],
+          "lastName": [
+            "Neilan"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "10 Harvard Medical School, Boston, MA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bartsch Y"
+          ],
+          "firstName": [
+            "Yannic"
+          ],
+          "lastName": [
+            "Bartsch"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "10 Harvard Medical School, Boston, MA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Patel A"
+          ],
+          "firstName": [
+            "Ankit B."
+          ],
+          "lastName": [
+            "Patel"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "10 Harvard Medical School, Boston, MA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Regan J"
+          ],
+          "firstName": [
+            "James"
+          ],
+          "lastName": [
+            "Regan"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "8 Brigham and Women’s Hospital, Department of Infectious Diseases, Boston, MA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Arya P"
+          ],
+          "firstName": [
+            "Puneeta"
+          ],
+          "lastName": [
+            "Arya"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "10 Harvard Medical School, Boston, MA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gootkind E"
+          ],
+          "firstName": [
+            "Elizabeth"
+          ],
+          "lastName": [
+            "Gootkind"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2 Massachusetts General Hospital, Department of Pediatrics, Boston, MA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Park G"
+          ],
+          "firstName": [
+            "Grace"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2 Massachusetts General Hospital, Department of Pediatrics, Boston, MA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hardcastle M"
+          ],
+          "firstName": [
+            "Margot"
+          ],
+          "lastName": [
+            "Hardcastle"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2 Massachusetts General Hospital, Department of Pediatrics, Boston, MA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "St. John A"
+          ],
+          "firstName": [
+            "Anita"
+          ],
+          "lastName": [
+            "St. John"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2 Massachusetts General Hospital, Department of Pediatrics, Boston, MA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Appleman L"
+          ],
+          "firstName": [
+            "Lori"
+          ],
+          "lastName": [
+            "Appleman"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2 Massachusetts General Hospital, Department of Pediatrics, Boston, MA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chiu M"
+          ],
+          "firstName": [
+            "Michelle L."
+          ],
+          "lastName": [
+            "Chiu"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "10 Harvard Medical School, Boston, MA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fialkowski A"
+          ],
+          "firstName": [
+            "Allison"
+          ],
+          "lastName": [
+            "Fialkowski"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "10 Harvard Medical School, Boston, MA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "De La Flor D"
+          ],
+          "firstName": [
+            "Denis"
+          ],
+          "lastName": [
+            "De La Flor"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2 Massachusetts General Hospital, Department of Pediatrics, Boston, MA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lima R"
+          ],
+          "firstName": [
+            "Rosiane"
+          ],
+          "lastName": [
+            "Lima"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2 Massachusetts General Hospital, Department of Pediatrics, Boston, MA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bordt E"
+          ],
+          "firstName": [
+            "Evan A."
+          ],
+          "lastName": [
+            "Bordt"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "10 Harvard Medical School, Boston, MA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yockey L"
+          ],
+          "firstName": [
+            "Laura J."
+          ],
+          "lastName": [
+            "Yockey"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "6 Massachusetts General Hospital, Vincent Center for Reproductive Biology, Boston, MA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "D’Avino P"
+          ],
+          "firstName": [
+            "Paolo"
+          ],
+          "lastName": [
+            "D’Avino"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "1 Massachusetts General Hospital, Mucosal Immunology and Biology Research Center, Boston, MA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fischinger S"
+          ],
+          "firstName": [
+            "Stephanie"
+          ],
+          "lastName": [
+            "Fischinger"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "7 Ragon Institute of Massachusetts General Hospital, Massachusetts Institute of Technology and Harvard, Harvard Medical School, Cambridge, MA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shui J"
+          ],
+          "firstName": [
+            "Jessica E."
+          ],
+          "lastName": [
+            "Shui"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "10 Harvard Medical School, Boston, MA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lerou P"
+          ],
+          "firstName": [
+            "Paul H."
+          ],
+          "lastName": [
+            "Lerou"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "10 Harvard Medical School, Boston, MA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bonventre J"
+          ],
+          "firstName": [
+            "Joseph V."
+          ],
+          "lastName": [
+            "Bonventre"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "10 Harvard Medical School, Boston, MA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yu X"
+          ],
+          "firstName": [
+            "Xu G."
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "10 Harvard Medical School, Boston, MA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ryan E"
+          ],
+          "firstName": [
+            "Edward T."
+          ],
+          "lastName": [
+            "Ryan"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "11 Harvard T.H. Chan School of Public Health, Boston, MA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bassett I"
+          ],
+          "firstName": [
+            "Ingrid V."
+          ],
+          "lastName": [
+            "Bassett"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "10 Harvard Medical School, Boston, MA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Irimia D"
+          ],
+          "firstName": [
+            "Daniel"
+          ],
+          "lastName": [
+            "Irimia"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "10 Harvard Medical School, Boston, MA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Edlow A"
+          ],
+          "firstName": [
+            "Andrea G."
+          ],
+          "lastName": [
+            "Edlow"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "10 Harvard Medical School, Boston, MA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Alter G"
+          ],
+          "firstName": [
+            "Galit"
+          ],
+          "lastName": [
+            "Alter"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "10 Harvard Medical School, Boston, MA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li J"
+          ],
+          "firstName": [
+            "Jonathan Z."
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "10 Harvard Medical School, Boston, MA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fasano A"
+          ],
+          "firstName": [
+            "Alessio"
+          ],
+          "lastName": [
+            "Fasano"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "10 Harvard Medical School, Boston, MA"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3006956"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The Journal of pediatrics"
+          ],
+          "ISOAbbreviation": [
+            "J. Pediatr."
+          ],
+          "medlineAbbreviation": [
+            "J Pediatr"
+          ],
+          "NLMid": [
+            "0375410"
+          ],
+          "ISSN": [
+            "0022-3476"
+          ],
+          "ESSN": [
+            "1097-6833"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Letter"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7505093/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7505093/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7505093"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7505093?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-28"
+  ],
+  "firstIndexDate": [
+    "2020-09-28"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-28"
+  ],
+  "dateOfRevision": [
+    "2020-09-28"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-21"
+  ],
+  "firstPublicationDate": [
+    "2020-09-21"
+  ]
+}

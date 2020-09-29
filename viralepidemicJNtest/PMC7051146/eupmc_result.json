@@ -1,0 +1,368 @@
+{
+  "id": [
+    "32050846"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32050846"
+  ],
+  "pmcid": [
+    "PMC7051146"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7051146"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1080/21505594.2020.1726594"
+  ],
+  "title": [
+    "Orchestrated efforts on host network hijacking: Processes governing virus replication."
+  ],
+  "authorString": [
+    "Dai X, Hakizimana O, Zhang X, Kaushik AC, Zhang J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Dai X"
+          ],
+          "firstName": [
+            "Xiaofeng"
+          ],
+          "lastName": [
+            "Dai"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "The First Affiliated Hospital of Xi'an Jiaotong University, Xi'an, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hakizimana O"
+          ],
+          "firstName": [
+            "Olivier"
+          ],
+          "lastName": [
+            "Hakizimana"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Wuxi School of Medicine, Jiangnan University, Wuxi, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang X"
+          ],
+          "firstName": [
+            "Xuanhao"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Wuxi School of Medicine, Jiangnan University, Wuxi, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kaushik AC"
+          ],
+          "firstName": [
+            "Aman Chandra"
+          ],
+          "lastName": [
+            "Kaushik"
+          ],
+          "initials": [
+            "AC"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Life Sciences and Biotechnology, Shanghai JiaoTong University, Shanghai, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang J"
+          ],
+          "firstName": [
+            "Jianying"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Henan Academy of Medical and Pharmaceutical Sciences, Zhengzhou University, Zhengzhou, Henan, China.",
+                "Department of Biological Sciences, University of Texas at El Paso, EI Paso, TX, USA."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2895107"
+      ],
+      "dateOfPublication": [
+        "2020 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Virulence"
+          ],
+          "ISOAbbreviation": [
+            "Virulence"
+          ],
+          "medlineAbbreviation": [
+            "Virulence"
+          ],
+          "NLMid": [
+            "101531386"
+          ],
+          "ISSN": [
+            "2150-5594"
+          ],
+          "ESSN": [
+            "2150-5608"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "183-198"
+  ],
+  "abstractText": [
+    "With the high pervasiveness of viral diseases, the battle against viruses has never ceased. Here we discuss five cellular processes, namely \"autophagy\", \"programmed cell death\", \"immune response\", \"cell cycle alteration\", and \"lipid metabolic reprogramming\", that considerably guide viral replication after host infection in an orchestrated manner. On viral infection, \"autophagy\" and \"programmed cell death\" are two dynamically synchronized cell survival programs; \"immune response\" is a cell defense program typically suppressed by viruses; \"cell cycle alteration\" and \"lipid metabolic reprogramming\" are two altered cell housekeeping programs tunable in both directions. We emphasize on their functionalities in modulating viral replication, strategies viruses have evolved to tune these processes for their benefit, and how these processes orchestrate and govern cell fate upon viral infection. Understanding how viruses hijack host networks has both academic and industrial values in providing insights toward therapeutic strategy design for viral disease control, offering useful information in applications that aim to use viral vectors to improve human health such as gene therapy, and providing guidelines to maximize viral particle yield for improved vaccine production at a reduced cost."
+  ],
+  "affiliation": [
+    "The First Affiliated Hospital of Xi'an Jiaotong University, Xi'an, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Programmed cell death",
+        "Immune response",
+        "Virus replication",
+        "Autophagy",
+        "Cell Cycle Alteration",
+        "Lipid Metabolic Reprogramming"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/21505594.2020.1726594"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7051146"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7051146?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-02-14"
+  ],
+  "firstIndexDate": [
+    "2020-02-14"
+  ],
+  "fullTextReceivedDate": [
+    "2020-03-21"
+  ],
+  "dateOfRevision": [
+    "2020-06-01"
+  ],
+  "firstPublicationDate": [
+    "2020-12-01"
+  ]
+}

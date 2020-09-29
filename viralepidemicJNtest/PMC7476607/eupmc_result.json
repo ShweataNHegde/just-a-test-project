@@ -1,0 +1,334 @@
+{
+  "id": [
+    "PMC7476607"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7476607"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7476607"
+      ]
+    }
+  ],
+  "title": [
+    "Viral load of SARS-CoV-2 across patients and compared to other respiratory viruses"
+  ],
+  "authorString": [
+    "Jacot D, Greub G, Jaton K, Opota O."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jacot D"
+          ],
+          "firstName": [
+            "Damien"
+          ],
+          "lastName": [
+            "Jacot"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "a Institute of Microbiology, University Hospital Center and University of Lausanne, Switzerland"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Greub G"
+          ],
+          "firstName": [
+            "Gilbert"
+          ],
+          "lastName": [
+            "Greub"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "b Infectious Diseases Service, University Hospital of Lausanne, Lausanne, Switzerland"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jaton K"
+          ],
+          "firstName": [
+            "Katia"
+          ],
+          "lastName": [
+            "Jaton"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "a Institute of Microbiology, University Hospital Center and University of Lausanne, Switzerland"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Opota O"
+          ],
+          "firstName": [
+            "Onya"
+          ],
+          "lastName": [
+            "Opota"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "a Institute of Microbiology, University Hospital Center and University of Lausanne, Switzerland"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3008038"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Microbes and infection"
+          ],
+          "ISOAbbreviation": [
+            "Microbes Infect."
+          ],
+          "medlineAbbreviation": [
+            "Microbes Infect"
+          ],
+          "NLMid": [
+            "100883508"
+          ],
+          "ISSN": [
+            "1286-4579"
+          ],
+          "ESSN": [
+            "1769-714X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "RT-PCRs to detect SARS-CoV-2 RNA is key to manage the COVID-19 pandemic. We analyzed SARS-CoV-2 viral loads from 22′323 RT-PCR results according to samples types, gender, age, and health units. Viral load did not show any difference across age and appears to be a poor predictor of disease outcome. SARS-CoV-2 viral load showed similar high viral loads than the one observed for RSV and influenza B. The importance of viral load to predict contagiousness and to assess disease progression is discussed."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "brief-report",
+        "Brief Report"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "RT-PCR",
+        "Diagnostic",
+        "Viral load",
+        "Cycle Threshold",
+        "Covid-19",
+        "Sars-cov-2"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7476607/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7476607/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7476607"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7476607?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-10"
+  ],
+  "firstIndexDate": [
+    "2020-09-10"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-10"
+  ],
+  "dateOfRevision": [
+    "2020-09-24"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-07"
+  ],
+  "firstPublicationDate": [
+    "2020-09-07"
+  ]
+}

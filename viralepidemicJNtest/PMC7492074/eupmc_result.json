@@ -1,0 +1,686 @@
+{
+  "id": [
+    "PMC7492074"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7492074"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7492074"
+      ]
+    }
+  ],
+  "title": [
+    "SARS-CoV-2 Viral Load Predicts Mortality in Patients with and Without Cancer Who Are Hospitalized with COVID-19"
+  ],
+  "authorString": [
+    "Westblade L, Brar G, Pinheiro L, Paidoussis D, Rajan M, Martin P, Goyal P, Sepulveda J, Zhang L, George G, Liu D, Whittier S, Plate M, Small C, Rand J, Cushing M, Walsh T, Cooke J, Safford M, Loda M, Satlin M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Westblade L"
+          ],
+          "firstName": [
+            "Lars F."
+          ],
+          "lastName": [
+            "Westblade"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "3 NewYork-Presbyterian Hospital, Weill Cornell Medical Center, New York, NY 10065, USA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Brar G"
+          ],
+          "firstName": [
+            "Gagandeep"
+          ],
+          "lastName": [
+            "Brar"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "3 NewYork-Presbyterian Hospital, Weill Cornell Medical Center, New York, NY 10065, USA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pinheiro L"
+          ],
+          "firstName": [
+            "Laura C."
+          ],
+          "lastName": [
+            "Pinheiro"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "1 Department of Medicine, Weill Cornell Medicine, New York, NY 10021, USA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Paidoussis D"
+          ],
+          "firstName": [
+            "Demetrios"
+          ],
+          "lastName": [
+            "Paidoussis"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "4 NewYork-Presbyterian Hospital Queens, Queens, NY 11355, USA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rajan M"
+          ],
+          "firstName": [
+            "Mangala"
+          ],
+          "lastName": [
+            "Rajan"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "1 Department of Medicine, Weill Cornell Medicine, New York, NY 10021, USA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Martin P"
+          ],
+          "firstName": [
+            "Peter"
+          ],
+          "lastName": [
+            "Martin"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "3 NewYork-Presbyterian Hospital, Weill Cornell Medical Center, New York, NY 10065, USA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Goyal P"
+          ],
+          "firstName": [
+            "Parag"
+          ],
+          "lastName": [
+            "Goyal"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "3 NewYork-Presbyterian Hospital, Weill Cornell Medical Center, New York, NY 10065, USA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sepulveda J"
+          ],
+          "firstName": [
+            "Jorge L."
+          ],
+          "lastName": [
+            "Sepulveda"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "5 Department of Pathology, George Washington University, Washington, DC 20037, USA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang L"
+          ],
+          "firstName": [
+            "Lisa"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "1 Department of Medicine, Weill Cornell Medicine, New York, NY 10021, USA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "George G"
+          ],
+          "firstName": [
+            "Gary"
+          ],
+          "lastName": [
+            "George"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "1 Department of Medicine, Weill Cornell Medicine, New York, NY 10021, USA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu D"
+          ],
+          "firstName": [
+            "Dakai"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "4 NewYork-Presbyterian Hospital Queens, Queens, NY 11355, USA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Whittier S"
+          ],
+          "firstName": [
+            "Susan"
+          ],
+          "lastName": [
+            "Whittier"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "7 NewYork-Presbyterian Hospital, Columbia University Medical Center, New York, NY 10032, USA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Plate M"
+          ],
+          "firstName": [
+            "Markus"
+          ],
+          "lastName": [
+            "Plate"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "3 NewYork-Presbyterian Hospital, Weill Cornell Medical Center, New York, NY 10065, USA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Small C"
+          ],
+          "firstName": [
+            "Catherine B."
+          ],
+          "lastName": [
+            "Small"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "3 NewYork-Presbyterian Hospital, Weill Cornell Medical Center, New York, NY 10065, USA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rand J"
+          ],
+          "firstName": [
+            "Jacob H."
+          ],
+          "lastName": [
+            "Rand"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "3 NewYork-Presbyterian Hospital, Weill Cornell Medical Center, New York, NY 10065, USA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cushing M"
+          ],
+          "firstName": [
+            "Melissa M."
+          ],
+          "lastName": [
+            "Cushing"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "3 NewYork-Presbyterian Hospital, Weill Cornell Medical Center, New York, NY 10065, USA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Walsh T"
+          ],
+          "firstName": [
+            "Thomas J."
+          ],
+          "lastName": [
+            "Walsh"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "3 NewYork-Presbyterian Hospital, Weill Cornell Medical Center, New York, NY 10065, USA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cooke J"
+          ],
+          "firstName": [
+            "Joseph"
+          ],
+          "lastName": [
+            "Cooke"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "4 NewYork-Presbyterian Hospital Queens, Queens, NY 11355, USA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Safford M"
+          ],
+          "firstName": [
+            "Monika M."
+          ],
+          "lastName": [
+            "Safford"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "3 NewYork-Presbyterian Hospital, Weill Cornell Medical Center, New York, NY 10065, USA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Loda M"
+          ],
+          "firstName": [
+            "Massimo"
+          ],
+          "lastName": [
+            "Loda"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "3 NewYork-Presbyterian Hospital, Weill Cornell Medical Center, New York, NY 10065, USA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Satlin M"
+          ],
+          "firstName": [
+            "Michael J."
+          ],
+          "lastName": [
+            "Satlin"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "3 NewYork-Presbyterian Hospital, Weill Cornell Medical Center, New York, NY 10065, USA"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3010649"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cancer cell"
+          ],
+          "ISOAbbreviation": [
+            "Cancer Cell"
+          ],
+          "medlineAbbreviation": [
+            "Cancer Cell"
+          ],
+          "NLMid": [
+            "101130617"
+          ],
+          "ISSN": [
+            "1535-6108"
+          ],
+          "ESSN": [
+            "1878-3686"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Patients with cancer may be at increased risk of severe coronavirus disease 2019 (COVID-19), but the role of viral load on this risk is unknown. We measured SARS-CoV-2 viral load using cycle threshold (CT) values from reverse transcription-polymerase chain reaction assays applied to nasopharyngeal swab specimens in 100 patients with cancer and 2914 without cancer who were admitted to three New York City hospitals. Overall, the in-hospital mortality rate was 38.8% among patients with a high viral load, 24.1% among patients with a medium viral load, and 15.3% among patients with a low viral load (P<0.001). Similar findings were observed in patients with cancer (high, 45.2% mortality; medium, 28.0%; low, 12.1%; P=0.008). Patients with hematologic malignancies had higher median viral loads (CT=25.0) than patients without cancer (CT=29.2; P=0.0039). SARS-CoV-2 viral load results may offer vital prognostic information for patients with and without cancer who are hospitalized with COVID-19. Graphical Abstract  HIGHLIGHTS • High admission viral load predicts mortality in hospitalized patients with and without cancer• Patients with hematologic malignancies have higher viral loads than patients without cancer• Viral load results may assist clinicians in caring for hospitalized patients with COVID-19"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cancer",
+        "Mortality",
+        "Solid tumor",
+        "Viral load",
+        "Hematologic Malignancy",
+        "Coronavirus Disease 2019 (Covid-19)",
+        "Severe Acute Respiratory Syndrome Coronavirus 2 (Sars-cov-2)",
+        "Cycle Threshold (Ct)"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7492074/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7492074/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7492074"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7492074?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-18"
+  ],
+  "firstIndexDate": [
+    "2020-09-23"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-18"
+  ],
+  "dateOfRevision": [
+    "2020-09-18"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-15"
+  ],
+  "firstPublicationDate": [
+    "2020-09-15"
+  ]
+}

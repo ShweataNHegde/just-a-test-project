@@ -1,0 +1,492 @@
+{
+  "id": [
+    "32746754"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32746754"
+  ],
+  "pmcid": [
+    "PMC7473139"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7473139"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1080/22221751.2020.1806005"
+  ],
+  "title": [
+    "A single N342D substitution in Influenza B Virus NA protein determines viral pathogenicity in mice."
+  ],
+  "authorString": [
+    "Zhou L, Feng Z, Liu J, Chen Y, Yang L, Liu S, Li X, Gao R, Zhu W, Wang D, Shu Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhou L"
+          ],
+          "firstName": [
+            "Lijuan"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Public Health (Shenzhen), Sun Yat-sen University, Guangdong, People's Republic of China.",
+                "National Institute for Viral Disease Control and Prevention, Chinese Center for Disease Control and Prevention, Beijing, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Feng Z"
+          ],
+          "firstName": [
+            "Zhaomin"
+          ],
+          "lastName": [
+            "Feng"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "National Institute for Viral Disease Control and Prevention, Chinese Center for Disease Control and Prevention, Beijing, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu J"
+          ],
+          "firstName": [
+            "Jia"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "National Institute for Viral Disease Control and Prevention, Chinese Center for Disease Control and Prevention, Beijing, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen Y"
+          ],
+          "firstName": [
+            "Yongkun"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Public Health (Shenzhen), Sun Yat-sen University, Guangdong, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang L"
+          ],
+          "firstName": [
+            "Lei"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "National Institute for Viral Disease Control and Prevention, Chinese Center for Disease Control and Prevention, Beijing, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu S"
+          ],
+          "firstName": [
+            "Suli"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Public Health (Shenzhen), Sun Yat-sen University, Guangdong, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li X"
+          ],
+          "firstName": [
+            "Xiyan"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "National Institute for Viral Disease Control and Prevention, Chinese Center for Disease Control and Prevention, Beijing, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gao R"
+          ],
+          "firstName": [
+            "Rongbao"
+          ],
+          "lastName": [
+            "Gao"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "National Institute for Viral Disease Control and Prevention, Chinese Center for Disease Control and Prevention, Beijing, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu W"
+          ],
+          "firstName": [
+            "Wenfei"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "National Institute for Viral Disease Control and Prevention, Chinese Center for Disease Control and Prevention, Beijing, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang D"
+          ],
+          "firstName": [
+            "Dayan"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "National Institute for Viral Disease Control and Prevention, Chinese Center for Disease Control and Prevention, Beijing, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shu Y"
+          ],
+          "firstName": [
+            "Yuelong"
+          ],
+          "lastName": [
+            "Shu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Public Health (Shenzhen), Sun Yat-sen University, Guangdong, People's Republic of China.",
+                "National Institute for Viral Disease Control and Prevention, Chinese Center for Disease Control and Prevention, Beijing, People's Republic of China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2893331"
+      ],
+      "dateOfPublication": [
+        "2020 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Emerging microbes & infections"
+          ],
+          "ISOAbbreviation": [
+            "Emerg Microbes Infect"
+          ],
+          "medlineAbbreviation": [
+            "Emerg Microbes Infect"
+          ],
+          "NLMid": [
+            "101594885"
+          ],
+          "ISSN": [
+            "2222-1751"
+          ],
+          "ESSN": [
+            "2222-1751"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "1853-1863"
+  ],
+  "abstractText": [
+    "Influenza B virus (IBV) is one of the most important human respiratory viruses: it causes approximately one-third of the global influenza-related disease burden each year. However, compared with the several pathogenicity-related molecular markers that have been identified for influenza A virus (IAV), little is known about potential IBV pathogenicity-related markers. Here, although the IBV strain B/Anhui-Tunxi/1528/2014 (AH1528/14) exhibited a more efficient replication ability in vitro and higher pathogenicity in vivo compared with IBV strain B/Anhui-Baohe/127/2015 (AH127/15), only three amino acids differences (HAA390E, NAN342D and PB1V212I) were observed among their full genomes. The contributions of each amino acid difference to the virus pathogenicity were further investigated. Compared with the wild type IBV virus rAH127, the recombinant virus harbouring a single substitution of HAA390E had a similar phenotype, whereas the recombinant virus harbouring PB1V212I replicated to a moderately higher titre in both MDCK cells and in mice. Notably, the virus harbouring NAN342D showed significantly better growth properties in MDCK cells and higher fatality rates in mice. In addition, the presence of NAN342D dramatically enhanced the viral neuraminidase activity. In conclusion, our study identified a novel IBV molecular marker, NAN342D, that could significantly increase the virulence of IBV in mice."
+  ],
+  "affiliation": [
+    "School of Public Health (Shenzhen), Sun Yat-sen University, Guangdong, People's Republic of China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Neuraminidase",
+        "Molecular marker",
+        "Pathogenicity",
+        "Influenza B Virus (Ibv)"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/22221751.2020.1806005"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7473139"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7473139?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-08-05"
+  ],
+  "firstIndexDate": [
+    "2020-08-09"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-17"
+  ],
+  "dateOfRevision": [
+    "2020-09-16"
+  ],
+  "firstPublicationDate": [
+    "2020-12-01"
+  ]
+}

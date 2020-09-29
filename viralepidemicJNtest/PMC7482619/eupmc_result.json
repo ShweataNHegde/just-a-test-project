@@ -1,0 +1,329 @@
+{
+  "id": [
+    "PMC7482619"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7482619"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7482619"
+      ]
+    }
+  ],
+  "title": [
+    "The importance of virion-incorporated cellular RNA-Binding Proteins in viral particle assembly and infectivity"
+  ],
+  "authorString": [
+    "Dicker K, Järvelin A, Garcia-Moreno M, Castello A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Dicker K"
+          ],
+          "firstName": [
+            "Kate"
+          ],
+          "lastName": [
+            "Dicker"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "a Department of Biochemistry, University of Oxford, South Parks Road, Oxford, OX1 3QU, UK"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Järvelin A"
+          ],
+          "firstName": [
+            "Aino I."
+          ],
+          "lastName": [
+            "Järvelin"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "a Department of Biochemistry, University of Oxford, South Parks Road, Oxford, OX1 3QU, UK"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Garcia-Moreno M"
+          ],
+          "firstName": [
+            "Manuel"
+          ],
+          "lastName": [
+            "Garcia-Moreno"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "a Department of Biochemistry, University of Oxford, South Parks Road, Oxford, OX1 3QU, UK"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Castello A"
+          ],
+          "firstName": [
+            "Alfredo"
+          ],
+          "lastName": [
+            "Castello"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "b MRC-University of Glasgow Centre for Virus Research, University of Glasgow, 464 Bearsden Road, Glasgow, G61 1QH, Scotland, UK"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3008130"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Seminars in cell & developmental biology"
+          ],
+          "ISOAbbreviation": [
+            "Semin. Cell Dev. Biol."
+          ],
+          "medlineAbbreviation": [
+            "Semin Cell Dev Biol"
+          ],
+          "NLMid": [
+            "9607332"
+          ],
+          "ISSN": [
+            "1084-9521"
+          ],
+          "ESSN": [
+            "1096-3634"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Highlights • Proteomic studies have uncovered more than a thousand cellular proteins that are present in the particles of RNA viruses.• Strikingly, nearly four hundred of these are RNA-binding proteins (RBPs).• Several virion-incorporated RBPs have been shown to regulate viral particle assembly and the initial steps of infection.• These host RBPs with regulatory roles in infection represent potential targets for antiviral therapy. RNA is a central molecule in RNA virus biology due to its dual function as messenger and genome. However, the small number of proteins encoded by viral genomes is insufficient to enable virus infection. Hence, viruses hijack cellular RNA-binding proteins (RBPs) to aid replication and spread. In this review we discuss the ‘knowns’ and ‘unknowns’ regarding the contribution of host RBPs to the formation of viral particles and the initial steps of infection in the newly infected cell. Through comparison of the virion proteomes of ten different human RNA viruses, we confirm that a pool of cellular RBPs are typically incorporated into viral particles. We describe here illustrative examples supporting the important functions of these RBPs in viral particle formation and infectivity and we propose that the role of host RBPs in these steps can be broader than previously anticipated. Understanding how cellular RBPs regulate virus infection can lead to the discovery of novel therapeutic targets against viruses."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Virus",
+        "RNA-binding protein",
+        "Virus infection",
+        "Virus replication",
+        "virus assembly",
+        "Rbp",
+        "Protein-rna Interaction"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7482619/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7482619/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7482619"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7482619?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-13"
+  ],
+  "firstIndexDate": [
+    "2020-09-13"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-13"
+  ],
+  "dateOfRevision": [
+    "2020-09-13"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-10"
+  ],
+  "firstPublicationDate": [
+    "2020-09-10"
+  ]
+}

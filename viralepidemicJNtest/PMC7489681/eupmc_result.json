@@ -1,0 +1,372 @@
+{
+  "id": [
+    "PMC7489681"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7489681"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7489681"
+      ]
+    }
+  ],
+  "title": [
+    "Effects and safety of Tanreqing injection on viral pneumonia : A protocol for systematic review and meta-analysis"
+  ],
+  "authorString": [
+    "Qiu Y, Pan X, Su L, Lui H, Li Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Qiu Y"
+          ],
+          "firstName": [
+            "Yue"
+          ],
+          "lastName": [
+            "Qiu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "a Department of General Internal Medicine, The Third Affiliated Hospital of Beijing University of Chinese Medicine"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pan X"
+          ],
+          "firstName": [
+            "Xue"
+          ],
+          "lastName": [
+            "Pan"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "b Beijing University of Chinese Medicine"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Su L"
+          ],
+          "firstName": [
+            "Lin"
+          ],
+          "lastName": [
+            "Su"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "c Department of Chinese Medicine, Rehabilitation Hospital affiliated to National Research Center For Rehabilitation Technical Aids"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lui H"
+          ],
+          "firstName": [
+            "Hui"
+          ],
+          "lastName": [
+            "Lui"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "a Department of General Internal Medicine, The Third Affiliated Hospital of Beijing University of Chinese Medicine"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li Y"
+          ],
+          "firstName": [
+            "Ya-Dong"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "d School of Life Science, Beijing University of Chinese Medicine, Beijing, China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "37"
+      ],
+      "volume": [
+        "99"
+      ],
+      "journalIssueId": [
+        "3011723"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Medicine"
+          ],
+          "ISOAbbreviation": [
+            "Medicine (Baltimore)"
+          ],
+          "medlineAbbreviation": [
+            "Medicine (Baltimore)"
+          ],
+          "NLMid": [
+            "2985248R"
+          ],
+          "ISSN": [
+            "0304-5412"
+          ],
+          "ESSN": [
+            "1536-5964"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Abstract Background: Influenza-related viral pneumonia is a severe threat to human health, which has caused high morbidity and mortality each year. The objective of this study was to assess the efficacy and safety of Tanreqing Injection therapy in patients with viral pneumonia. Materials and methods: This protocol established in this study has been reported following the Preferred Reporting Items for Systematic Review and Meta-Analysis Protocols. Web of Science, PubMed, EMBASE and the Cochrane Library were searched for clinical randomized trials in cases with viral pneumonia until 1st of July 2020. We will use a combination of Medical Subject Heading and free-text terms with various synonyms to search based on the Eligibility criteria. Two investigators independently reviewed the included studies and extracted relevant data. The relative risk (RR) and 95% confidence intervals (CIs) of were used as effect estimate. I-square (I2) test, substantial heterogeneity, sensitivity analysis and publication bias assessment will be performed accordingly. Stata 14.0 and Review Manger 5.3 are used for meta-analysis and systematic review. Results: The results will be published in a peer-reviewed journal. Conclusion: The results of this review will be widely disseminated through peer-reviewed publications and conference presentations. This evidence may also provide helpful evidence of whether Tanreqing Injection therapy was efficient and safe in patients with viral pneumonia. PROSPERO registration number: CRD42020164164."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "no"
+          ],
+          "agency": [
+            "The Third Affiliated Hospital of Beijing University of Chinese Medicine."
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Meta-analysis",
+        "Viral Pneumonia",
+        "Tanreqing Injection"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7489681/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7489681/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7489681"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7489681?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-28"
+  ],
+  "firstIndexDate": [
+    "2020-09-28"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-28"
+  ],
+  "dateOfRevision": [
+    "2020-09-28"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-11"
+  ],
+  "firstPublicationDate": [
+    "2020-09-11"
+  ]
+}

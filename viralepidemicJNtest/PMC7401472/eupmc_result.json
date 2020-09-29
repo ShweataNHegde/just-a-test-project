@@ -1,0 +1,653 @@
+{
+  "id": [
+    "32749592"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32749592"
+  ],
+  "pmcid": [
+    "PMC7401472"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7401472"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1007/s13238-020-00767-x"
+  ],
+  "title": [
+    "Mouse-adapted SARS-CoV-2 replicates efficiently in the upper and lower respiratory tract of BALB/c and C57BL/6J mice."
+  ],
+  "authorString": [
+    "Wang J, Shuai L, Wang C, Liu R, He X, Zhang X, Sun Z, Shan D, Ge J, Wang X, Hua R, Zhong G, Wen Z, Bu Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang J"
+          ],
+          "firstName": [
+            "Jinliang"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5034-8131",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Veterinary Biotechnology, Harbin Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Harbin, 150069, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shuai L"
+          ],
+          "firstName": [
+            "Lei"
+          ],
+          "lastName": [
+            "Shuai"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2122-8365",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Veterinary Biotechnology, Harbin Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Harbin, 150069, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang C"
+          ],
+          "firstName": [
+            "Chong"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3970-9071",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Veterinary Biotechnology, Harbin Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Harbin, 150069, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu R"
+          ],
+          "firstName": [
+            "Renqiang"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6456-812X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Veterinary Biotechnology, Harbin Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Harbin, 150069, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "He X"
+          ],
+          "firstName": [
+            "Xijun"
+          ],
+          "lastName": [
+            "He"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "National High Containment Laboratory for Animal Diseases Control and Prevention, Harbin, 150069, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang X"
+          ],
+          "firstName": [
+            "Xianfeng"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "National High Containment Laboratory for Animal Diseases Control and Prevention, Harbin, 150069, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sun Z"
+          ],
+          "firstName": [
+            "Ziruo"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Veterinary Biotechnology, Harbin Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Harbin, 150069, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shan D"
+          ],
+          "firstName": [
+            "Dan"
+          ],
+          "lastName": [
+            "Shan"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Veterinary Biotechnology, Harbin Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Harbin, 150069, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ge J"
+          ],
+          "firstName": [
+            "Jinying"
+          ],
+          "lastName": [
+            "Ge"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Veterinary Biotechnology, Harbin Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Harbin, 150069, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang X"
+          ],
+          "firstName": [
+            "Xijun"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Veterinary Biotechnology, Harbin Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Harbin, 150069, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hua R"
+          ],
+          "firstName": [
+            "Ronghong"
+          ],
+          "lastName": [
+            "Hua"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Veterinary Biotechnology, Harbin Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Harbin, 150069, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhong G"
+          ],
+          "firstName": [
+            "Gongxun"
+          ],
+          "lastName": [
+            "Zhong"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0748-9641",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Veterinary Biotechnology, Harbin Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Harbin, 150069, China. zhonggongxun@caas.cn."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wen Z"
+          ],
+          "firstName": [
+            "Zhiyuan"
+          ],
+          "lastName": [
+            "Wen"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3112-0243",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Veterinary Biotechnology, Harbin Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Harbin, 150069, China. wenzhiyuan@caas.cn."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bu Z"
+          ],
+          "firstName": [
+            "Zhigao"
+          ],
+          "lastName": [
+            "Bu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9242-4211",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Veterinary Biotechnology, Harbin Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Harbin, 150069, China. buzhigao@caas.cn.",
+                "National High Containment Laboratory for Animal Diseases Control and Prevention, Harbin, 150069, China. buzhigao@caas.cn."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5034-8131",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2122-8365",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3970-9071",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6456-812X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0748-9641",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3112-0243",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9242-4211",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "related_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "3020327"
+      ],
+      "dateOfPublication": [
+        "2020 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Protein & cell"
+          ],
+          "ISOAbbreviation": [
+            "Protein Cell"
+          ],
+          "medlineAbbreviation": [
+            "Protein Cell"
+          ],
+          "NLMid": [
+            "101532368"
+          ],
+          "ISSN": [
+            "1674-800X"
+          ],
+          "ESSN": [
+            "1674-8018"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "776-782"
+  ],
+  "affiliation": [
+    "State Key Laboratory of Veterinary Biotechnology, Harbin Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Harbin, 150069, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Letter",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s13238-020-00767-x"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7401472"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7401472?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-08-05"
+  ],
+  "firstIndexDate": [
+    "2020-08-09"
+  ],
+  "fullTextReceivedDate": [
+    "2020-08-06"
+  ],
+  "dateOfRevision": [
+    "2020-09-25"
+  ],
+  "firstPublicationDate": [
+    "2020-10-01"
+  ]
+}

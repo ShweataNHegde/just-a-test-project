@@ -1,0 +1,1043 @@
+{
+  "id": [
+    "32543353"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32543353"
+  ],
+  "pmcid": [
+    "PMC7473175"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7473175"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1080/22221751.2020.1782271"
+  ],
+  "title": [
+    "SARS-CoV-2 genomic surveillance in Taiwan revealed novel ORF8-deletion mutant and clade possibly associated with infections in Middle East."
+  ],
+  "authorString": [
+    "Gong YN, Tsao KC, Hsiao MJ, Huang CG, Huang PN, Huang PW, Lee KM, Liu YC, Yang SL, Kuo RL, Chen KF, Liu YC, Huang SY, Huang HI, Liu MT, Yang JR, Chiu CH, Yang CT, Chen GW, Shih SR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gong YN"
+          ],
+          "firstName": [
+            "Yu-Nong"
+          ],
+          "lastName": [
+            "Gong"
+          ],
+          "initials": [
+            "YN"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6799-1561",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Research Center for Emerging Viral Infections, College of Medicine, Chang Gung University, Taoyuan, Taiwan.",
+                "Department of Laboratory Medicine, Linkou Chang Gung Memorial Hospital, Taoyuan, Taiwan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tsao KC"
+          ],
+          "firstName": [
+            "Kuo-Chien"
+          ],
+          "lastName": [
+            "Tsao"
+          ],
+          "initials": [
+            "KC"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Research Center for Emerging Viral Infections, College of Medicine, Chang Gung University, Taoyuan, Taiwan.",
+                "Department of Laboratory Medicine, Linkou Chang Gung Memorial Hospital, Taoyuan, Taiwan.",
+                "Department of Medical Biotechnology and Laboratory Science, College of Medicine, Chang Gung University, Taoyuan, Taiwan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hsiao MJ"
+          ],
+          "firstName": [
+            "Mei-Jen"
+          ],
+          "lastName": [
+            "Hsiao"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Laboratory Medicine, Linkou Chang Gung Memorial Hospital, Taoyuan, Taiwan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Huang CG"
+          ],
+          "firstName": [
+            "Chung-Guei"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "CG"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Laboratory Medicine, Linkou Chang Gung Memorial Hospital, Taoyuan, Taiwan.",
+                "Department of Medical Biotechnology and Laboratory Science, College of Medicine, Chang Gung University, Taoyuan, Taiwan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Huang PN"
+          ],
+          "firstName": [
+            "Peng-Nien"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "PN"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Research Center for Emerging Viral Infections, College of Medicine, Chang Gung University, Taoyuan, Taiwan.",
+                "Division of Infectious Diseases, Department of Pediatrics, Linkou Chang Gung Memorial Hospital, Taoyuan, Taiwan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Huang PW"
+          ],
+          "firstName": [
+            "Po-Wei"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "PW"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Laboratory Medicine, Linkou Chang Gung Memorial Hospital, Taoyuan, Taiwan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lee KM"
+          ],
+          "firstName": [
+            "Kuo-Ming"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "KM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3215-8342",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Research Center for Emerging Viral Infections, College of Medicine, Chang Gung University, Taoyuan, Taiwan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu YC"
+          ],
+          "firstName": [
+            "Yi-Chun"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "YC"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Laboratory Medicine, Linkou Chang Gung Memorial Hospital, Taoyuan, Taiwan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang SL"
+          ],
+          "firstName": [
+            "Shu-Li"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "SL"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Laboratory Medicine, Linkou Chang Gung Memorial Hospital, Taoyuan, Taiwan.",
+                "Department of Medical Biotechnology and Laboratory Science, College of Medicine, Chang Gung University, Taoyuan, Taiwan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kuo RL"
+          ],
+          "firstName": [
+            "Rei-Lin"
+          ],
+          "lastName": [
+            "Kuo"
+          ],
+          "initials": [
+            "RL"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Research Center for Emerging Viral Infections, College of Medicine, Chang Gung University, Taoyuan, Taiwan.",
+                "Department of Medical Biotechnology and Laboratory Science, College of Medicine, Chang Gung University, Taoyuan, Taiwan.",
+                "Graduate Institute of Biomedical Sciences, College of Medicine, Chang Gung University, Taoyuan, Taiwan.",
+                "Division of Asthma, Allergy, and Rheumatology, Department of Pediatrics, Linkou Chang Gung Memorial Hospital, Taoyuan, Taiwan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen KF"
+          ],
+          "firstName": [
+            "Kuan-Fu"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "KF"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Emergency Medicine, Chang Gung Memorial Hospital, Keelung, Taiwan.",
+                "Clinical Informatics and Medical Statistics Research Center, Chang Gung University, Taoyuan, Taiwan.",
+                "Community Medicine Research Center, Chang Gung Memorial Hospital, Keelung, Taiwan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu YC"
+          ],
+          "firstName": [
+            "Yen-Chin"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "YC"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Research Center for Emerging Viral Infections, College of Medicine, Chang Gung University, Taoyuan, Taiwan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Huang SY"
+          ],
+          "firstName": [
+            "Sheng-Yu"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "SY"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Research Center for Emerging Viral Infections, College of Medicine, Chang Gung University, Taoyuan, Taiwan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Huang HI"
+          ],
+          "firstName": [
+            "Hsing-I"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "HI"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Research Center for Emerging Viral Infections, College of Medicine, Chang Gung University, Taoyuan, Taiwan.",
+                "Department of Medical Biotechnology and Laboratory Science, College of Medicine, Chang Gung University, Taoyuan, Taiwan.",
+                "Graduate Institute of Biomedical Sciences, College of Medicine, Chang Gung University, Taoyuan, Taiwan.",
+                "Department of Pediatrics, Linkou Chang Gung Memorial Hospital, Taoyuan, Taiwan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu MT"
+          ],
+          "firstName": [
+            "Ming-Tsan"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "MT"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centers for Disease Control, Taipei, Taiwan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang JR"
+          ],
+          "firstName": [
+            "Ji-Rong"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "JR"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centers for Disease Control, Taipei, Taiwan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chiu CH"
+          ],
+          "firstName": [
+            "Cheng-Hsun"
+          ],
+          "lastName": [
+            "Chiu"
+          ],
+          "initials": [
+            "CH"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of Pediatric Infectious Diseases, Department of Pediatrics, Chang Gung Memorial Hospital, Chang Gung University College of Medicine, Taoyuan, Taiwan.",
+                "Molecular Infectious Disease Research Center, Chang Gung Memorial Hospital, Chang Gung University College of Medicine, Taoyuan, Taiwan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang CT"
+          ],
+          "firstName": [
+            "Cheng-Ta"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "CT"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Respiratory Therapy, College of Medicine, Chang Gung University, Taoyuan, Taiwan.",
+                "Department of Thoracic Medicine, Linkou Chang Gung Memorial Hospital, Taoyuan, Taiwan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen GW"
+          ],
+          "firstName": [
+            "Guang-Wu"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "GW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5322-4839",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Research Center for Emerging Viral Infections, College of Medicine, Chang Gung University, Taoyuan, Taiwan.",
+                "Department of Laboratory Medicine, Linkou Chang Gung Memorial Hospital, Taoyuan, Taiwan.",
+                "Department of Computer Science and Information Engineering, School of Electrical and Computer Engineering, College of Engineering, Chang Gung University, Taoyuan, Taiwan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shih SR"
+          ],
+          "firstName": [
+            "Shin-Ru"
+          ],
+          "lastName": [
+            "Shih"
+          ],
+          "initials": [
+            "SR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4874-401X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Research Center for Emerging Viral Infections, College of Medicine, Chang Gung University, Taoyuan, Taiwan.",
+                "Department of Laboratory Medicine, Linkou Chang Gung Memorial Hospital, Taoyuan, Taiwan.",
+                "Department of Medical Biotechnology and Laboratory Science, College of Medicine, Chang Gung University, Taoyuan, Taiwan.",
+                "Research Center for Chinese Herbal Medicine, Research Center for Food and Cosmetic Safety, and Graduate Institute of Health Industry Technology, College of Human Ecology, Chang Gung University of Science and Technology, Taoyuan, Taiwan."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6799-1561",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3215-8342",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5322-4839",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4874-401X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2893331"
+      ],
+      "dateOfPublication": [
+        "2020 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Emerging microbes & infections"
+          ],
+          "ISOAbbreviation": [
+            "Emerg Microbes Infect"
+          ],
+          "medlineAbbreviation": [
+            "Emerg Microbes Infect"
+          ],
+          "NLMid": [
+            "101594885"
+          ],
+          "ISSN": [
+            "2222-1751"
+          ],
+          "ESSN": [
+            "2222-1751"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "1457-1466"
+  ],
+  "abstractText": [
+    "Taiwan experienced two waves of imported infections with Coronavirus Disease 2019 (COVID-19). This study aimed at investigating the genomic variation of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in Taiwan and compared their evolutionary trajectories with the global strains. We performed culture and full-genome sequencing of SARS-CoV-2 strains followed by phylogenetic analysis. A 382-nucleotides deletion in open reading frame 8 (ORF8) was found in a Taiwanese strain isolated from a patient on February 4, 2020 who had a travel history to Wuhan. Patients in the first wave also included several sporadic, local transmission cases. Genomes of 5 strains sequenced from clustered infections were classified into a new clade with ORF1ab-V378I mutation, in addition to 3 dominant clades ORF8-L84S, ORF3a-G251V and S-D614G. This highlighted clade also included some strains isolated from patients who had a travel history to Turkey and Iran. The second wave mostly resulted from patients who had a travel history to Europe and Americas. All Taiwanese viruses were classified into various clades. Genomic surveillance of SARS-CoV-2 in Taiwan revealed a new ORF8-deletion mutant and a virus clade that may be associated with infections in the Middle East, which contributed to a better understanding of the global SARS-CoV-2 transmission dynamics."
+  ],
+  "affiliation": [
+    "Research Center for Emerging Viral Infections, College of Medicine, Chang Gung University, Taoyuan, Taiwan."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Line"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Vero Cells"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Haemophilus parainfluenzae"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pneumonia, Viral"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Coronavirus Infections"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "RNA, Viral"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Virus Cultivation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phylogeny"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Deletion"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genome, Viral"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Open Reading Frames"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Travel"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle East"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Taiwan"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pandemics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Whole Genome Sequencing"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Betacoronavirus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chlorocebus aethiops"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Phylogeny",
+        "Genome sequencing",
+        "Covid-19",
+        "Sars-cov-2",
+        "Orf8 Deletion"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "RNA, Viral"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/22221751.2020.1782271"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7473175"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7473175?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-07-13"
+  ],
+  "dateOfCreation": [
+    "2020-06-17"
+  ],
+  "firstIndexDate": [
+    "2020-06-17"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-17"
+  ],
+  "dateOfRevision": [
+    "2020-09-16"
+  ],
+  "firstPublicationDate": [
+    "2020-12-01"
+  ]
+}

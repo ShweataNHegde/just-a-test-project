@@ -1,0 +1,935 @@
+{
+  "id": [
+    "32471334"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32471334"
+  ],
+  "pmcid": [
+    "PMC7448924"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7448924"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1080/22221751.2020.1760735"
+  ],
+  "title": [
+    "Particulate multivalent presentation of the receptor binding domain induces protective immune responses against MERS-CoV."
+  ],
+  "authorString": [
+    "Okba NMA, Widjaja I, van Dieren B, Aebischer A, van Amerongen G, de Waal L, Stittelaar KJ, Schipper D, Martina B, van den Brand JMA, Beer M, Bosch BJ, Haagmans BL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Okba NMA"
+          ],
+          "firstName": [
+            "Nisreen M A"
+          ],
+          "lastName": [
+            "Okba"
+          ],
+          "initials": [
+            "NMA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2394-1079",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Viroscience, Erasmus Medical Center, Rotterdam, The Netherlands."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Widjaja I"
+          ],
+          "firstName": [
+            "Ivy"
+          ],
+          "lastName": [
+            "Widjaja"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Virology Division, Department of Infectious Diseases and Immunology, Faculty of Veterinary Medicine, Utrecht University, Utrecht, The Netherlands."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "van Dieren B"
+          ],
+          "firstName": [
+            "Brenda"
+          ],
+          "lastName": [
+            "van Dieren"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Virology Division, Department of Infectious Diseases and Immunology, Faculty of Veterinary Medicine, Utrecht University, Utrecht, The Netherlands."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Aebischer A"
+          ],
+          "firstName": [
+            "Andrea"
+          ],
+          "lastName": [
+            "Aebischer"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute of Diagnostic Virology, Friedrich-Loeffler-Institut, Insel Riems, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "van Amerongen G"
+          ],
+          "firstName": [
+            "Geert"
+          ],
+          "lastName": [
+            "van Amerongen"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Viroclinics Biosciences BV, Rotterdam, The Netherlands."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "de Waal L"
+          ],
+          "firstName": [
+            "Leon"
+          ],
+          "lastName": [
+            "de Waal"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Viroclinics Biosciences BV, Rotterdam, The Netherlands."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Stittelaar KJ"
+          ],
+          "firstName": [
+            "Koert J"
+          ],
+          "lastName": [
+            "Stittelaar"
+          ],
+          "initials": [
+            "KJ"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Viroclinics Biosciences BV, Rotterdam, The Netherlands."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Schipper D"
+          ],
+          "firstName": [
+            "Debby"
+          ],
+          "lastName": [
+            "Schipper"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Viroscience, Erasmus Medical Center, Rotterdam, The Netherlands."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Martina B"
+          ],
+          "firstName": [
+            "Byron"
+          ],
+          "lastName": [
+            "Martina"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Viroscience, Erasmus Medical Center, Rotterdam, The Netherlands."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "van den Brand JMA"
+          ],
+          "firstName": [
+            "Judith M A"
+          ],
+          "lastName": [
+            "van den Brand"
+          ],
+          "initials": [
+            "JMA"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Viroscience, Erasmus Medical Center, Rotterdam, The Netherlands."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Beer M"
+          ],
+          "firstName": [
+            "Martin"
+          ],
+          "lastName": [
+            "Beer"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute of Diagnostic Virology, Friedrich-Loeffler-Institut, Insel Riems, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bosch BJ"
+          ],
+          "firstName": [
+            "Berend-Jan"
+          ],
+          "lastName": [
+            "Bosch"
+          ],
+          "initials": [
+            "BJ"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Virology Division, Department of Infectious Diseases and Immunology, Faculty of Veterinary Medicine, Utrecht University, Utrecht, The Netherlands."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Haagmans BL"
+          ],
+          "firstName": [
+            "Bart L"
+          ],
+          "lastName": [
+            "Haagmans"
+          ],
+          "initials": [
+            "BL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6221-2015",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Viroscience, Erasmus Medical Center, Rotterdam, The Netherlands."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2394-1079",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6221-2015",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2893331"
+      ],
+      "dateOfPublication": [
+        "2020 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Emerging microbes & infections"
+          ],
+          "ISOAbbreviation": [
+            "Emerg Microbes Infect"
+          ],
+          "medlineAbbreviation": [
+            "Emerg Microbes Infect"
+          ],
+          "NLMid": [
+            "101594885"
+          ],
+          "ISSN": [
+            "2222-1751"
+          ],
+          "ESSN": [
+            "2222-1751"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "1080-1091"
+  ],
+  "abstractText": [
+    "Middle East respiratory syndrome coronavirus (MERS-CoV) is a WHO priority pathogen for which vaccines are urgently needed. Using an immune-focusing approach, we created self-assembling particles multivalently displaying critical regions of the MERS-CoV spike protein ─fusion peptide, heptad repeat 2, and receptor binding domain (RBD) ─ and tested their immunogenicity and protective capacity in rabbits. Using a \"plug-and-display\" SpyTag/SpyCatcher system, we coupled RBD to lumazine synthase (LS) particles producing multimeric RBD-presenting particles (RBD-LS). RBD-LS vaccination induced antibody responses of high magnitude and quality (avidity, MERS-CoV neutralizing capacity, and mucosal immunity) with cross-clade neutralization. The antibody responses were associated with blocking viral replication and upper and lower respiratory tract protection against MERS-CoV infection in rabbits. This arrayed multivalent presentation of the viral RBD using the antigen-SpyTag/LS-SpyCatcher is a promising MERS-CoV vaccine candidate and this platform may be applied for the rapid development of vaccines against other emerging viruses such as SARS-CoV-2."
+  ],
+  "affiliation": [
+    "Department of Viroscience, Erasmus Medical Center, Rotterdam, The Netherlands."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Rabbits"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Coronavirus Infections"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Viral Vaccines"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antibodies, Viral"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Enzyme-Linked Immunosorbent Assay"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neutralization Tests"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Virus Replication"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Antibody Formation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antibody Affinity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Antigen Presentation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Binding Sites"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Protein Binding"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genetic Vectors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antibodies, Neutralizing"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "HEK293 Cells"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Spike Glycoprotein, Coronavirus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BI"
+                  ],
+                  "qualifierName": [
+                    "biosynthesis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle East Respiratory Syndrome Coronavirus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Protein Domains"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Immunogenicity, Vaccine"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Rabbit",
+        "Vaccine",
+        "spike",
+        "Lumazine Synthase",
+        "Mers-coronavirus",
+        "Spytag-spycatcher",
+        "Sars-cov-2",
+        "I301"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Viral Vaccines"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Antibodies, Viral"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Antibodies, Neutralizing"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Spike Glycoprotein, Coronavirus"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/22221751.2020.1760735"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7448924"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7448924?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-06-02"
+  ],
+  "dateOfCreation": [
+    "2020-05-31"
+  ],
+  "firstIndexDate": [
+    "2020-05-31"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-17"
+  ],
+  "dateOfRevision": [
+    "2020-09-16"
+  ],
+  "firstPublicationDate": [
+    "2020-12-01"
+  ]
+}

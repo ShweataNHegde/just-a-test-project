@@ -1,0 +1,430 @@
+{
+  "id": [
+    "32841606"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32841606"
+  ],
+  "pmcid": [
+    "PMC7443397"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7443397"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1016/j.chom.2020.08.003"
+  ],
+  "title": [
+    "The Gut Virome Database Reveals Age-Dependent Patterns of Virome Diversity in the Human Gut."
+  ],
+  "authorString": [
+    "Gregory AC, Zablocki O, Zayed AA, Howell A, Bolduc B, Sullivan MB."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gregory AC"
+          ],
+          "firstName": [
+            "Ann C"
+          ],
+          "lastName": [
+            "Gregory"
+          ],
+          "initials": [
+            "AC"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Microbiology, Ohio State University, Columbus, OH 43210, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zablocki O"
+          ],
+          "firstName": [
+            "Olivier"
+          ],
+          "lastName": [
+            "Zablocki"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Microbiology, Ohio State University, Columbus, OH 43210, USA; Center of Microbiome Science, Ohio State University, Columbus, OH 43210, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zayed AA"
+          ],
+          "firstName": [
+            "Ahmed A"
+          ],
+          "lastName": [
+            "Zayed"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Microbiology, Ohio State University, Columbus, OH 43210, USA; Center of Microbiome Science, Ohio State University, Columbus, OH 43210, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Howell A"
+          ],
+          "firstName": [
+            "Allison"
+          ],
+          "lastName": [
+            "Howell"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Microbiology, Ohio State University, Columbus, OH 43210, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bolduc B"
+          ],
+          "firstName": [
+            "Benjamin"
+          ],
+          "lastName": [
+            "Bolduc"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Microbiology, Ohio State University, Columbus, OH 43210, USA; Center of Microbiome Science, Ohio State University, Columbus, OH 43210, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sullivan MB"
+          ],
+          "firstName": [
+            "Matthew B"
+          ],
+          "lastName": [
+            "Sullivan"
+          ],
+          "initials": [
+            "MB"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Microbiology, Ohio State University, Columbus, OH 43210, USA; Department of Civil, Environmental and Geodetic Engineering, Ohio State University, Columbus, OH 43210, USA; Center of Microbiome Science, Ohio State University, Columbus, OH 43210, USA. Electronic address: sullivan.948@osu.edu."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "2994728"
+      ],
+      "dateOfPublication": [
+        "2020 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cell host & microbe"
+          ],
+          "ISOAbbreviation": [
+            "Cell Host Microbe"
+          ],
+          "medlineAbbreviation": [
+            "Cell Host Microbe"
+          ],
+          "NLMid": [
+            "101302316"
+          ],
+          "ISSN": [
+            "1931-3128"
+          ],
+          "ESSN": [
+            "1934-6069"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "The gut microbiome profoundly affects human health and disease, and their infecting viruses are likely as important, but often missed because of reference database limitations. Here, we (1) built a human Gut Virome Database (GVD) from 2,697 viral particle or microbial metagenomes from 1,986 individuals representing 16 countries, (2) assess its effectiveness, and (3) report a meta-analysis that reveals age-dependent patterns across healthy Westerners. The GVD contains 33,242 unique viral populations (approximately species-level taxa) and improves average viral detection rates over viral RefSeq and IMG/VR nearly 182-fold and 2.6-fold, respectively. GVD meta-analyses show highly personalized viromes, reveal that inter-study variability from technical artifacts is larger than any \"disease\" effect at the population level, and document how viral diversity changes from human infancy into senescence. Together, this compact foundational resource, these standardization guidelines, and these meta-analysis findings provide a systematic toolkit to help maximize our understanding of viral roles in health and disease."
+  ],
+  "affiliation": [
+    "Department of Microbiology, Ohio State University, Columbus, OH 43210, USA."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 HG010318"
+          ],
+          "agency": [
+            "NHGRI NIH HHS"
+          ],
+          "acronym": [
+            "HG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "T32 AI112542"
+          ],
+          "agency": [
+            "NIAID NIH HHS"
+          ],
+          "acronym": [
+            "AI"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Virus",
+        "Database",
+        "Bacteriophage",
+        "Human health",
+        "Lifespan",
+        "Dysbiosis",
+        "Virome",
+        "Gut Microbiome"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.chom.2020.08.003"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7443397"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7443397?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject",
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-08-26"
+  ],
+  "firstIndexDate": [
+    "2020-08-26"
+  ],
+  "fullTextReceivedDate": [
+    "2020-08-27"
+  ],
+  "dateOfRevision": [
+    "2020-09-09"
+  ],
+  "electronicPublicationDate": [
+    "2020-08-24"
+  ],
+  "firstPublicationDate": [
+    "2020-08-24"
+  ]
+}

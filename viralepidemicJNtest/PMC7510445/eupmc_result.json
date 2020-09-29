@@ -1,0 +1,389 @@
+{
+  "id": [
+    "PMC7510445"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7510445"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7510445"
+      ]
+    }
+  ],
+  "title": [
+    "High-speed large-scale automated isolation of SARS-CoV-2 from clinical samples using miniaturized co-culture coupled to high-content screening"
+  ],
+  "authorString": [
+    "Francis R, Le Bideau M, Jardot P, Grimaldier C, Raoult D, Bou Khalil J, La Scola B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Francis R"
+          ],
+          "firstName": [
+            "Rania"
+          ],
+          "lastName": [
+            "Francis"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2 Aix-Marseille Université, Institut de Recherche pour le Développement (IRD), UMR Microbes Evolution Phylogeny and Infections (MEPHI), AP-HM, 19-21 Boulevard Jean Moulin, 13005, Marseille, France"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Le Bideau M"
+          ],
+          "firstName": [
+            "Marion"
+          ],
+          "lastName": [
+            "Le Bideau"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2 Aix-Marseille Université, Institut de Recherche pour le Développement (IRD), UMR Microbes Evolution Phylogeny and Infections (MEPHI), AP-HM, 19-21 Boulevard Jean Moulin, 13005, Marseille, France"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jardot P"
+          ],
+          "firstName": [
+            "Priscilla"
+          ],
+          "lastName": [
+            "Jardot"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2 Aix-Marseille Université, Institut de Recherche pour le Développement (IRD), UMR Microbes Evolution Phylogeny and Infections (MEPHI), AP-HM, 19-21 Boulevard Jean Moulin, 13005, Marseille, France"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Grimaldier C"
+          ],
+          "firstName": [
+            "Clio"
+          ],
+          "lastName": [
+            "Grimaldier"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2 Aix-Marseille Université, Institut de Recherche pour le Développement (IRD), UMR Microbes Evolution Phylogeny and Infections (MEPHI), AP-HM, 19-21 Boulevard Jean Moulin, 13005, Marseille, France"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Raoult D"
+          ],
+          "firstName": [
+            "Didier"
+          ],
+          "lastName": [
+            "Raoult"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2 Aix-Marseille Université, Institut de Recherche pour le Développement (IRD), UMR Microbes Evolution Phylogeny and Infections (MEPHI), AP-HM, 19-21 Boulevard Jean Moulin, 13005, Marseille, France"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bou Khalil J"
+          ],
+          "firstName": [
+            "Jacques Yaacoub"
+          ],
+          "lastName": [
+            "Bou Khalil"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "1 Institut Hospitalo-Universitaire Méditerranée-Infection, 19-21 Boulevard Jean Moulin, 13005, Marseille, France"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "La Scola B"
+          ],
+          "firstName": [
+            "Bernard"
+          ],
+          "lastName": [
+            "La Scola"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2 Aix-Marseille Université, Institut de Recherche pour le Développement (IRD), UMR Microbes Evolution Phylogeny and Infections (MEPHI), AP-HM, 19-21 Boulevard Jean Moulin, 13005, Marseille, France"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3007478"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases"
+          ],
+          "ISOAbbreviation": [
+            "Clin. Microbiol. Infect."
+          ],
+          "medlineAbbreviation": [
+            "Clin Microbiol Infect"
+          ],
+          "NLMid": [
+            "9516420"
+          ],
+          "ISSN": [
+            "1198-743X"
+          ],
+          "ESSN": [
+            "1469-0691"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Objectives A novel coronavirus, SARS-CoV-2, is responsible for the current COVID-19 global pandemic. Only a few laboratories routinely isolate the virus, which is because the current co-culture strategy is highly time-consuming and requires working in a biosafety level 3 laboratory. This work aimed to develop a new high-throughput isolation strategy using novel technologies for rapid and automated isolation of SARS-CoV-2. Methods We used an automated microscope based on high-content screening (HCS), and we applied specific image analysis algorithms targeting cytopathic effects of SARS-CoV-2 on Vero E6 cells. A randomized panel of 104 samples, including 72 that tested positive by RT-PCR and 32 that tested negative, were processed with our HCS strategy and were compared to the classical isolation procedure. Results The isolation rate was 43% (31/72) with both strategies on RT-PCR-positive samples and was correlated with the initial RNA viral load in the samples, in which we obtained a positivity threshold of 27 Ct. Co-culture delays were shorter with the HCS strategy, where 80% (25/31) of the positive samples were recovered by the third day of co-culture, compared to only 26% (8/30) with the classic strategy. Moreover, only the HCS strategy allowed us to recover all the positive samples (31 with HCS versus 27 with classic strategy) after 1 week of co-culture. Conclusions This system allows the rapid and automated screening of clinical samples with minimal operator workload, which reduces the risk of contamination, thus paving the way for future applications in clinical microbiology, such as large-scale drug susceptibility testing."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Isolation",
+        "Co-culture",
+        "High-content Screening",
+        "Covid-19",
+        "Sars-cov-2"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7510445/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7510445/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7510445"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7510445?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-28"
+  ],
+  "firstIndexDate": [
+    "2020-09-28"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-28"
+  ],
+  "dateOfRevision": [
+    "2020-09-28"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-23"
+  ],
+  "firstPublicationDate": [
+    "2020-09-23"
+  ]
+}

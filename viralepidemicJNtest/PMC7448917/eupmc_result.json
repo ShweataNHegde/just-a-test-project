@@ -1,0 +1,478 @@
+{
+  "id": [
+    "32524907"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32524907"
+  ],
+  "pmcid": [
+    "PMC7448917"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7448917"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1080/22221751.2020.1772015"
+  ],
+  "title": [
+    "Unbiased metagenomic next-generation sequencing of blood from hospitalized febrile children in Gabon."
+  ],
+  "authorString": [
+    "Fernandes JF, Laubscher F, Held J, Eckerle I, Docquier M, Grobusch MP, Mordmüller B, Kaiser L, Cordey S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Fernandes JF"
+          ],
+          "firstName": [
+            "José Francisco"
+          ],
+          "lastName": [
+            "Fernandes"
+          ],
+          "initials": [
+            "JF"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centre de Recherches Médicales de Lambaréné (CERMEL), Albert Schweitzer Hospital Lambaréné, Gabon.",
+                "Institut für Tropenmedizin, Eberhard Karls Universität Tübingen Tübingen, Germany.",
+                "German Center for Infection Research (DZIF) Tübingen, Germany.",
+                "Center of Tropical Medicine and Travel Medicine, Department of Infectious Diseases, Division of Internal Medicine, Amsterdam University Medical Centers, location AMC, University of Amsterdam Amsterdam, The Netherlands."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Laubscher F"
+          ],
+          "firstName": [
+            "Florian"
+          ],
+          "lastName": [
+            "Laubscher"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of Infectious Diseases and Laboratory of Virology, University of Geneva Hospitals Geneva, Switzerland.",
+                "University of Geneva Medical School Geneva, Switzerland."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Held J"
+          ],
+          "firstName": [
+            "Jana"
+          ],
+          "lastName": [
+            "Held"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centre de Recherches Médicales de Lambaréné (CERMEL), Albert Schweitzer Hospital Lambaréné, Gabon.",
+                "Institut für Tropenmedizin, Eberhard Karls Universität Tübingen Tübingen, Germany.",
+                "German Center for Infection Research (DZIF) Tübingen, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Eckerle I"
+          ],
+          "firstName": [
+            "Isabella"
+          ],
+          "lastName": [
+            "Eckerle"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of Infectious Diseases and Laboratory of Virology, University of Geneva Hospitals Geneva, Switzerland.",
+                "University of Geneva Medical School Geneva, Switzerland.",
+                "Geneva Centre for Emerging Viral Diseases Geneva, Switzerland."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Docquier M"
+          ],
+          "firstName": [
+            "Mylène"
+          ],
+          "lastName": [
+            "Docquier"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "iGE3 Genomics Platform, University of Geneva Geneva, Switzerland.",
+                "Department of Genetics and Evolution, University of Geneva Geneva, Switzerland."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Grobusch MP"
+          ],
+          "firstName": [
+            "Martin Peter"
+          ],
+          "lastName": [
+            "Grobusch"
+          ],
+          "initials": [
+            "MP"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centre de Recherches Médicales de Lambaréné (CERMEL), Albert Schweitzer Hospital Lambaréné, Gabon.",
+                "Institut für Tropenmedizin, Eberhard Karls Universität Tübingen Tübingen, Germany.",
+                "German Center for Infection Research (DZIF) Tübingen, Germany.",
+                "Center of Tropical Medicine and Travel Medicine, Department of Infectious Diseases, Division of Internal Medicine, Amsterdam University Medical Centers, location AMC, University of Amsterdam Amsterdam, The Netherlands."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mordmüller B"
+          ],
+          "firstName": [
+            "Benjamin"
+          ],
+          "lastName": [
+            "Mordmüller"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centre de Recherches Médicales de Lambaréné (CERMEL), Albert Schweitzer Hospital Lambaréné, Gabon.",
+                "Institut für Tropenmedizin, Eberhard Karls Universität Tübingen Tübingen, Germany.",
+                "German Center for Infection Research (DZIF) Tübingen, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kaiser L"
+          ],
+          "firstName": [
+            "Laurent"
+          ],
+          "lastName": [
+            "Kaiser"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of Infectious Diseases and Laboratory of Virology, University of Geneva Hospitals Geneva, Switzerland.",
+                "University of Geneva Medical School Geneva, Switzerland.",
+                "Geneva Centre for Emerging Viral Diseases Geneva, Switzerland."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cordey S"
+          ],
+          "firstName": [
+            "Samuel"
+          ],
+          "lastName": [
+            "Cordey"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2684-5680",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of Infectious Diseases and Laboratory of Virology, University of Geneva Hospitals Geneva, Switzerland.",
+                "University of Geneva Medical School Geneva, Switzerland."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2684-5680",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2893331"
+      ],
+      "dateOfPublication": [
+        "2020 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Emerging microbes & infections"
+          ],
+          "ISOAbbreviation": [
+            "Emerg Microbes Infect"
+          ],
+          "medlineAbbreviation": [
+            "Emerg Microbes Infect"
+          ],
+          "NLMid": [
+            "101594885"
+          ],
+          "ISSN": [
+            "2222-1751"
+          ],
+          "ESSN": [
+            "2222-1751"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "1242-1244"
+  ],
+  "affiliation": [
+    "Centre de Recherches Médicales de Lambaréné (CERMEL), Albert Schweitzer Hospital Lambaréné, Gabon."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Letter"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/22221751.2020.1772015"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7448917"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7448917?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-06-12"
+  ],
+  "firstIndexDate": [
+    "2020-06-12"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-12"
+  ],
+  "dateOfRevision": [
+    "2020-09-11"
+  ],
+  "firstPublicationDate": [
+    "2020-12-01"
+  ]
+}

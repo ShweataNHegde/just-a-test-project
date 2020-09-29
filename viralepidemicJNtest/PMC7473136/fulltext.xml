@@ -1,0 +1,549 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.2 20190208//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.2?><?ConverterInfo.XSLTName jpoasis-nisons2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Emerg Microbes Infect</journal-id><journal-id journal-id-type="iso-abbrev">Emerg Microbes Infect</journal-id><journal-title-group><journal-title>Emerging Microbes &#x00026; Infections</journal-title></journal-title-group><issn pub-type="epub">2222-1751</issn><publisher><publisher-name>Taylor &#x00026; Francis</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">7473136</article-id><article-id pub-id-type="pmid">32543285</article-id><article-id pub-id-type="publisher-id">1778429</article-id><article-id pub-id-type="doi">10.1080/22221751.2020.1778429</article-id><article-version vocab="JAV" vocab-identifier="http://www.niso.org/publications/rp/RP-8-2008.pdf" vocab-term="Version of Record" article-version-type="VoR">Version of
+Record</article-version><article-categories><subj-group subj-group-type="article-type"><subject>Review</subject></subj-group><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Roles of lncRNAs in influenza virus infection</article-title><alt-title alt-title-type="right-running-head">EMERGING MICROBES AND INFECTIONS</alt-title><alt-title alt-title-type="left-running-head">J. WANG AND S. CEN</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Wang</surname><given-names>Jing</given-names></name><xref ref-type="aff" rid="AF1">a</xref><xref ref-type="corresp" rid="cor1"/></contrib><contrib contrib-type="author"><name><surname>Cen</surname><given-names>Shan</given-names></name><xref ref-type="aff" rid="AF1">a</xref><xref ref-type="aff" rid="AF2">b</xref><xref ref-type="aff" rid="AF3">c</xref><xref ref-type="corresp" rid="cor2"/></contrib><aff id="AF1"><label>a</label><institution>Institute of Medicinal Biotechnology, Chinese
+Academy of Medical Sciences and Peking Union Medical School</institution>,
+<city>Beijing</city>, <country>People's Repbulic of People&#x02019;s Republic of
+China</country></aff><aff id="AF2"><label>b</label><institution>CAMS Key Laboratory of Antiviral Drug Research,
+Peking Union Medical College, Chinese Academy of Medical Sciences</institution>,
+<city>Beijing</city>, <country>People's Repbulic of People&#x02019;s Republic of
+China</country></aff><aff id="AF3"><label>c</label><institution>Beijing Friendship Hospital, Capital Medical
+University</institution>, <city>Beijing</city>, <country>People's Repbulic of People&#x02019;s
+Republic of China</country></aff></contrib-group><author-notes><corresp id="cor1"><label>CONTACT</label> Jing Wang <email xlink:href="jingwang@imb.pumc.edu.cn">jingwang@imb.pumc.edu.cn</email></corresp><corresp id="cor2">Shan Cen <email xlink:href="shancen@imb.pumc.edu.cn">shancen@imb.pumc.edu.cn</email></corresp><fn id="fn0001-d19e85" fn-type="author-notes"><p>Abbreviations: CTL, cytotoxic T lymphocyte; EGOT, eosinophil granule ontogeny
+transcript; GOT2, glutamic-oxaloacetic transaminase; hnPNP U, heterogeneous nuclear
+ribonuclear protein U; IAV, influenza A virus; IFITM, interferon-induced transmembrane
+protein; IFN, interferon; IFNAR, interferon-&#x003b1;/&#x003b2; receptor; IPAN, influenza virus
+PB1-associated noncoding RNA; IRF, interferon regulatory factor; ISG, IFN-stimulated
+gene; ISR, interferon-stimulated lncRNA; ISRE, interferon-sensitive response element;
+IVPRIE, inhibiting IAV replication by promoting IFN and ISGs expression; JAK-STAT, Janus
+kinase-signal transducer and activator of transcription; lncRNA, long non-coding RNA;
+lncBST2/BISPR, BST2 IFN-stimulated positive regulator; MDA5, melanoma
+differentiation-associated gene 5; MxA, Myxovirus resistance protein 1; NEAT1, nuclear
+enriched abundant transcript 1; NRAV, negative regulator of anti-viral; OAS-RNase L,
+2&#x02032;-5&#x02032;-oligoadenylate synthetase-ribonuclease L; PAMP, pathogen-associated molecular
+pattern; PB1, polymerase basic protein 1; PA, polymerase acidic protein; PAAN,
+PA-associated noncoding RNA; PKR protein kinase R; PRR, pattern recognition receptor;
+PTP1B, protein tyrosine phosphatase 1B; RIG-I, retinoic acid-inducible gene 1; SFPQ/PSF,
+splicing factor proline/glutamine-rich; TLR, toll-like receptor; TRIM, tripartite
+motif-containing; VIN, virus-inducible lincRNA; ZAP, zinc-finger antiviral protein</p></fn></author-notes><pub-date date-type="pub" publication-format="electronic"><day>18</day><month>6</month><year>2020</year></pub-date><pub-date date-type="collection" publication-format="electronic"><year>2020</year></pub-date><volume>9</volume><issue>1</issue><fpage seq="165">1407</fpage><lpage>1414</lpage><permissions><copyright-statement>&#x000a9; 2020 The Author(s). Published by Informa UK Limited, trading as
+Taylor &#x00026; Francis Group, on behalf of Shanghai Shangyixun Cultural Communication Co.,
+Ltd</copyright-statement><copyright-year>2020</copyright-year><copyright-holder>The Author(s)</copyright-holder><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>), which permits unrestricted
+use, distribution, and reproduction in any medium, provided the original work is
+properly cited.</license-p><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="vor">http://creativecommons.org/licenses/by/4.0/</ali:license_ref></license></permissions><self-uri content-type="pdf" xlink:href="TEMI_9_1778429.pdf"/><abstract><title>ABSTRACT</title><p>Recent studies have identified host long noncoding RNAs (lncRNAs) as key regulators of
+host-virus interactions during viral infection. The influenza A virus (IAV) remains a
+serious threat to public health and economic stability. It is well known that thousands of
+lncRNAs are differentially expressed upon IAV infection, some of which regulate IAV
+infection by modulating the host innate immune response, affecting cellular metabolism, or
+directly interacting with viral proteins. Some of these lncRNAs appear to be required for
+IAV infection, but the molecular mechanisms are not completely elucidated. In this review,
+we summarize the roles of host lncRNAs in regulating IAV infection and provide an overview
+of the lncRNA-mediated regulatory network. The goal of this review is to stimulate further
+research on the function of both well-established and newly discovered lncRNAs in IAV
+infection.</p></abstract><kwd-group kwd-group-type="author"><title>KEYWORDS</title><kwd>LncRNAs</kwd><kwd>influenza virus</kwd><kwd>host immune response</kwd><kwd>virus-host interaction</kwd><kwd>virus infection</kwd></kwd-group><counts><fig-count count="1"/><table-count count="1"/><equation-count count="0"/><ref-count count="77"/><page-count count="8"/></counts></article-meta></front><body><sec sec-type="intro" id="S001"><title>Introduction</title><p>It is estimated that more than 70% of the human genome is transcribed into RNA, but only 2%
+encodes proteins [<xref rid="CIT0001" ref-type="bibr">1</xref>,<xref rid="CIT0002" ref-type="bibr">2</xref>]. These non-coding RNAs (ncRNAs) have been classified, based on
+their lengths, into small ncRNAs (&#x0003c; 200 nucleotides) and long noncoding RNAs (&#x0003e;200
+nucleotides). The latter are referred to as lncRNAs. Most annotated lncRNAs are transcribed
+by RNA polymerase II (Pol II) and are 5&#x02032;-capped, spliced and polyadenylated, although
+alternative 3&#x02032;-topologies are also occasionally observed [<xref rid="CIT0003" ref-type="bibr">3</xref>,<xref rid="CIT0004" ref-type="bibr">4</xref>]. LncRNAs can be
+generated from stand-alone transcriptional units, enhancers, promoters, introns of other
+genes, antisense strands of other genes, or pseudogenes [<xref rid="CIT0005" ref-type="bibr">5</xref>,<xref rid="CIT0006" ref-type="bibr">6</xref>]. Many lncRNAs are less
+evolutionarily conserved, less abundant than mRNA (only about 10% of the median mRNA level),
+and exhibit more time- or space-specific expression [<xref rid="CIT0007" ref-type="bibr">7</xref>,<xref rid="CIT0008" ref-type="bibr">8</xref>]. However, recent data show that
+lncRNAs can regulate the expression of protein-coding genes at the levels of chromatin
+remodelling and transcriptional and post-transcriptional processing. They play key roles in
+various biological processes, including cell-cycle regulation, apoptosis, and cell
+differentiation [<xref rid="CIT0009" ref-type="bibr">9&#x02013;12</xref>].
+Recent studies have also identified lncRNAs as important regulators of virus-host
+interactions [<xref rid="CIT0013" ref-type="bibr">13&#x02013;17</xref>]. This review highlights the involvement of specific lncRNAs in the
+pathogenesis of influenza virus from the mechanistic point of view.</p></sec><sec id="S002"><title>Cellular lncRNA expression is altered by IAV infection</title><p>To establish a productive infection, influenza viruses manipulate host factors to promote
+virus replication and to suppress host antiviral responses. The first analysis of the
+widespread differential expression of lncRNAs in response to IAV infection revealed that
+most lncRNAs which are differentially expressed during severe acute respiratory syndrome
+coronavirus (SARS-CoV, MA15) infection are similarly regulated by IAV (A/PR/8/1934)
+infection in mice [<xref rid="CIT0018" ref-type="bibr">18</xref>]. Perturbation of innate
+immune signalling in the IFNAR or STAT1 knockout mice affects the kinetic expression
+profiles of lncRNAs during SARS-CoV infection, and the similar changes are also observed in
+response to both IAV infection and IFN treatment. These data suggest that the differential
+regulation of lncRNA expression represents a host response as part of the innate immunity
+and is associated with pathogenic outcomes of IAV infection [<xref rid="CIT0018" ref-type="bibr">18</xref>]. These findings are further supported by Josset et al. who
+performed total RNA-Seq on virus-infected lungs from eight mouse strains. They found that
+5329 lncRNAs were differentially expressed after IAV (A/Puerto Rico /8/1934) or SARS-CoV
+(MA15) infection [<xref rid="CIT0019" ref-type="bibr">19</xref>]. Microarray and RNA
+sequencing assays were also performed in human A549 lung epithelial cells, with or without
+IAV infection [<xref rid="CIT0020" ref-type="bibr">20</xref>,<xref rid="CIT0021" ref-type="bibr">21</xref>]. Different expression levels of lncRNAs were reported between
+the two groups. These lncRNAs regulate cellular metabolic processes, immunity, and autophagy
+during A/swine/Zhejiang/04 (H3N2) infection [<xref rid="CIT0020" ref-type="bibr">20</xref>],
+and are involved in the &#x003b1;, &#x003b2;, and &#x003b3; IFN and immune signalling pathways during A/ Puerto
+Rico/8/1934 infection [<xref rid="CIT0021" ref-type="bibr">21</xref>]. Furthermore, Chai et
+al. showed that 139 lncRNAs were upregulated and 150 lncRNAs were downregulated in both A549
+and HEK293T cells after infection, by IAV A/WSN/1933, A/Puerto Rico/8/1934, and
+A/California/04/2009 [<xref rid="CIT0022" ref-type="bibr">22</xref>]. These distinct
+expression profiles of lncRNAs in cells infected with different strains of IAV suggest an
+association between the expression of lncRNAs and host susceptibility to different IAV
+infections [<xref rid="CIT0022" ref-type="bibr">22</xref>]. In support of the above
+observations, deep sequencing of lung RNA in mice that were challenged with a highly
+pathogenic (A/Chicken/Jiangsu/k0402/2010) or a much less virulent
+(A/Goose/Jiangsu/k0403/2010) avian influenza virus H5N1 also showed distinct expression of
+numerous lncRNAs in response to these two viruses, and the lncRNA profiles are correlated
+with viral pathogenicity in mice [<xref rid="CIT0023" ref-type="bibr">23</xref>]. These
+comprehensive studies have used different approaches to investigate the response of lncRNA
+expression to IAV infection under various conditions, including infection with different IAV
+strains, avian influenza virus with different pathogenicity, in different cell lines, or in
+mice. Changes in lncRNA expression are associated with the host susceptibility to IAV and
+viral pathogenicity, also determine the outcome of influenza virus infection. Overall, these
+studies establish a strong association between cellular lncRNA expression and influenza
+virus infection and suggest their potential utility as a novel diagnostic tool for IAV
+infection.</p></sec><sec id="S003"><title>Roles of lncRNAs in influenza virus infection</title><p>Following influenza virus infection, the host innate immune system generates the first line
+of defense and has an important role in clearing the viral infection. In the meantime, the
+influenza virus has also evolved diverse strategies to evade host innate immunity and/or
+hijack host factors to establish successful replication [<xref rid="CIT0024" ref-type="bibr">24&#x02013;26</xref>]. Host lncRNAs have been reported to function as either
+positive or negative regulators of the innate antiviral response and may either inhibit or
+facilitate viral infection. It is not surprising that lncRNAs are also hijacked by influenza
+viruses to aid viral replication (<xref rid="F0001" ref-type="fig">Figure 1</xref>). <fig id="F0001" orientation="portrait" position="float"><label>Figure 1.</label><caption><p>Schematic diagram of the roles of host lncRNAs during influenza virus infection. Most
+lncRNAs regulate the host immune response against influenza virus at different steps
+to promote or inhibit the virus infection (left). LncRNAs can also be hijacked by the
+influenza virus to enhance viral replication (right). These functional lncRNAs are
+represented as rectangles. Refer to the text for more details.</p></caption><alternatives><graphic specific-use="web-only" content-type="color" xlink:href="TEMI_A_1778429_F0001_OC"/><graphic specific-use="print-only" content-type="black-white" xlink:href="TEMI_A_1778429_F0001_PB"/></alternatives></fig></p><sec id="S003-S2001"><title>LncRNAs modulate anti-IAV innate immune response</title><p>Host anti-IAV immune response begins with the recognition of conserved viral components
+called pathogen-associated molecular patterns (PAMPs) by host-pathogen recognition
+receptors (PRRs), including cytoplasmic retinoic acid-inducible gene I (RIG-I), melanoma
+differentiation factor 5 (MDA5), and endosomal toll-like receptors (TLRs) [<xref rid="CIT0027" ref-type="bibr">27&#x02013;29</xref>]. This leads to the
+activation of transcription factors, including IRF3/7 and NF-&#x003ba;B that rapidly trigger the
+expression of type &#x00406; and type III interferons (IFNs), which are the major IFNs that are
+secreted by dendritic cells, macrophages and airway epithelial cells upon influenza virus
+infections. IFNs interact with their receptors, which in turn activates the JAK-STAT
+signalling pathway and induces the expression of numerous antiviral proteins encoded by
+IFN-stimulated genes (ISGs) [<xref rid="CIT0030" ref-type="bibr">30</xref>,<xref rid="CIT0031" ref-type="bibr">31</xref>]. ISGs, including MxA, IFITMs, and TRIM
+proteins, block the early stage of viral infection [<xref rid="CIT0032" ref-type="bibr">32&#x02013;35</xref>]. ISGs also inhibit
+viral mRNA expression and protein translation, including ZAP, OAS-RNase L, PKR, and ISG15
+[<xref rid="CIT0036" ref-type="bibr">36&#x02013;39</xref>], and restrict
+viral release, including viperin and tetherin [<xref rid="CIT0040" ref-type="bibr">40</xref>,<xref rid="CIT0041" ref-type="bibr">41</xref>]. In contrast, type II
+interferon is secreted by activated T lymphocytes and NK cells, and mainly modulates the
+adaptive immune responses against influenza virus infection [<xref rid="CIT0042" ref-type="bibr">42</xref>,<xref rid="CIT0043" ref-type="bibr">43</xref>]. IFN-&#x003b3; has been
+shown to assist CD8+ T cells to differentiate into CTLs and enhance the T-cell
+proliferation during influenza virus vaccination [<xref rid="CIT0024" ref-type="bibr">24</xref>].</p><sec id="S003-S2001-S3001"><title>LncRNAs enhance IAV infection by suppressing the expression of IFN and anti-IAV
+ISGs</title><p>Several studies have shown that many differentially expressed cellular lncRNAs are
+involved in the host immune response [<xref rid="CIT0018" ref-type="bibr">18</xref>,<xref rid="CIT0019" ref-type="bibr">19</xref>,<xref rid="CIT0021" ref-type="bibr">21</xref>,<xref rid="CIT0044" ref-type="bibr">44</xref>]. Some of
+these lncRNAs actually act as positive regulators of viral infection by inhibiting
+different steps of host immune response [<xref rid="CIT0045" ref-type="bibr">45</xref>].</p><p>LncRNAs can regulate the expression of ISGs by multiple mechanisms. Ouyang et al.
+showed that lncRNA NRAV is dramatically downregulated during IAV infection [<xref rid="CIT0046" ref-type="bibr">46</xref>]. NRAV promotes IAV replication likely by
+suppressing the initial transcription of several key ISGs, including IFITM3 and MxA
+through affecting the histone modifications H3K4me3 and H3K27me3 of these genes. In
+support of the positive role of NRAV in influenza virus replication, ectopic expression
+of human NRAV in mice renders them more susceptible to IAV infection, including faster
+body weight loss, lower survival, and higher lung viral titre in NRAV transgenic mice
+compared with wild-type littermates [<xref rid="CIT0046" ref-type="bibr">46</xref>].
+Another lncRNA TSPOAP1-AS1 is upregulated by IAV infection in a dose- and time-dependent
+manner [<xref rid="CIT0047" ref-type="bibr">47</xref>]. TSPOAP1-AS1 promotes IAV
+replication by suppressing IAV-induced IFNb1 transcription, interferon-sensitive
+response element (ISRE) activation, and downstream ISGs expression [<xref rid="CIT0047" ref-type="bibr">47</xref>]. lnc-MxA facilitates the replication of IAV by forming an
+RNA&#x02013;DNA triplex with the IFN-&#x003b2; promoter, interfering with the enrichment of IRF3 and p65
+at the IFN-&#x003b2; promoter and thus negatively regulating the transcription of IFN-&#x003b2;. The
+activities of lnc-MxA as both an ISG and a negative regulator of the antiviral response
+suggest the important role of lnc-MxA in maintaining immune homeostasis [<xref rid="CIT0048" ref-type="bibr">48</xref>].</p><p>Another IFN-inducible lncRNA, lnc-Lsm3b, has also been shown as an active maintenance
+mechanism of immune homeostasis through directly targeting the viral RNA sensor RIG-I.
+lnc-Lsm3b contains multivalent structural motifs and a long-stem structure, thus can
+compete with viral RNAs in binding RIG-I. This interaction of lnc-Lsm3b with RIG-I
+restricts RIG-I activation and inhibits downstream signalling, as a result, prevents the
+production of type &#x00406; IFNs. This function of lnc-Lsm3b was further validated by the study
+showing higher levels of IFN-&#x003b2; and IL-6 in lnc-Lsm3b-deficient mice which were infected
+with influenza virus strain A/Puerto Rico/8/1981 through intranasal infection [<xref rid="CIT0049" ref-type="bibr">49</xref>]. These data support the concept that host
+lncRNAs can act as negative regulators of immune response and play important roles in
+the precise control of the antiviral response. In the context of influenza virus
+infection, lncRNAs can prevent overactivation of the immune response, thereby avoid host
+tissue damage which can be caused by potential cytokine storms. Understanding the innate
+immune modulation activities of these lncRNAs is expected to open new avenues to the
+design of drugs to treat influenza virus infection and autoimmune inflammatory
+diseases.</p></sec><sec id="S003-S2001-S3002"><title>LncRNAs inhibit IAV infection by increasing the expression of IFN and anti-IAV
+ISGs</title><p>Host uses lncRNAs to enhance the immune response and inhibit the influenza virus
+infection. A cytoplasmic lncRNA Lnczc3h7a binds to both TRIM25 and the activated RIG-I
+at early stages of viral infection. Lnczc3h7a acts as a molecular scaffold to stabilize
+the TRIM25/RIG-I interaction, enhance TRIM25-mediated K63-linked ubiquitination of
+RIG-I, and thereby promote RIG-I downstream signalling and the antiviral innate immune
+response [<xref rid="CIT0050" ref-type="bibr">50</xref>]. MIR155HG-derived lncRNA-155 is
+markedly enhanced by IAV infection and strongly affects IAV replication and virulence.
+LncRNA-155 has been shown to profoundly inhibit the expression of protein tyrosine
+phosphatase 1B (PTP1B) during IAV infection and resulting in higher expression of IFN-&#x003b2;
+and several critical ISGs, thus promoting the innate immune response to viral infection.
+The immune regulatory function of lncRNA-155 was further demonstrated by a study showing
+that MIR155HG KO mice are hypersensitive to IAV infection and present more severe lung
+injury than wildtype mice, because of lower expression of IFNs, critical cytokines, ISGs
+[<xref rid="CIT0051" ref-type="bibr">51</xref>]. A recent analysis of existing
+transcriptome dataset of patients with IAV infection identifies a novel lncRNA IVPRIE
+which inhibits IAV replication through promoting the transcription of IFN-&#x003b2;1 and several
+ISGs including IFIT1, IFIT3, IRF1, ISG15 and Mx1. It is shown that hnPNP U interacts
+with IVRPIE and is involved in IVRPIE-mediated regulation of histone modifications of
+IFN-&#x003b2;1 and several ISGs [<xref rid="CIT0052" ref-type="bibr">52</xref>].</p><p>In addition, lncRNAs can activate the expression of antiviral genes by relocating or
+competitively binding to gene repressors. For example, the NEAT1 lncRNA is an essential
+component of paraspeckles which are dynamic subnuclear structures and are dependent on
+RNA polymerase II transcription [<xref rid="CIT0053" ref-type="bibr">53&#x02013;55</xref>]. Within paraspeckles, NEAT1 binds to splicing factor
+proline/glutamine-rich (SFPQ/PSF) and is involved in the expression of several innate
+immune-related genes [<xref rid="CIT0056" ref-type="bibr">56</xref>,<xref rid="CIT0057" ref-type="bibr">57</xref>]. When NEAT1 is at low levels, SFPQ/PSF acts as a repressor
+of the IL8 promoter. During IAV infection, NEAT1 expression increases, leading to the
+relocation of SFPQ/PSF from the IL8 promoter to paraspeckles, and transcriptional
+activation of the antiviral gene IL8 [<xref rid="CIT0057" ref-type="bibr">57</xref>].
+Since SFPQ/PSF is also an essential factor for influenza virus mRNA polyadenylation
+[<xref rid="CIT0058" ref-type="bibr">58</xref>], NEAT1 is thus a dual regulator of
+viral infection through increasing the expression of antiviral genes and facilitating
+viral gene expression. Another IAV-upregulated lncRNA, lnc-ISG20 shares most of its
+sequence with ISG20, is a novel ISG and inhibits IAV replication. lnc-ISG20 acts as a
+competitive endogenous RNA (ceRNA), binds miR-326 to reduce its inhibition of ISG20
+translation [<xref rid="CIT0022" ref-type="bibr">22</xref>]. In addition, lncRNA ISR is
+also induced by IAV infection and by IFN-&#x003b2;, thus functions as an ISG to inhibit IAV
+replication [<xref rid="CIT0059" ref-type="bibr">59</xref>].</p><p>Taken together, a group of lncRNAs inhibit IAV infection by enhancing the expression of
+antiviral genes. The underlying molecular mechanisms vary, from directly interacting
+with signalling molecules, regulating histone modifications of antiviral genes,
+affecting the expression and relocation of gene repressors, or sequestering microRNA.
+These lncRNAs thus present promising targets for developing antiviral strategies through
+strengthening innate immune responses.</p></sec></sec><sec id="S003-S2002"><title>LncRNAs directly participate in IAV replication</title><p>The genome of IAV is a set of eight negative single-strand RNA segments, each of which is
+associated with the nucleoprotein (NP) and three subunits (PB1, PB2 and PA) of the
+RNA-dependent RNA polymerase (RdRp) complex. Following virus endocytosis and fusion of
+cellular and viral membranes, the viral ribonucleoproteins (vRNPs) are released into the
+cytoplasm and further transported into the nucleus, where viral RNA transcription and
+replication take place. The incoming vRNPs first produce the primary mRNAs, and then the
+essential proteins for viral RNP replication (NP, PB1, PB2, and PA) are synthesized. The
+newly assembled vRNPs are then transported out of the nucleus, assemble at and bud from
+the host membrane [<xref rid="CIT0060" ref-type="bibr">60&#x02013;62</xref>]. IAV
+has evolved to hijack host lncRNAs at different stages of the viral life cycle so as to
+complete a successful infection.</p><p>Results of a loss-of-function screen identified a novel group of lncRNAs that modulate
+IAV replication [<xref rid="CIT0063" ref-type="bibr">63</xref>], among which two
+IFN-independent host lncRNAs (IPAN and PAAN) were further characterized, and both were
+shown to be significantly induced by IAV infection. LncRNA IPAN was shown to associate
+with viral PB1 protein, prevent PB1 degradation, thus promoting IAV transcription and
+replication [<xref rid="CIT0063" ref-type="bibr">63</xref>]. Instead, the other lncRNA,
+PAAN, associates with viral PA protein and promotes the assembly of viral RNA polymerase,
+thus warranting efficient vRNA synthesis [<xref rid="CIT0064" ref-type="bibr">64</xref>].
+These findings demonstrate that specific lncRNAs are exploited by IAV as important host
+factors to facilitate viral replication at key steps of the viral infection.</p></sec><sec id="S003-S2003"><title>LncRNA promotes IAV replication by modulating cellular metabolism</title><p>Replication of influenza virus requires energy for the synthesis of viral proteins, viral
+RNA, or specific membrane lipids [<xref rid="CIT0065" ref-type="bibr">65</xref>]. There
+are studies showing that IAV infection increases glucose uptake, glycolysis, and lactic
+acid production [<xref rid="CIT0066" ref-type="bibr">66</xref>,<xref rid="CIT0067" ref-type="bibr">67</xref>]. Cao et al. showed that IFN-independent lncRNA-ACOD1 is
+induced by multiple viruses, including IAV, and promotes IAV replication in A549 cells.
+LncRNA-ACOD1 directly binds GOT2 at a site close to the substrate niche and simulates GOT2
+catalytic activity and production of its metabolites, thus facilitating viral replication
+[<xref rid="CIT0068" ref-type="bibr">68</xref>]. This example reveals one strategy by
+which viruses indirectly utilize lncRNAs to modulate host metabolic pathways and ensure
+viral survival.</p></sec></sec><sec id="S004"><title>Some lncRNAs modulate IAV infection by uncharacterized mechanisms</title><p>In addition to the above relatively well-studied lncRNAs, some lncRNAs have also been shown
+under the influence of influenza virus infection, but the exact roles of these lncRNAs in
+IAV infection remain to be elucidated. VIN, a virus-inducible lncRNA, has been shown to be
+upregulated by IAV, but not by influenza B virus, treatment with RNA mimics, or IFN-&#x003b2;. The
+depletion of VIN results in reduced IAV production and decreased viral protein synthesis,
+suggesting that VIN is important for productive IAV infection [<xref rid="CIT0069" ref-type="bibr">69</xref>]. Similarly, another lncRNA, PSMB8-AS1, is also induced by IAV
+infection and IFN-&#x003b2;1, and depletion of PSMB8-AS1 reduced the expression of IAV genes and the
+release of progeny IAV virions [<xref rid="CIT0021" ref-type="bibr">21</xref>]. However, it
+is largely unclear how VIN and PSMB8-AS1 modulate IAV infection. In any case, their nuclear
+localization suggests their roles in the transcription and/or replication of the IAV RNA
+genome.</p><p>In addition, more lncRNAs, such as lncBST2/BISPR [<xref rid="CIT0070" ref-type="bibr">70&#x02013;72</xref>], lncISG15 [<xref rid="CIT0070" ref-type="bibr">70</xref>],
+and EGOT [<xref rid="CIT0073" ref-type="bibr">73</xref>], are differentially expressed upon
+infection with different viruses including IAV. These lncRNAs regulate host antiviral
+pathways or suppress the replication of viruses other than IAV. The detailed molecular
+mechanisms behind the actions of these lncRNAs await further investigation.</p></sec><sec id="S005"><title>Conclusions and perspectives</title><p>Over the past 10 years, thousands of lncRNAs have been shown to be differentially expressed
+in either human cells or mice in response to IAV infection. It is posited that lncRNA
+expression profiles are likely associated with IAV virulence and host susceptibility to
+different IAV strains. Several lncRNAs lncISG15, lncBST2, ISR2 and ISR8 can be significantly
+induced by the infection of NS1 null IAV (PR8&#x00394;NS1) which is unable to block the IFN response
+[<xref rid="CIT0070" ref-type="bibr">70</xref>,<xref rid="CIT0074" ref-type="bibr">74</xref>]. This suggests the importance of the NS1 protein in the regulation of lncRNA
+expression. Expression of lncRNAs can have also been changed in response to the expression
+of viral protein from the Hepatitis B virus and human immunodeficiency virus [<xref rid="CIT0075" ref-type="bibr">75</xref>,<xref rid="CIT0076" ref-type="bibr">76</xref>].
+Despite these progress, the interaction of IAV proteins and lncRNAs is still completely
+understood. With many protein factors identified to interact with IAV proteins,
+characterization of lncRNA expression profiles in IAV infection and the interaction of the
+lncRNAs with specific viral proteins will advance our understanding of the spatial and
+temporal regulation of lncRNAs and discover speci&#x0fb01;c potential drug targets.</p><p>As mentioned above, lncRNAs affect IAV infection by varied mechanism. They either
+positively or negatively regulate host immune responses to IAV infection, they can be
+directly hijacked by IAV to enhance viral replication, or they can modulate viral infection
+though altering cellular metabolism. These diverse mechanisms of action by these lncRNAs in
+the context of IAV infection are summarized in <xref rid="T0001" ref-type="table">Table
+1</xref>, which highlight the active and important roles of lncRNAs in IAV&#x02013;host
+interactions. However, research on the specific lncRNA functions and mechanisms during IAV
+infection is still at its early stage, and more work needs to be done. Detailed functional
+studies are required to elucidate the landscape of host lncRNAs-IAV interplay and to
+understand the lncRNA-mediated regulatory network in IAV infection. <table-wrap id="T0001" orientation="landscape" position="float"><label>Table 1.</label><caption><title>Roles of lncRNAs in modulating IAV infection.</title></caption><!--OASIS TABLE HERE--><table frame="hsides" rules="groups"><colgroup><col width="1*"/><col width="1*"/><col width="1*"/><col width="1*"/><col width="1*"/><col width="1*"/><col width="1*"/><col width="1*"/></colgroup><thead valign="bottom"><tr><th align="left">LncRNAs</th><th align="center">Influenza strains</th><th align="center">Screening methods</th><th align="center">Functions</th><th align="center">Mechanisms</th><th align="center">Subcellular localization</th><th align="center">Neighbors</th><th align="center">Reference</th></tr></thead><tbody><tr><td align="left">NRAV</td><td align="left">A/WSN/1933 (H1N1)</td><td align="left">Genome-wide lncRNA microarray</td><td align="left">Positive</td><td align="left">Negatively modulates antiviral responses by
+suppressing the initial transcription of several key ISGs, including IFIT2,
+IFIT3, OASL, IFITM3 and MxA</td><td align="left">Nucleus</td><td align="left">DYNLL1</td><td align="center">[<xref rid="CIT0046" ref-type="bibr">46</xref>]</td></tr><tr><td align="left">TSPOAP1-AS1</td><td align="left">A/Puerto Rico/8/1934 (H1N1)</td><td align="left">Unknown</td><td align="left">Positive</td><td align="left">Represses IAV-triggered type I IFN
+signaling by negatively regulating induction of several anti-IAV ISGs, including
+IFIT1, IFITM1, OASL and ISG20</td><td align="left">Nucleocytoplasmic lncRNA, and IAV infection
+promoted its nuclear localization</td><td align="left">Unknown</td><td align="center">[<xref rid="CIT0047" ref-type="bibr">47</xref>]</td></tr><tr><td align="left">Lnc-MxA</td><td align="left">A/WSN/1933 (H1N1)</td><td align="left">RNA deep sequencing</td><td align="left">Positive</td><td align="left">Is an ISG and inhibits the activation of
+IFN-&#x003b2; transcription by forming an RNA-DNA triplex at its promoter</td><td align="left">Cytoplasm and translocates to nucleus in
+IAV-infected cells</td><td align="left">MxA</td><td align="center">[<xref rid="CIT0048" ref-type="bibr">48</xref>]</td></tr><tr><td align="left">Lnc-Lsm3b</td><td align="left">A/Puerto Rico/8/1934 (H1N1)</td><td align="left">UV-RIP-seq with Flag-RIG-I</td><td align="left">Positive</td><td align="left">Competes with viral RNAs in the binding of
+RIG-I monomers to restrict RIG-I activation and prevents overproduction of type
+&#x00406; IFNs</td><td align="left">Cytoplasm</td><td align="left">LSM3</td><td align="center">[<xref rid="CIT0049" ref-type="bibr">49</xref>]</td></tr><tr><td align="left">Lnczc3h7a</td><td align="left">A/Puerto Rico/8/1981 (H1N1)</td><td align="left">UV-RIP-seq with Flag-TRIM25</td><td align="left">Negative</td><td align="left">serves as a molecular scaffold for
+stabilization of the RIG-I&#x02013;TRIM25 interaction, facilitating K60-linked
+ubiquitination of RIG-I and downstream signaling</td><td align="left">Cytoplasm</td><td align="left">ZC3H7A</td><td align="center">[<xref rid="CIT0050" ref-type="bibr">50</xref>]</td></tr><tr><td align="left">LncRNA-155</td><td align="left">A/WSN/1933, A/Puerto Rico/8/1934
+(H1N1)</td><td align="left">Genome-wide lncRNA microarray</td><td align="left">Negative</td><td align="left">Promotes innate immune response by
+suppression of PTP1B to upregulate IFN-&#x003b2; and several ISGs
+expression</td><td align="left">Nucleus</td><td align="left">MIR155HG</td><td align="center">[<xref rid="CIT0051" ref-type="bibr">51</xref>]</td></tr><tr><td align="left">IVPRIE</td><td align="left">A/Beijing/501/2009 (H1N1)</td><td align="left">Analysis of existing dataset (GSE108807) of
+RNA sequencing</td><td align="left">Negative</td><td align="left">Promotes host antiviral immune response
+through positively regulating the IFN-&#x003b2; and ISGs expression by affecting histone
+modification of these genes</td><td align="left">Nucleus</td><td align="left">TANK</td><td align="center">[<xref rid="CIT0052" ref-type="bibr">52</xref>]</td></tr><tr><td align="left">NEAT1</td><td align="left">A/WSN/1933 (H1N1)</td><td align="left">Unknown</td><td align="left">Negative</td><td align="left">Enhances transcriptional activation of IL8
+through relocating SFPQ from IL8 promoter to the paraspeckles</td><td align="left">Nucleus</td><td align="left">FRMD8</td><td align="center">[<xref rid="CIT0057" ref-type="bibr">57</xref>,<xref rid="CIT0077" ref-type="bibr">77</xref>]</td></tr><tr><td align="left">Lnc-ISG20</td><td align="left">A/WSN/1933, A/Puerto Rico/8/1934, and
+A/California/04/2009 (H1N1)</td><td align="left">RNA deep sequencing</td><td align="left">Negative</td><td align="left">Is an ISG and reduces the miR-326 mediated
+inhibition of ISG20 expression by binding to miR-326</td><td align="left">Cytoplasm</td><td align="left">ISG20</td><td align="center">[<xref rid="CIT0022" ref-type="bibr">22</xref>]</td></tr><tr><td align="left">ISR</td><td align="left">A/WSN/1933 (H1N1)</td><td align="left">LncRNA microarrays</td><td align="left">Negative</td><td align="left">Participates in host antiviral defense as
+an ISG</td><td align="left">Unknown</td><td align="left">BAHCC1</td><td align="center">[<xref rid="CIT0059" ref-type="bibr">59</xref>]</td></tr><tr><td align="left">IPAN</td><td align="left">A/WSN/1933 (H1N1)</td><td align="left">An esiRNA- mediated loss-of-function
+screening</td><td align="left">Positive</td><td align="left">Promotes IAV transcription and replication
+by associating with viral PB1 to enhance its stability</td><td align="left">Cytoplasm and IAV infection promoted its
+nuclear localization</td><td align="left">PKN2</td><td align="center">[<xref rid="CIT0063" ref-type="bibr">63</xref>]</td></tr><tr><td align="left">LncRNA-PAAN</td><td align="left">A/WSN/1933 (H1N1)</td><td align="left">An esiRNA- mediated loss-of-function
+screening</td><td align="left">Positive</td><td align="left">Promotes the assembly of RdRp complex and
+thereby enhances viral RNA polymerase activity</td><td align="left">Cytoplasm and IAV infection promoted its
+nuclear localization</td><td align="left">TCAIM,ZNF445</td><td align="center">[<xref rid="CIT0064" ref-type="bibr">64</xref>]</td></tr><tr><td align="left">LncRNA-ACOD1</td><td align="left">A/Puerto Rico/8/1934 (H1N1)</td><td align="left">RNAi-mediated functional
+screening</td><td align="left">Positive</td><td align="left">Stimulates GOT2 catalytic activity and
+production of its metabolites</td><td align="left">Cytoplasm</td><td align="left">ACOD1</td><td align="center">[<xref rid="CIT0068" ref-type="bibr">68</xref>,<xref rid="CIT0069" ref-type="bibr">69</xref>]</td></tr><tr><td align="left">VIN</td><td align="left">A/WSN/1933 (H1N1)</td><td align="left">NCode&#x02122; and Sureprint&#x02122; G3
+microarrays</td><td align="left">Positive</td><td align="left">Unknown</td><td align="left">Nucleus</td><td align="left">ACTR3</td><td align="center">[<xref rid="CIT0069" ref-type="bibr">69</xref>]</td></tr></tbody></table></table-wrap></p></sec></body><back><ack><title>Acknowledgements</title><p>All of the authors planned the content of the manuscript. J. W. wrote the initial
+manuscript and S. C. revised the manuscript.</p></ack><sec sec-type="COI-statement" id="S006"><title>Disclosure statement</title><p>No potential conflict of interest was reported by the author(s).</p></sec><ref-list><title>References</title><ref id="CIT0001"><label>1</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Carninci</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Kasukawa</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Katayama</surname><given-names>S</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>The transcriptional landscape of the mammalian genome</article-title>.
+<source>Science</source>. <year>2005 Sep
+2</year>;<volume>309</volume>(<issue>5740</issue>):<fpage>1559</fpage>&#x02013;<lpage>1563</lpage>.<pub-id pub-id-type="pmid">16141072</pub-id></mixed-citation></ref><ref id="CIT0002"><label>2</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Djebali</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Davis</surname><given-names>CA</given-names></name>, <name name-style="western"><surname>Merkel</surname><given-names>A</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Landscape of transcription in human cells</article-title>.
+<source>Nature</source>. <year>2012 Sep
+6</year>;<volume>489</volume>(<issue>7414</issue>):<fpage>101</fpage>&#x02013;<lpage>108</lpage>.<pub-id pub-id-type="pmid">22955620</pub-id></mixed-citation></ref><ref id="CIT0003"><label>3</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ulitsky</surname><given-names>I</given-names></name>, <name name-style="western"><surname>Bartel</surname><given-names>DP.</given-names></name></person-group>
+<article-title>lincRNAs: genomics, evolution, and mechanisms</article-title>.
+<source>Cell</source>. <year>2013 Jul
+3</year>;<volume>154</volume>(<issue>1</issue>):<fpage>26</fpage>&#x02013;<lpage>46</lpage>.<pub-id pub-id-type="pmid">23827673</pub-id></mixed-citation></ref><ref id="CIT0004"><label>4</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Guttman</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Amit</surname><given-names>I</given-names></name>, <name name-style="western"><surname>Garber</surname><given-names>M</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Chromatin signature reveals over a thousand highly conserved large
+non-coding RNAs in mammals</article-title>. <source>Nature</source>. <year>2009 Mar
+12</year>;<volume>458</volume>(<issue>7235</issue>):<fpage>223</fpage>&#x02013;<lpage>227</lpage>.<pub-id pub-id-type="pmid">19182780</pub-id></mixed-citation></ref><ref id="CIT0005"><label>5</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Kung</surname><given-names>JT</given-names></name>, <name name-style="western"><surname>Colognori</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Lee</surname><given-names>JT.</given-names></name></person-group>
+<article-title>Long noncoding RNAs: past, present, and future</article-title>.
+<source>Genetics</source>. <year>2013
+Mar</year>;<volume>193</volume>(<issue>3</issue>):<fpage>651</fpage>&#x02013;<lpage>669</lpage>.<pub-id pub-id-type="pmid">23463798</pub-id></mixed-citation></ref><ref id="CIT0006"><label>6</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Laurent G</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Wahlestedt</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Kapranov</surname><given-names>P.</given-names></name></person-group>
+<article-title>The landscape of long noncoding RNA classification</article-title>.
+<source>Trends Genet</source>. <year>2015
+May</year>;<volume>31</volume>(<issue>5</issue>):<fpage>239</fpage>&#x02013;<lpage>251</lpage>.<pub-id pub-id-type="pmid">25869999</pub-id></mixed-citation></ref><ref id="CIT0007"><label>7</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Derrien</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Johnson</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Bussotti</surname><given-names>G</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>The GENCODE v7 catalog of human long noncoding RNAs: analysis of their gene
+structure, evolution, and expression</article-title>. <source>Genome Res</source>.
+<year>2012
+Sep</year>;<volume>22</volume>(<issue>9</issue>):<fpage>1775</fpage>&#x02013;<lpage>1789</lpage>.<pub-id pub-id-type="pmid">22955988</pub-id></mixed-citation></ref><ref id="CIT0008"><label>8</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Wu</surname><given-names>Z</given-names></name>, <name name-style="western"><surname>Liu</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Liu</surname><given-names>L</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Regulation of lncRNA expression</article-title>. <source>Cell Mol Biol
+Lett</source>. <year>2014
+Dec</year>;<volume>19</volume>(<issue>4</issue>):<fpage>561</fpage>&#x02013;<lpage>575</lpage>.<pub-id pub-id-type="pmid">25311814</pub-id></mixed-citation></ref><ref id="CIT0009"><label>9</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Dey</surname><given-names>BK</given-names></name>, <name name-style="western"><surname>Mueller</surname><given-names>AC</given-names></name>, <name name-style="western"><surname>Dutta</surname><given-names>A.</given-names></name></person-group>
+<article-title>Long non-coding RNAs as emerging regulators of differentiation,
+development, and disease</article-title>. <source>Transcription</source>.
+<year>2014</year>;<volume>5</volume>(<issue>4</issue>):<fpage>e944014</fpage>.<pub-id pub-id-type="pmid">25483404</pub-id></mixed-citation></ref><ref id="CIT0010"><label>10</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Mercer</surname><given-names>TR</given-names></name>, <name name-style="western"><surname>Dinger</surname><given-names>ME</given-names></name>, <name name-style="western"><surname>Mattick</surname><given-names>JS.</given-names></name></person-group>
+<article-title>Long non-coding RNAs: insights into functions</article-title>. <source>Nat
+Rev Genet</source>. <year>2009
+Mar</year>;<volume>10</volume>(<issue>3</issue>):<fpage>155</fpage>&#x02013;<lpage>159</lpage>.<pub-id pub-id-type="pmid">19188922</pub-id></mixed-citation></ref><ref id="CIT0011"><label>11</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Flynn</surname><given-names>RA</given-names></name>, <name name-style="western"><surname>Chang</surname><given-names>HY.</given-names></name></person-group>
+<article-title>Long noncoding RNAs in cell-fate programming and
+reprogramming</article-title>. <source>Cell Stem Cell</source>. <year>2014 Jun
+5</year>;<volume>14</volume>(<issue>6</issue>):<fpage>752</fpage>&#x02013;<lpage>761</lpage>.<pub-id pub-id-type="pmid">24905165</pub-id></mixed-citation></ref><ref id="CIT0012"><label>12</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Liu</surname><given-names>W</given-names></name>, <name name-style="western"><surname>Ding</surname><given-names>C.</given-names></name></person-group>
+<article-title>Roles of LncRNAs in viral infections</article-title>. <source>Front Cell
+Infect Microbiol</source>.
+<year>2017</year>;<volume>7</volume>:<fpage>205</fpage>.<pub-id pub-id-type="pmid">28603696</pub-id></mixed-citation></ref><ref id="CIT0013"><label>13</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Meng</surname><given-names>XY</given-names></name>, <name name-style="western"><surname>Luo</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Anwar</surname><given-names>MN</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Long non-coding RNAs: emerging and versatile regulators in host-virus
+interactions</article-title>. <source>Front Immunol</source>.
+<year>2017</year>;<volume>8</volume>:<fpage>1663</fpage>.<pub-id pub-id-type="pmid">29234324</pub-id></mixed-citation></ref><ref id="CIT0014"><label>14</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Basavappa</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Cherry</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Henao-Mejia</surname><given-names>J.</given-names></name></person-group>
+<article-title>Long noncoding RNAs and the regulation of innate immunity and host-virus
+interactions</article-title>. <source>J Leukoc Biol</source>. <year>2019
+Jul</year>;<volume>106</volume>(<issue>1</issue>):<fpage>83</fpage>&#x02013;<lpage>93</lpage>.<pub-id pub-id-type="pmid">30817056</pub-id></mixed-citation></ref><ref id="CIT0015"><label>15</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Qiu</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Tang</surname><given-names>Q</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Long non-coding RNAs: regulators of viral infection and the interferon
+antiviral response</article-title>. <source>Front Microbiol</source>.
+<year>2018</year>;<volume>9</volume>:<fpage>1621</fpage>.<pub-id pub-id-type="pmid">30072977</pub-id></mixed-citation></ref><ref id="CIT0016"><label>16</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Tong</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Qiu</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>H</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Expression profile and function analysis of long non-coding RNAs in the
+infection of coxsackievirus B3</article-title>. <source>Virol Sin</source>. <year>2019
+Dec</year>;<volume>34</volume>(<issue>6</issue>):<fpage>618</fpage>&#x02013;<lpage>630</lpage>.<pub-id pub-id-type="pmid">31388922</pub-id></mixed-citation></ref><ref id="CIT0017"><label>17</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Landeras-Bueno</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Ortin</surname><given-names>J.</given-names></name></person-group>
+<article-title>Regulation of influenza virus infection by long non-coding
+RNAs</article-title>. <source>Virus Res</source>. <year>2016 Jan
+2</year>;<volume>212</volume>:<fpage>78</fpage>&#x02013;<lpage>84</lpage>.<pub-id pub-id-type="pmid">26321158</pub-id></mixed-citation></ref><ref id="CIT0018"><label>18</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Peng</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Gralinski</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Armour</surname><given-names>CD</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Unique signatures of long noncoding RNA expression in response to virus
+infection and altered innate immune signaling</article-title>. <source>mBio</source>.
+<year>2010 Oct
+26</year>;<volume>1</volume>(<issue>5</issue>):<fpage>e00206-10</fpage>.<pub-id pub-id-type="pmid">20978541</pub-id></mixed-citation></ref><ref id="CIT0019"><label>19</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Josset</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Tchitchek</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Gralinski</surname><given-names>LE</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Annotation of long non-coding RNAs expressed in collaborative cross founder
+mice in response to respiratory virus infection reveals a new class of
+interferon-stimulated transcripts</article-title>. <source>RNA Biol</source>.
+<year>2014</year>;<volume>11</volume>(<issue>7</issue>):<fpage>875</fpage>&#x02013;<lpage>890</lpage>.<pub-id pub-id-type="pmid">24922324</pub-id></mixed-citation></ref><ref id="CIT0020"><label>20</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Zhang</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Yu</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Ding</surname><given-names>Y</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Analysis of expression profiles of long noncoding RNAs and mRNAs in A549
+cells infected with H3N2 swine influenza virus by RNA sequencing</article-title>.
+<source>Virol Sin</source>. <year>2020
+Apr</year>;<volume>35</volume>:<fpage>171</fpage>&#x02013;<lpage>180</lpage>.<pub-id pub-id-type="pmid">31777011</pub-id></mixed-citation></ref><ref id="CIT0021"><label>21</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>More</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Zhu</surname><given-names>Z</given-names></name>, <name name-style="western"><surname>Lin</surname><given-names>K</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Long non-coding RNA PSMB8-AS1 regulates influenza virus
+replication</article-title>. <source>RNA Biol</source>. <year>2019
+Mar</year>;<volume>16</volume>(<issue>3</issue>):<fpage>340</fpage>&#x02013;<lpage>353</lpage>.<pub-id pub-id-type="pmid">30669933</pub-id></mixed-citation></ref><ref id="CIT0022"><label>22</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Chai</surname><given-names>W</given-names></name>, <name name-style="western"><surname>Li</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Shangguan</surname><given-names>Q</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Lnc-ISG20 inhibits influenza A virus replication by enhancing ISG20
+expression</article-title>. <source>J Virol</source>. <year>2018 Aug
+15</year>;<volume>92</volume>(<issue>16</issue>):<fpage>e00539-18</fpage>.<pub-id pub-id-type="pmid">29899085</pub-id></mixed-citation></ref><ref id="CIT0023"><label>23</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Hu</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Hu</surname><given-names>Z</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>X</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Deep sequencing of the mouse lung transcriptome reveals distinct long
+non-coding RNAs expression associated with the high virulence of H5N1 avian influenza
+virus in mice</article-title>. <source>Virulence</source>.
+<year>2018</year>;<volume>9</volume>(<issue>1</issue>):<fpage>1092</fpage>&#x02013;<lpage>1111</lpage>.<pub-id pub-id-type="pmid">30052469</pub-id></mixed-citation></ref><ref id="CIT0024"><label>24</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Chen</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Liu</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Goraya</surname><given-names>MU</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Host immune response to influenza A virus infection</article-title>.
+<source>Front Immunol</source>.
+<year>2018</year>;<volume>9</volume>:<fpage>320</fpage>.<pub-id pub-id-type="pmid">29556226</pub-id></mixed-citation></ref><ref id="CIT0025"><label>25</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Kreijtz</surname><given-names>JH</given-names></name>, <name name-style="western"><surname>Fouchier</surname><given-names>RA</given-names></name>, <name name-style="western"><surname>Rimmelzwaan</surname><given-names>GF.</given-names></name></person-group>
+<article-title>Immune responses to influenza virus infection</article-title>.
+<source>Virus Res</source>. <year>2011
+Dec</year>;<volume>162</volume>(<issue>1-2</issue>):<fpage>19</fpage>&#x02013;<lpage>30</lpage>.<pub-id pub-id-type="pmid">21963677</pub-id></mixed-citation></ref><ref id="CIT0026"><label>26</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>van de Sandt</surname><given-names>CE</given-names></name>, <name name-style="western"><surname>Kreijtz</surname><given-names>JH</given-names></name>, <name name-style="western"><surname>Rimmelzwaan</surname><given-names>GF.</given-names></name></person-group>
+<article-title>Evasion of influenza A viruses from innate and adaptive immune
+responses</article-title>. <source>Viruses</source>. <year>2012
+Sep</year>;<volume>4</volume>(<issue>9</issue>):<fpage>1438</fpage>&#x02013;<lpage>1476</lpage>.<pub-id pub-id-type="pmid">23170167</pub-id></mixed-citation></ref><ref id="CIT0027"><label>27</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Kato</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Sato</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Yoneyama</surname><given-names>M</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Cell type-specific involvement of RIG-I in antiviral
+response</article-title>. <source>Immunity</source>. <year>2005
+Jul</year>;<volume>23</volume>(<issue>1</issue>):<fpage>19</fpage>&#x02013;<lpage>28</lpage>.<pub-id pub-id-type="pmid">16039576</pub-id></mixed-citation></ref><ref id="CIT0028"><label>28</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Gitlin</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Barchet</surname><given-names>W</given-names></name>, <name name-style="western"><surname>Gilfillan</surname><given-names>S</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Essential role of mda-5 in type I IFN responses to
+polyriboinosinic:polyribocytidylic acid and encephalomyocarditis
+picornavirus</article-title>. <source>Proc Natl Acad Sci U S A</source>. <year>2006 May
+30</year>;<volume>103</volume>(<issue>22</issue>):<fpage>8459</fpage>&#x02013;<lpage>8464</lpage>.<pub-id pub-id-type="pmid">16714379</pub-id></mixed-citation></ref><ref id="CIT0029"><label>29</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Alexopoulou</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Holt</surname><given-names>AC</given-names></name>, <name name-style="western"><surname>Medzhitov</surname><given-names>R</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Recognition of double-stranded RNA and activation of NF-kappaB by toll-like
+receptor 3</article-title>. <source>Nature</source>. <year>2001 Oct
+18</year>;<volume>413</volume>(<issue>6857</issue>):<fpage>732</fpage>&#x02013;<lpage>738</lpage>.<pub-id pub-id-type="pmid">11607032</pub-id></mixed-citation></ref><ref id="CIT0030"><label>30</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Liu</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Olagnier</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Lin</surname><given-names>R.</given-names></name></person-group>
+<article-title>Host and viral modulation of RIG-I-mediated antiviral
+immunity</article-title>. <source>Front Immunol</source>. <year>2017
+Jan</year>;<volume>7</volume>:<issue>662</issue>.</mixed-citation></ref><ref id="CIT0031"><label>31</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Schneider</surname><given-names>WM</given-names></name>, <name name-style="western"><surname>Chevillotte</surname><given-names>MD</given-names></name>, <name name-style="western"><surname>Rice</surname><given-names>CM.</given-names></name></person-group>
+<article-title>Interferon-stimulated genes: a complex web of host
+defenses</article-title>. <source>Annu Rev Immunol</source>.
+<year>2014</year>;<volume>32</volume>:<fpage>513</fpage>&#x02013;<lpage>545</lpage>.<pub-id pub-id-type="pmid">24555472</pub-id></mixed-citation></ref><ref id="CIT0032"><label>32</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Xiao</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Killip</surname><given-names>MJ</given-names></name>, <name name-style="western"><surname>Staeheli</surname><given-names>P</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>The human interferon-induced MxA protein inhibits early stages of influenza
+A virus infection by retaining the incoming viral genome in the
+cytoplasm</article-title>. <source>J Virol</source>. <year>2013
+Dec</year>;<volume>87</volume>(<issue>23</issue>):<fpage>13053</fpage>&#x02013;1305<lpage>8</lpage>.<pub-id pub-id-type="pmid">24049170</pub-id></mixed-citation></ref><ref id="CIT0033"><label>33</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Manz</surname><given-names>B</given-names></name>, <name name-style="western"><surname>Dornfeld</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Gotz</surname><given-names>V</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Pandemic influenza A viruses escape from restriction by human MxA through
+adaptive mutations in the nucleoprotein</article-title>. <source>PLoS Pathog</source>.
+<year>2013
+Mar</year>;<volume>9</volume>(<issue>3</issue>):<fpage>e1003279</fpage>.<pub-id pub-id-type="pmid">23555271</pub-id></mixed-citation></ref><ref id="CIT0034"><label>34</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Brass</surname><given-names>AL</given-names></name>, <name name-style="western"><surname>Huang</surname><given-names>IC</given-names></name>, <name name-style="western"><surname>Benita</surname><given-names>Y</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>The IFITM proteins mediate cellular resistance to influenza A H1N1 virus,
+West Nile virus, and dengue virus</article-title>. <source>Cell</source>. <year>2009 Dec
+24</year>;<volume>139</volume>(<issue>7</issue>):<fpage>1243</fpage>&#x02013;<lpage>1254</lpage>.<pub-id pub-id-type="pmid">20064371</pub-id></mixed-citation></ref><ref id="CIT0035"><label>35</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Gack</surname><given-names>MU</given-names></name>, <name name-style="western"><surname>Shin</surname><given-names>YC</given-names></name>, <name name-style="western"><surname>Joo</surname><given-names>CH</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>TRIM25 RING-finger E3 ubiquitin ligase is essential for RIG-I-mediated
+antiviral activity</article-title>. <source>Nature</source>. <year>2007 Apr
+19</year>;<volume>446</volume>(<issue>7138</issue>):<fpage>916</fpage>&#x02013;<lpage>920</lpage>.<pub-id pub-id-type="pmid">17392790</pub-id></mixed-citation></ref><ref id="CIT0036"><label>36</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Tang</surname><given-names>Q</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Gao</surname><given-names>G.</given-names></name></person-group>
+<article-title>The short form of the zinc finger antiviral protein inhibits influenza A
+virus protein expression and is antagonized by the virus-encoded NS1</article-title>.
+<source>J Virol</source>. <year>2017 Jan
+15</year>;<volume>91</volume>(<issue>2</issue>):<fpage>e01909-16</fpage>.<pub-id pub-id-type="pmid">27807230</pub-id></mixed-citation></ref><ref id="CIT0037"><label>37</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Silverman</surname><given-names>RH.</given-names></name></person-group>
+<article-title>Viral encounters with 2&#x02019;,5'-oligoadenylate synthetase and RNase L during
+the interferon antiviral response</article-title>. <source>J Virol</source>. <year>2007
+Dec</year>;<volume>81</volume>(<issue>23</issue>):<fpage>12720</fpage>&#x02013;1272<lpage>9</lpage>.<pub-id pub-id-type="pmid">17804500</pub-id></mixed-citation></ref><ref id="CIT0038"><label>38</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Bergmann</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Garcia-Sastre</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Carnero</surname><given-names>E</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Influenza virus NS1 protein counteracts PKR-mediated inhibition of
+replication</article-title>. <source>J Virol</source>. <year>2000
+Jul</year>;<volume>74</volume>(<issue>13</issue>):<fpage>6203</fpage>&#x02013;<lpage>6206</lpage>.<pub-id pub-id-type="pmid">10846107</pub-id></mixed-citation></ref><ref id="CIT0039"><label>39</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Lenschow</surname><given-names>DJ</given-names></name>, <name name-style="western"><surname>Lai</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Frias-Staheli</surname><given-names>N</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>IFN-stimulated gene 15 functions as a critical antiviral molecule against
+influenza, herpes, and Sindbis viruses</article-title>. <source>Proc Natl Acad Sci U S
+A</source>. <year>2007 Jan
+23</year>;<volume>104</volume>(<issue>4</issue>):<fpage>1371</fpage>&#x02013;<lpage>1376</lpage>.<pub-id pub-id-type="pmid">17227866</pub-id></mixed-citation></ref><ref id="CIT0040"><label>40</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Wang</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Hinson</surname><given-names>ER</given-names></name>, <name name-style="western"><surname>Cresswell</surname><given-names>P.</given-names></name></person-group>
+<article-title>The interferon-inducible protein viperin inhibits influenza virus release
+by perturbing lipid rafts</article-title>. <source>Cell Host Microbe</source>.
+<year>2007 Aug
+16</year>;<volume>2</volume>(<issue>2</issue>):<fpage>96</fpage>&#x02013;<lpage>105</lpage>.<pub-id pub-id-type="pmid">18005724</pub-id></mixed-citation></ref><ref id="CIT0041"><label>41</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Hu</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Yin</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Mei</surname><given-names>S</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>BST-2 restricts IAV release and is countered by the viral M2
+protein</article-title>. <source>Biochem J</source>. <year>2017 Feb
+20</year>;<volume>474</volume>(<issue>5</issue>):<fpage>715</fpage>&#x02013;<lpage>730</lpage>.<pub-id pub-id-type="pmid">28087685</pub-id></mixed-citation></ref><ref id="CIT0042"><label>42</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Killip</surname><given-names>MJ</given-names></name>, <name name-style="western"><surname>Fodor</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Randall</surname><given-names>RE.</given-names></name></person-group>
+<article-title>Influenza virus activation of the interferon system</article-title>.
+<source>Virus Res</source>. <year>2015 Nov
+2</year>;<volume>209</volume>:<fpage>11</fpage>&#x02013;<lpage>22</lpage>.<pub-id pub-id-type="pmid">25678267</pub-id></mixed-citation></ref><ref id="CIT0043"><label>43</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Bot</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Bot</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Bona</surname><given-names>CA.</given-names></name></person-group>
+<article-title>Protective role of gamma interferon during the recall response to influenza
+virus</article-title>. <source>J Virol</source>. <year>1998
+Aug</year>;<volume>72</volume>(<issue>8</issue>):<fpage>6637</fpage>&#x02013;<lpage>6645</lpage>.<pub-id pub-id-type="pmid">9658110</pub-id></mixed-citation></ref><ref id="CIT0044"><label>44</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Valadkhan</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Gunawardane</surname><given-names>LS.</given-names></name></person-group>
+<article-title>lncRNA-mediated regulation of the interferon response</article-title>.
+<source>Virus Res</source>. <year>2016 Jan
+2</year>;<volume>212</volume>:<fpage>127</fpage>&#x02013;<lpage>136</lpage>.<pub-id pub-id-type="pmid">26474526</pub-id></mixed-citation></ref><ref id="CIT0045"><label>45</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ma</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Ouyang</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Wei</surname><given-names>J</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Involvement of host Non-coding RNAs in the pathogenesis of the influenza
+virus</article-title>. <source>Int J Mol Sci</source>. <year>2016 Dec
+27</year>;<volume>18</volume>(<issue>1</issue>):<fpage>39</fpage>.</mixed-citation></ref><ref id="CIT0046"><label>46</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ouyang</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Zhu</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Chen</surname><given-names>Y</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>NRAV, a long noncoding RNA, modulates antiviral responses through
+suppression of interferon-stimulated gene transcription</article-title>. <source>Cell
+Host Microbe</source>. <year>2014 Nov
+12</year>;<volume>16</volume>(<issue>5</issue>):<fpage>616</fpage>&#x02013;<lpage>626</lpage>.<pub-id pub-id-type="pmid">25525793</pub-id></mixed-citation></ref><ref id="CIT0047"><label>47</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Wang</surname><given-names>Q</given-names></name>, <name name-style="western"><surname>Zhang</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Feng</surname><given-names>W</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Long noncoding RNA TSPOAP1 antisense RNA 1 negatively modulates type I IFN
+signaling to facilitate influenza A virus replication</article-title>. <source>J Med
+Virol</source>. <year>2019
+Apr</year>;<fpage>1</fpage>&#x02013;<lpage>10</lpage>.</mixed-citation></ref><ref id="CIT0048"><label>48</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Li</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Guo</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Lu</surname><given-names>M</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Long noncoding RNA Lnc-MxA inhibits Beta interferon transcription by
+forming RNA-DNA Triplexes at its promoter</article-title>. <source>J Virol</source>.
+<year>2019 Nov
+1</year>;<volume>93</volume>(<issue>21</issue>):<fpage>e00786-19</fpage>.<pub-id pub-id-type="pmid">31434735</pub-id></mixed-citation></ref><ref id="CIT0049"><label>49</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Jiang</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Zhang</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Yang</surname><given-names>Z</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Self-recognition of an inducible host lncRNA by RIG-I feedback restricts
+innate immune response</article-title>. <source>Cell</source>. <year>2018 May
+3</year>;<volume>173</volume>(<issue>4</issue>):<fpage>906</fpage>&#x02013;<lpage>919.e13</lpage>.<pub-id pub-id-type="pmid">29706547</pub-id></mixed-citation></ref><ref id="CIT0050"><label>50</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Lin</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Jiang</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Liu</surname><given-names>L</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>The long noncoding RNA Lnczc3h7a promotes a TRIM25-mediated RIG-I antiviral
+innate immune response</article-title>. <source>Nat Immunol</source>. <year>2019
+Jul</year>;<volume>20</volume>(<issue>7</issue>):<fpage>812</fpage>&#x02013;<lpage>823</lpage>.<pub-id pub-id-type="pmid">31036902</pub-id></mixed-citation></ref><ref id="CIT0051"><label>51</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Maarouf</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Chen</surname><given-names>B</given-names></name>, <name name-style="western"><surname>Chen</surname><given-names>Y</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Identification of lncRNA-155 encoded by MIR155HG as a novel regulator of
+innate immunity against influenza A virus infection</article-title>. <source>Cell
+Microbiol</source>. <year>2019
+Aug</year>;<volume>21</volume>(<issue>8</issue>):<fpage>e13036</fpage>.<pub-id pub-id-type="pmid">31045320</pub-id></mixed-citation></ref><ref id="CIT0052"><label>52</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Zhao</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Xia</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>K</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>A long Non-coding RNA IVRPIE promotes host antiviral immune responses
+through regulating interferon beta1 and ISG expression</article-title>. <source>Front
+Microbiol</source>.
+<year>2020</year>;<volume>11</volume>:<fpage>260</fpage>.<pub-id pub-id-type="pmid">32153544</pub-id></mixed-citation></ref><ref id="CIT0053"><label>53</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Clemson</surname><given-names>CM</given-names></name>, <name name-style="western"><surname>Hutchinson</surname><given-names>JN</given-names></name>, <name name-style="western"><surname>Sara</surname><given-names>SA</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>An architectural role for a nuclear noncoding RNA: NEAT1 RNA is essential
+for the structure of paraspeckles</article-title>. <source>Mol Cell</source>. <year>2009
+Mar
+27</year>;<volume>33</volume>(<issue>6</issue>):<fpage>717</fpage>&#x02013;<lpage>726</lpage>.<pub-id pub-id-type="pmid">19217333</pub-id></mixed-citation></ref><ref id="CIT0054"><label>54</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Hirose</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Virnicchi</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Tanigawa</surname><given-names>A</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>NEAT1 long noncoding RNA regulates transcription via protein sequestration
+within subnuclear bodies</article-title>. <source>Mol Biol Cell</source>. <year>2014
+Jan</year>;<volume>25</volume>(<issue>1</issue>):<fpage>169</fpage>&#x02013;<lpage>183</lpage>.<pub-id pub-id-type="pmid">24173718</pub-id></mixed-citation></ref><ref id="CIT0055"><label>55</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Sasaki</surname><given-names>YT</given-names></name>, <name name-style="western"><surname>Ideue</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Sano</surname><given-names>M</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>MENepsilon/beta noncoding RNAs are essential for structural integrity of
+nuclear paraspeckles</article-title>. <source>Proc Natl Acad Sci U S A</source>.
+<year>2009 Feb
+24</year>;<volume>106</volume>(<issue>8</issue>):<fpage>2525</fpage>&#x02013;<lpage>2530</lpage>.<pub-id pub-id-type="pmid">19188602</pub-id></mixed-citation></ref><ref id="CIT0056"><label>56</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ma</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Han</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Ye</surname><given-names>W</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>The long noncoding RNA NEAT1 exerts antihantaviral effects by acting as
+positive feedback for RIG-I signaling</article-title>. <source>J Virol</source>.
+<year>2017 May
+1</year>;<volume>91</volume>(<issue>9</issue>):<fpage>e02250-16</fpage>.<pub-id pub-id-type="pmid">28202761</pub-id></mixed-citation></ref><ref id="CIT0057"><label>57</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Imamura</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Imamachi</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Akizuki</surname><given-names>G</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Long noncoding RNA NEAT1-dependent SFPQ relocation from promoter region to
+paraspeckle mediates IL8 expression upon immune stimuli</article-title>. <source>Mol
+Cell</source>. <year>2014 Feb
+6</year>;<volume>53</volume>(<issue>3</issue>):<fpage>393</fpage>&#x02013;<lpage>406</lpage>.<pub-id pub-id-type="pmid">24507715</pub-id></mixed-citation></ref><ref id="CIT0058"><label>58</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Landeras-Bueno</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Jorba</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Perez-Cidoncha</surname><given-names>M</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>The splicing factor proline-glutamine rich (SFPQ/PSF) is involved in
+influenza virus transcription</article-title>. <source>PLoS Pathog</source>. <year>2011
+Nov</year>;<volume>7</volume>(<issue>11</issue>):<fpage>e1002397</fpage>.<pub-id pub-id-type="pmid">22114566</pub-id></mixed-citation></ref><ref id="CIT0059"><label>59</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Pan</surname><given-names>Q</given-names></name>, <name name-style="western"><surname>Zhao</surname><given-names>Z</given-names></name>, <name name-style="western"><surname>Liao</surname><given-names>Y</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Identification of an interferon-stimulated long noncoding RNA (LncRNA ISR)
+involved in regulation of influenza A virus replication</article-title>. <source>Int J
+Mol Sci</source>. <year>2019 Oct
+16</year>;<volume>20</volume>(<issue>20</issue>):<fpage>5118</fpage>.</mixed-citation></ref><ref id="CIT0060"><label>60</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Li</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Yu</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Zheng</surname><given-names>W</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Nucleocytoplasmic shuttling of influenza A virus proteins</article-title>.
+<source>Viruses</source>. <year>2015 May
+22</year>;<volume>7</volume>(<issue>5</issue>):<fpage>2668</fpage>&#x02013;<lpage>2682</lpage>.<pub-id pub-id-type="pmid">26008706</pub-id></mixed-citation></ref><ref id="CIT0061"><label>61</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Samji</surname><given-names>T.</given-names></name></person-group>
+<article-title>Influenza A: understanding the viral life cycle</article-title>.
+<source>Yale J Biol Med</source>. <year>2009
+Dec</year>;<volume>82</volume>(<issue>4</issue>):<fpage>153</fpage>&#x02013;<lpage>159</lpage>.<pub-id pub-id-type="pmid">20027280</pub-id></mixed-citation></ref><ref id="CIT0062"><label>62</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Rossman</surname><given-names>JS</given-names></name>, <name name-style="western"><surname>Lamb</surname><given-names>RA.</given-names></name></person-group>
+<article-title>Influenza virus assembly and budding</article-title>.
+<source>Virology</source>. <year>2011 Mar
+15</year>;<volume>411</volume>(<issue>2</issue>):<fpage>229</fpage>&#x02013;<lpage>236</lpage>.<pub-id pub-id-type="pmid">21237476</pub-id></mixed-citation></ref><ref id="CIT0063"><label>63</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Wang</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Zhang</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Li</surname><given-names>Q</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Influenza virus exploits an interferon-independent lncRNA to preserve viral
+RNA synthesis through stabilizing viral RNA polymerase PB1</article-title>. <source>Cell
+Rep</source>. <year>2019 Jun
+11</year>;<volume>27</volume>(<issue>11</issue>):<fpage>3295</fpage>&#x02013;<lpage>3304.e4</lpage>.<pub-id pub-id-type="pmid">31189112</pub-id></mixed-citation></ref><ref id="CIT0064"><label>64</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Wang</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Zhou</surname><given-names>R</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Host long noncoding RNA lncRNA-PAAN Regulates the replication of influenza
+A virus</article-title>. <source>Viruses</source>. <year>2018 Jun
+16</year>;<volume>10</volume>(<issue>6</issue>):<fpage>330</fpage>.</mixed-citation></ref><ref id="CIT0065"><label>65</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Sanchez</surname><given-names>EL</given-names></name>, <name name-style="western"><surname>Lagunoff</surname><given-names>M.</given-names></name></person-group>
+<article-title>Viral activation of cellular metabolism</article-title>.
+<source>Virology</source>. <year>2015
+May</year>;<volume>479-480</volume>:<fpage>609</fpage>&#x02013;<lpage>618</lpage>.<pub-id pub-id-type="pmid">25812764</pub-id></mixed-citation></ref><ref id="CIT0066"><label>66</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Klemperer</surname><given-names>H.</given-names></name></person-group>
+<article-title>Glucose breakdown in chick embryo cells infected with influenza
+virus</article-title>. <source>Virology</source>. <year>1961
+Jan</year>;<volume>13</volume>:<fpage>68</fpage>&#x02013;<lpage>77</lpage>.<pub-id pub-id-type="pmid">13756751</pub-id></mixed-citation></ref><ref id="CIT0067"><label>67</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ritter</surname><given-names>JB</given-names></name>, <name name-style="western"><surname>Wahl</surname><given-names>AS</given-names></name>, <name name-style="western"><surname>Freund</surname><given-names>S</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Metabolic effects of influenza virus infection in cultured animal cells:
+Intra- and extracellular metabolite profiling</article-title>. <source>BMC Syst
+Biol</source>. <year>2010 May
+13</year>;<volume>4</volume>:<fpage>61</fpage>.<pub-id pub-id-type="pmid">20465796</pub-id></mixed-citation></ref><ref id="CIT0068"><label>68</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Wang</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Xu</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>Y</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>An interferon-independent lncRNA promotes viral replication by modulating
+cellular metabolism</article-title>. <source>Science</source>. <year>2017 Nov
+24</year>;<volume>358</volume>(<issue>6366</issue>):<fpage>1051</fpage>&#x02013;<lpage>1055</lpage>.<pub-id pub-id-type="pmid">29074580</pub-id></mixed-citation></ref><ref id="CIT0069"><label>69</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Winterling</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Koch</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Koeppel</surname><given-names>M</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Evidence for a crucial role of a host non-coding RNA in influenza A virus
+replication</article-title>. <source>RNA Biol</source>.
+<year>2014</year>;<volume>11</volume>(<issue>1</issue>):<fpage>66</fpage>&#x02013;<lpage>75</lpage>.<pub-id pub-id-type="pmid">24440876</pub-id></mixed-citation></ref><ref id="CIT0070"><label>70</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Barriocanal</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Carnero</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Segura</surname><given-names>V</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Long non-coding RNA BST2/BISPR is induced by IFN and regulates the
+expression of the antiviral factor tetherin</article-title>. <source>Front
+Immunol</source>.
+<year>2014</year>;<volume>5</volume>:<fpage>655</fpage>.<pub-id pub-id-type="pmid">25620967</pub-id></mixed-citation></ref><ref id="CIT0071"><label>71</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Valadkhan</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Fortes</surname><given-names>P.</given-names></name></person-group>
+<article-title>Regulation of the interferon response by lncRNAs in HCV
+infection</article-title>. <source>Front Microbiol</source>.
+<year>2018</year>;<volume>9</volume>:<fpage>181</fpage>.<pub-id pub-id-type="pmid">29503633</pub-id></mixed-citation></ref><ref id="CIT0072"><label>72</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Kambara</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Gunawardane</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Zebrowski</surname><given-names>E</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Regulation of interferon-stimulated gene BST2 by a lncRNA transcribed from
+a shared bidirectional promoter</article-title>. <source>Front Immunol</source>.
+<year>2014</year>;<volume>5</volume>:<fpage>676</fpage>.<pub-id pub-id-type="pmid">25688240</pub-id></mixed-citation></ref><ref id="CIT0073"><label>73</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Carnero</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Barriocanal</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Prior</surname><given-names>C</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Long noncoding RNA EGOT negatively affects the antiviral response and
+favors HCV replication</article-title>. <source>EMBO Rep</source>. <year>2016
+Jul</year>;<volume>17</volume>(<issue>7</issue>):<fpage>1013</fpage>&#x02013;<lpage>1028</lpage>.<pub-id pub-id-type="pmid">27283940</pub-id></mixed-citation></ref><ref id="CIT0074"><label>74</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Carnero</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Barriocanal</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Segura</surname><given-names>V</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Type I interferon Regulates the expression of long non-coding
+RNAs</article-title>. <source>Front Immunol</source>.
+<year>2014</year>;<volume>5</volume>:<fpage>548</fpage>.<pub-id pub-id-type="pmid">25414701</pub-id></mixed-citation></ref><ref id="CIT0075"><label>75</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Huang</surname><given-names>JF</given-names></name>, <name name-style="western"><surname>Guo</surname><given-names>YJ</given-names></name>, <name name-style="western"><surname>Zhao</surname><given-names>CX</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Hepatitis B virus X protein (HBx)-related long noncoding RNA (lncRNA)
+down-regulated expression by HBx (Dreh) inhibits hepatocellular carcinoma metastasis by
+targeting the intermediate filament protein vimentin</article-title>.
+<source>Hepatology</source>. <year>2013
+May</year>;<volume>57</volume>(<issue>5</issue>):<fpage>1882</fpage>&#x02013;<lpage>1892</lpage>.<pub-id pub-id-type="pmid">23239537</pub-id></mixed-citation></ref><ref id="CIT0076"><label>76</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Imam</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Bano</surname><given-names>AS</given-names></name>, <name name-style="western"><surname>Patel</surname><given-names>P</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>The lncRNA NRON modulates HIV-1 replication in a NFAT-dependent manner and
+is differentially regulated by early and late viral proteins</article-title>.
+<source>Sci Rep</source>. <year>2015 Mar
+2</year>;<volume>5</volume>:<fpage>8639</fpage>.<pub-id pub-id-type="pmid">25728138</pub-id></mixed-citation></ref><ref id="CIT0077"><label>77</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Hutchinson</surname><given-names>JN</given-names></name>, <name name-style="western"><surname>Ensminger</surname><given-names>AW</given-names></name>, <name name-style="western"><surname>Clemson</surname><given-names>CM</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>A screen for nuclear transcripts identifies two linked noncoding RNAs
+associated with SC35 splicing domains</article-title>. <source>BMC Genomics</source>.
+<year>2007 Feb 1</year>;<volume>8</volume>:<fpage>39</fpage>.<pub-id pub-id-type="pmid">17270048</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,440 @@
+{
+  "id": [
+    "32366181"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32366181"
+  ],
+  "pmcid": [
+    "PMC7269076"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7269076"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1080/22221751.2020.1761762"
+  ],
+  "title": [
+    "Presence and persistence of hepatitis E virus RNA and proteins in human bone marrow."
+  ],
+  "authorString": [
+    "Wang L, Yan L, Jiang J, Zhang Y, He Q, Zhuang H, Wang L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang L"
+          ],
+          "firstName": [
+            "Lin"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Microbiology and Infectious Disease Centre, School of Basic Medical Sciences, Peking University Health Science Centre, Beijing, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yan L"
+          ],
+          "firstName": [
+            "Li"
+          ],
+          "lastName": [
+            "Yan"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Severe Hepatology, Shanghai Public Health Clinical Centre, Fudan University, Shanghai, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang J"
+          ],
+          "firstName": [
+            "Jieling"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Hematology, Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yuyi"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Severe Hepatology, Shanghai Public Health Clinical Centre, Fudan University, Shanghai, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "He Q"
+          ],
+          "firstName": [
+            "Qiyu"
+          ],
+          "lastName": [
+            "He"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Microbiology and Infectious Disease Centre, School of Basic Medical Sciences, Peking University Health Science Centre, Beijing, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhuang H"
+          ],
+          "firstName": [
+            "Hui"
+          ],
+          "lastName": [
+            "Zhuang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Microbiology and Infectious Disease Centre, School of Basic Medical Sciences, Peking University Health Science Centre, Beijing, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang L"
+          ],
+          "firstName": [
+            "Ling"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1501-8903",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Microbiology and Infectious Disease Centre, School of Basic Medical Sciences, Peking University Health Science Centre, Beijing, People's Republic of China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1501-8903",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2893331"
+      ],
+      "dateOfPublication": [
+        "2020 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Emerging microbes & infections"
+          ],
+          "ISOAbbreviation": [
+            "Emerg Microbes Infect"
+          ],
+          "medlineAbbreviation": [
+            "Emerg Microbes Infect"
+          ],
+          "NLMid": [
+            "101594885"
+          ],
+          "ISSN": [
+            "2222-1751"
+          ],
+          "ESSN": [
+            "2222-1751"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "994-997"
+  ],
+  "abstractText": [
+    "Hepatitis E virus (HEV) infection is primarily manifesting as acute hepatitis, but extra-hepatic replication and injury are frequently reported. During the study period, we discovered two acute myeloid leukaemia (AML) patients infected with HEV genotype 3 and 4, respectively, and HEV RNA and/or viral proteins were persistently detected in the bone marrow of both patients. The finding suggests that HEV can replicate in human bone marrow as it may serve as a new target site and reservoir of HEV persistence."
+  ],
+  "affiliation": [
+    "Department of Microbiology and Infectious Disease Centre, School of Basic Medical Sciences, Peking University Health Science Centre, Beijing, People's Republic of China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Letter"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Bone marrow",
+        "Hepatitis E virus",
+        "Hepatitis E",
+        "Extra-hepatic Replication"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/22221751.2020.1761762"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7269076"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7269076?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-05-06"
+  ],
+  "firstIndexDate": [
+    "2020-05-06"
+  ],
+  "fullTextReceivedDate": [
+    "2020-06-13"
+  ],
+  "dateOfRevision": [
+    "2020-06-12"
+  ],
+  "firstPublicationDate": [
+    "2020-12-01"
+  ]
+}

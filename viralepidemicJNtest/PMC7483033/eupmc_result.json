@@ -1,0 +1,451 @@
+{
+  "id": [
+    "PMC7483033"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7483033"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7483033"
+      ]
+    }
+  ],
+  "title": [
+    "Antibody-dependent enhancement of Coronavirus"
+  ],
+  "authorString": [
+    "Wen J, Cheng Y, Ling R, Dai Y, Huang B, Huang W, Zhang S, Jiang Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wen J"
+          ],
+          "firstName": [
+            "Jieqi"
+          ],
+          "lastName": [
+            "Wen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "$": {
+                    "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                    "xsi:nil": "true"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cheng Y"
+          ],
+          "firstName": [
+            "Yifan"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "$": {
+                    "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                    "xsi:nil": "true"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ling R"
+          ],
+          "firstName": [
+            "Rongsong"
+          ],
+          "lastName": [
+            "Ling"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "$": {
+                    "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                    "xsi:nil": "true"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dai Y"
+          ],
+          "firstName": [
+            "Yarong"
+          ],
+          "lastName": [
+            "Dai"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "$": {
+                    "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                    "xsi:nil": "true"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Huang B"
+          ],
+          "firstName": [
+            "Boxuan"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "$": {
+                    "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                    "xsi:nil": "true"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Huang W"
+          ],
+          "firstName": [
+            "Wenjie"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "$": {
+                    "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                    "xsi:nil": "true"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang S"
+          ],
+          "firstName": [
+            "Siyan"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "$": {
+                    "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                    "xsi:nil": "true"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang Y"
+          ],
+          "firstName": [
+            "Yizhou"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "$": {
+                    "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                    "xsi:nil": "true"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3006160"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases"
+          ],
+          "ISOAbbreviation": [
+            "Int. J. Infect. Dis."
+          ],
+          "medlineAbbreviation": [
+            "Int J Infect Dis"
+          ],
+          "NLMid": [
+            "9610933"
+          ],
+          "ISSN": [
+            "1201-9712"
+          ],
+          "ESSN": [
+            "1878-3511"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Highlights • There are totally five kinds of traditional mechanisms of antibody-dependent enhancement. Mostly, the effect is reported to related with FcγR.• Antibody-dependent enhancement has been discovered in both SARS-CoV and MERS-CoV but the mechanism wasn’t thoroughly clear. Different researches may provide different opinions.• Many scientist have mentioned the potential existence of antibody-dependent enhancement in the 2019 novel coronavirus.• Latest study of both convalescent plasma transmission and application of inactivated vaccine haven’t report case of antibody-dependent enhancement. Antibody-dependent enhancement (ADE) exists in several kinds of virus. It has a negative influence on antibody therapy for viral infection. This effect was first identified in dengue virus and then was also described for coronavirus. The rapid spread of the newly emerged 2019 novel coronavirus (COVID-19) has sickened over 3.8 million people across the globe up to now. The novel coronavirus causes great challenge and arouses a wave of panic. In this review, antibody-dependent enhancements in dengue virus and two kinds of coronavirus are summarized. Solutions for the effects are mentioned, too. We also speculate that antibody-dependent enhancement may exist in COVID-19."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Severe Acute Respiratory Syndrome Coronavirus (Sars-cov)",
+        "Middle East Respiratory Syndrome Coronavirus (Mers-cov)",
+        "Antibody-dependent Enhancement (Ade)",
+        "Severe Acute Respiratory Syndrome Coronavirus 2 (Sars-cov-2)",
+        "2019 Novel Coronavirus (Covid-19)"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7483033/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7483033/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7483033"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7483033?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-13"
+  ],
+  "firstIndexDate": [
+    "2020-09-13"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-13"
+  ],
+  "dateOfRevision": [
+    "2020-09-14"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-11"
+  ],
+  "firstPublicationDate": [
+    "2020-09-11"
+  ]
+}

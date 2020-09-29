@@ -1,0 +1,495 @@
+{
+  "id": [
+    "PMC7510433"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7510433"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7510433"
+      ]
+    }
+  ],
+  "title": [
+    "SARS-CoV-2 infection boosts MX1 antiviral effector in COVID-19 patients"
+  ],
+  "authorString": [
+    "Bizzotto J, Sanchis P, Abbate M, Lage-Vickers S, Lavignolle R, Toro A, Olszevicki S, Sabater A, Cascardo F, Vazquez E, Cotignola J, Gueron G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bizzotto J"
+          ],
+          "firstName": [
+            "Juan"
+          ],
+          "lastName": [
+            "Bizzotto"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2 CONICET - Universidad de Buenos Aires, Instituto de Química Biológica de la Facultad de Ciencias Exactas y Naturales (IQUIBICEN), Buenos Aires C1428EGA, Argentina"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sanchis P"
+          ],
+          "firstName": [
+            "Pablo"
+          ],
+          "lastName": [
+            "Sanchis"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2 CONICET - Universidad de Buenos Aires, Instituto de Química Biológica de la Facultad de Ciencias Exactas y Naturales (IQUIBICEN), Buenos Aires C1428EGA, Argentina"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Abbate M"
+          ],
+          "firstName": [
+            "Mercedes"
+          ],
+          "lastName": [
+            "Abbate"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2 CONICET - Universidad de Buenos Aires, Instituto de Química Biológica de la Facultad de Ciencias Exactas y Naturales (IQUIBICEN), Buenos Aires C1428EGA, Argentina"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lage-Vickers S"
+          ],
+          "firstName": [
+            "Sofía"
+          ],
+          "lastName": [
+            "Lage-Vickers"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2 CONICET - Universidad de Buenos Aires, Instituto de Química Biológica de la Facultad de Ciencias Exactas y Naturales (IQUIBICEN), Buenos Aires C1428EGA, Argentina"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lavignolle R"
+          ],
+          "firstName": [
+            "Rosario"
+          ],
+          "lastName": [
+            "Lavignolle"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2 CONICET - Universidad de Buenos Aires, Instituto de Química Biológica de la Facultad de Ciencias Exactas y Naturales (IQUIBICEN), Buenos Aires C1428EGA, Argentina"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Toro A"
+          ],
+          "firstName": [
+            "Ayelén"
+          ],
+          "lastName": [
+            "Toro"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2 CONICET - Universidad de Buenos Aires, Instituto de Química Biológica de la Facultad de Ciencias Exactas y Naturales (IQUIBICEN), Buenos Aires C1428EGA, Argentina"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Olszevicki S"
+          ],
+          "firstName": [
+            "Santiago"
+          ],
+          "lastName": [
+            "Olszevicki"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2 CONICET - Universidad de Buenos Aires, Instituto de Química Biológica de la Facultad de Ciencias Exactas y Naturales (IQUIBICEN), Buenos Aires C1428EGA, Argentina"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sabater A"
+          ],
+          "firstName": [
+            "Agustina"
+          ],
+          "lastName": [
+            "Sabater"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2 CONICET - Universidad de Buenos Aires, Instituto de Química Biológica de la Facultad de Ciencias Exactas y Naturales (IQUIBICEN), Buenos Aires C1428EGA, Argentina"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cascardo F"
+          ],
+          "firstName": [
+            "Florencia"
+          ],
+          "lastName": [
+            "Cascardo"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2 CONICET - Universidad de Buenos Aires, Instituto de Química Biológica de la Facultad de Ciencias Exactas y Naturales (IQUIBICEN), Buenos Aires C1428EGA, Argentina"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Vazquez E"
+          ],
+          "firstName": [
+            "Elba"
+          ],
+          "lastName": [
+            "Vazquez"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2 CONICET - Universidad de Buenos Aires, Instituto de Química Biológica de la Facultad de Ciencias Exactas y Naturales (IQUIBICEN), Buenos Aires C1428EGA, Argentina"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cotignola J"
+          ],
+          "firstName": [
+            "Javier"
+          ],
+          "lastName": [
+            "Cotignola"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2 CONICET - Universidad de Buenos Aires, Instituto de Química Biológica de la Facultad de Ciencias Exactas y Naturales (IQUIBICEN), Buenos Aires C1428EGA, Argentina"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gueron G"
+          ],
+          "firstName": [
+            "Geraldine"
+          ],
+          "lastName": [
+            "Gueron"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2 CONICET - Universidad de Buenos Aires, Instituto de Química Biológica de la Facultad de Ciencias Exactas y Naturales (IQUIBICEN), Buenos Aires C1428EGA, Argentina"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3006259"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "iScience"
+          ],
+          "ISOAbbreviation": [
+            "iScience"
+          ],
+          "medlineAbbreviation": [
+            "iScience"
+          ],
+          "NLMid": [
+            "101724038"
+          ],
+          "ISSN": [
+            "2589-0042"
+          ],
+          "ESSN": [
+            "2589-0042"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "In a published case-control study (GSE152075) from SARS-CoV-2 positive (n=403) and negative patients (n=50), we analyzed the response to infection assessing gene expression of host cell receptors and antiviral proteins. The expression analysis associated with reported risk factors for COVID-19 was also assessed. SARS-CoV-2 cases had higher ACE2, but lower TMPRSS2, BSG/CD147 and CTSB expression compared with negative cases. COVID-19 patients’ age negatively affected ACE2 expression. MX1 and MX2 were higher in COVID-19 patients. A negative trend for MX1 and MX2 was observed as patients’ age increased. Principal Component Analysis determined that ACE2, MX1, MX2, and BSG/CD147 expression was able to cluster non-COVID-19 and COVID-19 individuals. Multivariable regression showed that MX1 expression significantly increased for each unit of viral load increment. Altogether, these findings support differences in ACE2, MX1, MX2, and BSG/CD147 expression between COVID-19 and non-COVID-19 patients and point out to MX1 as a critical responder in SARS-CoV-2 infection. Graphical Abstract  HIGHLIGHTS ● COVID-19 patients present a distinct expression pattern for antiviral genes.● MX1 antiviral gene expression is triggered by SARS-CoV-2.● MX1 can be induced by hemin, a FDA-approved drug.● MX1 raises as a potential druggable target."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "ACE2",
+        "Mx1",
+        "Mx2",
+        "Covid-19",
+        "Sars-cov-2",
+        "Bsg/Cd147"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7510433/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7510433/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7510433"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7510433?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-28"
+  ],
+  "firstIndexDate": [
+    "2020-09-28"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-28"
+  ],
+  "dateOfRevision": [
+    "2020-09-28"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-23"
+  ],
+  "firstPublicationDate": [
+    "2020-09-23"
+  ]
+}

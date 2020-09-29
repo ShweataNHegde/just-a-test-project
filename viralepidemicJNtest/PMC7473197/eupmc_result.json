@@ -1,0 +1,541 @@
+{
+  "id": [
+    "32623963"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32623963"
+  ],
+  "pmcid": [
+    "PMC7473197"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7473197"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1080/22221751.2020.1792352"
+  ],
+  "title": [
+    "Advances in detection of infectious agents by aptamer-based technologies."
+  ],
+  "authorString": [
+    "Li HY, Jia WN, Li XY, Zhang L, Liu C, Wu J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li HY"
+          ],
+          "firstName": [
+            "Hui-Yan"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "HY"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Medical Microbiology, MOE/NHC/CAMS Key Laboratory of Medical Molecular Virology, School of Basic Medical Sciences, Fudan University, Shanghai, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jia WN"
+          ],
+          "firstName": [
+            "Wan-Nan"
+          ],
+          "lastName": [
+            "Jia"
+          ],
+          "initials": [
+            "WN"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Medical Microbiology, MOE/NHC/CAMS Key Laboratory of Medical Molecular Virology, School of Basic Medical Sciences, Fudan University, Shanghai, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li XY"
+          ],
+          "firstName": [
+            "Xin-Yi"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "XY"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Medical Microbiology, MOE/NHC/CAMS Key Laboratory of Medical Molecular Virology, School of Basic Medical Sciences, Fudan University, Shanghai, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang L"
+          ],
+          "firstName": [
+            "Li"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Medical Microbiology, MOE/NHC/CAMS Key Laboratory of Medical Molecular Virology, School of Basic Medical Sciences, Fudan University, Shanghai, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu C"
+          ],
+          "firstName": [
+            "Chang"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Medical Microbiology, MOE/NHC/CAMS Key Laboratory of Medical Molecular Virology, School of Basic Medical Sciences, Fudan University, Shanghai, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wu J"
+          ],
+          "firstName": [
+            "Jian"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Medical Microbiology, MOE/NHC/CAMS Key Laboratory of Medical Molecular Virology, School of Basic Medical Sciences, Fudan University, Shanghai, People's Republic of China.",
+                "Department of Gastroenterology & Hepatology, Zhongshan Hospital of Fudan University, Shanghai, People's Republic of China.",
+                "Shanghai Institute of Liver Diseases, Fudan University Shanghai Medical College, Shanghai, People's Republic of China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2893331"
+      ],
+      "dateOfPublication": [
+        "2020 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Emerging microbes & infections"
+          ],
+          "ISOAbbreviation": [
+            "Emerg Microbes Infect"
+          ],
+          "medlineAbbreviation": [
+            "Emerg Microbes Infect"
+          ],
+          "NLMid": [
+            "101594885"
+          ],
+          "ISSN": [
+            "2222-1751"
+          ],
+          "ESSN": [
+            "2222-1751"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "1671-1681"
+  ],
+  "abstractText": [
+    "Infectious diseases still remain one of the biggest challenges for human health. Accurate and early detection of infectious pathogens are crucial for transmission control, clinical diagnosis, and therapy. For a traditional reason, most immunological and microbiological laboratories are equipped with instruments designated for antibody-based assays in detection of infectious pathogens or clinical diagnosis. Emerging aptamer-based technologies have pushed a shift from antibody-based to aptamer-based assays due to equal specificity, even better sensitivity, lower manufacturing cost and more flexibility in amending for chemiluminescent, electrochemical or fluorescent detection in a multifaceted and high throughput fashion in comparison of aptamer-based to antibody-based assays. The nature of aptamer-based technologies is particularly suitable for point-of-care testing in remote areas at warm or hot atmosphere, and mass screening for potential infection in pandemic of emerging infectious agents, such as SARS-CoV or SARS-CoV-2 in an epicentre or other regions. This review intends to summarize currently available aptamer-based technologies in detection of bacterial, viral, and protozoan pathogens for research and clinical application. It is anticipated that potential technologies will be further optimized and validated for clinical translation in meeting increasing demands for prompt, precise, and reliable detection of specific pathogens in various atmospheric conditions."
+  ],
+  "affiliation": [
+    "Department of Medical Microbiology, MOE/NHC/CAMS Key Laboratory of Medical Molecular Virology, School of Basic Medical Sciences, Fudan University, Shanghai, People's Republic of China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Parasites"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Bacteria"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Viruses"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Microbiological Techniques"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "SELEX Aptamer Technique"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Tuberculosis",
+        "Leishmania",
+        "HBV",
+        "HCV",
+        "HIV",
+        "Aptamer",
+        "Amoeba"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/22221751.2020.1792352"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7473197"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7473197?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-08-04"
+  ],
+  "dateOfCreation": [
+    "2020-07-07"
+  ],
+  "firstIndexDate": [
+    "2020-07-06"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-17"
+  ],
+  "dateOfRevision": [
+    "2020-09-16"
+  ],
+  "firstPublicationDate": [
+    "2020-12-01"
+  ]
+}

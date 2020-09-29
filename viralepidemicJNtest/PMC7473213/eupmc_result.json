@@ -1,0 +1,1017 @@
+{
+  "id": [
+    "32691695"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32691695"
+  ],
+  "pmcid": [
+    "PMC7473213"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7473213"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1080/22221751.2020.1799723"
+  ],
+  "title": [
+    "Dysregulation in Akt/mTOR/HIF-1 signaling identified by proteo-transcriptomics of SARS-CoV-2 infected cells."
+  ],
+  "authorString": [
+    "Appelberg S, Gupta S, Svensson Akusjärvi S, Ambikan AT, Mikaeloff F, Saccon E, Végvári Á, Benfeitas R, Sperk M, Ståhlberg M, Krishnan S, Singh K, Penninger JM, Mirazimi A, Neogi U."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Appelberg S"
+          ],
+          "firstName": [
+            "Sofia"
+          ],
+          "lastName": [
+            "Appelberg"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Public Health Agency of Sweden, Solna, Sweden."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gupta S"
+          ],
+          "firstName": [
+            "Soham"
+          ],
+          "lastName": [
+            "Gupta"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of Clinical Microbiology, Department of Laboratory Medicine, Karolinska Institute, Stockholm, Sweden."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Svensson Akusjärvi S"
+          ],
+          "firstName": [
+            "Sara"
+          ],
+          "lastName": [
+            "Svensson Akusjärvi"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of Clinical Microbiology, Department of Laboratory Medicine, Karolinska Institute, Stockholm, Sweden."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ambikan AT"
+          ],
+          "firstName": [
+            "Anoop T"
+          ],
+          "lastName": [
+            "Ambikan"
+          ],
+          "initials": [
+            "AT"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of Clinical Microbiology, Department of Laboratory Medicine, Karolinska Institute, Stockholm, Sweden."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mikaeloff F"
+          ],
+          "firstName": [
+            "Flora"
+          ],
+          "lastName": [
+            "Mikaeloff"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of Clinical Microbiology, Department of Laboratory Medicine, Karolinska Institute, Stockholm, Sweden."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Saccon E"
+          ],
+          "firstName": [
+            "Elisa"
+          ],
+          "lastName": [
+            "Saccon"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of Clinical Microbiology, Department of Laboratory Medicine, Karolinska Institute, Stockholm, Sweden."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Végvári Á"
+          ],
+          "firstName": [
+            "Ákos"
+          ],
+          "lastName": [
+            "Végvári"
+          ],
+          "initials": [
+            "Á"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1287-0906",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of Chemistry I, Department of Medical Biochemistry and Biophysics, Karolinska Institutet, Stockholm, Sweden."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Benfeitas R"
+          ],
+          "firstName": [
+            "Rui"
+          ],
+          "lastName": [
+            "Benfeitas"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "National Bioinformatics Infrastructure Sweden (NBIS), Science for Life Laboratory, Department of Biochemistry and Biophysics, Stockholm University Stockholm, Sweden."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sperk M"
+          ],
+          "firstName": [
+            "Maike"
+          ],
+          "lastName": [
+            "Sperk"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of Clinical Microbiology, Department of Laboratory Medicine, Karolinska Institute, Stockholm, Sweden."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ståhlberg M"
+          ],
+          "firstName": [
+            "Marie"
+          ],
+          "lastName": [
+            "Ståhlberg"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of Chemistry I, Department of Medical Biochemistry and Biophysics, Karolinska Institutet, Stockholm, Sweden."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Krishnan S"
+          ],
+          "firstName": [
+            "Shuba"
+          ],
+          "lastName": [
+            "Krishnan"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of Clinical Microbiology, Department of Laboratory Medicine, Karolinska Institute, Stockholm, Sweden."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Singh K"
+          ],
+          "firstName": [
+            "Kamal"
+          ],
+          "lastName": [
+            "Singh"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of Clinical Microbiology, Department of Laboratory Medicine, Karolinska Institute, Stockholm, Sweden.",
+                "Department of Veterinary Pathobiology and the Bond Life Science Center, University of Missouri, Columbia, MO, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Penninger JM"
+          ],
+          "firstName": [
+            "Josef M"
+          ],
+          "lastName": [
+            "Penninger"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute of Molecular Biotechnology of the Austrian Academy of Sciences, Vienna, Austria.",
+                "Department of Medical Genetics, Life Science Institute, University of British Columbia, Vancouver, Canada."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mirazimi A"
+          ],
+          "firstName": [
+            "Ali"
+          ],
+          "lastName": [
+            "Mirazimi"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Public Health Agency of Sweden, Solna, Sweden.",
+                "Division of Clinical Microbiology, Department of Laboratory Medicine, Karolinska Institute, Stockholm, Sweden.",
+                "National Veterinary Institute, Uppsala, Sweden."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Neogi U"
+          ],
+          "firstName": [
+            "Ujjwal"
+          ],
+          "lastName": [
+            "Neogi"
+          ],
+          "initials": [
+            "U"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0844-3338",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of Clinical Microbiology, Department of Laboratory Medicine, Karolinska Institute, Stockholm, Sweden.",
+                "Department of Veterinary Pathobiology and the Bond Life Science Center, University of Missouri, Columbia, MO, USA."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1287-0906",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0844-3338",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2893331"
+      ],
+      "dateOfPublication": [
+        "2020 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Emerging microbes & infections"
+          ],
+          "ISOAbbreviation": [
+            "Emerg Microbes Infect"
+          ],
+          "medlineAbbreviation": [
+            "Emerg Microbes Infect"
+          ],
+          "NLMid": [
+            "101594885"
+          ],
+          "ISSN": [
+            "2222-1751"
+          ],
+          "ESSN": [
+            "2222-1751"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "1748-1760"
+  ],
+  "abstractText": [
+    "How severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) infections engage cellular host pathways and innate immunity in infected cells remains largely elusive. We performed an integrative proteo-transcriptomics analysis in SARS-CoV-2 infected Huh7 cells to map the cellular response to the invading virus over time. We identified four pathways, ErbB, HIF-1, mTOR and TNF signaling, among others that were markedly modulated during the course of the SARS-CoV-2 infection in vitro. Western blot validation of the downstream effector molecules of these pathways revealed a dose-dependent activation of Akt, mTOR, S6K1 and 4E-BP1 at 24 hours post infection (hpi). However, we found a significant inhibition of HIF-1α through 24hpi and 48hpi of the infection, suggesting a crosstalk between the SARS-CoV-2 and the Akt/mTOR/HIF-1 signaling pathways. Inhibition of the mTOR signaling pathway using Akt inhibitor MK-2206 showed a significant reduction in virus production. Further investigations are required to better understand the molecular sequelae in order to guide potential therapy in the management of severe coronavirus disease 2019 (COVID-19) patients."
+  ],
+  "affiliation": [
+    "Public Health Agency of Sweden, Solna, Sweden."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Line"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pneumonia, Viral"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Coronavirus Infections"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chromatography, Liquid"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Profiling"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Proteomics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Signal Transduction"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Proto-Oncogene Proteins c-akt"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hypoxia-Inducible Factor 1"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tandem Mass Spectrometry"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "TOR Serine-Threonine Kinases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pandemics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "High-Throughput Nucleotide Sequencing"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Betacoronavirus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PY"
+                  ],
+                  "qualifierName": [
+                    "pathogenicity"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Proteomics",
+        "Transcriptomics",
+        "Mk-2206",
+        "Sars-cov-2",
+        "Akt/mtor/hif-1"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "hypoxia-inducible factor 1"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Proto-Oncogene Proteins c-akt"
+          ],
+          "registryNumber": [
+            "EC 2.7.11.1"
+          ]
+        },
+        {
+          "name": [
+            "MTOR protein, human"
+          ],
+          "registryNumber": [
+            "EC 2.7.1.1"
+          ]
+        },
+        {
+          "name": [
+            "TOR Serine-Threonine Kinases"
+          ],
+          "registryNumber": [
+            "EC 2.7.1.1"
+          ]
+        },
+        {
+          "name": [
+            "AKT1 protein, human"
+          ],
+          "registryNumber": [
+            "EC 2.7.11.1"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/22221751.2020.1799723"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7473213"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7473213?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-08-11"
+  ],
+  "dateOfCreation": [
+    "2020-07-22"
+  ],
+  "firstIndexDate": [
+    "2020-07-22"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-17"
+  ],
+  "dateOfRevision": [
+    "2020-09-16"
+  ],
+  "firstPublicationDate": [
+    "2020-12-01"
+  ]
+}

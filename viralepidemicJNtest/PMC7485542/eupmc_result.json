@@ -1,0 +1,263 @@
+{
+  "id": [
+    "PMC7485542"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7485542"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7485542"
+      ]
+    }
+  ],
+  "title": [
+    "The viral protein fragment theory of COVID-19 pathogenesis"
+  ],
+  "authorString": [
+    "Suzuki Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Suzuki Y"
+          ],
+          "firstName": [
+            "Yuichiro J."
+          ],
+          "lastName": [
+            "Suzuki"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "$": {
+                    "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                    "xsi:nil": "true"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "144"
+      ],
+      "journalIssueId": [
+        "3008236"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Medical hypotheses"
+          ],
+          "ISOAbbreviation": [
+            "Med. Hypotheses"
+          ],
+          "medlineAbbreviation": [
+            "Med Hypotheses"
+          ],
+          "NLMid": [
+            "7505668"
+          ],
+          "ISSN": [
+            "0306-9877"
+          ],
+          "ESSN": [
+            "1532-2777"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "110267-110267"
+  ],
+  "abstractText": [
+    "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is causing the current pandemic of coronavirus disease 2019 (COVID-19) that has killed nearly one million people so far. While this is a respiratory virus, surprisingly, it has been recognized that patients with cardiovascular disease are likely to be affected severely and die of COVID-19. This phenomenon cannot be explained by the generally accepted logic that the SARS-CoV-2 infection/replication is the sole determinant of the actions of the virus to define the fate of host cells. I herein propose the viral protein fragment theory of COVID-19 pathogenesis based on my observations in cultured human vascular cells that SARS-CoV-2 spike protein can activate cell signaling events without the rest of the viral components. It is generally thought that SARS-CoV-2 and other single-stranded RNA viruses attach to the host cells through the interactions between surface proteins of the viral capsid and the host cell receptors; the fusion and the entry of the viral components, resulting in the replication of the viruses; and the host cell responses are the consequence of these events. I hypothesize that, as humans are infected with SARS-CoV-2, the virus releases (a) fragment(s) of the spike protein that can target host cells for eliciting cell signaling without the rest of the viral components. Thus, COVID-19 patients are subjected to the intact virus infecting the host cells for the replication and amplification as well as the spike protein fragments that are capable of affecting the host cells. I propose that cell signaling elicited by the spike protein fragments that occur in cardiovascular cells would predispose infected individuals to develop complications that are seen in severe and fatal COVID-19 conditions. If this hypothesis is correct, then the strategies to treat COVID-19 should include, in addition to agents that inhibit the viral replication, therapeutics that inhibit the viral protein fragment-mediated cardiovascular cell signaling."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7485542/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7485542/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7485542"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7485542?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-16"
+  ],
+  "firstIndexDate": [
+    "2020-09-16"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-16"
+  ],
+  "dateOfRevision": [
+    "2020-09-19"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-11"
+  ],
+  "firstPublicationDate": [
+    "2020-09-11"
+  ]
+}

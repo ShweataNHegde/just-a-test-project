@@ -1,0 +1,581 @@
+{
+  "id": [
+    "32894206"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32894206"
+  ],
+  "pmcid": [
+    "PMC7475720"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7475720"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1186/s13059-020-02148-3"
+  ],
+  "title": [
+    "Variation around the dominant viral genome sequence contributes to viral load and outcome in patients with Ebola virus disease."
+  ],
+  "authorString": [
+    "Dong X, Munoz-Basagoiti J, Rickett NY, Pollakis G, Paxton WA, Günther S, Kerber R, Ng LFP, Elmore MJ, Magassouba N, Carroll MW, Matthews DA, Hiscox JA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Dong X"
+          ],
+          "firstName": [
+            "Xiaofeng"
+          ],
+          "lastName": [
+            "Dong"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute for Infection, Veterinary and Ecological Sciences, University of Liverpool, Liverpool, UK."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Munoz-Basagoiti J"
+          ],
+          "firstName": [
+            "Jordana"
+          ],
+          "lastName": [
+            "Munoz-Basagoiti"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute for Infection, Veterinary and Ecological Sciences, University of Liverpool, Liverpool, UK.",
+                "NIHR Health Protection Research Unit in Emerging and Zoonotic Infections, Liverpool, UK."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rickett NY"
+          ],
+          "firstName": [
+            "Natasha Y"
+          ],
+          "lastName": [
+            "Rickett"
+          ],
+          "initials": [
+            "NY"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute for Infection, Veterinary and Ecological Sciences, University of Liverpool, Liverpool, UK.",
+                "NIHR Health Protection Research Unit in Emerging and Zoonotic Infections, Liverpool, UK."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pollakis G"
+          ],
+          "firstName": [
+            "Georgios"
+          ],
+          "lastName": [
+            "Pollakis"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute for Infection, Veterinary and Ecological Sciences, University of Liverpool, Liverpool, UK.",
+                "NIHR Health Protection Research Unit in Emerging and Zoonotic Infections, Liverpool, UK."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Paxton WA"
+          ],
+          "firstName": [
+            "William A"
+          ],
+          "lastName": [
+            "Paxton"
+          ],
+          "initials": [
+            "WA"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute for Infection, Veterinary and Ecological Sciences, University of Liverpool, Liverpool, UK.",
+                "NIHR Health Protection Research Unit in Emerging and Zoonotic Infections, Liverpool, UK."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Günther S"
+          ],
+          "firstName": [
+            "Stephan"
+          ],
+          "lastName": [
+            "Günther"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Bernhard Nocht Institute for Tropical Medicine, Hamburg, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kerber R"
+          ],
+          "firstName": [
+            "Romy"
+          ],
+          "lastName": [
+            "Kerber"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Bernhard Nocht Institute for Tropical Medicine, Hamburg, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ng LFP"
+          ],
+          "firstName": [
+            "Lisa F P"
+          ],
+          "lastName": [
+            "Ng"
+          ],
+          "initials": [
+            "LFP"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute for Infection, Veterinary and Ecological Sciences, University of Liverpool, Liverpool, UK.",
+                "NIHR Health Protection Research Unit in Emerging and Zoonotic Infections, Liverpool, UK.",
+                "Singapore Immunology Network, A*STAR, Singapore, Singapore."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Elmore MJ"
+          ],
+          "firstName": [
+            "Michael J"
+          ],
+          "lastName": [
+            "Elmore"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Public Health England, Salisbury, UK."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Magassouba N"
+          ],
+          "firstName": [
+            "N'faly"
+          ],
+          "lastName": [
+            "Magassouba"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratoire des fièvres hémorragiques en Guinée, Université Gamal Abdel Nasser de Conakry, Conakry, Guinea."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Carroll MW"
+          ],
+          "firstName": [
+            "Miles W"
+          ],
+          "lastName": [
+            "Carroll"
+          ],
+          "initials": [
+            "MW"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "NIHR Health Protection Research Unit in Emerging and Zoonotic Infections, Liverpool, UK.",
+                "Public Health England, Salisbury, UK."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Matthews DA"
+          ],
+          "firstName": [
+            "David A"
+          ],
+          "lastName": [
+            "Matthews"
+          ],
+          "initials": [
+            "DA"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Cellular and Molecular Medicine, University of Bristol, Singapore, Singapore."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hiscox JA"
+          ],
+          "firstName": [
+            "Julian A"
+          ],
+          "lastName": [
+            "Hiscox"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6582-0275",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute for Infection, Veterinary and Ecological Sciences, University of Liverpool, Liverpool, UK. julian.hiscox@liverpool.ac.uk.",
+                "NIHR Health Protection Research Unit in Emerging and Zoonotic Infections, Liverpool, UK. julian.hiscox@liverpool.ac.uk.",
+                "Singapore Immunology Network, A*STAR, Singapore, Singapore. julian.hiscox@liverpool.ac.uk."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6582-0275",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics",
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "21"
+      ],
+      "journalIssueId": [
+        "3003297"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Genome biology"
+          ],
+          "ISOAbbreviation": [
+            "Genome Biol."
+          ],
+          "medlineAbbreviation": [
+            "Genome Biol"
+          ],
+          "NLMid": [
+            "100960660"
+          ],
+          "ISSN": [
+            "1474-7596"
+          ],
+          "ESSN": [
+            "1474-760X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "238"
+  ],
+  "abstractText": [
+    "BACKGROUND:Viral load is a major contributor to outcome in patients with Ebola virus disease (EVD), with high values leading to a fatal outcome. Evidence from the 2013-2016 Ebola virus (EBOV) outbreak indicated that different genotypes of the virus can have different phenotypes in patients. Additionally, due to the error-prone nature of viral RNA synthesis in an individual patient, the EBOV genome exists around a dominant viral genome sequence. The minor variants within a patient may contribute to the overall phenotype in terms of viral protein function. To investigate the effects of these minor variants, blood samples from patients with acute EVD were deeply sequenced. RESULTS:We examine the minor variant frequency between patients with acute EVD who survived infection with those who died. Non-synonymous differences in viral proteins were identified that have implications for viral protein function. The greatest frequency of substitution was identified at three codon sites in the L gene-which encodes the viral RNA-dependent RNA polymerase (RdRp). Recapitulating this in an assay for virus replication, these substitutions result in aberrant viral RNA synthesis and correlate with patient outcome. CONCLUSIONS:Together, these findings support the notion that in patients who survived EVD, in some cases, the genetic variability of the virus resulted in deleterious mutations that affected viral protein function, leading to reduced viral load. Such mutations may also lead to persistent strains of the virus and be associated with recrudescent infections."
+  ],
+  "affiliation": [
+    "Institute for Infection, Veterinary and Ecological Sciences, University of Liverpool, Liverpool, UK."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Evolution",
+        "Ebola Virus",
+        "Patient Outcome",
+        "Ebola Virus Disease",
+        "Virus Genetics"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13059-020-02148-3"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7475720"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7475720?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen",
+        "pdb"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-09-07"
+  ],
+  "firstIndexDate": [
+    "2020-09-08"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-17"
+  ],
+  "dateOfRevision": [
+    "2020-09-09"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-07"
+  ],
+  "firstPublicationDate": [
+    "2020-09-07"
+  ]
+}

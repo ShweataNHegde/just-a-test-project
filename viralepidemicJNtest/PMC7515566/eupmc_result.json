@@ -1,0 +1,567 @@
+{
+  "id": [
+    "PMC7515566"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7515566"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7515566"
+      ]
+    }
+  ],
+  "title": [
+    "A blood-based host gene expression assay for early detection of respiratory viral infection: an index-cluster prospective cohort study"
+  ],
+  "authorString": [
+    "McClain M, Constantine F, Nicholson B, Nichols M, Burke T, Henao R, Jones D, Hudson L, Jaggers L, Veldman T, Mazur A, Park L, Suchindran S, Tsalik E, Ginsburg G, Woods C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "McClain M"
+          ],
+          "firstName": [
+            "Micah T"
+          ],
+          "lastName": [
+            "McClain"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "c Durham VA Medical Center, Durham, NC, USA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Constantine F"
+          ],
+          "firstName": [
+            "Florica J"
+          ],
+          "lastName": [
+            "Constantine"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "a Center for Applied Genomics and Precision Medicine, Duke University Medical Center, Durham, NC, USA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Nicholson B"
+          ],
+          "firstName": [
+            "Bradly P"
+          ],
+          "lastName": [
+            "Nicholson"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "d Institute for Medical Research, Durham, NC, USA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Nichols M"
+          ],
+          "firstName": [
+            "Marshall"
+          ],
+          "lastName": [
+            "Nichols"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "a Center for Applied Genomics and Precision Medicine, Duke University Medical Center, Durham, NC, USA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Burke T"
+          ],
+          "firstName": [
+            "Thomas W"
+          ],
+          "lastName": [
+            "Burke"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "a Center for Applied Genomics and Precision Medicine, Duke University Medical Center, Durham, NC, USA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Henao R"
+          ],
+          "firstName": [
+            "Ricardo"
+          ],
+          "lastName": [
+            "Henao"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "a Center for Applied Genomics and Precision Medicine, Duke University Medical Center, Durham, NC, USA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jones D"
+          ],
+          "firstName": [
+            "Daphne C"
+          ],
+          "lastName": [
+            "Jones"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "c Durham VA Medical Center, Durham, NC, USA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hudson L"
+          ],
+          "firstName": [
+            "Lori L"
+          ],
+          "lastName": [
+            "Hudson"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "a Center for Applied Genomics and Precision Medicine, Duke University Medical Center, Durham, NC, USA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jaggers L"
+          ],
+          "firstName": [
+            "L Brett"
+          ],
+          "lastName": [
+            "Jaggers"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "b Division of Infectious Diseases, Duke University Medical Center, Durham, NC, USA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Veldman T"
+          ],
+          "firstName": [
+            "Timothy"
+          ],
+          "lastName": [
+            "Veldman"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "a Center for Applied Genomics and Precision Medicine, Duke University Medical Center, Durham, NC, USA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mazur A"
+          ],
+          "firstName": [
+            "Anna"
+          ],
+          "lastName": [
+            "Mazur"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "a Center for Applied Genomics and Precision Medicine, Duke University Medical Center, Durham, NC, USA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Park L"
+          ],
+          "firstName": [
+            "Lawrence P"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "c Durham VA Medical Center, Durham, NC, USA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Suchindran S"
+          ],
+          "firstName": [
+            "Sunil"
+          ],
+          "lastName": [
+            "Suchindran"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "a Center for Applied Genomics and Precision Medicine, Duke University Medical Center, Durham, NC, USA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tsalik E"
+          ],
+          "firstName": [
+            "Ephraim L"
+          ],
+          "lastName": [
+            "Tsalik"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "c Durham VA Medical Center, Durham, NC, USA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ginsburg G"
+          ],
+          "firstName": [
+            "Geoffrey S"
+          ],
+          "lastName": [
+            "Ginsburg"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "a Center for Applied Genomics and Precision Medicine, Duke University Medical Center, Durham, NC, USA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Woods C"
+          ],
+          "firstName": [
+            "Christopher W"
+          ],
+          "lastName": [
+            "Woods"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "c Durham VA Medical Center, Durham, NC, USA"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3006144"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The Lancet. Infectious diseases"
+          ],
+          "ISOAbbreviation": [
+            "Lancet Infect Dis"
+          ],
+          "medlineAbbreviation": [
+            "Lancet Infect Dis"
+          ],
+          "NLMid": [
+            "101130150"
+          ],
+          "ISSN": [
+            "1473-3099"
+          ],
+          "ESSN": [
+            "1474-4457"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Background Early and accurate identification of individuals with viral infections is crucial for clinical management and public health interventions. We aimed to assess the ability of transcriptomic biomarkers to identify naturally acquired respiratory viral infection before typical symptoms are present. Methods In this index-cluster study, we prospectively recruited a cohort of undergraduate students (aged 18–25 years) at Duke University (Durham, NC, USA) over a period of 5 academic years. To identify index cases, we monitored students for the entire academic year, for the presence and severity of eight symptoms of respiratory tract infection using a daily web-based survey, with symptoms rated on a scale of 0–4. Index cases were defined as individuals who reported a 6-point increase in cumulative daily symptom score. Suspected index cases were visited by study staff to confirm the presence of reported symptoms of illness and to collect biospecimen samples. We then identified clusters of close contacts of index cases (ie, individuals who lived in close proximity to index cases, close friends, and partners) who were presumed to be at increased risk of developing symptomatic respiratory tract infection while under observation. We monitored each close contact for 5 days for symptoms and viral shedding and measured transcriptomic responses at each timepoint each day using a blood-based 36-gene RT-PCR assay. Findings Between Sept 1, 2009, and April 10, 2015, we enrolled 1465 participants. Of 264 index cases with respiratory tract infection symptoms, 150 (57%) had a viral cause confirmed by RT-PCR. Of their 555 close contacts, 106 (19%) developed symptomatic respiratory tract infection with a proven viral cause during the observation window, of whom 60 (57%) had the same virus as their associated index case. Nine viruses were detected in total. The transcriptomic assay accurately predicted viral infection at the time of maximum symptom severity (mean area under the receiver operating characteristic curve [AUROC] 0·94 [95% CI 0·92–0·96]), as well as at 1 day (0·87 [95% CI 0·84–0·90]), 2 days (0·85 [0·82–0·88]), and 3 days (0·74 [0·71–0·77]) before peak illness, when symptoms were minimal or absent and 22 (62%) of 35 individuals, 25 (69%) of 36 individuals, and 24 (82%) of 29 individuals, respectively, had no detectable viral shedding. Interpretation Transcriptional biomarkers accurately predict and diagnose infection across diverse viral causes and stages of disease and thus might prove useful for guiding the administration of early effective therapy, quarantine decisions, and other clinical and public health interventions in the setting of endemic and pandemic infectious diseases. Funding US Defense Advanced Research Projects Agency."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7515566/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7515566/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7515566"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7515566?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-28"
+  ],
+  "firstIndexDate": [
+    "2020-09-28"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-28"
+  ],
+  "dateOfRevision": [
+    "2020-09-28"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-24"
+  ],
+  "firstPublicationDate": [
+    "2020-09-24"
+  ]
+}

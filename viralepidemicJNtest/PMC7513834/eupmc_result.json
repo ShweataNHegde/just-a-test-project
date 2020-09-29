@@ -1,0 +1,306 @@
+{
+  "id": [
+    "PMC7513834"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7513834"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7513834"
+      ]
+    }
+  ],
+  "title": [
+    "Signal hotspot mutations in SARS-CoV-2 genomes evolve as the virus spreads and actively replicates in different parts of the world"
+  ],
+  "authorString": [
+    "Weber S, Ramirez C, Doerfler W."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Weber S"
+          ],
+          "firstName": [
+            "Stefanie"
+          ],
+          "lastName": [
+            "Weber"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "a Institute for Clinical and Molecular Virology, Friedrich-Alexander University (FAU) Erlangen-Nürnberg, 91054, Erlangen, Germany"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ramirez C"
+          ],
+          "firstName": [
+            "Christina"
+          ],
+          "lastName": [
+            "Ramirez"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "b Department of Biostatistics, UCLA School of Public Health, Los Angeles, CA, 90095-1772, USA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Doerfler W"
+          ],
+          "firstName": [
+            "Walter"
+          ],
+          "lastName": [
+            "Doerfler"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "c Institute of Genetics, University of Cologne, 50674, Cologne, Germany"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3007290"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Virus research"
+          ],
+          "ISOAbbreviation": [
+            "Virus Res."
+          ],
+          "medlineAbbreviation": [
+            "Virus Res"
+          ],
+          "NLMid": [
+            "8410979"
+          ],
+          "ISSN": [
+            "0168-1702"
+          ],
+          "ESSN": [
+            "1872-7492"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Highlights • Study of SARS-CoV-2 genomes from world-wide isolates.• Sequence comparisons of 570 isolates to original Wuhan 2019 SARS-CoV-2 clade.• Identification of several hotspot mutants after world-wide spreading of virus.• Several hotspot mutations affect sequences of replication-relevant viral proteins.• How do hotspot mutations relate to viral pathogenicity? Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2) was first identified in Wuhan, China late in 2019. Nine months later (Sept. 18, 2020), the virus has infected > 30 million people world-wide and caused > 944.000 (3.15 %) fatalities in 220 countries and territories. Research on the genetics of the SARS-CoV-2 genome, its mutants and their penetrance can aid future defense strategies. By analyzing sequence data deposited between December 2019 and end of May 2020, we have compared nucleotide sequences of 570 SARS-CoV-2 genomes from China, Europe, the US, and India to the sequence of the Wuhan isolate. During world-wide spreading among human populations, at least 10 distinct hotspot mutations had been selected and found in up to > 80 % of viral genomes. Many of these mutations led to amino acid exchanges in replication-relevant viral proteins. Mutations in the SARS-CoV-2 genome would also impinge upon the secondary structure of the viral RNA molecule and its repertoire of interactions with essential cellular and viral proteins. The increasing frequency of SARS-CoV-2 mutation hotspots might select for dangerous viral pathogens. Alternatively, in a 29.900 nucleotide-genome, there might be a limit to the number of mutable and selectable sites which, when exhausted, could prove disadvantageous to viral survival. The speed, at which novel SARS-CoV-2 mutants are selected and dispersed around the world, could pose problems for the development of vaccines and therapeutics."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Severe Acute Respiratory Syndrome Coronavirus-2 (Sars-cov-2)",
+        "Consequences For Secondary And Tertiary Structures Of Viral Rna",
+        "Impact On Replication-relevant Viral Proteins",
+        "Questions About Immunogenesis And Vaccine Development",
+        "Selection Of Viral Hotspot Mutations",
+        "Sequence Comparisons Between 570 Viral Genomes To Wuhan Isolate"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7513834/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7513834/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7513834"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7513834?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-28"
+  ],
+  "firstIndexDate": [
+    "2020-09-28"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-28"
+  ],
+  "dateOfRevision": [
+    "2020-09-28"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-24"
+  ],
+  "firstPublicationDate": [
+    "2020-09-24"
+  ]
+}

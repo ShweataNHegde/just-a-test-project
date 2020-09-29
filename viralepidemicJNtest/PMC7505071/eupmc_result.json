@@ -1,0 +1,410 @@
+{
+  "id": [
+    "PMC7505071"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7505071"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7505071"
+      ]
+    }
+  ],
+  "title": [
+    "Mitigation of the replication of SARS-CoV-2 by Nitric Oxide in Vitro"
+  ],
+  "authorString": [
+    "Akaberi D, Krambrich J, Ling J, Luni C, Hedenstierna G, Järhult J, Lennerstrand J, Lundkvist Å."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Akaberi D"
+          ],
+          "firstName": [
+            "Dario"
+          ],
+          "lastName": [
+            "Akaberi"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "a Department of Medical Biochemistry and Microbiology, Zoonosis Science Center, Uppsala University, Uppsala, Sweden"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Krambrich J"
+          ],
+          "firstName": [
+            "Janina"
+          ],
+          "lastName": [
+            "Krambrich"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "a Department of Medical Biochemistry and Microbiology, Zoonosis Science Center, Uppsala University, Uppsala, Sweden"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ling J"
+          ],
+          "firstName": [
+            "Jiaxin"
+          ],
+          "lastName": [
+            "Ling"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "a Department of Medical Biochemistry and Microbiology, Zoonosis Science Center, Uppsala University, Uppsala, Sweden"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Luni C"
+          ],
+          "firstName": [
+            "Chen"
+          ],
+          "lastName": [
+            "Luni"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "b Department of Microbiology and Tumour and Cell Biology (MTC), Karolinska Institute, Solna, Sweden"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hedenstierna G"
+          ],
+          "firstName": [
+            "Göran"
+          ],
+          "lastName": [
+            "Hedenstierna"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "c Department of Medical Sciences, Section of Clinical Physiology, Uppsala University, Uppsala, Sweden"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Järhult J"
+          ],
+          "firstName": [
+            "Josef D."
+          ],
+          "lastName": [
+            "Järhult"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "d Department of Medical Sciences, Zoonosis Science Center, Uppsala University, Uppsala, Sweden"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lennerstrand J"
+          ],
+          "firstName": [
+            "Johan"
+          ],
+          "lastName": [
+            "Lennerstrand"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "e Department of Medical Sciences, Section of Clinical Microbiology, Uppsala University, Uppsala, Sweden"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lundkvist Å"
+          ],
+          "firstName": [
+            "Åke"
+          ],
+          "lastName": [
+            "Lundkvist"
+          ],
+          "initials": [
+            "Å"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "a Department of Medical Biochemistry and Microbiology, Zoonosis Science Center, Uppsala University, Uppsala, Sweden"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3006138"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Redox biology"
+          ],
+          "ISOAbbreviation": [
+            "Redox Biol"
+          ],
+          "medlineAbbreviation": [
+            "Redox Biol"
+          ],
+          "NLMid": [
+            "101605639"
+          ],
+          "ISSN": [
+            "2213-2317"
+          ],
+          "ESSN": [
+            "2213-2317"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "The ongoing SARS-CoV-2 pandemic is a global public health emergency posing a high burden on nations’ health care systems and economies. Despite the great effort put in the development of vaccines and specific treatments, no prophylaxis or effective therapeutics are currently available. Nitric oxide (NO) is a broad-spectrum antimicrobial and a potent vasodilator that has proved to be effective in reducing SARS-CoV replication and hypoxia in patients with severe acute respiratory syndrome. Given the potential of NO as treatment for SARS-CoV-2 infection, we have evaluated the in vitro antiviral effect of NO on SARS-CoV-2 replication. The NO-donor S-nitroso-N-acetylpenicillamine (SNAP) had a dose dependent inhibitory effect on SARS-CoV-2 replication, while the non S-nitrosated NAP was not active, as expected. Although the viral replication was not completely abolished (at 200 μM and 400 μM), SNAP delayed or completely prevented the development of viral cytopathic effect in treated cells, and the observed protective effect correlated with the level of inhibition of the viral replication. The capacity of the NO released from SNAP to covalently bind and inhibit SARS-CoV-2 3CL recombinant protease in vitro was also tested. The observed reduction in SARS-CoV-2 protease activity was consistent with S-nitrosation of the enzyme active site cysteine. Graphical abstract Image 1"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Nitric oxide",
+        "FRET",
+        "3Cl Protease",
+        "Covid-19",
+        "Sars-cov-2"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7505071/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7505071/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7505071"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7505071?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-28"
+  ],
+  "firstIndexDate": [
+    "2020-09-28"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-28"
+  ],
+  "dateOfRevision": [
+    "2020-09-28"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-21"
+  ],
+  "firstPublicationDate": [
+    "2020-09-21"
+  ]
+}

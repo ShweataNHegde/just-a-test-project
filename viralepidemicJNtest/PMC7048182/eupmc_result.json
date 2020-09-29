@@ -1,0 +1,425 @@
+{
+  "id": [
+    "32397950"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32397950"
+  ],
+  "pmcid": [
+    "PMC7048182"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7048182"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1080/22221751.2020.1729068"
+  ],
+  "title": [
+    "Penaeidins restrict white spot syndrome virus infection by antagonizing the envelope proteins to block viral entry."
+  ],
+  "authorString": [
+    "Xiao B, Fu Q, Niu S, Zhu P, He J, Li C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Xiao B"
+          ],
+          "firstName": [
+            "Bang"
+          ],
+          "lastName": [
+            "Xiao"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai)/ School of Marine Sciences, Sun Yat-sen University, Guangzhou, P. R. People's Republic of China.",
+                "State Key Laboratory of Biocontrol/ School of Life Sciences, Sun Yat-sen University, Guangzhou, P. R. People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fu Q"
+          ],
+          "firstName": [
+            "Qihui"
+          ],
+          "lastName": [
+            "Fu"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai)/ School of Marine Sciences, Sun Yat-sen University, Guangzhou, P. R. People's Republic of China.",
+                "State Key Laboratory of Biocontrol/ School of Life Sciences, Sun Yat-sen University, Guangzhou, P. R. People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Niu S"
+          ],
+          "firstName": [
+            "Shengwen"
+          ],
+          "lastName": [
+            "Niu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai)/ School of Marine Sciences, Sun Yat-sen University, Guangzhou, P. R. People's Republic of China.",
+                "State Key Laboratory of Biocontrol/ School of Life Sciences, Sun Yat-sen University, Guangzhou, P. R. People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu P"
+          ],
+          "firstName": [
+            "Peng"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Guangxi Key Laboratory of Beibu Gulf Marine Biodiversity Conservation, Beibu Gluf University, Qinzhou, P. R. People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "He J"
+          ],
+          "firstName": [
+            "Jianguo"
+          ],
+          "lastName": [
+            "He"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai)/ School of Marine Sciences, Sun Yat-sen University, Guangzhou, P. R. People's Republic of China.",
+                "State Key Laboratory of Biocontrol/ School of Life Sciences, Sun Yat-sen University, Guangzhou, P. R. People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li C"
+          ],
+          "firstName": [
+            "Chaozheng"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7639-7831",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai)/ School of Marine Sciences, Sun Yat-sen University, Guangzhou, P. R. People's Republic of China.",
+                "State Key Laboratory of Biocontrol/ School of Life Sciences, Sun Yat-sen University, Guangzhou, P. R. People's Republic of China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7639-7831",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2893331"
+      ],
+      "dateOfPublication": [
+        "2020 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Emerging microbes & infections"
+          ],
+          "ISOAbbreviation": [
+            "Emerg Microbes Infect"
+          ],
+          "medlineAbbreviation": [
+            "Emerg Microbes Infect"
+          ],
+          "NLMid": [
+            "101594885"
+          ],
+          "ISSN": [
+            "2222-1751"
+          ],
+          "ESSN": [
+            "2222-1751"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "390-412"
+  ],
+  "abstractText": [
+    "Emerging studies have indicated that some penaeidins restrict virus infection; however, the mechanism(s) involved are poorly understood. In the present study, we uncovered that penaeidins are a novel family of antiviral effectors against white spot syndrome virus (WSSV), which antagonize the envelope proteins to block viral entry. We found that the expression levels of four identified penaeidins from Litopenaeus vannamei, including BigPEN, PEN2, PEN3, and PEN4, were significantly induced in hemocytes during the early stage of WSSV infection. Knockdown of each penaeidin in vivo via RNA interference resulted in elevated viral loads and rendered shrimp more susceptible to WSSV, while the survival rate was rescued via the injection of recombinant penaeidins. All penaeidins, except PEN4, were shown to interact with several envelope proteins of WSSV, and all four penaeidins were observed to be located on the outer surface of the WSSV virion. Co-incubation of each recombinant penaeidin with WSSV inhibited virion internalization into hemocytes. More importantly, we found that PEN2 competitively bound to the envelope protein VP24 to release it from polymeric immunoglobulin receptor (pIgR), the cellular receptor required for WSSV infection. Moreover, we also demonstrated that BigPEN was able to bind to VP28 of WSSV, which disrupted the interaction between VP28 and Rab7 - the Rab GTPase that contributes to viral entry by binding with VP28. Taken together, our results demonstrated that penaeidins interact with the envelope proteins of WSSV to block multiple viral infection processes, thereby protecting the host against WSSV."
+  ],
+  "affiliation": [
+    "Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai)/ School of Marine Sciences, Sun Yat-sen University, Guangzhou, P. R. People's Republic of China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Shrimp",
+        "WSSV",
+        "Penaeidin",
+        "antiviral mechanism",
+        "Viral Internalization"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/22221751.2020.1729068"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7048182"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7048182?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-05-14"
+  ],
+  "firstIndexDate": [
+    "2020-05-14"
+  ],
+  "fullTextReceivedDate": [
+    "2020-03-21"
+  ],
+  "dateOfRevision": [
+    "2020-05-16"
+  ],
+  "firstPublicationDate": [
+    "2020-12-01"
+  ]
+}

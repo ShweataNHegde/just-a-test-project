@@ -1,0 +1,968 @@
+{
+  "id": [
+    "32306853"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32306853"
+  ],
+  "pmcid": [
+    "PMC7301696"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7301696"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1080/22221751.2020.1756698"
+  ],
+  "title": [
+    "Development of a reverse transcription-loop-mediated isothermal amplification as a rapid early-detection method for novel SARS-CoV-2."
+  ],
+  "authorString": [
+    "Baek YH, Um J, Antigua KJC, Park JH, Kim Y, Oh S, Kim YI, Choi WS, Kim SG, Jeong JH, Chin BS, Nicolas HDG, Ahn JY, Shin KS, Choi YK, Park JS, Song MS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Baek YH"
+          ],
+          "firstName": [
+            "Yun Hee"
+          ],
+          "lastName": [
+            "Baek"
+          ],
+          "initials": [
+            "YH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8453-4880",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Microbiology, Chungbuk National University College of Medicine and Medical Research Institute, Cheongju, Republic of Korea."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Um J"
+          ],
+          "firstName": [
+            "Jihye"
+          ],
+          "lastName": [
+            "Um"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Research Institute of Public Health, National Medical Center, Seoul, Republic of Korea."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Antigua KJC"
+          ],
+          "firstName": [
+            "Khristine Joy C"
+          ],
+          "lastName": [
+            "Antigua"
+          ],
+          "initials": [
+            "KJC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0711-1873",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Microbiology, Chungbuk National University College of Medicine and Medical Research Institute, Cheongju, Republic of Korea."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Park JH"
+          ],
+          "firstName": [
+            "Ji-Hyun"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "JH"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Microbiology, Chungbuk National University College of Medicine and Medical Research Institute, Cheongju, Republic of Korea."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kim Y"
+          ],
+          "firstName": [
+            "Yeonjae"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Center for Infectious Diseases Research, Department of Internal Medicine, National Medical Center, Seoul, Republic of Korea."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Oh S"
+          ],
+          "firstName": [
+            "Sol"
+          ],
+          "lastName": [
+            "Oh"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Microbiology, Chungbuk National University College of Medicine and Medical Research Institute, Cheongju, Republic of Korea."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kim YI"
+          ],
+          "firstName": [
+            "Young-Il"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "YI"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Microbiology, Chungbuk National University College of Medicine and Medical Research Institute, Cheongju, Republic of Korea."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Choi WS"
+          ],
+          "firstName": [
+            "Won-Suk"
+          ],
+          "lastName": [
+            "Choi"
+          ],
+          "initials": [
+            "WS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5120-0374",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Microbiology, Chungbuk National University College of Medicine and Medical Research Institute, Cheongju, Republic of Korea."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kim SG"
+          ],
+          "firstName": [
+            "Seong Gyu"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "SG"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Microbiology, Chungbuk National University College of Medicine and Medical Research Institute, Cheongju, Republic of Korea."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jeong JH"
+          ],
+          "firstName": [
+            "Ju Hwan"
+          ],
+          "lastName": [
+            "Jeong"
+          ],
+          "initials": [
+            "JH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7226-1507",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Microbiology, Chungbuk National University College of Medicine and Medical Research Institute, Cheongju, Republic of Korea."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chin BS"
+          ],
+          "firstName": [
+            "Bum Sik"
+          ],
+          "lastName": [
+            "Chin"
+          ],
+          "initials": [
+            "BS"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Center for Infectious Diseases Research, Department of Internal Medicine, National Medical Center, Seoul, Republic of Korea."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Nicolas HDG"
+          ],
+          "firstName": [
+            "Halcyon Dawn G"
+          ],
+          "lastName": [
+            "Nicolas"
+          ],
+          "initials": [
+            "HDG"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9409-2900",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Microbiology, Chungbuk National University College of Medicine and Medical Research Institute, Cheongju, Republic of Korea."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ahn JY"
+          ],
+          "firstName": [
+            "Ji-Young"
+          ],
+          "lastName": [
+            "Ahn"
+          ],
+          "initials": [
+            "JY"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Biological Sciences, Chungbuk National University, Cheongju, Republic of Korea."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shin KS"
+          ],
+          "firstName": [
+            "Kyeong Seob"
+          ],
+          "lastName": [
+            "Shin"
+          ],
+          "initials": [
+            "KS"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Laboratory Medicine, Chungbuk National University College of Medicine, Cheongju, Republic of Korea."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Choi YK"
+          ],
+          "firstName": [
+            "Young Ki"
+          ],
+          "lastName": [
+            "Choi"
+          ],
+          "initials": [
+            "YK"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Microbiology, Chungbuk National University College of Medicine and Medical Research Institute, Cheongju, Republic of Korea."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Park JS"
+          ],
+          "firstName": [
+            "Jun-Sun"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "JS"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Research Institute of Public Health, National Medical Center, Seoul, Republic of Korea."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Song MS"
+          ],
+          "firstName": [
+            "Min-Suk"
+          ],
+          "lastName": [
+            "Song"
+          ],
+          "initials": [
+            "MS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6073-0783",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Microbiology, Chungbuk National University College of Medicine and Medical Research Institute, Cheongju, Republic of Korea."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8453-4880",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0711-1873",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5120-0374",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7226-1507",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9409-2900",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6073-0783",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2893331"
+      ],
+      "dateOfPublication": [
+        "2020 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Emerging microbes & infections"
+          ],
+          "ISOAbbreviation": [
+            "Emerg Microbes Infect"
+          ],
+          "medlineAbbreviation": [
+            "Emerg Microbes Infect"
+          ],
+          "NLMid": [
+            "101594885"
+          ],
+          "ISSN": [
+            "2222-1751"
+          ],
+          "ESSN": [
+            "2222-1751"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "998-1007"
+  ],
+  "abstractText": [
+    "The previous outbreaks of SARS-CoV and MERS-CoV have led researchers to study the role of diagnostics in impediment of further spread and transmission. With the recent emergence of the novel SARS-CoV-2, the availability of rapid, sensitive, and reliable diagnostic methods is essential for disease control. Hence, we have developed a reverse transcription loop-mediated isothermal amplification (RT-LAMP) assay for the specific detection of SARS-CoV-2. The primer sets for RT-LAMP assay were designed to target the nucleocapsid gene of the viral RNA, and displayed a detection limit of 102 RNA copies close to that of qRT-PCR. Notably, the assay has exhibited a rapid detection span of 30 min combined with the colorimetric visualization. This test can detect specifically viral RNAs of the SARS-CoV-2 with no cross-reactivity to related coronaviruses, such as HCoV-229E, HCoV-NL63, HCoV-OC43, and MERS-CoV as well as human infectious influenza viruses (type B, H1N1pdm, H3N2, H5N1, H5N6, H5N8, and H7N9), and other respiratory disease-causing viruses (RSVA, RSVB, ADV, PIV, MPV, and HRV). Furthermore, the developed RT-LAMP assay has been evaluated using specimens collected from COVID-19 patients that exhibited high agreement to the qRT-PCR. Our RT-LAMP assay is simple to perform, less expensive, time-efficient, and can be used in clinical laboratories for preliminary detection of SARS-CoV-2 in suspected patients. In addition to the high sensitivity and specificity, this isothermal amplification conjugated with a single-tube colorimetric detection method may contribute to the public health responses and disease control, especially in the areas with limited laboratory capacities."
+  ],
+  "affiliation": [
+    "Department of Microbiology, Chungbuk National University College of Medicine and Medical Research Institute, Cheongju, Republic of Korea."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pneumonia, Viral"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Coronavirus Infections"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Nucleocapsid Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Nucleic Acid Amplification Techniques"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EC"
+                  ],
+                  "qualifierName": [
+                    "economics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ST"
+                  ],
+                  "qualifierName": [
+                    "standards"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Time Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Limit of Detection"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pandemics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Betacoronavirus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Molecular diagnosis",
+        "Colorimetric Detection",
+        "Covid-19",
+        "Sars-cov-2",
+        "Novel Coronavirus",
+        "Reverse Transcription-loop-mediated Isothermal Amplification"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "nucleocapsid protein, Coronavirus"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Nucleocapsid Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/22221751.2020.1756698"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7301696"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7301696?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen",
+        "refseq",
+        "gisaid"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2020-05-19"
+  ],
+  "dateOfCreation": [
+    "2020-04-21"
+  ],
+  "firstIndexDate": [
+    "2020-04-21"
+  ],
+  "fullTextReceivedDate": [
+    "2020-06-29"
+  ],
+  "dateOfRevision": [
+    "2020-06-26"
+  ],
+  "firstPublicationDate": [
+    "2020-12-01"
+  ]
+}

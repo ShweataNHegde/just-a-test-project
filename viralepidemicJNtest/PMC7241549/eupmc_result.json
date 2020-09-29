@@ -1,0 +1,582 @@
+{
+  "id": [
+    "32315579"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32315579"
+  ],
+  "pmcid": [
+    "PMC7241549"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7241549"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1080/01652176.2020.1759845"
+  ],
+  "title": [
+    "Infectious laryngotracheitis: Etiology, epidemiology, pathobiology, and advances in diagnosis and control - a comprehensive review."
+  ],
+  "authorString": [
+    "Gowthaman V, Kumar S, Koul M, Dave U, Murthy TRGK, Munuswamy P, Tiwari R, Karthik K, Dhama K, Michalak I, Joshi SK."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gowthaman V"
+          ],
+          "firstName": [
+            "Vasudevan"
+          ],
+          "lastName": [
+            "Gowthaman"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Poultry Disease Diagnosis and Surveillance Laboratory, Tamil Nadu Veterinary and Animal Sciences University, Namakkal, Tamil Nadu, India."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kumar S"
+          ],
+          "firstName": [
+            "Sachin"
+          ],
+          "lastName": [
+            "Kumar"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8526-6013",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biosciences and Bioengineering, Indian Institute of Technology Guwahati, Guwahati, Assam, India."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Koul M"
+          ],
+          "firstName": [
+            "Monika"
+          ],
+          "lastName": [
+            "Koul"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biosciences and Bioengineering, Indian Institute of Technology Guwahati, Guwahati, Assam, India."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dave U"
+          ],
+          "firstName": [
+            "Urmil"
+          ],
+          "lastName": [
+            "Dave"
+          ],
+          "initials": [
+            "U"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biosciences and Bioengineering, Indian Institute of Technology Guwahati, Guwahati, Assam, India."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Murthy TRGK"
+          ],
+          "firstName": [
+            "T R Gopala Krishna"
+          ],
+          "lastName": [
+            "Murthy"
+          ],
+          "initials": [
+            "TRGK"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Poultry Disease Diagnosis and Surveillance Laboratory, Tamil Nadu Veterinary and Animal Sciences University, Namakkal, Tamil Nadu, India."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Munuswamy P"
+          ],
+          "firstName": [
+            "Palanivelu"
+          ],
+          "lastName": [
+            "Munuswamy"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1221-5231",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of Pathology, ICAR - Indian Veterinary Research Institute, Izatnagar, Uttar Pradesh, India."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tiwari R"
+          ],
+          "firstName": [
+            "Ruchi"
+          ],
+          "lastName": [
+            "Tiwari"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Veterinary Microbiology and Immunology, College of Veterinary Sciences, UP Pandit Deen Dayal Upadhayay Pashu Chikitsa Vigyan Vishwavidyalay Evum Go-Anusandhan Sansthan (DUVASU), Mathura, Uttar Pradesh, India."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Karthik K"
+          ],
+          "firstName": [
+            "Kumaragurubaran"
+          ],
+          "lastName": [
+            "Karthik"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9215-6306",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Central University Laboratory, Tamil Nadu Veterinary and Animal Sciences University, Chennai, Tamil Nadu, India."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dhama K"
+          ],
+          "firstName": [
+            "Kuldeep"
+          ],
+          "lastName": [
+            "Dhama"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7469-4752",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of Pathology, ICAR - Indian Veterinary Research Institute, Izatnagar, Uttar Pradesh, India."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Michalak I"
+          ],
+          "firstName": [
+            "Izabela"
+          ],
+          "lastName": [
+            "Michalak"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Faculty of Chemistry, Department of Advanced Material Technologies, Wrocław University of Science and Technology, Wrocław, Poland."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Joshi SK"
+          ],
+          "firstName": [
+            "Sunil K"
+          ],
+          "lastName": [
+            "Joshi"
+          ],
+          "initials": [
+            "SK"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Microbiology & Immunology, Department of Pediatrics, Division of Hematology, Oncology and Bone Marrow Transplantation, University of Miami School of Medicine, Miami, Florida, USA."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8526-6013",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1221-5231",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9215-6306",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7469-4752",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "40"
+      ],
+      "journalIssueId": [
+        "2899229"
+      ],
+      "dateOfPublication": [
+        "2020 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The veterinary quarterly"
+          ],
+          "ISOAbbreviation": [
+            "Vet Q"
+          ],
+          "medlineAbbreviation": [
+            "Vet Q"
+          ],
+          "NLMid": [
+            "7909485"
+          ],
+          "ISSN": [
+            "0165-2176"
+          ],
+          "ESSN": [
+            "1875-5941"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "140-161"
+  ],
+  "abstractText": [
+    "Infectious laryngotracheitis (ILT) is a highly contagious upper respiratory tract disease of chicken caused by a Gallid herpesvirus 1 (GaHV-1) belonging to the genus Iltovirus, and subfamily Alphaherpesvirinae within Herpesviridae family. The disease is characterized by conjunctivitis, sinusitis, oculo-nasal discharge, respiratory distress, bloody mucus, swollen orbital sinuses, high morbidity, considerable mortality and decreased egg production. It is well established in highly dense poultry producing areas of the world due to characteristic latency and carrier status of the virus. Co-infections with other respiratory pathogens and environmental factors adversely affect the respiratory system and prolong the course of the disease. Latently infected chickens are the primary source of ILT virus (ILTV) outbreaks irrespective of vaccination. Apart from conventional diagnostic methods including isolation and identification of ILTV, serological detection, advanced biotechnological tools such as PCR, quantitative real-time PCR, next generation sequencing, and others are being used in accurate diagnosis and epidemiological studies of ILTV. Vaccination is followed with the use of conventional vaccines including modified live attenuated ILTV vaccines, and advanced recombinant vector vaccines expressing different ILTV glycoproteins, but still these candidates frequently fail to reduce challenge virus shedding. Some herbal components have proved to be beneficial in reducing the severity of the clinical disease. The present review discusses ILT with respect to its current status, virus characteristics, epidemiology, transmission, pathobiology, and advances in diagnosis, vaccination and control strategies to counter this important disease of poultry."
+  ],
+  "affiliation": [
+    "Poultry Disease Diagnosis and Surveillance Laboratory, Tamil Nadu Veterinary and Animal Sciences University, Namakkal, Tamil Nadu, India."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "BB/P025749/1"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Poultry",
+        "Review",
+        "Vaccine",
+        "Control",
+        "Chicken",
+        "Diagnosis",
+        "Infectious laryngotracheitis virus",
+        "epidemiology",
+        "Pathobiology",
+        "Ilt"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/01652176.2020.1759845"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7241549"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7241549?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-04-22"
+  ],
+  "firstIndexDate": [
+    "2020-04-24"
+  ],
+  "fullTextReceivedDate": [
+    "2020-06-03"
+  ],
+  "dateOfRevision": [
+    "2020-06-02"
+  ],
+  "firstPublicationDate": [
+    "2020-12-01"
+  ]
+}

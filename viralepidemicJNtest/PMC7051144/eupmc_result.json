@@ -1,0 +1,528 @@
+{
+  "id": [
+    "32114898"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32114898"
+  ],
+  "pmcid": [
+    "PMC7051144"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7051144"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1080/21505594.2020.1735051"
+  ],
+  "title": [
+    "MiR-140 inhibits classical swine fever virus replication by targeting Rab25 in swine umbilical vein endothelial cells."
+  ],
+  "authorString": [
+    "Xu P, Jia S, Wang K, Fan Z, Zheng H, Lv J, Jiang Y, Hou Y, Lou B, Zhou H, Zhang Y, Guo K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Xu P"
+          ],
+          "firstName": [
+            "Panpan"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jia S"
+          ],
+          "firstName": [
+            "Shuangkai"
+          ],
+          "lastName": [
+            "Jia"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Medical College of QingHai University, Xining, Qinghai, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang K"
+          ],
+          "firstName": [
+            "Kai"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fan Z"
+          ],
+          "firstName": [
+            "Zhixin"
+          ],
+          "lastName": [
+            "Fan"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng H"
+          ],
+          "firstName": [
+            "Hongqing"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lv J"
+          ],
+          "firstName": [
+            "Jiangman"
+          ],
+          "lastName": [
+            "Lv"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang Y"
+          ],
+          "firstName": [
+            "Yanfen"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hou Y"
+          ],
+          "firstName": [
+            "Yufeng"
+          ],
+          "lastName": [
+            "Hou"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lou B"
+          ],
+          "firstName": [
+            "Bihao"
+          ],
+          "lastName": [
+            "Lou"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou H"
+          ],
+          "firstName": [
+            "Hongchao"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yanming"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Guo K"
+          ],
+          "firstName": [
+            "Kangkang"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2895107"
+      ],
+      "dateOfPublication": [
+        "2020 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Virulence"
+          ],
+          "ISOAbbreviation": [
+            "Virulence"
+          ],
+          "medlineAbbreviation": [
+            "Virulence"
+          ],
+          "NLMid": [
+            "101531386"
+          ],
+          "ISSN": [
+            "2150-5594"
+          ],
+          "ESSN": [
+            "2150-5608"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "260-269"
+  ],
+  "abstractText": [
+    "Classical swine fever virus (CSFV) is one of the most important viral pathogens leading worldwide threats to pig industry. MicroRNAs (miRNAs) play important roles in regulating virus replication, but whether miRNAs affect CSFV infection is still poorly understood. In previous study, we identified four miRNAs that were down-regulated by CSFV in swine umbilical vein endothelial cells (SUVEC). In this study, miR-140, one of the most potently down-regulated genes was investigated. We found that the miRNA expression was significantly inhibited by CSFV infection. Subsequent studies revealed that miR-140 mimics signiﬁcantly inhibited CSFV replication, while the inhibition of endogenous miR-140 enhanced CSFV replication. By using bioinformatics prediction, luciferase reporter system, real-time fluorescence quantitative PCR (RT-qPCR) and Western blot assays, we further demonstrated that miR-140 bind to the 3' UTR of Rab25 mRNA to regulate its expression. We also analyzed the expression pattern of Rab25 in SUVECs after CSFV infection. The results showed that CSFV infection induced Rab25 expression. Finally, Rab25 was found to promote CSFV replication. In conclusion, this study demonstrated that CSFV inhibits miR-140 expression and miR-140 inhibits replication by binding to host factor Rab25."
+  ],
+  "affiliation": [
+    "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Inhibition",
+        "Classical swine fever virus",
+        "Rab25",
+        "Mir-140",
+        "3ʹ Utr"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/21505594.2020.1735051"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7051144"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7051144?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-03-03"
+  ],
+  "firstIndexDate": [
+    "2020-03-03"
+  ],
+  "fullTextReceivedDate": [
+    "2020-03-21"
+  ],
+  "dateOfRevision": [
+    "2020-06-01"
+  ],
+  "firstPublicationDate": [
+    "2020-12-01"
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "id": [
+    "32959022"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32959022"
+  ],
+  "pmcid": [
+    "PMC7495144"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7495144"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1016/j.medcle.2019.05.038"
+  ],
+  "title": [
+    "Viral etiology of exacerbations of patients with chronic obstructive pulmonary disease during the winter season."
+  ],
+  "authorString": [
+    "Reina J, Sala E, Fraile P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Reina J"
+          ],
+          "firstName": [
+            "Jordi"
+          ],
+          "lastName": [
+            "Reina"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Unidad de Virología, Servicio de Microbiología, Hospital Universitario Son Espases, Palma de Mallorca, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sala E"
+          ],
+          "firstName": [
+            "Ernest"
+          ],
+          "lastName": [
+            "Sala"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Servicio de Neumología, Hospital Universitario Son Espases, Palma de Mallorca, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fraile P"
+          ],
+          "firstName": [
+            "Pablo"
+          ],
+          "lastName": [
+            "Fraile"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Unidad de Virología, Servicio de Microbiología, Hospital Universitario Son Espases, Palma de Mallorca, Spain."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3007479"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Medicina clinica (English ed.)"
+          ],
+          "ISOAbbreviation": [
+            "Med Clin (Engl Ed)"
+          ],
+          "medlineAbbreviation": [
+            "Med Clin (Engl Ed)"
+          ],
+          "NLMid": [
+            "101711190"
+          ],
+          "ESSN": [
+            "2387-0206"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "affiliation": [
+    "Unidad de Virología, Servicio de Microbiología, Hospital Universitario Son Espases, Palma de Mallorca, Spain."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Case Reports",
+        "case-report"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.medcle.2019.05.038"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7495144"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7495144?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-22"
+  ],
+  "firstIndexDate": [
+    "2020-09-23"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-19"
+  ],
+  "dateOfRevision": [
+    "2020-09-23"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-17"
+  ],
+  "firstPublicationDate": [
+    "2020-09-17"
+  ]
+}

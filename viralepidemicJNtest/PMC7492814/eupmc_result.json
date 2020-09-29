@@ -1,0 +1,461 @@
+{
+  "id": [
+    "PMC7492814"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7492814"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7492814"
+      ]
+    }
+  ],
+  "title": [
+    "Impact of interleukin-6 blockade with tocilizumab on SARS-CoV-2 viral kinetics and antibody responses in patients with COVID-19: A prospective cohort study"
+  ],
+  "authorString": [
+    "Masiá M, Fernández-González M, Padilla S, Ortega P, García J, Agulló V, García-Abellán J, Telenti G, Guillén L, Gutiérrez F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Masiá M"
+          ],
+          "firstName": [
+            "Mar"
+          ],
+          "lastName": [
+            "Masiá"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "a Hospital General Universitario de Elche and Universidad Miguel Hernández, Camí de la Almazara 11, Elche, Alicante 03203, Spain"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fernández-González M"
+          ],
+          "firstName": [
+            "Marta"
+          ],
+          "lastName": [
+            "Fernández-González"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "b Hospital General Universitario de Elche, Camí de la Almazara 11, Elche, Alicante 03203, Spain"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Padilla S"
+          ],
+          "firstName": [
+            "Sergio"
+          ],
+          "lastName": [
+            "Padilla"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "b Hospital General Universitario de Elche, Camí de la Almazara 11, Elche, Alicante 03203, Spain"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ortega P"
+          ],
+          "firstName": [
+            "Piedad"
+          ],
+          "lastName": [
+            "Ortega"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "b Hospital General Universitario de Elche, Camí de la Almazara 11, Elche, Alicante 03203, Spain"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "García J"
+          ],
+          "firstName": [
+            "José A."
+          ],
+          "lastName": [
+            "García"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "c Operational Research Center, Universidad Miguel Hernández, Elche, Alicante, Spain"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Agulló V"
+          ],
+          "firstName": [
+            "Vanesa"
+          ],
+          "lastName": [
+            "Agulló"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "b Hospital General Universitario de Elche, Camí de la Almazara 11, Elche, Alicante 03203, Spain"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "García-Abellán J"
+          ],
+          "firstName": [
+            "Javier"
+          ],
+          "lastName": [
+            "García-Abellán"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "b Hospital General Universitario de Elche, Camí de la Almazara 11, Elche, Alicante 03203, Spain"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Telenti G"
+          ],
+          "firstName": [
+            "Guillermo"
+          ],
+          "lastName": [
+            "Telenti"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "b Hospital General Universitario de Elche, Camí de la Almazara 11, Elche, Alicante 03203, Spain"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Guillén L"
+          ],
+          "firstName": [
+            "Lucía"
+          ],
+          "lastName": [
+            "Guillén"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "b Hospital General Universitario de Elche, Camí de la Almazara 11, Elche, Alicante 03203, Spain"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gutiérrez F"
+          ],
+          "firstName": [
+            "Félix"
+          ],
+          "lastName": [
+            "Gutiérrez"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "a Hospital General Universitario de Elche and Universidad Miguel Hernández, Camí de la Almazara 11, Elche, Alicante 03203, Spain"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "60"
+      ],
+      "journalIssueId": [
+        "3011143"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "EBioMedicine"
+          ],
+          "ISOAbbreviation": [
+            "EBioMedicine"
+          ],
+          "medlineAbbreviation": [
+            "EBioMedicine"
+          ],
+          "NLMid": [
+            "101647039"
+          ],
+          "ISSN": [
+            "2352-3964"
+          ],
+          "ESSN": [
+            "2352-3964"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "102999-102999"
+  ],
+  "abstractText": [
+    "Background The virological and immunological effects of the immunomodulatory drugs used for COVID-19 remain unknown. We evaluated the impact of interleukin (IL)-6 blockade with tocilizumab on SARS-CoV-2 viral kinetics and the antibody response in patients with COVID-19. Methods Prospective cohort study in patients admitted with COVID-19. Serial nasopharyngeal and plasma samples were measured for SARS-CoV-2 RNA and S-IgG/N-IgG titers, respectively. Findings 138 patients with confirmed infection were included; 76 (55%) underwent IL-6 blockade. Median initial SOFA (p = 0•016) and SARS-CoV-2 viral load (p<0•001, Mann-Whitney-Wilcoxon test) were significantly higher among anti-IL-6 users. Patients under IL-6 blockade showed delayed viral clearance in the Kaplan-Meier curves (HR 0•35 [95%CI] [0•15–0•81], log-rank p = 0•014), but an adjusted propensity score matching model did not demonstrate a significant relationship of IL-6 blockade with viral clearance (HR 1•63 [0•35–7•7]). Cox regression showed an inverse association between SARS-CoV-2 RNA clearance and the initial viral load (HR 0•35 [0•11–0•89]). Patients under the IL-6 blocker showed shorter median time to seropositivity, higher peak antibody titers, and higher cumulative proportion of seropositivity in the Kaplan Meier curves (HR 3•1 [1•9–5] for S-IgG; and HR 3•0 [1•9–4•9] for N-IgG; log-rank p<0•001 for both). However, no significant differences between groups were found in either S-IgG (HR 1•56 [0•41–6•0]) nor N-IgG (HR 0•96 [0•26–3•5]) responses in an adjusted propensity score analysis. Interpretation Our results suggest that in patients infected with SARS-CoV-2, IL-6 blockade does not impair the viral specific antibody responses. Although a delayed viral clearance was observed, it was driven by a higher initial viral load. The study supports the safety of this therapy in patients with COVID-19. Funding Instituto de salud Carlos III (Spain)."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "antibody responses",
+        "Tocilizumab",
+        "Viral Kinetics",
+        "Anti-cytokine Therapy",
+        "Covid-19",
+        "Sars-cov-2",
+        "N-Igg",
+        "S-Igg"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7492814/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7492814/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7492814"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7492814?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-18"
+  ],
+  "firstIndexDate": [
+    "2020-09-23"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-18"
+  ],
+  "dateOfRevision": [
+    "2020-09-19"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-16"
+  ],
+  "firstPublicationDate": [
+    "2020-09-16"
+  ]
+}

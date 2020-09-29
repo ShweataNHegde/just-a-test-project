@@ -1,0 +1,403 @@
+{
+  "id": [
+    "32866537"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32866537"
+  ],
+  "pmcid": [
+    "PMC7455175"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7455175"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1016/j.virusres.2020.198147"
+  ],
+  "title": [
+    "Fecal viral shedding in COVID-19 patients: Clinical significance, viral load dynamics and survival analysis."
+  ],
+  "authorString": [
+    "Wang X, Zheng J, Guo L, Yao H, Wang L, Xia X, Zhang W."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang X"
+          ],
+          "firstName": [
+            "Xiaoming"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "The Second Affiliated Hospital and Yuying Children's Hospital, Wenzhou Medical University, 109 Xueyuan Western Road, Wenzhou 325027, Zhejiang, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng J"
+          ],
+          "firstName": [
+            "Jingwei"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "The Affiliated Eye Hospital, Wenzhou Medical University, 270 Xueyuan Western Road, Wenzhou 325027, Zhejiang, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Guo L"
+          ],
+          "firstName": [
+            "Lei"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "The Second Affiliated Hospital and Yuying Children's Hospital, Wenzhou Medical University, 109 Xueyuan Western Road, Wenzhou 325027, Zhejiang, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yao H"
+          ],
+          "firstName": [
+            "Hao"
+          ],
+          "lastName": [
+            "Yao"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "The Second Affiliated Hospital and Yuying Children's Hospital, Wenzhou Medical University, 109 Xueyuan Western Road, Wenzhou 325027, Zhejiang, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang L"
+          ],
+          "firstName": [
+            "Lingya"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "The Second Affiliated Hospital and Yuying Children's Hospital, Wenzhou Medical University, 109 Xueyuan Western Road, Wenzhou 325027, Zhejiang, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xia X"
+          ],
+          "firstName": [
+            "XiaoDong"
+          ],
+          "lastName": [
+            "Xia"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "The Second Affiliated Hospital and Yuying Children's Hospital, Wenzhou Medical University, 109 Xueyuan Western Road, Wenzhou 325027, Zhejiang, China. Electronic address: xia_xiao_dong@hotmail.com."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang W"
+          ],
+          "firstName": [
+            "Weixi"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "The Second Affiliated Hospital and Yuying Children's Hospital, Wenzhou Medical University, 109 Xueyuan Western Road, Wenzhou 325027, Zhejiang, China. Electronic address: zhangweixi112@163.com."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "289"
+      ],
+      "journalIssueId": [
+        "3007965"
+      ],
+      "dateOfPublication": [
+        "2020 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Virus research"
+          ],
+          "ISOAbbreviation": [
+            "Virus Res."
+          ],
+          "medlineAbbreviation": [
+            "Virus Res"
+          ],
+          "NLMid": [
+            "8410979"
+          ],
+          "ISSN": [
+            "0168-1702"
+          ],
+          "ESSN": [
+            "1872-7492"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "198147"
+  ],
+  "abstractText": [
+    "BACKGROUND:To investigate the clinical significance, viral shedding duration and viral load dynamics of positive fecal SARS-CoV-2 signals in COVID-19. METHODS:COVID-19 patients were included. SARS-CoV-2 RNA was tested in stool and respiratory specimens until two sequential negative results were obtained. Clinical, laboratory and imaging data were recorded. RESULTS:Of the 69 COVID-19 patients, 20 (28.99 %) had positive fecal viral tests who were younger, had lower C-reactive protein (CRP) and fibrinogen (FIB) levels on admission (all P < 0.05), and showed more improvement and less progression on chest CT during recovery. The median duration of positive viral signals was significantly longer in stool samples than in respiratory samples (P < 0.05). In spite of the negative oropharyngeal swabs, eleven patients were tested positive for viral RNA in stool specimens, with their fecal SARS-CoV-2 RNA Ct (cycle threshold) values reaching 25-27. 6 of these 11 patients' Ct values rebounded. CONCLUSION:SARS-CoV-2 RNA in stool specimens was associated with a milder condition and better recovery of chest CT results while the median duration of SARS-CoV-2 RNA persistence was significantly longer in fecal samples than in oropharyngeal swabs. The fecal viral load easily reached a high level and rebounded even though respiratory signals became negative."
+  ],
+  "affiliation": [
+    "The Second Affiliated Hospital and Yuying Children's Hospital, Wenzhou Medical University, 109 Xueyuan Western Road, Wenzhou 325027, Zhejiang, China."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Survival analysis",
+        "Viral load",
+        "Fecal Specimens",
+        "Covid-19"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.virusres.2020.198147"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7455175"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7455175?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-01"
+  ],
+  "firstIndexDate": [
+    "2020-09-02"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-02"
+  ],
+  "dateOfRevision": [
+    "2020-09-26"
+  ],
+  "electronicPublicationDate": [
+    "2020-08-28"
+  ],
+  "firstPublicationDate": [
+    "2020-08-28"
+  ]
+}

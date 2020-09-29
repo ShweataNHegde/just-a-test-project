@@ -1,0 +1,287 @@
+{
+  "id": [
+    "PMC7471550"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7471550"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7471550"
+      ]
+    }
+  ],
+  "title": [
+    "A Review of Viral Shedding in Resolved and Convalescent COVID-19 Patients"
+  ],
+  "authorString": [
+    "Karia R, Nagraj S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Karia R"
+          ],
+          "firstName": [
+            "Rutu"
+          ],
+          "lastName": [
+            "Karia"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "1 Anna Medical College and Research Center, Montagne Blanche, Mauritius"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Nagraj S"
+          ],
+          "firstName": [
+            "Sanjana"
+          ],
+          "lastName": [
+            "Nagraj"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2 New York, NY USA"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3006095"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "SN comprehensive clinical medicine"
+          ],
+          "ISOAbbreviation": [
+            "SN Compr Clin Med"
+          ],
+          "medlineAbbreviation": [
+            "SN Compr Clin Med"
+          ],
+          "NLMid": [
+            "101740833"
+          ],
+          "ISSN": [
+            "2523-8973"
+          ],
+          "ESSN": [
+            "2523-8973"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "1-10"
+  ],
+  "abstractText": [
+    "As of August 06, 2020, 18.9 million cases of SARS-CoV-2 and more than 711,000 deaths have been reported. As per available data, 80% of the patients experience mild disease, 20% need hospital admission, and about 5% require intensive care. To date, several modes of transmission such as droplet, contact, airborne, blood borne, and fomite have been described as plausible. Several studies have demonstrated shedding of the virus from patients after being free from symptoms, i.e. prolonged virus shedding. While few studies demonstrated virus shedding in convalescent patients, i.e. those testing negative for presence of virus on nasopharyngeal and/or oropharyngeal swabs, yet virus shedding was reported from other sources. Maximum duration of conversion time reported among the included studies was 60 days, while the least duration was 3 days. Viral shedding from sources other than nasopharynx and oropharynx, like stools, urine, saliva, semen, and tears, was reported. More number of studies described virus shedding from gastrointestinal tract (mainly in stools), while least a number of cases tested positive for the virus in tears. Prolonged viral shedding is important to consider while discontinuing isolation procedures and/or discharging SARS-CoV-2 patients. The risk of transmission varies in magnitude and depends on the infectivity of the shed virus in biological samples and the patient population involved. Clinical decision-making should be governed by clinical scenario, guidelines, detectable viral load, source of detectable virus, infectivity, and patient-related factors."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Transmission",
+        "Virus Shedding",
+        "Convalescent Patients",
+        "Prolonged Shedding"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7471550/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7471550/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7471550"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7471550?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-06"
+  ],
+  "firstIndexDate": [
+    "2020-09-06"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-06"
+  ],
+  "dateOfRevision": [
+    "2020-09-10"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-03"
+  ],
+  "firstPublicationDate": [
+    "2020-09-03"
+  ]
+}

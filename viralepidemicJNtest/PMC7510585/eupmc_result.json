@@ -1,0 +1,599 @@
+{
+  "id": [
+    "PMC7510585"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7510585"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7510585"
+      ]
+    }
+  ],
+  "title": [
+    "Furin Inhibitors Block SARS-CoV-2 Spike Protein Cleavage to Suppress Virus Production and Cytopathic Effects"
+  ],
+  "authorString": [
+    "Cheng Y, Chao T, Li C, Chiu M, Kao H, Wang S, Pang Y, Lin C, Tsai Y, Lee W, Tao M, Ho T, Wu P, Jang L, Chen P, Chang S, Yeh S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Cheng Y"
+          ],
+          "firstName": [
+            "Ya-Wen"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "1 Department of Microbiology, National Taiwan University College of Medicine, Taipei, 100; Taiwan"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chao T"
+          ],
+          "firstName": [
+            "Tai-Ling"
+          ],
+          "lastName": [
+            "Chao"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2 Department of Clinical Laboratory Sciences and Medical Biotechnology, National Taiwan University College of Medicine, Taipei, 100; Taiwan"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li C"
+          ],
+          "firstName": [
+            "Chiao-Ling"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "1 Department of Microbiology, National Taiwan University College of Medicine, Taipei, 100; Taiwan"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chiu M"
+          ],
+          "firstName": [
+            "Mu-Fan"
+          ],
+          "lastName": [
+            "Chiu"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "1 Department of Microbiology, National Taiwan University College of Medicine, Taipei, 100; Taiwan"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kao H"
+          ],
+          "firstName": [
+            "Han-Chieh"
+          ],
+          "lastName": [
+            "Kao"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2 Department of Clinical Laboratory Sciences and Medical Biotechnology, National Taiwan University College of Medicine, Taipei, 100; Taiwan"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang S"
+          ],
+          "firstName": [
+            "Sheng-Han"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "3 Hepatitis Research Center, National Taiwan University Hospital, Taipei, 100; Taiwan"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pang Y"
+          ],
+          "firstName": [
+            "Yu-Hao"
+          ],
+          "lastName": [
+            "Pang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2 Department of Clinical Laboratory Sciences and Medical Biotechnology, National Taiwan University College of Medicine, Taipei, 100; Taiwan"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lin C"
+          ],
+          "firstName": [
+            "Chih-Hui"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2 Department of Clinical Laboratory Sciences and Medical Biotechnology, National Taiwan University College of Medicine, Taipei, 100; Taiwan"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tsai Y"
+          ],
+          "firstName": [
+            "Ya-Min"
+          ],
+          "lastName": [
+            "Tsai"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2 Department of Clinical Laboratory Sciences and Medical Biotechnology, National Taiwan University College of Medicine, Taipei, 100; Taiwan"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lee W"
+          ],
+          "firstName": [
+            "Wen-Hau"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2 Department of Clinical Laboratory Sciences and Medical Biotechnology, National Taiwan University College of Medicine, Taipei, 100; Taiwan"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tao M"
+          ],
+          "firstName": [
+            "Mi-Hua"
+          ],
+          "lastName": [
+            "Tao"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "4 Institute of Biomedical Sciences, Academia Sinica, Taipei, 115; Taiwan"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ho T"
+          ],
+          "firstName": [
+            "Tung-Ching"
+          ],
+          "lastName": [
+            "Ho"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "1 Department of Microbiology, National Taiwan University College of Medicine, Taipei, 100; Taiwan"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wu P"
+          ],
+          "firstName": [
+            "Ping-Yi"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "4 Institute of Biomedical Sciences, Academia Sinica, Taipei, 115; Taiwan"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jang L"
+          ],
+          "firstName": [
+            "Li-Ting"
+          ],
+          "lastName": [
+            "Jang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "5 Biomedical Resource Core at the First Core Labs, Branch Office of Research and Development, National Taiwan University College of Medicine, Taipei, 100; Taiwan"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen P"
+          ],
+          "firstName": [
+            "Pei-Jer"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "8 National Taiwan University Center for Genomic Medicine, National Taiwan University College of Medicine, Taipei, 100; Taiwan"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chang S"
+          ],
+          "firstName": [
+            "Sui-Yuan"
+          ],
+          "lastName": [
+            "Chang"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "9 Department of Laboratory Medicine, National Taiwan University Hospital, Taipei, 100; Taiwan"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yeh S"
+          ],
+          "firstName": [
+            "Shiou-Hwei"
+          ],
+          "lastName": [
+            "Yeh"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "8 National Taiwan University Center for Genomic Medicine, National Taiwan University College of Medicine, Taipei, 100; Taiwan"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3007792"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cell reports"
+          ],
+          "ISOAbbreviation": [
+            "Cell Rep"
+          ],
+          "medlineAbbreviation": [
+            "Cell Rep"
+          ],
+          "NLMid": [
+            "101573691"
+          ],
+          "ISSN": [
+            "2211-1247"
+          ],
+          "ESSN": [
+            "2211-1247"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Development of specific antivirals is an urgent unmet need for SARS-coronavirus 2 (SARS-CoV-2) infections. This study focuses on host proteases that proteolytically activate the SARS-CoV-2 spike protein, critical for its fusion after binding to angiotensin-converting enzyme 2 (ACE2), as antiviral targets. We first validated cleavage at a putative furin substrate motif at SARS-CoV-2 spike by expressing it in VeroE6 cells and found prominent syncytium formation. Both cleavage and syncytium were abolished by treatment with furin inhibitors decanoyl-RVKR-chloromethylketone (CMK) and naphthofluorescein but not by transmembrane protease serine 2 (TMPRSS2) inhibitor camostat. CMK and naphthofluorescein showed antiviral effects in SARS-CoV-2-infected cells by decreasing viral production and cytopathic effects. Further analysis revealed that, similar to camostat, CMK blocks virus entry, but it further suppresses the cleavage of spike and syncytium. Naphthofluorescein instead acts primarily by suppressing viral RNA transcription. Therefore, furin inhibitors may become promising antivirals for prevention and treatment of SARS-CoV-2 infections. Graphical Abstract  Highlights ● The furin cleavage site in the SARS-CoV-2 spike protein mediates syncytium formation.● The SARS-CoV-2 spike-mediated syncytium is suppressed by specific furin inhibitors.● Furin inhibitors block SARS-CoV-2 viral entry and viral replication.● Furin inhibitors are potential antivirals for SARS-CoV-2 infection and pathogenesis. Development of effective antivirals is an urgent unmet need for SARS-CoV-2 infections. Cheng et al. find that the cleavage of the furin substrate site in the viral spike protein is critical for viral production and cytopathic effects. Two inhibitors targeting furin are potential antivirals to control SARS-CoV-2 infection and pathogenesis."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "spike",
+        "Furin",
+        "cytopathic effect",
+        "Syncytium",
+        "Sars-cov-2"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7510585/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7510585/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7510585"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7510585?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-28"
+  ],
+  "firstIndexDate": [
+    "2020-09-28"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-28"
+  ],
+  "dateOfRevision": [
+    "2020-09-28"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-23"
+  ],
+  "firstPublicationDate": [
+    "2020-09-23"
+  ]
+}

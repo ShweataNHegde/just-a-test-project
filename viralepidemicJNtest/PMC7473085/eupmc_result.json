@@ -1,0 +1,705 @@
+{
+  "id": [
+    "32666894"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32666894"
+  ],
+  "pmcid": [
+    "PMC7473085"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7473085"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1080/22221751.2020.1792353"
+  ],
+  "title": [
+    "Transmission experiments support clade-level differences in the transmission and pathogenicity of Cambodian influenza A/H5N1 viruses."
+  ],
+  "authorString": [
+    "Horwood PF, Fabrizio T, Horm SV, Metlin A, Ros S, Tok S, Jeevan T, Seiler P, Y P, Rith S, Suttie A, Buchy P, Karlsson EA, Webby R, Dussart P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Horwood PF"
+          ],
+          "firstName": [
+            "Paul F"
+          ],
+          "lastName": [
+            "Horwood"
+          ],
+          "initials": [
+            "PF"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9622-0742",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Virology Unit, Institut Pasteur du Cambodge, Institut Pasteur International Network, Phnom Penh, Cambodia.",
+                "College of Public Health, Medical and Veterinary Sciences, James Cook University, Townsville, Australia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fabrizio T"
+          ],
+          "firstName": [
+            "Thomas"
+          ],
+          "lastName": [
+            "Fabrizio"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8960-0728",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Infectious Diseases, St. Jude Children's Research Hospital, Memphis, TN, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Horm SV"
+          ],
+          "firstName": [
+            "Srey Viseth"
+          ],
+          "lastName": [
+            "Horm"
+          ],
+          "initials": [
+            "SV"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Virology Unit, Institut Pasteur du Cambodge, Institut Pasteur International Network, Phnom Penh, Cambodia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Metlin A"
+          ],
+          "firstName": [
+            "Artem"
+          ],
+          "lastName": [
+            "Metlin"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4283-0171",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Virology Unit, Institut Pasteur du Cambodge, Institut Pasteur International Network, Phnom Penh, Cambodia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ros S"
+          ],
+          "firstName": [
+            "Sopheaktra"
+          ],
+          "lastName": [
+            "Ros"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Virology Unit, Institut Pasteur du Cambodge, Institut Pasteur International Network, Phnom Penh, Cambodia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tok S"
+          ],
+          "firstName": [
+            "Songha"
+          ],
+          "lastName": [
+            "Tok"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Virology Unit, Institut Pasteur du Cambodge, Institut Pasteur International Network, Phnom Penh, Cambodia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jeevan T"
+          ],
+          "firstName": [
+            "Trushar"
+          ],
+          "lastName": [
+            "Jeevan"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Infectious Diseases, St. Jude Children's Research Hospital, Memphis, TN, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Seiler P"
+          ],
+          "firstName": [
+            "Patrick"
+          ],
+          "lastName": [
+            "Seiler"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Infectious Diseases, St. Jude Children's Research Hospital, Memphis, TN, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Y P"
+          ],
+          "firstName": [
+            "Phalla"
+          ],
+          "lastName": [
+            "Y"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Virology Unit, Institut Pasteur du Cambodge, Institut Pasteur International Network, Phnom Penh, Cambodia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rith S"
+          ],
+          "firstName": [
+            "Sareth"
+          ],
+          "lastName": [
+            "Rith"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Virology Unit, Institut Pasteur du Cambodge, Institut Pasteur International Network, Phnom Penh, Cambodia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Suttie A"
+          ],
+          "firstName": [
+            "Annika"
+          ],
+          "lastName": [
+            "Suttie"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Virology Unit, Institut Pasteur du Cambodge, Institut Pasteur International Network, Phnom Penh, Cambodia.",
+                "School of Applied and Biomedical Sciences, Federation University, Churchill, Australia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Buchy P"
+          ],
+          "firstName": [
+            "Philippe"
+          ],
+          "lastName": [
+            "Buchy"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1372-3008",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Virology Unit, Institut Pasteur du Cambodge, Institut Pasteur International Network, Phnom Penh, Cambodia.",
+                "GlaxoSmithKline Vaccines R&D Intercontinental, Singapore, Singapore."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Karlsson EA"
+          ],
+          "firstName": [
+            "Erik A"
+          ],
+          "lastName": [
+            "Karlsson"
+          ],
+          "initials": [
+            "EA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6004-5671",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Virology Unit, Institut Pasteur du Cambodge, Institut Pasteur International Network, Phnom Penh, Cambodia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Webby R"
+          ],
+          "firstName": [
+            "Richard"
+          ],
+          "lastName": [
+            "Webby"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4397-7132",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Infectious Diseases, St. Jude Children's Research Hospital, Memphis, TN, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dussart P"
+          ],
+          "firstName": [
+            "Philippe"
+          ],
+          "lastName": [
+            "Dussart"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1931-3037",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Virology Unit, Institut Pasteur du Cambodge, Institut Pasteur International Network, Phnom Penh, Cambodia."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9622-0742",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8960-0728",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4283-0171",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1372-3008",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6004-5671",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4397-7132",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1931-3037",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2893331"
+      ],
+      "dateOfPublication": [
+        "2020 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Emerging microbes & infections"
+          ],
+          "ISOAbbreviation": [
+            "Emerg Microbes Infect"
+          ],
+          "medlineAbbreviation": [
+            "Emerg Microbes Infect"
+          ],
+          "NLMid": [
+            "101594885"
+          ],
+          "ISSN": [
+            "2222-1751"
+          ],
+          "ESSN": [
+            "2222-1751"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "1702-1711"
+  ],
+  "abstractText": [
+    "Influenza A/H5N1 has circulated in Asia since 2003 and is now enzootic in many countries in that region. In Cambodia, the virus has circulated since 2004 and has intermittently infected humans. During this period, we have noted differences in the rate of infections in humans, potentially associated with the circulation of different viral clades. In particular, a reassortant clade 1.1.2 virus emerged in early 2013 and was associated with a dramatic increase in infections of humans (34 cases) until it was replaced by a clade 2.3.2.1c virus in early 2014. In contrast, only one infection of a human has been reported in the 6 years since the clade 2.3.2.1c virus became the dominant circulating virus. We selected three viruses to represent the main viral clades that have circulated in Cambodia (clade 1.1.2, clade 1.1.2 reassortant, and clade 2.3.2.1c), and we conducted experiments to assess the virulence and transmissibility of these viruses in avian (chicken, duck) and mammalian (ferret) models. Our results suggest that the clade 2.3.2.1c virus is more \"avian-like,\" with high virulence in both ducks and chickens, but there is no evidence of aerosol transmission of the virus from ducks to ferrets. In contrast, the two clade 1 viruses were less virulent in experimentally infected and contact ducks. However, evidence of chicken-to-ferret aerosol transmission was observed for both clade 1 viruses. The transmission experiments provide insights into clade-level differences that might explain the variation in A/H5N1 infections of humans observed in Cambodia and other settings."
+  ],
+  "affiliation": [
+    "Virology Unit, Institut Pasteur du Cambodge, Institut Pasteur International Network, Phnom Penh, Cambodia."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 AI128805"
+          ],
+          "agency": [
+            "NIAID NIH HHS"
+          ],
+          "acronym": [
+            "AI"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Poultry",
+        "Transmission",
+        "Influenza",
+        "Avian",
+        "H5N1",
+        "DUCKS",
+        "Ferrets",
+        "Cambodia"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/22221751.2020.1792353"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7473085"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7473085?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-07-16"
+  ],
+  "firstIndexDate": [
+    "2020-07-16"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-17"
+  ],
+  "dateOfRevision": [
+    "2020-09-16"
+  ],
+  "firstPublicationDate": [
+    "2020-12-01"
+  ]
+}

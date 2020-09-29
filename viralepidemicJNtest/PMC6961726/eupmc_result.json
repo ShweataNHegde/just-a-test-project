@@ -1,0 +1,510 @@
+{
+  "id": [
+    "31885311"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31885311"
+  ],
+  "pmcid": [
+    "PMC6961726"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC6961726"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1080/21505594.2019.1705022"
+  ],
+  "title": [
+    "Exosomes cloak the virion to transmit Enterovirus 71 non-lytically."
+  ],
+  "authorString": [
+    "Gu J, Wu J, Fang D, Qiu Y, Zou X, Jia X, Yin Y, Shen L, Mao L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gu J"
+          ],
+          "firstName": [
+            "Jiaqi"
+          ],
+          "lastName": [
+            "Gu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Laboratory Medicine, The Affiliated People's Hospital, Jiangsu University, Zhenjiang, China.",
+                "Department of Immunology, Jiangsu Key Laboratory of Laboratory Medicine, School of Medicine, Jiangsu University, Zhenjiang, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wu J"
+          ],
+          "firstName": [
+            "Jing"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Laboratory Medicine, The Affiliated People's Hospital, Jiangsu University, Zhenjiang, China.",
+                "Department of Immunology, Jiangsu Key Laboratory of Laboratory Medicine, School of Medicine, Jiangsu University, Zhenjiang, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fang D"
+          ],
+          "firstName": [
+            "Daihua"
+          ],
+          "lastName": [
+            "Fang"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Clinical Laboratory, Xuzhou children's hospital, Xuzhou, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Qiu Y"
+          ],
+          "firstName": [
+            "Yang"
+          ],
+          "lastName": [
+            "Qiu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Virology, Wuhan Institute of Virology, Center for Biosafety Mega-Science, Chinese Academy of Sciences, Wuhan, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zou X"
+          ],
+          "firstName": [
+            "Xinran"
+          ],
+          "lastName": [
+            "Zou"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Laboratory Medicine, The Affiliated People's Hospital, Jiangsu University, Zhenjiang, China.",
+                "Department of Immunology, Jiangsu Key Laboratory of Laboratory Medicine, School of Medicine, Jiangsu University, Zhenjiang, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jia X"
+          ],
+          "firstName": [
+            "Xiaonan"
+          ],
+          "lastName": [
+            "Jia"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3725-6769",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Laboratory Medicine, The Affiliated People's Hospital, Jiangsu University, Zhenjiang, China.",
+                "Department of Immunology, Jiangsu Key Laboratory of Laboratory Medicine, School of Medicine, Jiangsu University, Zhenjiang, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yin Y"
+          ],
+          "firstName": [
+            "Yiqian"
+          ],
+          "lastName": [
+            "Yin"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0054-4062",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Laboratory Medicine, The Affiliated People's Hospital, Jiangsu University, Zhenjiang, China.",
+                "Department of Immunology, Jiangsu Key Laboratory of Laboratory Medicine, School of Medicine, Jiangsu University, Zhenjiang, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shen L"
+          ],
+          "firstName": [
+            "Li"
+          ],
+          "lastName": [
+            "Shen"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Clinical Laboratory, Zhenjiang Center for Disease Control and Prevention, Jiangsu, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mao L"
+          ],
+          "firstName": [
+            "Lingxiang"
+          ],
+          "lastName": [
+            "Mao"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2065-0188",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Laboratory Medicine, The Affiliated People's Hospital, Jiangsu University, Zhenjiang, China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3725-6769",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0054-4062",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2065-0188",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2895107"
+      ],
+      "dateOfPublication": [
+        "2020 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Virulence"
+          ],
+          "ISOAbbreviation": [
+            "Virulence"
+          ],
+          "medlineAbbreviation": [
+            "Virulence"
+          ],
+          "NLMid": [
+            "101531386"
+          ],
+          "ISSN": [
+            "2150-5594"
+          ],
+          "ESSN": [
+            "2150-5608"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "32-38"
+  ],
+  "abstractText": [
+    "Enterovirus 71 (EV71) is a non-enveloped virus and it can be released from host cells through a traditional cytolytic manner. Now, we showed EV71 could be spread non-lytically between cells during early viral infection. In order to explain this phenomenon, we separated supernatant fluids of rhabdomyosarcoma (RD) cells cultures infected with EV71 by isopycnic gradient centrifugation. Two populations of virus particles were morphology indistinguishable by transmission electron microscope (TEM). It showed that some EV71 particles were wrapped inside extracellular vesicles which were verified to be exosomes by immunoassay and morphologic analysis. In addition, exosomes containing viral RNA were shed in plasma of EV71-infected encephalitis in children. Our findings indicate that the \"non-enveloped\" EV71 virions could be wrapped within exosomes which promote their spread in the absence of cell lysis.Abbreviation: EV71: enterovirus 71; EXO: exosome; RD: rhabdomyosarcoma; TEM: transmission electron microscope; HFMD: hand, foot, and mouth disease; HIV: immunodeficiency virus; HCV: hepatitis C virus; HTLV: Human T-cell lymphotropic virus; HAV: hepatitis A virus; MOI: multiplicity of infection; EVs: extracellular vesicles; VP1: viral capsid protein 1; NTA: nanoparticle tracking analysis; CNS: central nervous system."
+  ],
+  "affiliation": [
+    "Department of Laboratory Medicine, The Affiliated People's Hospital, Jiangsu University, Zhenjiang, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "brief-report",
+        "Research Support, Non-U.S. Gov't",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Density",
+        "Exosomes",
+        "Ev71",
+        "Exo-ev71",
+        "Non-lytically"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/21505594.2019.1705022"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6961726"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6961726?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-12-31"
+  ],
+  "firstIndexDate": [
+    "2020-01-03"
+  ],
+  "fullTextReceivedDate": [
+    "2020-02-04"
+  ],
+  "dateOfRevision": [
+    "2020-06-01"
+  ],
+  "firstPublicationDate": [
+    "2020-12-01"
+  ]
+}

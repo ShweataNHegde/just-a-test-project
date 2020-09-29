@@ -1,0 +1,1001 @@
+{
+  "id": [
+    "32619390"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32619390"
+  ],
+  "pmcid": [
+    "PMC7473198"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7473198"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1080/22221751.2020.1791737"
+  ],
+  "title": [
+    "Shotgun proteomics analysis of SARS-CoV-2-infected cells and how it can optimize whole viral particle antigen production for vaccines."
+  ],
+  "authorString": [
+    "Grenga L, Gallais F, Pible O, Gaillard JC, Gouveia D, Batina H, Bazaline N, Ruat S, Culotta K, Miotello G, Debroas S, Roncato MA, Steinmetz G, Foissard C, Desplan A, Alpha-Bazin B, Almunia C, Gas F, Bellanger L, Armengaud J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Grenga L"
+          ],
+          "firstName": [
+            "Lucia"
+          ],
+          "lastName": [
+            "Grenga"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5560-1717",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Département Médicaments et Technologies pour la Santé (DMTS), Université Paris Saclay, CEA, INRAE, SPI Bagnols-sur-Cèze, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gallais F"
+          ],
+          "firstName": [
+            "Fabrice"
+          ],
+          "lastName": [
+            "Gallais"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Département Médicaments et Technologies pour la Santé (DMTS), Université Paris Saclay, CEA, INRAE, SPI Bagnols-sur-Cèze, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pible O"
+          ],
+          "firstName": [
+            "Olivier"
+          ],
+          "lastName": [
+            "Pible"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4398-6730",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Département Médicaments et Technologies pour la Santé (DMTS), Université Paris Saclay, CEA, INRAE, SPI Bagnols-sur-Cèze, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gaillard JC"
+          ],
+          "firstName": [
+            "Jean-Charles"
+          ],
+          "lastName": [
+            "Gaillard"
+          ],
+          "initials": [
+            "JC"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Département Médicaments et Technologies pour la Santé (DMTS), Université Paris Saclay, CEA, INRAE, SPI Bagnols-sur-Cèze, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gouveia D"
+          ],
+          "firstName": [
+            "Duarte"
+          ],
+          "lastName": [
+            "Gouveia"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5578-3370",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Département Médicaments et Technologies pour la Santé (DMTS), Université Paris Saclay, CEA, INRAE, SPI Bagnols-sur-Cèze, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Batina H"
+          ],
+          "firstName": [
+            "Hélène"
+          ],
+          "lastName": [
+            "Batina"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Département Médicaments et Technologies pour la Santé (DMTS), Université Paris Saclay, CEA, INRAE, SPI Bagnols-sur-Cèze, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bazaline N"
+          ],
+          "firstName": [
+            "Niza"
+          ],
+          "lastName": [
+            "Bazaline"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Département Médicaments et Technologies pour la Santé (DMTS), Université Paris Saclay, CEA, INRAE, SPI Bagnols-sur-Cèze, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ruat S"
+          ],
+          "firstName": [
+            "Sylvie"
+          ],
+          "lastName": [
+            "Ruat"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Département Médicaments et Technologies pour la Santé (DMTS), Université Paris Saclay, CEA, INRAE, SPI Bagnols-sur-Cèze, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Culotta K"
+          ],
+          "firstName": [
+            "Karen"
+          ],
+          "lastName": [
+            "Culotta"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Département Médicaments et Technologies pour la Santé (DMTS), Université Paris Saclay, CEA, INRAE, SPI Bagnols-sur-Cèze, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Miotello G"
+          ],
+          "firstName": [
+            "Guylaine"
+          ],
+          "lastName": [
+            "Miotello"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2398-1249",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Département Médicaments et Technologies pour la Santé (DMTS), Université Paris Saclay, CEA, INRAE, SPI Bagnols-sur-Cèze, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Debroas S"
+          ],
+          "firstName": [
+            "Stéphanie"
+          ],
+          "lastName": [
+            "Debroas"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Département Médicaments et Technologies pour la Santé (DMTS), Université Paris Saclay, CEA, INRAE, SPI Bagnols-sur-Cèze, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Roncato MA"
+          ],
+          "firstName": [
+            "Marie-Anne"
+          ],
+          "lastName": [
+            "Roncato"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Département Médicaments et Technologies pour la Santé (DMTS), Université Paris Saclay, CEA, INRAE, SPI Bagnols-sur-Cèze, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Steinmetz G"
+          ],
+          "firstName": [
+            "Gérard"
+          ],
+          "lastName": [
+            "Steinmetz"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Département Médicaments et Technologies pour la Santé (DMTS), Université Paris Saclay, CEA, INRAE, SPI Bagnols-sur-Cèze, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Foissard C"
+          ],
+          "firstName": [
+            "Charlotte"
+          ],
+          "lastName": [
+            "Foissard"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Département Médicaments et Technologies pour la Santé (DMTS), Université Paris Saclay, CEA, INRAE, SPI Bagnols-sur-Cèze, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Desplan A"
+          ],
+          "firstName": [
+            "Anne"
+          ],
+          "lastName": [
+            "Desplan"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Département Médicaments et Technologies pour la Santé (DMTS), Université Paris Saclay, CEA, INRAE, SPI Bagnols-sur-Cèze, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Alpha-Bazin B"
+          ],
+          "firstName": [
+            "Béatrice"
+          ],
+          "lastName": [
+            "Alpha-Bazin"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9334-4392",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Département Médicaments et Technologies pour la Santé (DMTS), Université Paris Saclay, CEA, INRAE, SPI Bagnols-sur-Cèze, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Almunia C"
+          ],
+          "firstName": [
+            "Christine"
+          ],
+          "lastName": [
+            "Almunia"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8749-5557",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Département Médicaments et Technologies pour la Santé (DMTS), Université Paris Saclay, CEA, INRAE, SPI Bagnols-sur-Cèze, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gas F"
+          ],
+          "firstName": [
+            "Fabienne"
+          ],
+          "lastName": [
+            "Gas"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Département Médicaments et Technologies pour la Santé (DMTS), Université Paris Saclay, CEA, INRAE, SPI Bagnols-sur-Cèze, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bellanger L"
+          ],
+          "firstName": [
+            "Laurent"
+          ],
+          "lastName": [
+            "Bellanger"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Département Médicaments et Technologies pour la Santé (DMTS), Université Paris Saclay, CEA, INRAE, SPI Bagnols-sur-Cèze, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Armengaud J"
+          ],
+          "firstName": [
+            "Jean"
+          ],
+          "lastName": [
+            "Armengaud"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1589-445X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Département Médicaments et Technologies pour la Santé (DMTS), Université Paris Saclay, CEA, INRAE, SPI Bagnols-sur-Cèze, France."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5560-1717",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4398-6730",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5578-3370",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2398-1249",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9334-4392",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8749-5557",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1589-445X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "related_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2893331"
+      ],
+      "dateOfPublication": [
+        "2020 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Emerging microbes & infections"
+          ],
+          "ISOAbbreviation": [
+            "Emerg Microbes Infect"
+          ],
+          "medlineAbbreviation": [
+            "Emerg Microbes Infect"
+          ],
+          "NLMid": [
+            "101594885"
+          ],
+          "ISSN": [
+            "2222-1751"
+          ],
+          "ESSN": [
+            "2222-1751"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "1712-1721"
+  ],
+  "abstractText": [
+    "Severe acute respiratory syndrome-related coronavirus 2 (SARS-CoV-2) has resulted in a pandemic and is continuing to spread rapidly around the globe. No effective vaccine is currently available to prevent COVID-19, and intense efforts are being invested worldwide into vaccine development. In this context, all technology platforms must overcome several challenges resulting from the use of an incompletely characterized new virus. These include finding the right conditions for virus amplification for the development of vaccines based on inactivated or attenuated whole viral particles. Here, we describe a shotgun tandem mass spectrometry workflow, the data produced can be used to guide optimization of the conditions for viral amplification. In parallel, we analysed the changes occurring in the host cell proteome following SARS-CoV-2 infection to glean information on the biological processes modulated by the virus that could be further explored as potential drug targets to deal with the pandemic."
+  ],
+  "affiliation": [
+    "Département Médicaments et Technologies pour la Santé (DMTS), Université Paris Saclay, CEA, INRAE, SPI Bagnols-sur-Cèze, France."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Vero Cells"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Virion"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Viral Vaccines"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antigens, Viral"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BI"
+                  ],
+                  "qualifierName": [
+                    "biosynthesis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Proteomics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tandem Mass Spectrometry"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Betacoronavirus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chlorocebus aethiops"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Vaccine",
+        "Mass spectrometry",
+        "Proteomics",
+        "Host Response",
+        "Infection Kinetics",
+        "Covid-19",
+        "Sars-cov-2",
+        "Viral Protein Detection"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Viral Vaccines"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Antigens, Viral"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/22221751.2020.1791737"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7473198"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7473198?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "PRIDE"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-08-04"
+  ],
+  "dateOfCreation": [
+    "2020-07-04"
+  ],
+  "firstIndexDate": [
+    "2020-07-04"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-17"
+  ],
+  "dateOfRevision": [
+    "2020-09-16"
+  ],
+  "firstPublicationDate": [
+    "2020-12-01"
+  ]
+}

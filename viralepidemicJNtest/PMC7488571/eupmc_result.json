@@ -1,0 +1,498 @@
+{
+  "id": [
+    "32917235"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32917235"
+  ],
+  "pmcid": [
+    "PMC7488571"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7488571"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1186/s12977-020-00539-9"
+  ],
+  "title": [
+    "Alpha-enolase in viral target cells suppresses the human immunodeficiency virus type 1 integration."
+  ],
+  "authorString": [
+    "Kishimoto N, Yamamoto K, Iga N, Kirihara C, Abe T, Takamune N, Misumi S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kishimoto N"
+          ],
+          "firstName": [
+            "Naoki"
+          ],
+          "lastName": [
+            "Kishimoto"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Environmental and Molecular Health Sciences, Faculty of Medical and Pharmaceutical Sciences, Kumamoto University, Kumamoto, 862-0973, Japan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yamamoto K"
+          ],
+          "firstName": [
+            "Kengo"
+          ],
+          "lastName": [
+            "Yamamoto"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Environmental and Molecular Health Sciences, Faculty of Medical and Pharmaceutical Sciences, Kumamoto University, Kumamoto, 862-0973, Japan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Iga N"
+          ],
+          "firstName": [
+            "Nozomi"
+          ],
+          "lastName": [
+            "Iga"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Environmental and Molecular Health Sciences, Faculty of Medical and Pharmaceutical Sciences, Kumamoto University, Kumamoto, 862-0973, Japan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kirihara C"
+          ],
+          "firstName": [
+            "Chie"
+          ],
+          "lastName": [
+            "Kirihara"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Environmental and Molecular Health Sciences, Faculty of Medical and Pharmaceutical Sciences, Kumamoto University, Kumamoto, 862-0973, Japan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Abe T"
+          ],
+          "firstName": [
+            "Towa"
+          ],
+          "lastName": [
+            "Abe"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Environmental and Molecular Health Sciences, Faculty of Medical and Pharmaceutical Sciences, Kumamoto University, Kumamoto, 862-0973, Japan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Takamune N"
+          ],
+          "firstName": [
+            "Nobutoki"
+          ],
+          "lastName": [
+            "Takamune"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Kumamoto Innovative Development Organization, Kumamoto University, Kumamoto, 860-8555, Japan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Misumi S"
+          ],
+          "firstName": [
+            "Shogo"
+          ],
+          "lastName": [
+            "Misumi"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9465-4720",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Environmental and Molecular Health Sciences, Faculty of Medical and Pharmaceutical Sciences, Kumamoto University, Kumamoto, 862-0973, Japan. misumi@gpo.kumamoto-u.ac.jp."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9465-4720",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "17"
+      ],
+      "journalIssueId": [
+        "3006489"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Retrovirology"
+          ],
+          "ISOAbbreviation": [
+            "Retrovirology"
+          ],
+          "medlineAbbreviation": [
+            "Retrovirology"
+          ],
+          "NLMid": [
+            "101216893"
+          ],
+          "ISSN": [
+            "1742-4690"
+          ],
+          "ESSN": [
+            "1742-4690"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "31"
+  ],
+  "abstractText": [
+    "BACKGROUND:A protein exhibiting more than one biochemical function is termed a moonlighting protein. Glycolytic enzymes are typical moonlighting proteins, and these enzymes control the infection of various viruses. Previously, we reported that glyceraldehyde 3-phosphate dehydrogenase (GAPDH) and alpha-enolase (ENO1) are incorporated into human immunodeficiency virus type 1 (HIV-1) particles from viral producer cells and suppress viral reverse transcription independently each other. However, it remains unclear whether these proteins expressed in viral target cells affect the early phase of HIV-1 replication. RESULTS:Here we show that the GAPDH expression level in viral target cells does not affect the early phase of HIV-1 replication, but ENO1 has a capacity to suppress viral integration in viral target cells. In contrast to GAPDH, suppression of ENO1 expression by RNA interference in the target cells increased viral infectivity, but had no effect on the expression levels of the HIV-1 receptors CD4, CCR5 and CXCR4 and on the level of HIV-1 entry. Quantitative analysis of HIV-1 reverse transcription products showed that the number of copies of the late products (R/gag) and two-long-terminal-repeat circular forms of viral cDNAs did not change but that of the integrated (Alu-gag) form increased. In contrast, overexpression of ENO1 in viral target cells decreased viral infectivity owing to the low viral integration efficiency. Results of subcellular fractionation experiments suggest that the HIV integration at the nucleus was negatively regulated by ENO1 localized in the nucleus. In addition, the overexpression of ENO1 in both viral producer cells and target cells most markedly suppressed the viral replication. CONCLUSIONS:These results indicate that ENO1 in the viral target cells prevents HIV-1 integration. Importantly, ENO1, but not GAPDH, has the bifunctional inhibitory activity against HIV-1 replication. The results provide and new insights into the function of ENO1 as a moonlighting protein in HIV-1 infection."
+  ],
+  "affiliation": [
+    "Department of Environmental and Molecular Health Sciences, Faculty of Medical and Pharmaceutical Sciences, Kumamoto University, Kumamoto, 862-0973, Japan."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "JP15H04659"
+          ],
+          "agency": [
+            "JSPS KAKENHI"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "JP16K18922"
+          ],
+          "agency": [
+            "JSPS KAKENHI"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "JP19K16674"
+          ],
+          "agency": [
+            "JSPS KAKENHI"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Integration",
+        "Human immunodeficiency virus type 1",
+        "Reverse transcription",
+        "Alpha-enolase"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12977-020-00539-9"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7488571"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7488571?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR193690"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-12"
+  ],
+  "firstIndexDate": [
+    "2020-09-12"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-18"
+  ],
+  "dateOfRevision": [
+    "2020-09-17"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-11"
+  ],
+  "firstPublicationDate": [
+    "2020-09-11"
+  ]
+}

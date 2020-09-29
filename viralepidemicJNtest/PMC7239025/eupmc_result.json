@@ -1,0 +1,423 @@
+{
+  "id": [
+    "32419589"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32419589"
+  ],
+  "pmcid": [
+    "PMC7239025"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7239025"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1080/21505594.2020.1767356"
+  ],
+  "title": [
+    "Rab18 binds to classical swine fever virus NS5A and mediates viral replication and assembly in swine umbilical vein endothelial cells."
+  ],
+  "authorString": [
+    "Zhang L, Zhao D, Jin M, Song M, Liu S, Guo K, Zhang Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang L"
+          ],
+          "firstName": [
+            "Liang"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao D"
+          ],
+          "firstName": [
+            "Di"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jin M"
+          ],
+          "firstName": [
+            "Mingxing"
+          ],
+          "lastName": [
+            "Jin"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Song M"
+          ],
+          "firstName": [
+            "Mengzhao"
+          ],
+          "lastName": [
+            "Song"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu S"
+          ],
+          "firstName": [
+            "Shanchuan"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Guo K"
+          ],
+          "firstName": [
+            "Kangkang"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yanming"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi, China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2895107"
+      ],
+      "dateOfPublication": [
+        "2020 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Virulence"
+          ],
+          "ISOAbbreviation": [
+            "Virulence"
+          ],
+          "medlineAbbreviation": [
+            "Virulence"
+          ],
+          "NLMid": [
+            "101531386"
+          ],
+          "ISSN": [
+            "2150-5594"
+          ],
+          "ESSN": [
+            "2150-5608"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "489-501"
+  ],
+  "abstractText": [
+    "Classical swine fever virus (CSFV), a positive-sense RNA virus, hijacks cell host proteins for its own replication. Rab18, a small Rab GTPase, regulates intracellular membrane-trafficking events between various compartments in cells and is involved in the life cycle of multiple viruses. However, the effect of Rab18 on the production of CSFV remains uncertain. In this study, we showed that knockdown of Rab18 by lentiviruses inhibited CSFV production, while overexpression of Rab18 by lentiviruses enhanced CSFV production. Subsequent experiments revealed that the negative-mutant Rab18-S22 N inhibited CSFV infection, while the positive-mutant Rab18-Q67 L enhanced CSFV infection. Furthermore, we showed that CSFV RNA replication and virion assembly, measured by real-time fluorescence quantitative PCR (RT-qPCR), indirect immunofluorescence assay (IFA), and confocal microscopy, were reduced in cells lacking Rab18 expression. In addition, co-immunoprecipitation, GST-pulldown, and confocal microscopy assays revealed that Rab18 bound to the viral protein NS5A. Further, NS5A was shown to be redistributed in Rab18 knockdown cells. Taken together, these findings demonstrate Rab18 as a novel host factor required for CSFV RNA replication and particle assembly by interaction with the viral protein NS5A."
+  ],
+  "affiliation": [
+    "College of Veterinary Medicine, Northwest A&F University, Yangling, Shaanxi, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Interaction",
+        "Assembly",
+        "Classical swine fever virus",
+        "Replication",
+        "NS5A",
+        "Rab18"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/21505594.2020.1767356"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7239025"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7239025?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-05-19"
+  ],
+  "firstIndexDate": [
+    "2020-05-18"
+  ],
+  "fullTextReceivedDate": [
+    "2020-06-03"
+  ],
+  "dateOfRevision": [
+    "2020-06-02"
+  ],
+  "firstPublicationDate": [
+    "2020-12-01"
+  ]
+}

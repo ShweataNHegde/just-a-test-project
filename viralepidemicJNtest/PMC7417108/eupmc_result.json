@@ -1,0 +1,339 @@
+{
+  "id": [
+    "32779119"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32779119"
+  ],
+  "pmcid": [
+    "PMC7417108"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7417108"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1007/s40261-020-00963-x"
+  ],
+  "title": [
+    "Proton Pump Inhibitors are Risk Factors for Viral Infections: Even for COVID-19?"
+  ],
+  "authorString": [
+    "Charpiat B, Bleyzac N, Tod M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Charpiat B"
+          ],
+          "firstName": [
+            "Bruno"
+          ],
+          "lastName": [
+            "Charpiat"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7885-1727",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Service Pharmacie, Hôpital de La Croix-Rousse, Groupement Hospitalier Nord, Hospices Civils de Lyon, 103 Grande Rue de la Croix-Rousse, 69004, Lyon, France. bruno.charpiat@chu-lyon.fr."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bleyzac N"
+          ],
+          "firstName": [
+            "Nathalie"
+          ],
+          "lastName": [
+            "Bleyzac"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Service Pharmacie, Hôpital de La Croix-Rousse, Groupement Hospitalier Nord, Hospices Civils de Lyon, 103 Grande Rue de la Croix-Rousse, 69004, Lyon, France.",
+                "EMR 3738, Ciblage, Thérapeutique en Oncologie, Faculté de Médecine et de Maïeutique Lyon-Sud Charles Mérieux, Université Claude Bernard Lyon 1, Oullins Cedex, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tod M"
+          ],
+          "firstName": [
+            "Michel"
+          ],
+          "lastName": [
+            "Tod"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Service Pharmacie, Hôpital de La Croix-Rousse, Groupement Hospitalier Nord, Hospices Civils de Lyon, 103 Grande Rue de la Croix-Rousse, 69004, Lyon, France.",
+                "EMR 3738, Ciblage, Thérapeutique en Oncologie, Faculté de Médecine et de Maïeutique Lyon-Sud Charles Mérieux, Université Claude Bernard Lyon 1, Oullins Cedex, France."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7885-1727",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "40"
+      ],
+      "journalIssueId": [
+        "3016991"
+      ],
+      "dateOfPublication": [
+        "2020 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Clinical drug investigation"
+          ],
+          "ISOAbbreviation": [
+            "Clin Drug Investig"
+          ],
+          "medlineAbbreviation": [
+            "Clin Drug Investig"
+          ],
+          "NLMid": [
+            "9504817"
+          ],
+          "ISSN": [
+            "1173-2563"
+          ],
+          "ESSN": [
+            "1179-1918"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "897-899"
+  ],
+  "abstractText": [
+    "During the ongoing pandemic of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), more attention should be paid to the balance of risks and benefits associated with proton pump inhibitors for the following reasons. One of the main functions of gastric juice is to inactivate swallowed microorganisms, thereby inhibiting infectious agents from reaching the intestine. Studies have documented that proton pump inhibitors are a risk factor for rotavirus, influenza virus, norovirus, and Middle East respiratory syndrome coronavirus infections, and are associated with an increased risk of acute gastroenteritis during periods of highest circulation of enteric viruses. In light of the evidence for gastrointestinal infection implying a fecal-oral transmission of SARS-CoV-2 and given the magnitude of the SARS-CoV-2/coronavirus disease 2019 pandemic, associated with the widespread misuse of proton pump inhibitors, this suggests that we should not rule out the hypothesis that patients treated with proton pump inhibitors may be more at risk of being infected by SARS-CoV-2."
+  ],
+  "affiliation": [
+    "Service Pharmacie, Hôpital de La Croix-Rousse, Groupement Hospitalier Nord, Hospices Civils de Lyon, 103 Grande Rue de la Croix-Rousse, 69004, Lyon, France. bruno.charpiat@chu-lyon.fr."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s40261-020-00963-x"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7417108"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7417108?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-08-12"
+  ],
+  "firstIndexDate": [
+    "2020-08-12"
+  ],
+  "fullTextReceivedDate": [
+    "2020-08-13"
+  ],
+  "dateOfRevision": [
+    "2020-09-24"
+  ],
+  "firstPublicationDate": [
+    "2020-10-01"
+  ]
+}

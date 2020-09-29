@@ -1,0 +1,327 @@
+{
+  "id": [
+    "PMC7510446"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7510446"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7510446"
+      ]
+    }
+  ],
+  "title": [
+    "High-throughput viral microneutralization method for feline coronavirus using image cytometry"
+  ],
+  "authorString": [
+    "Pearson M, LaVoy A, Chan L, Dean G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pearson M"
+          ],
+          "firstName": [
+            "Morgan"
+          ],
+          "lastName": [
+            "Pearson"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "a Department of Microbiology, Immunology, and Pathology, Colorado State University, Fort Collins, CO, 80523, United States"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "LaVoy A"
+          ],
+          "firstName": [
+            "Alora"
+          ],
+          "lastName": [
+            "LaVoy"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "a Department of Microbiology, Immunology, and Pathology, Colorado State University, Fort Collins, CO, 80523, United States"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chan L"
+          ],
+          "firstName": [
+            "Leo Li-Ying"
+          ],
+          "lastName": [
+            "Chan"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "b Department of Advanced Technology R&D, Nexcelom Bioscience LLC, Lawrence, MA, 01843, United States"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dean G"
+          ],
+          "firstName": [
+            "Gregg A."
+          ],
+          "lastName": [
+            "Dean"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "a Department of Microbiology, Immunology, and Pathology, Colorado State University, Fort Collins, CO, 80523, United States"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3006917"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of virological methods"
+          ],
+          "ISOAbbreviation": [
+            "J. Virol. Methods"
+          ],
+          "medlineAbbreviation": [
+            "J Virol Methods"
+          ],
+          "NLMid": [
+            "8005839"
+          ],
+          "ISSN": [
+            "0166-0934"
+          ],
+          "ESSN": [
+            "1879-0984"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Highlights • There are no approved antiviral drugs or recommended vaccines for feline coronavirus infection• Plate-based image cytometry is used for high-throughput viral microneutralization assays• Image cytometry is faster and more sensitive than traditional plaque reduction neutralization tests• Host cell seeding density, microplate surface coating, virus concentration and incubation time, fluorescent labeling, and assay buffers were optimized for the method• Cross-neutralization between FCoV type I and II viruses was not observed Feline coronaviruses (FCoV) are members of the alphacoronavirus genus that are further characterized by serotype (types I and II) based on the antigenicity of the spike (S) protein and by pathotype based on the associated clinical conditions. Feline enteric coronaviruses (FECV) are associated with the vast majority of infections and are typically asymptomatic. Within individual animals, FECV can mutate and cause a severe and usually fatal disease called feline infectious peritonitis (FIP), the leading infectious cause of death in domestic cat populations. There are no approved antiviral drugs or recommended vaccines to treat or prevent FCoV infection. The plaque reduction neutralization test (PRNT) traditionally employed to assess immune responses and to screen therapeutic and vaccine candidates is time-consuming, low-throughput and typically requires 2 – 3 days for the formation and manual counting of cytolytic plaques. Host cells are capable of carrying heavy viral burden in the absence of visible cytolytic effects, thereby reducing the sensitivity of the assay. In addition, operator-to-operator variation can generate uncertainty in the results and digital records are not automatically created. To address these challenges we developed a novel high-throughput viral microneutralization assay, with quantification of virus-infected cells performed in a plate-based image cytometer. Host cell seeding density, microplate surface coating, virus concentration and incubation time, wash buffer and fluorescent labeling were optimized. Subsequently, this FCoV viral neutralization assay was used to explore immune correlates of protection using plasma from naturally FECV-infected cats. We demonstrate that the high-throughput viral neutralization assay using the Celigo Image Cytometer provides a robust and efficient method for the rapid screening of therapeutic antibodies, antiviral compounds and vaccines. This method can be applied to various viral infectious diseases to accelerate vaccine and antiviral drug discovery and development."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Viral titer",
+        "Image Cytometry",
+        "High-throughput Screening (Hts)",
+        "Feline Coronavirus (Fcov)",
+        "Celigo",
+        "Plaque-reduction Neutralization Tests (Prnt)"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7510446/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7510446/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7510446"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7510446?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-28"
+  ],
+  "firstIndexDate": [
+    "2020-09-28"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-28"
+  ],
+  "dateOfRevision": [
+    "2020-09-28"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-23"
+  ],
+  "firstPublicationDate": [
+    "2020-09-23"
+  ]
+}
